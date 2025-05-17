@@ -1,5 +1,185 @@
 [
   {
+    "id": 10,
+    "video": "https://youtu.be/9c5m0KzmLUM",
+    "title": "Script Skin Vale Gaara",
+    "category": "naruto",
+    "slug": "vale-gaara",
+    "date": "2025-05-17",
+    "shortStory": "A magician of Wind Fort and the only genius in the entire family who can change the form of wind magic at will. Once a close friend of Valir of Fire Throat. After the changes in the Land of Fire and Valir left his hometown, Vale has always adhered to the agreement he made with him, waiting for his return.",
+    "image": "/images/valegaara.jpg",
+    "download": [
+      {
+        "label": "Default",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/f/fb/Hero661-icon.png/revision/latest?cb=20241021145708",
+        "url": "https://sfile.mobi/8Q6w0o79fin"
+      },
+      {
+        "label": "Basic",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/9/9b/Hero662-icon.png/revision/latest?cb=20220126142226",
+        "url": "https://sfile.mobi/9yqwruVShin"
+      },
+      {
+        "label": "Dawning",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/a/ae/Hero663-icon.png/revision/latest?cb=20220118094901",
+        "url": "https://sfile.mobi/2aqslLNmNmM"
+      },
+      {
+        "label": "Elite",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/f/f9/Hero664-icon.png/revision/latest?cb=20220126142223",
+        "url": "https://sfile.mobi/6zKuKJ5KBGL"
+      },
+      {
+        "label": "Starlight",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/4/48/Hero665-icon.png/revision/latest?cb=20220126142221",
+        "url": "https://sfile.mobi/1s6rV0O9J2c"
+      },
+      {
+        "label": "Collector",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/2/23/Hero666-icon.png/revision/latest?cb=20221022084021",
+        "url": "https://sfile.mobi/3Xetl7qwyQp"
+      },
+      {
+        "label": "Epic",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/3/35/Hero667-icon.png/revision/latest?cb=20230317102456",
+        "url": "https://sfile.mobi/1s6rVbIUHWB"
+      },
+      {
+        "label": "Annual Starlight",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/1/1e/Hero668-icon.png/revision/latest?cb=20241013072533",
+        "url": "https://sfile.mobi/7psvgrvjiws"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "video": "",
+    "title": "Script Skin Hayabusa Kakashi",
+    "category": "naruto",
+    "slug": "hayabusa-kakashi",
+    "date": "2025-05-17",
+    "shortStory": "As the second heir to the Shadow Sect of the Scarlet Shadow, Hayabusa had always looked up to his brother, a figure who he saw as the moon itself. To preserve the delicate balance of power between the Shadow and Scarlet Sects, Hayabusa willingly took his brother's place to be a political pawn and hostage, to be raised within the rival Scarlet Sect. Every day spent in the Scarlet Sect, Hayabusa lived by his brother's principles. He mastered his unique Shadow Shuriken technique and forged an unbreakable bond with Hanabi, a kunoichi of the Scarlet Sect. But when Hanzo's betrayal and his brother's disappearance shattered their hopes for peace, Hayabusa realized that the moonlight that had always guided him was gone. Yet, he gripped his blade firmly, determined to forge ahead through the shadows, following his brother's nindo.",
+    "image": "/images/hayabusakakashi.jpg",
+    "download": [
+      {
+        "label": "Default",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/c/cb/Hero211-icon.png/revision/latest?cb=20241021145247",
+        "url": "https://sfile.mobi/66bAP1gljOh"
+      },
+      {
+        "label": "Basic",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/8/86/Hero212-icon.png/revision/latest?cb=20220125063635",
+        "url": "https://sfile.mobi/8Q5ClwqfMkX"
+      },
+      {
+        "label": "Elite",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/0/0e/Hero213-icon.png/revision/latest?cb=20220821082622",
+        "url": "https://sfile.mobi/4MVA56rDwIt"
+      },
+      {
+        "label": "Summer",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/9/92/Hero214-icon.png/revision/latest?cb=20220628173958",
+        "url": "https://sfile.mobi/6zJAUWDSjS6"
+      },
+      {
+        "label": "Annual Starlight",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/5/59/Hero215-icon.png/revision/latest?cb=20220118094852",
+        "url": "https://sfile.mobi/2pbyNtyLWk8"
+      },
+      {
+        "label": "Luckybox",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/2/2c/Hero216-icon.png/revision/latest?cb=20220126042048",
+        "url": "https://sfile.mobi/9cfCnIMK1qT"
+      },
+      {
+        "label": "Starlight",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/0/03/Hero217-icon.png/revision/latest?cb=20200724051025",
+        "url": "https://sfile.mobi/2SJyT36MYwc"
+      },
+      {
+        "label": "11.11",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/3/3d/Hero218-icon.png/revision/latest?cb=20220126042042",
+        "url": "https://sfile.mobi/8tVC9DI5AAh"
+      },
+      {
+        "label": "Elite (Top Up)",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/2/2b/Hero219-icon.png/revision/latest?cb=20221223124524",
+        "url": "https://sfile.mobi/4y9zNgoQ8oO"
+      },
+      {
+        "label": "Exorcist",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/e/eb/Hero102110-icon.png/revision/latest?cb=20240520070512",
+        "url": "https://sfile.mobi/2LlyRga50sp"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "video": "",
+    "title": "Script Skin Kalea Sakura",
+    "category": "naruto",
+    "slug": "kalea-sakura",
+    "date": "2025-05-17",
+    "shortStory": "The descendant of the legendary Great Serpent, Kalea once had trouble accepting her human-like body. But after discovering who she was, she learned to fight with her fists and powerful serpent tail while healing allies with the power of the Great Serpent surging inside her. Always full of energy, she is the proud protector of the Vonetis Sea. However, when faced with gratitude from others, she tends to put on a facade of arrogance to hide her shyness after all, she has to live up to her reputation as the descendant of the Great Serpent!",
+    "image": "/images/kaleasakura.jpg",
+    "download": [
+      {
+        "label": "Default",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/5/56/Hero1281-icon.png/revision/latest?cb=20250402015050",
+        "url": "https://sfile.mobi/aKhvxCWujuh"
+      },
+      {
+        "label": "Basic",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/9/92/Hero1282-icon.png/revision/latest?cb=20250402015034",
+        "url": "https://sfile.mobi/2hNqRIVdiUZ"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "video": "",
+    "title": "Script Skin Suyou Sasuke",
+    "category": "naruto",
+    "slug": "suyou-sasuke",
+    "date": "2025-05-17",
+    "shortStory": "As the last descendant of the Exorcists of Nuo, Suyou carried the power of the immortal deity within his body, using it to guide the people toward enlightenment. He walked the mortal plane, like a wandering swordsman, charming and uninhibited, but never forgetting that the of Nuo comes from the faith of the people. And so, he went about purging evil from the hearts of men and safeguarding their hopes for the future..",
+    "image": "/images/suyousasuke.jpg",
+    "download": [
+      {
+        "label": "Default",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/c/c4/Hero1261-icon.png/revision/latest?cb=20241021153421",
+        "url": "https://sfile.mobi/3B3rHYHcpWH"
+      },
+      {
+        "label": "Basic",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/7/7e/Hero1262-icon.png/revision/latest?cb=20240928232825",
+        "url": "https://sfile.mobi/8Bjut5nXDqq"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "video": "",
+    "title": "Script Skin Lukas Naruto",
+    "category": "naruto",
+    "slug": "lukas-naruto",
+    "date": "2025-05-17",
+    "shortStory": "Lukas is a recently revived from inside the Imperial Sanctuary. Endowed with a special bloodline that allows him to take human form, he was once befriended by Emperor Gaius and fought alongside him to create the glorious Moniyan Empire. After a millennium-long slumber, he was awakened by Silvanna and vowed to herald a new era for the Empire at her side. Beneath his brazen and rambunctious appearance lies a pure and earnest heart. For Lukas, fighting is not only his duty but the instinctive expression of his spirit. He firmly believes he will create something as brilliant as the dawning sun to illuminate every corner of the Moniyan Empire and rewrite the legend of the Beast of Light.",
+    "image": "/images/lukasnaruto.jpg",
+    "download": [
+      {
+        "label": "Default",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/1/1c/Hero1271-icon.png/revision/latest?cb=20250125233414",
+        "url": "https://sfile.mobi/9jEaobYPKMX"
+      },
+      {
+        "label": "Basic",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/c/ce/Hero1272-icon.png/revision/latest?cb=20250125233257",
+        "url": "https://sfile.mobi/73i98SMX4IW"
+      }
+    ]
+  },
+  {
     "id": 5,
     "video": "https://youtu.be/9c5m0KzmLUM",
     "title": "Script Skin Lylia Neobeast",
