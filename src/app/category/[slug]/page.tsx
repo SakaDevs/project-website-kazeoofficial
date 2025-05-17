@@ -8,13 +8,16 @@ const poppins = Poppins({
   weight: "400",
 });
 
-type PageProps = {
+// Use Next.js specific type for pages in App Router
+export interface PageProps {
   params: {
     slug: string;
   };
-};
+  searchParams?: Record<string, string | string[] | undefined>;
+}
 
-const Page = ({ params }: PageProps) => {
+// Define the page component correctly for Next.js App Router
+export default function Page({ params }: PageProps) {
   const { slug } = params;
 
   const filteredScripts = scripts.filter(
@@ -65,6 +68,4 @@ const Page = ({ params }: PageProps) => {
       </div>
     </div>
   );
-};
-
-export default Page;
+}

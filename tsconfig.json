@@ -27,7 +27,8 @@
     "**/*.ts",
     "**/*.tsx",
     ".next/types/**/*.ts",
-    "src/app/components/Navbar/InputSearch/index.jsx"
-, "src/app/loading.tsx"  ],
+    "src/app/components/Navbar/InputSearch/index.jsx",
+    "src/app/loading.tsx"
+  ],
   "exclude": ["node_modules"]
 }
