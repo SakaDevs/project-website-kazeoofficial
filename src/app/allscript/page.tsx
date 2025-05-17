@@ -38,11 +38,11 @@ const Cardscript = () => {
         </div>
         <ul className="grid md:grid-cols-5 grid-cols-2 gap-4">
           {currentData.map((script) => (
-            <Link href={`/script-all/${script.slug}`} className="flex">
-              <li
-                key={script.id}
-                className="bg-white rounded shadow hover:shadow-lg transition overflow-hidden"
-              >
+            <li
+              key={script.id}
+              className="bg-white rounded shadow hover:shadow-lg transition overflow-hidden"
+            >
+              <Link href={`/script-all/${script.slug}`} className="flex">
                 <div className="shadow cursor-pointer rounded">
                   <Image
                     src={script.image}
@@ -56,8 +56,8 @@ const Cardscript = () => {
                     <span className="md:text-base text-sm">{script.title}</span>
                   </div>
                 </div>
-              </li>
-            </Link>
+              </Link>
+            </li>
           ))}
         </ul>
         {/* PAGINATION ADVANCED */}

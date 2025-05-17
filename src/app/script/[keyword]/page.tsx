@@ -31,11 +31,11 @@ const SearchPage = ({ params }: SearchPageProps) => {
         </h3>
         <ul className="grid md:grid-cols-5 grid-cols-2 gap-4">
           {filteredScripts.map((script) => (
-            <Link href={`/script-all/${script.slug}`} className="flex">
-              <li
-                key={script.id}
-                className="bg-white rounded shadow hover:shadow-lg transition overflow-hidden"
-              >
+            <li
+              key={script.id}
+              className="bg-white rounded shadow hover:shadow-lg transition overflow-hidden"
+            >
+              <Link href={`/script-all/${script.slug}`} className="flex">
                 <div className="shadow cursor-pointer rounded">
                   <Image
                     src={script.image}
@@ -49,8 +49,8 @@ const SearchPage = ({ params }: SearchPageProps) => {
                     <span>{script.title}</span>
                   </div>
                 </div>
-              </li>
-            </Link>
+              </Link>
+            </li>
           ))}
         </ul>
         {filteredScripts.length === 0 && (
