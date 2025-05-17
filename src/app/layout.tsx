@@ -17,7 +17,7 @@ export const metadata: Metadata = {
   title: "Kazeo Official",
   description: "KazeoOfficial",
   icons: {
-    icon: "/images/icon.jpg",
+    icon: "/profile.ico",
   },
 };
 
