@@ -26,29 +26,31 @@ const SearchPage = ({ params }: SearchPageProps) => {
   return (
     <div className={`${poppins.className} p-6 flex flex-col gap-2`}>
       <div className="flex flex-col gap-5 outline p-4 rounded">
-        <h3 className="font-bold md:text-lg text-sm">Hasil untuk: {decodedUri}</h3>
+        <h3 className="font-bold md:text-lg text-sm">
+          Hasil untuk: {decodedUri}
+        </h3>
         <ul className="grid md:grid-cols-5 grid-cols-2 gap-4">
           {filteredScripts.map((script) => (
-            <li
-              key={script.id}
-              className="bg-white rounded shadow hover:shadow-lg transition overflow-hidden"
-            >
-              <div className="shadow cursor-pointer rounded">
-                <Image
-                  src={script.image}
-                  height={100}
-                  width={300}
-                  alt={script.title}
-                  className="round"
-                />
-                <Link href={`/script-all/${script.slug}`} className="flex">
+            <Link href={`/script-all/${script.slug}`} className="flex">
+              <li
+                key={script.id}
+                className="bg-white rounded shadow hover:shadow-lg transition overflow-hidden"
+              >
+                <div className="shadow cursor-pointer rounded">
+                  <Image
+                    src={script.image}
+                    height={100}
+                    width={300}
+                    alt={script.title}
+                    className="round"
+                  />
                   <div className="flex flex-col py-4 px-2">
                     <span className="text-xs font-thin">{script.date}</span>
                     <span>{script.title}</span>
                   </div>
-                </Link>
-              </div>
-            </li>
+                </div>
+              </li>
+            </Link>
           ))}
         </ul>
         {filteredScripts.length === 0 && (
