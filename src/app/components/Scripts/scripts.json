@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "video": "https://youtu.be/Y6hhFLK4_2s?si=mntRoraWZEzw-XQU",
+    "title": "Script Skin Fanny Aspirants",
+    "category": "aspirants",
+    "slug": "fanny-aspirants",
+    "date": "2025-05-14",
+    "shortStory": "Fanny Wertz is the youngest daughter in the Wertz family and the sister of Tigreal. While the men served in the army to protect the Moniyan Empire, women were not allowed to join. Fanny was expected to focus on painting and design, but she longed to fight like her brother and protect the empire. As she grew up, Fanny became rebellious and often disliked her lessons, but her brother Tigreal supported her passion for combat. Whenever Tigreal returned from military duty, he shared stories and taught her fighting skills, which fueled her desire to join the army.",
+    "image": "/images/fannyasp.jpg",
+    "download": [
+      {
+        "label": "Default",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/7/78/Hero171-icon.png/revision/latest?cb=20241021145223",
+        "url": "https://sfile.mobi/73jaMhYoE0S"
+      },
+      {
+        "label": "Basic",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/e/e3/Hero172-icon.png/revision/latest?cb=20221022061356",
+        "url": "https://sfile.mobi/73jaMhYoE0S"
+      },
+      {
+        "label": "oasdasdsada",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/b/ba/Hero173-icon.png/revision/latest?cb=20220125063038",
+        "url": "https://sfile.mobi/73jaMhYoE0S"
+      }
+    ]
+  }
+]
