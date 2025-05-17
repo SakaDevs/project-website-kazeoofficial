@@ -48,7 +48,7 @@ export default function Page({ params }: PageProps) {
               className="bg-white rounded shadow hover:shadow-lg transition overflow-hidden"
             >
               <Link href={`/script-all/${script.slug}`} className="flex">
-                <div className="shadow cursor-pointer rounded">
+                <div className="cursor-pointer rounded">
                   <Image
                     src={script.image}
                     height={100}
