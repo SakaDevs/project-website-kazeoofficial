@@ -11,7 +11,7 @@ const Cardscript = () => {
       <div className="flex justify-between items-center">
         <h3 className="font-bold md:text-lg text-sm">Script Terbaru</h3>
         <Link
-          className="font-bold md:text-base text-sm underline hover:text-blue-600"
+          className="font-bold md:text-base text-xs underline hover:text-blue-600"
           href="/allscript/"
         >
           Lihat Semua

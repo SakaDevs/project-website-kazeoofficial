@@ -1,7 +1,7 @@
 [
   {
     "id": 5,
-    "video": "",
+    "video": "https://youtu.be/9c5m0KzmLUM",
     "title": "Script Skin Lylia Neobeast",
     "category": "neobeast",
     "slug": "lylia-neobeast",
@@ -43,7 +43,7 @@
   },
   {
     "id": 4,
-    "video": "",
+    "video": "https://youtu.be/2yIdq-6ldoQ",
     "title": "Script Skin Fredrinn Neobeast",
     "category": "neobeast",
     "slug": "fredrinn-neobeast",
@@ -137,7 +137,7 @@
   },
   {
     "id": 2,
-    "video": "",
+    "video": "https://youtu.be/xcLHDDRvsKE",
     "title": "Script Skin Brody Neobeast",
     "category": "neobeast",
     "slug": "brody-neobeast",
