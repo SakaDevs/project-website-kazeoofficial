@@ -25,19 +25,22 @@ const Navbar = () => {
       <div className="w-full bg-white shadow relative z-50">
         <nav className="flex items-center justify-between px-6 py-4">
           {/* LEFT: Logo */}
-          <div className="flex items-center gap-2">
-            <Image
-              src="/icon.jpg"
-              alt="Logo"
-              width={40}
-              height={40}
-              className="rounded"
-            />
-            <div className="flex gap-1">
-              <h3 className="font-bold text-lg">Kazeo</h3>
-              <h3 className="font-bold text-lg text-blue-600">Official</h3>
+          <Link href="/" className="cursor-pointer">
+            <div className="flex items-center gap-2">
+              <Image
+                src="/icon.jpg"
+                alt="Logo"
+                width={40}
+                height={40}
+                className="rounded"
+              />
+
+              <div className="flex gap-1">
+                <h3 className="font-bold text-lg">Kazeo</h3>
+                <h3 className="font-bold text-lg text-blue-600">Official</h3>
+              </div>
             </div>
-          </div>
+          </Link>
 
           {/* RIGHT: Desktop Nav + Hamburger */}
           <div className="flex items-center gap-4">
