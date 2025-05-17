@@ -47,7 +47,7 @@ const Page = async ({ params }: PageProps) => {
           </div>
 
           {videoId && (
-            <div className="w-100 md:w-1/2  aspect-video">
+            <div className="w-full md:w-1/2 ">
               <VideoPlayer videoId={videoId} />
             </div>
           )}
