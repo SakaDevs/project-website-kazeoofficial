@@ -14,8 +14,8 @@ type PageProps = {
   };
 };
 
-const Page = async  ({ params }: PageProps) => {
-  const { slug } = await params;
+const Page = ({ params }: PageProps) => {
+  const { slug } = params;
 
   const filteredScripts = scripts.filter(
     (script) => script.category.toLowerCase() === slug.toLowerCase()
@@ -31,7 +31,7 @@ const Page = async  ({ params }: PageProps) => {
   }
 
   return (
-    <div className={`${poppins.className} p-6 flex flex-col gap-2 `}>
+    <div className={`${poppins.className} p-6 flex flex-col gap-2`}>
       <div className="flex flex-col gap-5 outline p-4 rounded">
         <div className="flex justify-between items-center">
           <h3 className="font-bold md:text-lg text-sm">
@@ -53,7 +53,6 @@ const Page = async  ({ params }: PageProps) => {
                   className="rounded"
                 />
                 <Link href={`/script-all/${script.slug}`} className="flex">
-                  {" "}
                   <div className="flex flex-col py-4 px-2">
                     <span className="text-xs font-thin">{script.date}</span>
                     <span className="md:text-base text-sm">{script.title}</span>
