@@ -36,16 +36,6 @@ const Page = async ({ params }: PageProps) => {
         <p className="mb-4 md:text-base text-xs">{selectedScript.shortStory}</p>
 
         <div className="flex flex-col md:flex-row gap-4 mb-6 items-center justify-center">
-          <div className="w-full md:w-1/2">
-            <Image
-              src={selectedScript.image}
-              alt={selectedScript.title}
-              width={640}
-              height={360}
-              className="w-full h-auto object-cover rounded-xl"
-            />
-          </div>
-
           {videoId && (
             <div className="w-full md:w-1/2 ">
               <VideoPlayer videoId={videoId} />
