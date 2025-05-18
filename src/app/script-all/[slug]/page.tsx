@@ -49,7 +49,7 @@ const Page = async ({ params }: PageProps) => {
         <h2 className="font-bold md:text-xl text-lg text-center">Featured</h2>
         <div className="md:text-base text-xs flex flex-row justify-around gap-10">
           <div>
-            <p>Support Voice</p>
+            <p className="md:text-left">Support Voice</p>
             <li>Indonesia</li>
             <li>English</li>
             <li>English PH</li>
@@ -61,7 +61,7 @@ const Page = async ({ params }: PageProps) => {
             <li>Turkie</li>
           </div>
           <div>
-            Kelebihan Lainnya
+            <p className="md:text-left">Kelebihan Lainnya</p>
             <li>Support untuk grafik low</li>
             <li>Head Icon</li>
             <li>Skill Icon</li>
@@ -71,7 +71,7 @@ const Page = async ({ params }: PageProps) => {
         </div>
         <div className="flex justify-center">
           <div className="items-center outline p-3 font-bold text-center w-full italic mb-2 mt-2">
-            <h3 className=" text-blue-500">
+            <h3 className=" text-blue-500 md:text-base text-xs">
               *File dari unity3d dan .bnk dari script ini sudah terisi
               WM(Watermark) dari Kazeo Official, semua file saya buat sendiri
               jadi tidak ada nama orang lain, jadi jangan{" "}
@@ -86,7 +86,8 @@ const Page = async ({ params }: PageProps) => {
             Table List Download {selectedScript.title}
           </h2>
           <h4 className="text-center text-sm mb-4">
-            Last Updated <span className="underline">{selectedScript.date}</span>
+            Last Updated{" "}
+            <span className="underline">{selectedScript.date}</span>
           </h4>
 
           {/* Full-width table */}

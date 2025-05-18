@@ -13,6 +13,8 @@ const nextConfig: NextConfig = {
       "assets.tako.id",
     ],
   },
+  env: {
+    REACT_APP_YOUTUBE_API: process.env.REACT_APP_YOUTUBE_API,
+  },
 };
-
 export default nextConfig;

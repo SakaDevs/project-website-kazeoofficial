@@ -23,6 +23,7 @@ const Navbar = () => {
   return (
     <main className={poppins.className}>
       <div className="w-full bg-white shadow relative z-50">
+        {/* NAVBAR UTAMA */}
         <nav className="flex items-center justify-between px-6 py-4">
           {/* LEFT: Logo */}
           <Link href="/" className="cursor-pointer">
@@ -34,7 +35,6 @@ const Navbar = () => {
                 height={40}
                 className="rounded"
               />
-
               <div className="flex gap-1">
                 <h3 className="font-bold text-lg">Kazeo</h3>
                 <h3 className="font-bold text-lg text-blue-600">Official</h3>
@@ -90,15 +90,22 @@ const Navbar = () => {
                 Order
               </Link>
               <Link
-                href="/sosial"
+                href="/youtube"
                 className="hover:text-blue-600 transition-all"
               >
-                Social
+                Youtube
               </Link>
               <InputSearch />
             </div>
           </div>
         </nav>
+
+        {/* ✅ Tambahan: Search bar mobile, hanya muncul saat menu tertutup */}
+        {!menuOpen && (
+          <div className="md:hidden px-6 pb-4">
+            <InputSearch />
+          </div>
+        )}
 
         {/* Mobile Menu */}
         {menuOpen && (
@@ -130,8 +137,11 @@ const Navbar = () => {
             <Link href="/order" className="hover:text-blue-600 transition-all">
               Order
             </Link>
-            <Link href="/sosial" className="hover:text-blue-600 transition-all">
-              Social
+            <Link
+              href="/youtube"
+              className="hover:text-blue-600 transition-all"
+            >
+              Youtube
             </Link>
             <InputSearch />
           </div>

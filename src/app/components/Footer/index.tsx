@@ -37,7 +37,7 @@ const Footer = () => {
               </div>
             </Link>
             <p className="text-sm text-gray-600 mb-4">
-              Tempat terbaik untuk mendapatkan kesenangan untukmu!
+              Tempat script terbaik sepanjang masa!
             </p>
             <div className="flex gap-4">
               <Link
@@ -110,6 +110,14 @@ const Footer = () => {
                   className="text-gray-600 hover:text-blue-600 transition-all"
                 >
                   Xavier Jujutsu
+                </Link>
+              </li>
+              <li>
+                <Link
+                  href="/script-all/harith-hxh"
+                  className="text-gray-600 hover:text-blue-600 transition-all"
+                >
+                  Harith HXH
                 </Link>
               </li>
             </ul>
