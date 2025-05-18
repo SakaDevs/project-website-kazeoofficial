@@ -1,5 +1,168 @@
 [
   {
+    "id": 18,
+    "video": "",
+    "title": "Script Skin Cecilion Hunter X Hunter",
+    "category": "HXH",
+    "slug": "cecilion-hxh",
+    "date": "2025-05-18",
+    "shortStory": "As a blood demon, Cecilion in love with human girl Carmilla, but cruel reality made Cecilion give up on their love. After Cecilion left, Carmilla chose to commit suicide which made Cecilion desperately sad. He used his abilities to turn Carmilla into Blood Demon. From then on, the two of them stayed away in the world together forever.",
+    "image": "/images/cecilionhxh.jpg",
+    "download": [
+      {
+        "label": "Default",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/8/85/Hero911-icon.png/revision/latest?cb=20241021153102",
+        "url": "https://sfile.mobi/4c1fldJZU4Z"
+      },
+      {
+        "label": "Basic",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/a/ac/Hero912-icon.png/revision/latest?cb=20220126142742",
+        "url": "https://sfile.mobi/b6tj9VPeAo7"
+      },
+      {
+        "label": "Elite",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/9/9a/Hero913-icon.png/revision/latest?cb=20220531093154",
+        "url": "https://sfile.mobi/4qNftJgDiM2"
+      },
+      {
+        "label": "Valentine",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/1/18/Hero914-icon.png/revision/latest?cb=20220126142801",
+        "url": ""
+      },
+      {
+        "label": "Starlight",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/1/1a/Hero915-icon.png/revision/latest?cb=20220119131818",
+        "url": "https://sfile.mobi/6VVgRxZ9nOv"
+      },
+      {
+        "label": "Collector",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/d/d1/Hero916-icon.png/revision/latest?cb=20220915135002",
+        "url": "https://sfile.mobi/b6tjaDugvu7"
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "video": "",
+    "title": "Script Skin Dyrroth Hunter X Hunter",
+    "category": "HXH",
+    "slug": "dyrroth-hxh",
+    "date": "2025-05-18",
+    "shortStory": "Twelve years ago, a prince was born in the Moniyan Empire. He was a symbol of salvation and justice for his people. It was believed that he would lead the Moniyan Empire in unifying the Land of Dawn. The Empire Nobles gave everything to the prince..",
+    "image": "/images/dyrrothhxh.jpg",
+    "download": [
+      {
+        "label": "Default",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/6/62/Hero851-icon.png/revision/latest?cb=20241021153026",
+        "url": "https://sfile.mobi/bONjwZAx3i7"
+      },
+      {
+        "label": "Basic",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/c/cf/Hero852-icon.png/revision/latest?cb=20220126142113",
+        "url": "https://sfile.mobi/66dgnpOpwcm"
+      },
+      {
+        "label": "KOF",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/8/86/Hero853-icon.png/revision/latest?cb=20220126142116",
+        "url": "https://sfile.mobi/8fbhyZZfri4"
+      },
+      {
+        "label": "Starlight",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/f/f9/Hero854-icon.png/revision/latest?cb=20220126142115",
+        "url": "https://sfile.mobi/a9niCqsXVmR"
+      },
+      {
+        "label": "VENOM",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/a/a7/Hero856-icon.png/revision/latest?cb=20220401091155",
+        "url": "https://sfile.mobi/4qNfsQGQoE4"
+      },
+      {
+        "label": "Collector",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/1/13/Hero857-icon.png/revision/latest?cb=20221217033854",
+        "url": "https://sfile.mobi/blfjhyM55Q7"
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "video": "",
+    "title": "Script Skin Julian Hunter X Hunter",
+    "category": "HXH",
+    "slug": "julian-hxh",
+    "date": "2025-05-18",
+    "shortStory": "Julian was the son of Terizla, the leader of the Free Smiths' Guild. The guild was exterminated by the Church of Light on charges of heresy when Julian was at an early age. The poor child was then adopted by the archbishop, trained and molded to be an elite member of the Ravens, a secret force that listened only to the archbishop's orders. Later, on his mission to 'purify' Xavier, he caught a glimpse of the secret buried in time",
+    "image": "/images/julianhxh.jpg",
+    "download": [
+      {
+        "label": "Default",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/c/c2/Hero1161-icon.png/revision/latest?cb=20241021153321",
+        "url": "https://sfile.mobi/2LlUwURjUst"
+      },
+      {
+        "label": "Basic",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/3/3a/Hero1162-icon.png/revision/latest?cb=20220525115601",
+        "url": "https://sfile.mobi/9FNYlCWyAwW"
+      },
+      {
+        "label": "JJK",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/d/df/Hero1163-icon.png/revision/latest?cb=20230212040135",
+        "url": "https://sfile.mobi/4jnVohI7dC9"
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "video": "",
+    "title": "Script Skin Harith Hunter X Hunter",
+    "category": "HXH",
+    "slug": "harith-hxh",
+    "date": "2025-05-18",
+    "shortStory": "rom a young age, Harith surpassed his peers in talent and wisdom. He quickly became the strongest mage among the Leonins, perhaps as strong as other in the Land of Dawn. Although, the Leonins never step foot outside of the Enchanted Forest, living a peaceful and safe life on their own. The Leonins became so complacent with their blissful existence that they no longer pursed the magic arts, a hallmark of their people. Harith became very discontent with this trend and confidently set out of the Enchanted Forest to see the outside world at the young age of 15. Harith was driven by his and passion for the magic arts, aspiring to become his people's leader in magic",
+    "image": "/images/harithhxh.jpg",
+    "download": [
+      {
+        "label": "Default",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/5/5a/Hero731-icon.png/revision/latest?cb=20241021145748",
+        "url": "https://sfile.mobi/7wPX6wsz3UX"
+      },
+      {
+        "label": "Basic",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/d/d6/Hero732-icon.png/revision/latest?cb=20220126142656",
+        "url": "https://sfile.mobi/6VTWMj8wqQS"
+      },
+      {
+        "label": "Elite",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/6/69/Hero733-icon.png/revision/latest?cb=20220126142700",
+        "url": "https://sfile.mobi/3mhUO8CtQAj"
+      },
+      {
+        "label": "515",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/d/db/Hero734-icon.png/revision/latest?cb=20220126142713",
+        "url": "https://sfile.mobi/1OfTXivXtSc"
+      },
+      {
+        "label": "Lightborn",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/1/1f/Hero735-icon.png/revision/latest?cb=20220118094842",
+        "url": "https://sfile.mobi/80nXnxvPQA0"
+      },
+      {
+        "label": "Champion",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/9/96/Hero736-icon.png/revision/latest?cb=20220126142735",
+        "url": "https://sfile.mobi/9r1YaEBjsk6"
+      },
+      {
+        "label": "Collector",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/1/1e/Hero737-icon.png/revision/latest?cb=20240604141448",
+        "url": "https://sfile.mobi/6OvWJ6RKCIo"
+      },
+      {
+        "label": "Christmast",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/5/53/Hero738-icon.png/revision/latest?cb=20240326070323",
+        "url": "https://sfile.mobi/37vUGRv9jq9"
+      }
+    ]
+  },
+  {
     "id": 14,
     "video": "",
     "title": "Script Skin Melissa Jujutsu Kaisen",
