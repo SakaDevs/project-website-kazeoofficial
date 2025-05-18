@@ -80,28 +80,28 @@
     "download": [
       {
         "label": "Default",
-        "icon": "https://sfile.mobi/b6rO4PrNiE7",
-        "url": "https://static.wikia.nocookie.net/mobile-legends/images/b/b5/Hero1131-icon.png/revision/latest?cb=20241021153303"
+        "url": "https://sfile.mobi/b6rO4PrNiE7",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/b/b5/Hero1131-icon.png/revision/latest?cb=20241021153303"
       },
       {
         "label": "Basic",
-        "icon": "https://sfile.mobi/2DXJpsaNewf",
-        "url": "https://static.wikia.nocookie.net/mobile-legends/images/9/91/Hero1132-icon.png/revision/latest?cb=20240619160922"
+        "url": "https://sfile.mobi/2DXJpsaNewf",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/9/91/Hero1132-icon.png/revision/latest?cb=20240619160922"
       },
       {
         "label": "M World",
-        "icon": "https://sfile.mobi/5vfKZvqZt6E",
-        "url": "https://static.wikia.nocookie.net/mobile-legends/images/b/bc/Yin_%28M-World_Yin%29.png/revision/latest?cb=20220401091203"
+        "url": "https://sfile.mobi/5vfKZvqZt6E",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/b/bc/Yin_%28M-World_Yin%29.png/revision/latest?cb=20220401091203"
       },
       {
         "label": "Starlight",
-        "icon": "https://sfile.mobi/4y9Kteu1G8k",
-        "url": "https://static.wikia.nocookie.net/mobile-legends/images/0/08/Hero1135-icon.png/revision/latest?cb=20230623130955"
+        "url": "https://sfile.mobi/4y9Kteu1G8k",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/0/08/Hero1135-icon.png/revision/latest?cb=20230623130955"
       },
       {
         "label": "Attack on Titan",
-        "icon": "https://sfile.mobi/7wPM7mAMDej",
-        "url": "https://static.wikia.nocookie.net/mobile-legends/images/d/d1/Hero1136-icon.png/revision/latest?cb=20240301101156"
+        "url": "https://sfile.mobi/7wPM7mAMDej",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/d/d1/Hero1136-icon.png/revision/latest?cb=20240301101156"
       }
     ]
   },
@@ -134,7 +134,7 @@
   },
   {
     "id": 10,
-    "video": "https://youtu.be/9c5m0KzmLUM",
+    "video": "",
     "title": "Script Skin Vale Gaara",
     "category": "naruto",
     "slug": "vale-gaara",

@@ -42,29 +42,31 @@ const Page = async ({ params }: PageProps) => {
             </div>
           )}
         </div>
-        <h2 className="font-bold">Featured : </h2>
-        <ul>
-          Support Voice
-          <li>- Indonesia</li>
-          <li>- English</li>
-          <li>- English PH</li>
-          <li>- Japan</li>
-          <li>- Arabic</li>
-          <li>- Espanol</li>
-          <li>- Portuguse</li>
-          <li>- Rusia</li>
-          <li>- Turkie</li>
-          Kelebihan Lainnya
-          <li>- Support untuk grafik low</li>
-          <li>- Head Icon</li>
-          <li>- Skill Icon</li>
-          <li>- Share Background</li>
-          <li>
-            - File sudah dikompres(tidak akan membuat pengalaman bermain ngelag)
-          </li>
-        </ul>
-
-        <h2 className="text-xl font-semibold mb-2">Link Download</h2>
+        <h2 className="font-bold md:text-xl text-lg">Featured : </h2>
+        <div className="md:text-base text-xs">
+          <ul>
+            Support Voice
+            <li>- Indonesia</li>
+            <li>- English</li>
+            <li>- English PH</li>
+            <li>- Japan</li>
+            <li>- Arabic</li>
+            <li>- Espanol</li>
+            <li>- Portuguse</li>
+            <li>- Rusia</li>
+            <li>- Turkie</li>
+            Kelebihan Lainnya
+            <li>- Support untuk grafik low</li>
+            <li>- Head Icon</li>
+            <li>- Skill Icon</li>
+            <li>- Share Background</li>
+            <li>
+              - File sudah dikompres(tidak akan membuat pengalaman bermain
+              ngelag)
+            </li>
+          </ul>
+        </div>
+        <h2 className="md:text-xl text-lg font-semibold mb-2">Link Download</h2>
         <div className="w-full overflow-x-auto">
           <table className="min-w-[400px] w-full border-collapse text-sm">
             <thead>
@@ -76,7 +78,7 @@ const Page = async ({ params }: PageProps) => {
                   Icon
                 </th>
                 <th className="py-2 px-3 text-center whitespace-nowrap">
-                  Download
+                  Link Download
                 </th>
               </tr>
             </thead>
@@ -98,7 +100,7 @@ const Page = async ({ params }: PageProps) => {
                       href={item.url}
                       target="_blank"
                       rel="noopener noreferrer"
-                      className="inline-flex items-center gap-1 px-2 py-1 border border-emerald-300 rounded-full text-emerald-500 hover:bg-emerald-500 hover:text-white transition whitespace-nowrap"
+                      className="inline-flex items-center gap-1 px-2 py-1 border border-blue-500 rounded-full text-blue-600 hover:bg-blue-600 hover:text-white transition whitespace-nowrap"
                     >
                       <svg
                         xmlns="http://www.w3.org/2000/svg"
