@@ -7,7 +7,6 @@ import Link from "next/link";
 import React from "react";
 import { Poppins } from "next/font/google";
 import InputSearch from "./InputSearch";
-import scripts from "@/app/components/Scripts/scripts.json";
 
 const poppins = Poppins({
   subsets: ["latin"],
@@ -16,9 +15,6 @@ const poppins = Poppins({
 
 const Navbar = () => {
   const [menuOpen, setMenuOpen] = useState(false);
-  const [dropdownOpen, setDropdownOpen] = useState(false);
-
-  const categories = Array.from(new Set(scripts.map((s) => s.category)));
 
   return (
     <main className={poppins.className}>
