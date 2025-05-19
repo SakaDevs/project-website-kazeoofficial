@@ -68,7 +68,7 @@ const Navbar = () => {
                 Order
               </Link>
               <Link
-                href=""
+                href="/community"
                 className="hover:text-blue-600 transition-all"
               >
                 Community
@@ -100,7 +100,7 @@ const Navbar = () => {
               Order
             </Link>
             <Link
-              href=""
+              href="/community"
             >
               Community
             </Link>

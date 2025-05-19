@@ -91,7 +91,7 @@ const Footer = () => {
               </li>
               <li>
                 <Link
-                  href=""
+                  href="/community"
                   className="text-gray-600 hover:text-blue-600 transition-all"
                 >
                   Community
@@ -126,6 +126,14 @@ const Footer = () => {
                   className="text-gray-600 hover:text-blue-600 transition-all"
                 >
                   Granger Exorcist
+                </Link>
+              </li>
+              <li>
+                <Link
+                  href="/script-all/fanny-aspirants"
+                  className="text-gray-600 hover:text-blue-600 transition-all"
+                >
+                  Fanny Aspirants
                 </Link>
               </li>
             </ul>

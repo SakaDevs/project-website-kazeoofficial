@@ -3,6 +3,7 @@ import scripts from "@/app/components/Scripts/scripts.json";
 import Image from "next/image";
 import { Poppins } from "next/font/google";
 import VideoPlayer from "@/app/components/VideoPlayer/page";
+import Link from "next/link";
 
 const poppins = Poppins({
   subsets: ["latin"],
@@ -74,12 +75,20 @@ const Page = async ({ params }: PageProps) => {
           </div>
         </div>
         <div className="flex justify-center">
-          <div className="items-center outline p-3 font-bold text-center w-full italic mb-2 mt-2">
+          <div className="items-center border border-blue-500 p-3 font-bold text-center w-full italic mb-2 mt-2">
             <h3 className=" text-blue-500 md:text-base text-xs">
               *File dari unity3d dan .bnk dari script ini sudah terisi
               WM(Watermark) dari Kazeo Official, semua file saya buat sendiri
               jadi tidak ada nama orang lain, jadi jangan{" "}
               <span className="text-blue-900">reupload</span> ya~
+            </h3>
+          </div>
+        </div>
+
+        <div className="flex justify-center">
+          <div className="items-center border border-red-600 p-3 font-bold text-center w-full italic mb-2 mt-2">
+            <h3 className=" text-red-500 md:text-base text-xs">
+              Jika ada kerusakan/bug seperti tidak ada suara, tidak ada efek skill dan lain lain, silahkan lapor ke admin <Link href={`https://wa.me/6282124043617?text=Halo%2C%20Min%20${selectedScript.title}%20Error tuh`} className="underline font-bold cursor-pointer text-red-900" >disini</Link>
             </h3>
           </div>
         </div>
