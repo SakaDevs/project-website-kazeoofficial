@@ -6,6 +6,7 @@ import scripts from "@/app/components/Scripts/scripts.json";
 import Link from "next/link";
 import Image from "next/image";
 import { Poppins } from "next/font/google";
+import { LessThan } from "@phosphor-icons/react/dist/ssr";
 
 const poppins = Poppins({
   subsets: ["latin"],
@@ -33,8 +34,13 @@ const Cardscript = () => {
   return (
     <div className={`${poppins.className} p-6 flex flex-col gap-2`}>
       <div className="flex flex-col gap-5 outline p-4 rounded">
-        <div className="flex justify-between items-center">
+        <div className="flex justify-between items-center text-center">
           <h3 className="font-bold md:text-lg text-sm">Semua Script</h3>
+          <Link href="/" className="flex flex-row font-bold md:text-lg text-sm underline ">
+          <LessThan size={16} />
+          <LessThan size={16} />
+          <LessThan size={16} />
+          </Link>
         </div>
         <ul className="grid md:grid-cols-5 grid-cols-2 gap-4">
           {currentData.map((script) => (

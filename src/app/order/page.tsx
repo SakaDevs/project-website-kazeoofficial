@@ -23,15 +23,15 @@ const Card: React.FC<CardProps> = ({
   details,
   link,
 }) => (
-  <div className="bg-white shadow flex flex-col">
+  <div className="bg-white shadow flex flex-col outline p-4 rounded">
     <Image
       src="/bg.jpg"
       alt=""
-      width={600}
+      width={800}
       height={100}
       className="object-cover overflow-hidden rounded"
     />
-    <div className="flex flex-col h-full p-4">
+    <div className="flex flex-col h-full p-4 shadow">
       <div>
         <h3 className="pt-2 font-bold">{title}</h3>
         <div className="mb-2">

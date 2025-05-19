@@ -91,10 +91,10 @@ const Footer = () => {
               </li>
               <li>
                 <Link
-                  href="/sosial"
+                  href=""
                   className="text-gray-600 hover:text-blue-600 transition-all"
                 >
-                  Social
+                  Community
                 </Link>
               </li>
             </ul>
@@ -118,6 +118,14 @@ const Footer = () => {
                   className="text-gray-600 hover:text-blue-600 transition-all"
                 >
                   Harith HXH
+                </Link>
+              </li>
+              <li>
+                <Link
+                  href="/script-all/granger-exorcist"
+                  className="text-gray-600 hover:text-blue-600 transition-all"
+                >
+                  Granger Exorcist
                 </Link>
               </li>
             </ul>

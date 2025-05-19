@@ -58,30 +58,12 @@ const Navbar = () => {
                 Home
               </Link>
 
-              {/* Dropdown Kategori */}
-              <div className="relative">
-                <button
-                  className="hover:text-blue-600 transition-all"
-                  onClick={() => setDropdownOpen(!dropdownOpen)}
-                >
-                  Category
-                </button>
-                {dropdownOpen && (
-                  <ul className="absolute bg-white shadow-md rounded mt-2 py-2 z-50 w-44">
-                    {categories.map((cat) => (
-                      <li key={cat}>
-                        <Link
-                          href={`/category/${cat}`}
-                          className="block px-4 py-2 hover:bg-blue-100 text-sm capitalize"
-                          onClick={() => setDropdownOpen(false)}
-                        >
-                          {cat.replace(/script-skin-/, "").replace("-", " ")}
-                        </Link>
-                      </li>
-                    ))}
-                  </ul>
-                )}
-              </div>
+              <Link
+                href="/category"
+                className="hover:text-blue-600 transition-all"
+              >
+                Category
+              </Link>
 
               <Link
                 href="/order"
@@ -90,10 +72,10 @@ const Navbar = () => {
                 Order
               </Link>
               <Link
-                href="/youtube"
+                href=""
                 className="hover:text-blue-600 transition-all"
               >
-                Youtube
+                Community
               </Link>
               <InputSearch />
             </div>
@@ -110,38 +92,21 @@ const Navbar = () => {
         {/* Mobile Menu */}
         {menuOpen && (
           <div className="md:hidden flex flex-col items-start px-6 gap-2 font-bold pb-4">
-            <Link href="/" className="hover:text-blue-600 transition-all">
+            <Link href="/">
               Home
             </Link>
 
             {/* Kategori Dropdown Mobile */}
-            <details className="w-full">
-              <summary className="cursor-pointer hover:text-blue-600">
-                Category
-              </summary>
-              <ul className="pl-4 pt-2 flex flex-col gap-1">
-                {categories.map((cat) => (
-                  <li key={cat}>
-                    <Link
-                      href={`/category/${cat}`}
-                      className="block hover:text-blue-600 capitalize"
-                      onClick={() => setMenuOpen(false)}
-                    >
-                      {cat.replace(/script-skin-/, "").replace("-", " ")}
-                    </Link>
-                  </li>
-                ))}
-              </ul>
-            </details>
+            <Link href="/category">
+            Category</Link>
 
-            <Link href="/order" className="hover:text-blue-600 transition-all">
+            <Link href="/order">
               Order
             </Link>
             <Link
-              href="/youtube"
-              className="hover:text-blue-600 transition-all"
+              href=""
             >
-              Youtube
+              Community
             </Link>
             <InputSearch />
           </div>
