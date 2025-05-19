@@ -13,8 +13,19 @@ const nextConfig: NextConfig = {
       "assets.tako.id",
     ],
   },
-  env: {
-    REACT_APP_YOUTUBE_API: process.env.REACT_APP_YOUTUBE_API,
+  theme: {
+    extend: {
+      animation: {
+        marquee: "marquee 10s linear infinite",
+      },
+      keyframes: {
+        marquee: {
+          "0%": { transform: "translateX(100%)" },
+          "100%": { transform: "translateX(-100%)" },
+        },
+      },
+    },
   },
 };
+
 export default nextConfig;

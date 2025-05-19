@@ -20,8 +20,8 @@
       <div className="flex items-center gap-2 border px-2 py-1 rounded md:w-min w-full relative">
         <input
           type="text"
-          placeholder="Cari script"
-          className="outline-none text-sm"
+          placeholder="Cari Script..."
+          className="outline-none text-sm font-thin"
           ref={searchRef}
           onKeyDown={handleSearch}
         />

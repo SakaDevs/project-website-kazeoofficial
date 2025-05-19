@@ -1,5 +1,5 @@
 import React from "react";
-import scripts from "@/app/components/Scripts/scripts.json"; // pastikan path ini benar
+import scripts from "@/app/components/Scripts/scripts.json";  
 import Image from "next/image";
 import { Poppins } from "next/font/google";
 import VideoPlayer from "@/app/components/VideoPlayer/page";
@@ -40,9 +40,13 @@ const Page = async ({ params }: PageProps) => {
         </p>
 
         <div className="flex flex-col md:flex-row gap-4 mb-6 items-center justify-center">
-          {videoId && (
-            <div className="w-full md:w-1/2 ">
+          {videoId ? (
+            <div className="w-full md:w-1/2">
               <VideoPlayer videoId={videoId} />
+            </div>
+          ) : (
+            <div className="text-center text-sm italic text-red-500 animate-marquee">
+              Video preview belum tersedia.
             </div>
           )}
         </div>

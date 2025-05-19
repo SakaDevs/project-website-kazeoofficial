@@ -1,5 +1,223 @@
 [
   {
+    "id": 22,
+    "video": "",
+    "title": "Script Skin Yu Zhong Exorcist",
+    "category": "exorcist",
+    "slug": "yuzhong-exorcist",
+    "date": "2025-05-19",
+    "shortStory": "Yu Zhong, the conqueror born from the Black Dragon's power, sought to break the seal on the Reverse Scale hidden within the Dragon Altar and forge a new future for the Cadia Riverlands. However, he was defeated by his senior brother, Baxia, and left to die in the mountains. After ten years of arduous training and travel, Yu Zhong found himself back at the Dragon Altar. He faced off against the Oriental Fighters, broke the seal to the Reverse Scale, and clashed in a final battle with the Evil God, Lieh, who caused the demise of the previous Black Dragon. Ultimately, with the help of his dear friend Wanwan, Yu Zhong regained his true self and emerged victorious. Now with the Black Dragon's Reverse Scale restored, Yu Zhong sets off on his path of conquest.",
+    "image": "/images/yzexo.jpg",
+    "download": [
+      {
+        "label": "Default",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/5/53/Hero951-icon.png/revision/latest?cb=20241021153123",
+        "url": "https://sfile.mobi/7EeQjftlzaC"
+      },
+      {
+        "label": "Basic",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/5/5e/Hero952-icon.png/revision/latest?cb=20220126142725",
+        "url": "https://sfile.mobi/44COl4XiYMR"
+      },
+      {
+        "label": "Starlight",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/4/45/Hero953-con.png/revision/latest?cb=20220126142707",
+        "url": "https://sfile.mobi/66cPsAhAbu3"
+      },
+      {
+        "label": "Collector",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/d/da/Hero954-icon.png/revision/latest?cb=20220126142711",
+        "url": "https://sfile.mobi/1kIMPDhWpeb"
+      },
+      {
+        "label": "M5",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/c/ca/Hero957-icon.png/revision/latest?cb=20240403043937",
+        "url": "https://sfile.mobi/9FORrhxTIkd"
+      },
+      {
+        "label": "Prime",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/0/04/Hero956-icon.png/revision/latest?cb=20250519024551",
+        "url": "https://sfile.mobi/3PQOdCVdtYR"
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "video": "",
+    "title": "Script Skin Kagura Exorcist",
+    "category": "exorcist",
+    "slug": "kagura-exorcist",
+    "date": "2025-05-19",
+    "shortStory": "Though the Scarlet Shadow bestowed her a name and Hayabusa taught her of peace, the young Kagura remained uncertain of her true path. When she opened her umbrella in contemplation, she beheld not gentle rain but visions of calamity, eternities of regret, and a past seen through her umbrella. At last, Kagura understood: though born from lingering attachments, her path led toward freedom. She would carry both the regrets and hopes of those who had passed to experience the beauty of the mortal realm they were never able to, and embrace the future they were robbed of yet graciously bestowed upon her.",
+    "image": "/images/kaguraexo.jpg",
+    "download": [
+      {
+        "label": "Default",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/e/ef/Hero251-icon.png/revision/latest?cb=20241021145310",
+        "url": "https://sfile.mobi/8Q7jhtSAVyj"
+      },
+      {
+        "label": "Basic",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/8/89/Hero252-icon.png/revision/latest?cb=20220126042121",
+        "url": "https://sfile.mobi/80piP6RqScH"
+      },
+      {
+        "label": "Special",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/1/12/Hero253-icon.png/revision/latest?cb=20220126042123",
+        "url": "https://sfile.mobi/2SLfZVk6Ws9"
+      },
+      {
+        "label": "Summer",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/6/66/Hero254-icon.png/revision/latest?cb=20231214042642",
+        "url": "https://sfile.mobi/4ybgVc6HZer"
+      },
+      {
+        "label": "Luckybox",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/3/37/Hero255-icon.png/revision/latest?cb=20220126042116",
+        "url": "https://sfile.mobi/7ptivfmUeWQ"
+      },
+      {
+        "label": "Starlight",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/a/a4/Hero256-icon.png/revision/latest?cb=20220126042114",
+        "url": "https://sfile.mobi/aCVkhxaMCc4"
+      },
+      {
+        "label": "Annual Starlight",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/c/c5/Hero257-icon.png/revision/latest?cb=20220126042110",
+        "url": "https://sfile.mobi/4Ulh7XoF5us"
+      },
+      {
+        "label": "BTC",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/f/fb/Hero259-icon.png/revision/latest?cb=20230805043931",
+        "url": "https://sfile.mobi/a1ZjXuLuZUw"
+      },
+      {
+        "label": "Epic",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/a/a3/Hero102510-icon.png/revision/latest?cb=20241013072631",
+        "url": "https://sfile.mobi/7ptivX1W92P"
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "video": "",
+    "title": "Script Skin Hayabusa Exorcist",
+    "category": "exorcist",
+    "slug": "hayabusa-exorcist",
+    "date": "2025-05-19",
+    "shortStory": "As the second heir to the Shadow Sect of the Scarlet Shadow, Hayabusa had always looked up to his brother, a figure who he saw as the moon itself. To preserve the delicate balance of power between the Shadow and Scarlet Sects, Hayabusa willingly took his brother's place to be a political pawn and hostage, to be raised within the rival Scarlet Sect. Every day spent in the Scarlet Sect, Hayabusa lived by his brother's principles. He mastered his unique Shadow Shuriken technique and forged an unbreakable bond with Hanabi, a kunoichi of the Scarlet Sect. But when Hanzo's betrayal and his brother's disappearance shattered their hopes for peace, Hayabusa realized that the moonlight that had always guided him was gone. Yet, he gripped his blade firmly, determined to forge ahead through the shadows, following his brother's nindo.",
+    "image": "/images/hayabusaexo.jpg",
+    "download": [
+      {
+        "label": "Default",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/c/cb/Hero211-icon.png/revision/latest?cb=20241021145247",
+        "url": "https://sfile.mobi/bONkTFV15u7"
+      },
+      {
+        "label": "Basic",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/8/86/Hero212-icon.png/revision/latest?cb=20220125063635",
+        "url": "https://sfile.mobi/1dlf2TnW5m5"
+      },
+      {
+        "label": "Elite",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/0/0e/Hero213-icon.png/revision/latest?cb=20220821082622",
+        "url": "https://sfile.mobi/5RrhCihi5qm"
+      },
+      {
+        "label": "Summer",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/9/92/Hero214-icon.png/revision/latest?cb=20220628173958",
+        "url": "https://sfile.mobi/7EfiBDUrRYi"
+      },
+      {
+        "label": "Annual Starlight",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/5/59/Hero215-icon.png/revision/latest?cb=20220118094852",
+        "url": "https://sfile.mobi/2pdfInwzck3"
+      },
+      {
+        "label": "Luckybox",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/2/2c/Hero216-icon.png/revision/latest?cb=20220126042048",
+        "url": "https://sfile.mobi/5nThmvDk9Gb"
+      },
+      {
+        "label": "Starlight",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/0/03/Hero217-icon.png/revision/latest?cb=20200724051025",
+        "url": "https://sfile.mobi/1Ohfol7hz6v"
+      },
+      {
+        "label": "11.11",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/3/3d/Hero218-icon.png/revision/latest?cb=20220126042042",
+        "url": "https://sfile.mobi/blfkELQQ487"
+      },
+      {
+        "label": "Elite (Top Up)",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/2/2b/Hero219-icon.png/revision/latest?cb=20221223124524",
+        "url": "https://sfile.mobi/8fbiWUJ2mWn"
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "video": "",
+    "title": "Script Skin Granger Exorcist",
+    "category": "exorcist",
+    "slug": "granger-exorcist",
+    "date": "2025-05-19",
+    "shortStory": "Granger, a demon hunter who walks the line between human and demon, always preferred to keep to himself. But if someone could enter his world, they would realize how terrifying it is—the incessant howls and shrill cries constantly deafening his ears and heart. When he draws his demon-devouring weapons and unleashes a hail of bullets, the agonizing howls of demons become a requiem playing in the depths of his soul. Only the intertwining of their death shrieks and the sound of gunfire can drown out the noise that torments him daily. Each shot fired by Granger is not only his performance against the Abyss, but also an expression of his lament.",
+    "image": "/images/grangerexo.jpg",
+    "download": [
+      {
+        "label": "Default",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/7/7c/Hero791-icon.png/revision/latest?cb=20241108062800",
+        "url": "https://sfile.mobi/9UBjOjmXOEP"
+      },
+      {
+        "label": "Basic",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/3/39/Hero792-icon.png/revision/latest?cb=20241201053527",
+        "url": "https://sfile.mobi/9chjq1cmu4L"
+      },
+      {
+        "label": "Elite",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/4/43/Hero793-icon.png/revision/latest?cb=20220126142649",
+        "url": "https://sfile.mobi/9UBjOFctMsa"
+      },
+      {
+        "label": "Starlight",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/3/3f/Hero794-icon.png/revision/latest?cb=20220126142719",
+        "url": "https://sfile.mobi/aZ5kpxKheon"
+      },
+      {
+        "label": "Lightborn",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/1/1d/Hero795-icon.png/revision/latest?cb=20220118094839",
+        "url": "https://sfile.mobi/3ItgoWWSlWQ"
+      },
+      {
+        "label": "Collector",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/f/fc/Hero796-icon.png/revision/latest?cb=20220126142802",
+        "url": "https://sfile.mobi/agLk1quqSAn"
+      },
+      {
+        "label": "Legend",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/0/08/Hero797-icon.png/revision/latest?cb=20220126142804",
+        "url": "https://sfile.mobi/2DZfOB9lQsP"
+      },
+      {
+        "label": "Transformers",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/3/3d/Hero798-icon.png/revision/latest?cb=20220126142813",
+        "url": "https://sfile.mobi/4ybgS1D4kwm"
+      },
+      {
+        "label": "Create",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/0/0b/Hero799-icon.png/revision/latest?cb=20220126142811",
+        "url": "https://sfile.mobi/5vhhoPkj4Wb"
+      },
+      {
+        "label": "Valentine",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/0/02/Hero107911-icon.png/revision/latest?cb=20240329062320",
+        "url": "https://sfile.mobi/2DZfP7TCMU4"
+      }
+    ]
+  },
+  {
     "id": 18,
     "video": "",
     "title": "Script Skin Cecilion Hunter X Hunter",
