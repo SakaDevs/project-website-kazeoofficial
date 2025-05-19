@@ -1,5 +1,5 @@
 import React from "react";
-import scripts from "@/app/components/Scripts/scripts.json";  
+import scripts from "@/app/components/Scripts/scripts.json";
 import Image from "next/image";
 import { Poppins } from "next/font/google";
 import VideoPlayer from "@/app/components/VideoPlayer/page";
@@ -88,7 +88,14 @@ const Page = async ({ params }: PageProps) => {
         <div className="flex justify-center">
           <div className="items-center border border-red-600 p-3 font-bold text-center w-full italic mb-2 mt-2">
             <h3 className=" text-red-500 md:text-base text-xs">
-              Jika ada kerusakan/bug seperti tidak ada suara, tidak ada efek skill dan lain lain, silahkan lapor ke admin <Link href={`https://wa.me/6282124043617?text=Halo%2C%20Min%20${selectedScript.title}%20Error tuh`} className="underline font-bold cursor-pointer text-red-900" >disini</Link>
+              Jika ada kerusakan/bug seperti tidak ada suara, tidak ada efek
+              skill dan lain lain, silahkan lapor ke admin{" "}
+              <Link
+                href={`https://wa.me/6282124043617?text=Halo%2C%20min%20${selectedScript.title.toLowerCase()}%20error tuh`}
+                className="underline font-bold cursor-pointer text-red-900"
+              >
+                disini
+              </Link>
             </h3>
           </div>
         </div>
