@@ -104,7 +104,7 @@ const Page = () => {
           />
           <div className="flex flex-row gap-1 items-center text-center">
             <Image
-              src="https://img.favpng.com/5/2/4/whatsapp-logo-icon-png-png-favpng-2afidVbQGYeKuKGEPQEa56myz.jpg"
+              src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/512px-WhatsApp.svg.png"
               alt=""
               width={30}
               height={100}

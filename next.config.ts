@@ -14,7 +14,7 @@ const nextConfig: NextConfig = {
       "upload.wikimedia.org",
       "pngimg.com",
       "static.vecteezy.com",
-      "img.favpng.com"
+      "img.favpng.com",
     ],
   },
   theme: {
