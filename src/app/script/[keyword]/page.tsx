@@ -19,9 +19,28 @@ const SearchPage = ({ params }: SearchPageProps) => {
   const { keyword } = params;
   const decodedUri = decodeURI(keyword);
 
-  const filteredScripts = scripts.filter((script) =>
-    script.title.toLowerCase().includes(keyword.toLowerCase())
-  );
+  const filteredScripts = (() => {
+    const keywords = keyword.toLowerCase().split(/\s+/);
+
+    // Coba cari hasil yang match semua keyword (prioritaskan hasil tepat)
+    const exactMatch = scripts.find((script) => {
+      const combined = `${script.title} ${script.slug}`
+        .toLowerCase()
+        .replace(/-/g, " ");
+      return keywords.every((kw) => combined.includes(kw));
+    });
+
+    if (exactMatch) {
+      return [exactMatch]; // Jika match tepat, tampilkan hanya 1
+    }
+
+    // Jika tidak ada match spesifik, tampilkan hasil partial (misal hanya 'fanny')
+    return scripts.filter((script) =>
+      `${script.title} ${script.slug}`
+        .toLowerCase()
+        .includes(keyword.toLowerCase())
+    );
+  })();
 
   return (
     <div className={`${poppins.className} p-6 flex flex-col gap-2`}>
