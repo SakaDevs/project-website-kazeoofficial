@@ -12,7 +12,7 @@ const Page = () => {
   return (
     <div className={`${poppins.className} p-6 `}>
       <div className="grid md:grid-cols-4 grid-cols-1 gap-4 p-4 outline">
-        <div className="flex flex-col shadow-2xl items-center text-center gap-4 hover:scale-105 duration-700 transition-all">
+        <div className="flex flex-col shadow md:shadow-2xl items-center text-center gap-4 hover:scale-105 duration-700 transition-all">
           <h3 className="font-bold text-lg md:text-lg">Main Channel</h3>
           <Image
             src="https://yt3.googleusercontent.com/AoXDCzZQHVcfkVgGA-KV5zQbB7w6_wxi7OrFZHKZs11X-jTXrHelMYjLF-nxwsQeyI5zxWRRqQ=s160-c-k-c0x00ffffff-no-rj"
@@ -39,7 +39,7 @@ const Page = () => {
             <h3>Subscribe Now</h3>
           </Link>
         </div>
-        <div className="flex flex-col shadow-2xl items-center text-center gap-4 hover:scale-105 duration-700 transition-all">
+        <div className="flex flex-col shadow md:shadow-2xl items-center text-center gap-4 hover:scale-105 duration-700 transition-all">
           <h3 className="font-bold text-lg md:text-lg">Second Channel</h3>
           <Image
             src="https://yt3.googleusercontent.com/o8tcypHovBQLCbOyJxJ90WJ839zRlWwqF6ZtFejTa_fAK7IYAhwK1bvHmyA29y9hJFCANejOBTQ=s160-c-k-c0x00ffffff-no-rj"
@@ -66,7 +66,7 @@ const Page = () => {
             <h3>Subscribe Now</h3>
           </Link>
         </div>
-        <div className="flex flex-col shadow-2xl items-center text-center gap-4 hover:scale-105 duration-700 transition-all">
+        <div className="flex flex-col shadow md:shadow-2xl items-center text-center gap-4 hover:scale-105 duration-700 transition-all">
           <h3 className="font-bold text-lg md:text-lg">Telegram Channel</h3>
           <Image
             src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png"
@@ -93,7 +93,7 @@ const Page = () => {
             <h3>Join Now</h3>
           </Link>
         </div>
-        <div className="flex flex-col shadow-2xl items-center text-center gap-4 hover:scale-105 duration-700 transition-all">
+        <div className="flex flex-col shadow md:shadow-2xl items-center text-center gap-4 hover:scale-105 duration-700 transition-all">
           <h3 className="font-bold text-lg md:text-lg">Whatsapp Community</h3>
           <Image
             src="https://static.vecteezy.com/system/resources/previews/016/716/480/non_2x/whatsapp-icon-free-png.png"
