@@ -173,7 +173,10 @@ const Page = async ({ params }: PageProps) => {
             </div>
             <div className="text-left">
               <h4 className="italic text-xs">
-                🗣️Pilih sesuai dengan yang dibutuhkan
+                🗣️Pilih sesuai dengan yang dibutuhkan.
+              </h4>
+              <h4 className="italic text-xs">
+                ❌Jika download malah balik kesini, berarti filenya belum ada.
               </h4>
             </div>
           </div>
