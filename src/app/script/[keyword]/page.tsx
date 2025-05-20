@@ -61,7 +61,7 @@ const SearchPage = ({ params }: SearchPageProps) => {
                   <Image
                     src={script.image}
                     height={100}
-                    width={300}
+                    width={600}
                     alt={script.title}
                     className="round"
                   />

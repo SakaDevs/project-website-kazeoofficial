@@ -56,3 +56,12 @@ body {
     background-position: 0% 100%, 100% 100%, 200% 100%;
   }
 }
+
+/* Scrollbar style */
+::-webkit-scrollbar {
+  height: 8px;
+}
+::-webkit-scrollbar-thumb {
+  background: #ccc;
+  border-radius: 8px;
+}

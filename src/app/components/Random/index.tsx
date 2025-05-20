@@ -18,7 +18,7 @@ const Randomscript = () => {
 
   useEffect(() => {
     const shuffled = [...scripts].sort(() => Math.random() - 0.5);
-    const selected = shuffled.slice(0, 8);
+    const selected = shuffled.slice(0, 10);
     setRandomScripts(selected);
   }, []);
 
@@ -27,7 +27,7 @@ const Randomscript = () => {
       <div className="flex justify-between items-center">
         <h3 className="font-bold md:text-lg text-sm">Random Script</h3>
       </div>
-      <ul className="grid md:grid-cols-4 grid-cols-2 gap-4">
+      <ul className="grid md:grid-cols-5 grid-cols-2 gap-4">
         {randomScripts.map((script) => (
           <li
             key={script.id}
@@ -41,6 +41,7 @@ const Randomscript = () => {
                   width={300}
                   alt={script.title}
                   className="rounded"
+
                 />
                 <div className="flex flex-col py-4 px-2">
                   <span className="text-xs font-thin">{script.date}</span>

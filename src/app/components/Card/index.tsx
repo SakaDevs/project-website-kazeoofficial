@@ -4,7 +4,7 @@ import Link from "next/link";
 import Image from "next/image";
 
 const Cardscript = () => {
-  const latestScript = scripts.slice(0, 8);
+  const latestScript = scripts.slice(0, 10);
 
   return (
     <div className="flex flex-col gap-5 outline p-4 rounded">
@@ -17,7 +17,7 @@ const Cardscript = () => {
           Lihat Semua
         </Link>
       </div>
-      <ul className="grid md:grid-cols-4 grid-cols-2 gap-4">
+      <ul className="grid md:grid-cols-5 grid-cols-2 gap-4">
         {latestScript.map((script) => (
           <li
             key={script.id}
