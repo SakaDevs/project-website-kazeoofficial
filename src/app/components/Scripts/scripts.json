@@ -1,5 +1,208 @@
 [
   {
+    "id": 32,
+    "video": "",
+    "title": "Script Skin Cyclops Starwars",
+    "category": "starwars",
+    "slug": "cyclops-starwars",
+    "date": "2025-05-20",
+    "shortStory": "To the far east of the Land of Dawn, lies the unexplored Land of the Giants, home to Cyclops, a one-eyed dwarf-giant, with a surprisingly tiny frame. As Cyclops grew up, he turned out to be much different from other Giants, not only was he small in proportion, but also was he unique. As such, unlike the other Giants, he couldn't really rely on brute force.",
+    "image": "/images/cyclopssw.jpg",
+    "download": [
+      {
+        "label": "Default",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/9/96/Hero331-icon.png/revision/latest?cb=20241021145355",
+        "url": "https://sfile.mobi/bsBL47xcFU7"
+      },
+      {
+        "label": "Basic",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/0/05/Hero332-icon.png/revision/latest?cb=20240310140203",
+        "url": "https://sfile.mobi/8IHJyuX56Mn"
+      },
+      {
+        "label": "Elite",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/e/e9/Hero333-icon.png/revision/latest?cb=20240310140233",
+        "url": "https://sfile.mobi/5vfHMyYIG4C"
+      },
+      {
+        "label": "SABER",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/1/17/Hero334-icon.png/revision/latest?cb=20220126041845",
+        "url": "https://sfile.mobi/bOLLgSP9Li7"
+      },
+      {
+        "label": "Starlight",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/8/8c/Hero335-icon.png/revision/latest?cb=20220126041847",
+        "url": "https://sfile.mobi/94RJLgf2dUx"
+      },
+      {
+        "label": "Season",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/8/80/Hero336-icon.png/revision/latest?cb=20220126041841",
+        "url": "https://sfile.mobi/aZ3KOGIKHY5"
+      },
+      {
+        "label": "Halloween",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/e/e9/Hero338-icon.png/revision/latest?cb=20220126041840",
+        "url": "https://sfile.mobi/8XtJHI8KqI5"
+      },
+      {
+        "label": "Collector",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/7/7b/Hero339-icon.png/revision/latest?cb=20230317102452",
+        "url": "https://sfile.mobi/4FxHl4xlwQG"
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "video": "",
+    "title": "Script Skin Argus Starwars",
+    "category": "starwars",
+    "slug": "argus-starwars",
+    "date": "2025-05-20",
+    "shortStory": "Argus and Rafaela are a pair of twin angels. Yet the angels of legend are all female, making Argus something of an outcast. While the Monastery of Light utilizes his powers to eradicate all heresy, it's never even acknowledged his existence. While Argus despises humankind, holding it in the utmost disdain, he once came into possession of a demonic blade in the midst of a battle and at that moment realized that he too was a son of man. That he was orphaned when his parents were slain by other humans. Under the demonic blade's curse he was overcome by resentment, falling into a demonic state himself as he became the Dark Angel.",
+    "image": "/images/argussw.jpg",
+    "download": [
+      {
+        "label": "Default",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/c/c7/Hero451-icon.png/revision/latest?cb=20241021145507",
+        "url": "https://sfile.mobi/8mxJy3KaGsV"
+      },
+      {
+        "label": "Basic",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/d/d2/Hero452-icon.png/revision/latest?cb=20220126141813",
+        "url": "https://sfile.mobi/1GRFRRbzoYh"
+      },
+      {
+        "label": "Starlight",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/7/78/Hero453-icon.png/revision/latest?cb=20220126141811",
+        "url": "https://sfile.mobi/6VTILtoY12U"
+      },
+      {
+        "label": "Elite",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/f/f1/Hero454-icon.png/revision/latest?cb=20220118094827",
+        "url": "https://sfile.mobi/7aFITYVBpSq"
+      },
+      {
+        "label": "Season",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/e/ec/Hero457-icon.png/revision/latest?cb=20221223124525",
+        "url": "https://sfile.mobi/9NbKlSuGdiU"
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "video": "",
+    "title": "Script Skin Alucard Starwars",
+    "category": "starwars",
+    "slug": "alucard-starwars",
+    "date": "2025-05-20",
+    "shortStory": "Alucard's father was a comrade-in-arms of Tigreal who disappeared in a battle with the Demons. Therefore, he hated darkness, joined the Monastery of Light, and swore to destory all Demons. But later he learned the hidden secrets of this battle, so he left the Monastery of Light in anger and fought the darkness in his own way.",
+    "image": "/images/alucardsw.jpg",
+    "download": [
+      {
+        "label": "Default",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/c/c7/Hero071-icon.png/revision/latest/scale-to-width-down/100?cb=20241021145111",
+        "url": "https://sfile.mobi/bdPKUcGvpC7"
+      },
+      {
+        "label": "Basic",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/e/e7/Hero072-icon.png/revision/latest?cb=20220920084827",
+        "url": "https://sfile.mobi/8tVJoA6nRux"
+      },
+      {
+        "label": "Season",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/7/73/Hero073-icon.png/revision/latest?cb=20220920084843",
+        "url": "https://sfile.mobi/7i3IJYxxEka"
+      },
+      {
+        "label": "Luckybox",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/7/7f/Hero074-icon.png/revision/latest?cb=20220920084848",
+        "url": "https://sfile.mobi/9ypJZDyWicR"
+      },
+      {
+        "label": "Starlight",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/b/bc/Hero075-icon.png/revision/latest?cb=20220920090058",
+        "url": "https://sfile.mobi/agJKohz3Aka"
+      },
+      {
+        "label": "Valentine",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/6/64/Hero076-icon.png/revision/latest?cb=20220920090103",
+        "url": "https://sfile.mobi/bOLLftv5UA7"
+      },
+      {
+        "label": "Legend",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/c/c4/Hero077-icon.png/revision/latest?cb=20220920085912",
+        "url": "https://sfile.mobi/37vGrWwYpq1"
+      },
+      {
+        "label": "Empire Agent",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/0/08/Hero078-icon.png/revision/latest?cb=20220920085915",
+        "url": "https://sfile.mobi/3B3GIqPYgwa"
+      },
+      {
+        "label": "Lightborn",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/9/91/Hero079-icon.png/revision/latest/scale-to-width-down/100?cb=20220922084844",
+        "url": "https://sfile.mobi/6OvIuIDQFaz"
+      },
+      {
+        "label": "Special",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/7/78/Hero100711-icon.png/revision/latest?cb=20241201053544",
+        "url": "https://sfile.mobi/6VTIyYpamsZ"
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "video": "",
+    "title": "Script Skin Kimmy Starwars",
+    "category": "starwars",
+    "slug": "kimmy-starwars",
+    "date": "2025-05-20",
+    "shortStory": "Born into a traditional military family in the Moniyan Empire, she received military education from an early age, so she was a little boyish. At the same time, Kimmy is not bound by tradition. She is obsessed with technology and inventions In order to prove herself to her father, Kimmy picks up her invention and joined the Imperial Expeditionary Army.",
+    "image": "/images/kimmisw.jpg",
+    "download": [
+      {
+        "label": "Default",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/1/15/Hero711-icon.png/revision/latest?cb=20250402105900",
+        "url": "https://sfile.mobi/b6t4E6YjhQ7"
+      },
+      {
+        "label": "Basic",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/0/02/Hero712-icon.png/revision/latest?cb=20250402105856",
+        "url": "https://sfile.mobi/1kIZg3hUhCP"
+      },
+      {
+        "label": "Starlight",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/6/64/Hero713-icon.png/revision/latest?cb=20220126142652",
+        "url": "https://sfile.mobi/1OgZuMrkkwS"
+      },
+      {
+        "label": "Luckybox",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/a/a9/Hero714-icon.png/revision/latest?cb=20220126142651",
+        "url": "https://sfile.mobi/51J1hAZtFeF"
+      },
+      {
+        "label": "Special",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/4/42/Hero715-icon.png/revision/latest?cb=20220126142744",
+        "url": "https://sfile.mobi/3eV0i4ryV2O"
+      },
+      {
+        "label": "Dragon Tamer",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/2/20/Hero716-icon.png/revision/latest?cb=20221022084104",
+        "url": "https://sfile.mobi/4Ul1dRYqUoQ"
+      },
+      {
+        "label": "Special M5",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/1/1e/Hero718-icon.png/revision/latest?cb=20240324140838",
+        "url": "https://sfile.mobi/1s6Zj4DV7eV"
+      },
+      {
+        "label": "Elite",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/d/d2/Hero719-icon.png/revision/latest?cb=20241201053524",
+        "url": "https://sfile.mobi/3tH0qKSXiED"
+      }
+    ]
+  },
+  {
     "id": 28,
     "video": "",
     "title": "Script Skin Change Aspirants",
@@ -223,7 +426,7 @@
       {
         "label": "Summer",
         "icon": "https://static.wikia.nocookie.net/mobile-legends/images/3/35/Hero556-icon.png/revision/latest?cb=20220527065319",
-        "url": "https://sfile.mobi/2aqKqxxhksF"
+        "url": "https://sfile.mobi/7i4Ng4U7e0E"
       },
       {
         "label": "Collector",

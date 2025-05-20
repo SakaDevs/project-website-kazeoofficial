@@ -17,10 +17,10 @@
       }
     };
     return (
-      <div className="flex items-center gap-2 border px-2 py-1 rounded md:w-min w-full relative">
+      <div className="flex items-center gap-2 border px-2 py-1 rounded md:w-50 w-full relative">
         <input
           type="text"
-          placeholder="Cari Script..."
+          placeholder="Search (ling collector)"
           className="outline-none text-sm font-thin"
           ref={searchRef}
           onKeyDown={handleSearch}
