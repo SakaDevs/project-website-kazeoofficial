@@ -22,19 +22,21 @@ const SearchPage = ({ params }: SearchPageProps) => {
   const filteredScripts = (() => {
     const keywords = keyword.toLowerCase().split(/\s+/);
 
-    // Coba cari hasil yang match semua keyword (prioritaskan hasil tepat)
-    const exactMatch = scripts.find((script) => {
-      const combined = `${script.title} ${script.slug}`
-        .toLowerCase()
-        .replace(/-/g, " ");
-      return keywords.every((kw) => combined.includes(kw));
-    });
+    // Jika keyword lebih dari 1 kata, coba cari match spesifik (1 item saja)
+    if (keywords.length > 1) {
+      const exactMatch = scripts.find((script) => {
+        const combined = `${script.title} ${script.slug}`
+          .toLowerCase()
+          .replace(/-/g, " ");
+        return keywords.every((kw) => combined.includes(kw));
+      });
 
-    if (exactMatch) {
-      return [exactMatch]; // Jika match tepat, tampilkan hanya 1
+      if (exactMatch) {
+        return [exactMatch]; // hanya tampilkan 1
+      }
     }
 
-    // Jika tidak ada match spesifik, tampilkan hasil partial (misal hanya 'fanny')
+    // Kalau cuma 1 kata atau tidak ada match penuh, tampilkan semua yang mirip
     return scripts.filter((script) =>
       `${script.title} ${script.slug}`
         .toLowerCase()
