@@ -11,6 +11,10 @@ const nextConfig: NextConfig = {
       "static.wikia.nocookie.net",
       "yt3.googleusercontent.com",
       "assets.tako.id",
+      "upload.wikimedia.org",
+      "pngimg.com",
+      "static.vecteezy.com",
+      "img.favpng.com"
     ],
   },
   theme: {

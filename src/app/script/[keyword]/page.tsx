@@ -67,7 +67,7 @@ const SearchPage = ({ params }: SearchPageProps) => {
                   />
                   <div className="flex flex-col py-4 px-2">
                     <span className="text-xs font-thin">{script.date}</span>
-                    <span>{script.title}</span>
+                    <span className="md:text-base text-sm">{script.title}</span>
                   </div>
                 </div>
               </Link>

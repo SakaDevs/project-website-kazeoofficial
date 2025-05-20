@@ -91,10 +91,10 @@ const Footer = () => {
               </li>
               <li>
                 <Link
-                  href="/community"
+                  href="/social"
                   className="text-gray-600 hover:text-blue-600 transition-all"
                 >
-                  Community
+                  Social
                 </Link>
               </li>
             </ul>
