@@ -29,6 +29,6 @@
     ".next/types/**/*.ts",
     "src/app/components/Navbar/InputSearch/index.jsx",
     "src/app/loading.tsx"
-  ],
+, "tailwind.config.js"  ],
   "exclude": ["node_modules"]
 }

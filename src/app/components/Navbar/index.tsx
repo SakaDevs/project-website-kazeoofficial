@@ -88,22 +88,13 @@ const Navbar = () => {
         {/* Mobile Menu */}
         {menuOpen && (
           <div className="md:hidden flex flex-col items-start px-6 gap-2 font-bold pb-4">
-            <Link href="/">
-              Home
-            </Link>
+            <Link href="/">Home</Link>
 
             {/* Kategori Dropdown Mobile */}
-            <Link href="/category">
-            Category</Link>
+            <Link href="/category">Category</Link>
 
-            <Link href="/order">
-              Order
-            </Link>
-            <Link
-              href="/social"
-            >
-              Social
-            </Link>
+            <Link href="/order">Order</Link>
+            <Link href="/social">Social</Link>
             <InputSearch />
           </div>
         )}

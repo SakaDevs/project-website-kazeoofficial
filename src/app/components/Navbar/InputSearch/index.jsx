@@ -20,7 +20,7 @@ const InputSearch = () => {
     <div className="flex items-center gap-2 border px-2 py-1 rounded md:w-50 w-full relative">
       <input
         type="text"
-        placeholder="Search disini"
+        placeholder="Search disini..."
         className="outline-none text-sm font-thin"
         ref={searchRef}
         onKeyDown={handleSearch}
