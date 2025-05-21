@@ -7,9 +7,9 @@ const poppins = Poppins({
 
 const RunningText = () => {
   return (
-    <div className={poppins.className}>
-      <div className="marqueeContainer">
-        <div className="marqueeText">SELAMAT DATANG</div>
+    <div className={`${poppins.className}`}>
+      <div className="bounce">
+        <p>(21/5/2025 20:36) UPDATE TERBARU SKIN 11.11</p>
       </div>
     </div>
   );
