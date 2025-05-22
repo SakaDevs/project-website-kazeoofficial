@@ -4,7 +4,7 @@ import React from "react";
 import Image from "next/image";
 import Link from "next/link";
 import { Poppins } from "next/font/google";
-import { WhatsappLogo, YoutubeLogo, TelegramLogo } from "@phosphor-icons/react";
+import { YoutubeLogo, TelegramLogo } from "@phosphor-icons/react";
 
 const poppins = Poppins({
   subsets: ["latin"],
