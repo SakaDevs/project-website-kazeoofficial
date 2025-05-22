@@ -56,21 +56,21 @@ const Page: React.FC = () => {
     <main className={`${poppins.className}`}>
       <div className="grid md:grid-cols-3 grid-cols-1 p-6 gap-4">
         <Card
-          link="https://wa.me/6282124043617?text=Halo%2C%20Min%20Mau%20Order%20Script%20Skin"
+          link="https://t.me/kazeoofficial"
           title="Order Script Skin"
           price="Cuman Rp.15000!"
           description="Apa yang kamu bisa dapat?"
           details="Kamu bisa pilih mau dibuatin script skin apapun tanpa ada audio/sfx dari hero tersebut. Sebagai contoh Pharsa Collector replace Pharsa Default, contoh lainnya Franco Luckybox replace Franco Special"
         />
         <Card
-          link="https://wa.me/6282124043617?text=Halo%2C%20Min%20Mau%20Order%20Full%20Audio"
+          link="https://t.me/kazeoofficial"
           title="Order Full Audio"
           price="Cuman Rp.10000!"
           description="Apa yang kamu bisa dapat?"
           details="Kamu dapat memilih dibuatkan audio seperti sfx/vo, sudah pastinya full support semua bahasa, dan yang terpenting sudah include dengan audio replay, dan juga audio dapat didengar oleh kita ketika musuh memakai hero tersebut atau teman kita."
         />
         <Card
-          link="https://wa.me/6282124043617?text=Halo%2C%20Min%20Mau%20Order%20Full%20Script"
+          link="https://t.me/kazeoofficial"
           title="Order Full Script"
           price="Cuman Rp.25000!"
           description="Apa yang kamu bisa dapat?"

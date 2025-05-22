@@ -91,7 +91,7 @@ const Page = async ({ params }: PageProps) => {
               Jika ada kerusakan/bug seperti tidak ada suara, tidak ada efek
               skill dan lain lain, silahkan lapor ke admin{" "}
               <Link
-                href={`https://wa.me/6282124043617?text=Halo%2C%20min%20${selectedScript.title.toLowerCase()}%20error tuh`}
+                href="https://t.me/kazeoofficial"
                 className="underline font-bold cursor-pointer text-red-900"
               >
                 disini

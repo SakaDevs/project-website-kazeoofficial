@@ -52,12 +52,6 @@ const Footer = () => {
               >
                 <TelegramLogo size={24} />
               </Link>
-              <Link
-                href="https://chat.whatsapp.com/F3jUoAUdaAU6c0fmseGarZ"
-                className="text-gray-600 hover:text-blue-600 transition-all"
-              >
-                <WhatsappLogo size={24} />
-              </Link>
             </div>
           </div>
 
