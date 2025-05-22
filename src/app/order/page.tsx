@@ -56,7 +56,7 @@ const Page: React.FC = () => {
     <main className={`${poppins.className}`}>
       <div className="grid md:grid-cols-3 grid-cols-1 p-6 gap-4">
         <Card
-          link="https://t.me/kazeoofficial"
+          link="https://t.me/KazeoOfficialBot?start=orderscript"
           title="Order Script Skin"
           price="Cuman Rp.15000!"
           description="Apa yang kamu bisa dapat?"

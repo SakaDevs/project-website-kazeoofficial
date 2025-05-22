@@ -1,5 +1,62 @@
 [
   {
+    "id": 48,
+    "video": "https://youtu.be/KVEOUKFSaMk",
+    "title": "Script Skin Silvanna Fatcat",
+    "category": "fatcat",
+    "slug": "silvanna-fatcat",
+    "date": "2025-05-22",
+    "shortStory": "The princess of the Moniyan Empire. After her younger brother disappeared, she took up the burden of the country and joined the Empire Chevaliers, becoming the best female knight of the Empire Chevaliers.",
+    "image": "/images/silvannafatcat.jpg",
+    "download": [
+      {
+        "label": "Default",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/4/40/Hero901-icon.png/revision/latest/scale-to-width-down/100?cb=20241021153056",
+        "url": "https://sfile.mobi/3XfrvJLvawA"
+      },
+      {
+        "label": "Basic",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/3/37/Hero902-icon.png/revision/latest?cb=20220126142729",
+        "url": "https://sfile.mobi/8Blu4XK6bud"
+      },
+      {
+        "label": "Elite",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/1/1b/Hero903-icon.png/revision/latest?cb=20220126142738",
+        "url": "https://sfile.mobi/3eVr7CvEOIf"
+      },
+      {
+        "label": "Collector",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/3/3c/Hero905-icon.png/revision/latest?cb=20220218031007",
+        "url": "https://sfile.mobi/6kZsQbius0e"
+      },
+      {
+        "label": "Elite (Cop)",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Hero906-icon.png/revision/latest?cb=20220126142656",
+        "url": "https://sfile.mobi/a9nuWRlar6J"
+      },
+      {
+        "label": "Starlight",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/e/e8/Hero904-icon.png/revision/latest?cb=20220126142632",
+        "url": "https://sfile.mobi/8mztY2shC8P"
+      },
+      {
+        "label": "Elite (Lancer)",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/e/e6/Hero907-icon.png/revision/latest?cb=20230623130948",
+        "url": "https://sfile.mobi/3mjrcVLwoUL"
+      },
+      {
+        "label": "Valentine",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/f/f9/Hero908-icon.png/revision/latest?cb=20240403042344",
+        "url": "https://sfile.mobi/5nTskr5NBuN"
+      },
+      {
+        "label": "Special",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/2/20/Hero909-icon.png/revision/latest?cb=20241013071646",
+        "url": "https://sfile.mobi/1OhqmgzL160"
+      }
+    ]
+  },
+  {
     "id": 47,
     "video": "",
     "title": "Script Skin XBorg 11.11",
