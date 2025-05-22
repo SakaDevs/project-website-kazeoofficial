@@ -1,5 +1,27 @@
 [
   {
+    "id": 49,
+    "video": "https://youtu.be/c407NVStJPY",
+    "title": "Script Skin Phoveus Starlight",
+    "category": "starlight",
+    "slug": "phoveus-starlight",
+    "date": "2025-05-22",
+    "shortStory": "Phoveus was framed. Having been severely punished, he was then sent to fight with the vanguard. Once battle was over, Phoveus came across a most mysterious cage; and which was sealed the spirit of Astaros, God of Terror. Bewitched by Astaros, Phoveus sacrificed his own two eyes in exchange for a great power, and now the two head ever deeper into the Dread Caves to awaken the body off that's numbers within.",
+    "image": "/images/phovestar.jpg",
+    "download": [
+      {
+        "label": "Default",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/8/88/Hero1061-icon.png/revision/latest/scale-to-width-down/100?cb=20241021153224",
+        "url": "https://sfile.mobi/2arqFbUessB"
+      },
+      {
+        "label": "Basic",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/7/74/Hero1062-icon.png/revision/latest?cb=20240811090823",
+        "url": "https://sfile.mobi/2pdqNww6So8"
+      }
+    ]
+  },
+  {
     "id": 48,
     "video": "https://youtu.be/KVEOUKFSaMk",
     "title": "Script Skin Silvanna Fatcat",
