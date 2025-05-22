@@ -1,4 +1,5 @@
 import { Poppins } from "next/font/google";
+import Link from "next/link";
 
 const poppins = Poppins({
   subsets: ["latin"],
@@ -8,8 +9,16 @@ const poppins = Poppins({
 const RunningText = () => {
   return (
     <div className={`${poppins.className}`}>
-      <div className="bounce">
-        <p>(21/5/2025 20:36) UPDATE TERBARU SKIN 11.11</p>
+      <div className="flex justify-center font-bold items center text-center">
+        <p className="md:text-base text-sm">
+          SUBSCRIBE KE CH ADMIN YANG BARU ={">"}{" "}
+          <Link
+            className="underline"
+            href="https://www.youtube.com/channel/UCInWujvjdt8MDmtOxy_As1Q"
+          >
+            Kazeo Official
+          </Link>
+        </p>
       </div>
     </div>
   );

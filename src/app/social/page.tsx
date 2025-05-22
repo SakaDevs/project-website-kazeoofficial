@@ -33,13 +33,13 @@ const Page = () => {
           </div>
 
           <Link
-            href="https://www.youtube.com/@kazeoofficialrealinimah"
+            href="https://www.youtube.com/channel/UCInWujvjdt8MDmtOxy_As1Q/"
             className="mb-4 border px-4 py-2 border-blue-500 rounded hover:text-white hover:bg-blue-500 transition-all"
           >
             <h3>Subscribe Now</h3>
           </Link>
         </div>
-        <div className="flex flex-col shadow md:shadow-2xl items-center text-center gap-4 hover:scale-105 duration-700 transition-all">
+        {/* <div className="flex flex-col shadow md:shadow-2xl items-center text-center gap-4 hover:scale-105 duration-700 transition-all">
           <h3 className="font-bold text-lg md:text-lg">Second Channel</h3>
           <Image
             src="https://yt3.googleusercontent.com/o8tcypHovBQLCbOyJxJ90WJ839zRlWwqF6ZtFejTa_fAK7IYAhwK1bvHmyA29y9hJFCANejOBTQ=s160-c-k-c0x00ffffff-no-rj"
@@ -65,7 +65,7 @@ const Page = () => {
           >
             <h3>Subscribe Now</h3>
           </Link>
-        </div>
+        </div> */}
         <div className="flex flex-col shadow md:shadow-2xl items-center text-center gap-4 hover:scale-105 duration-700 transition-all">
           <h3 className="font-bold text-lg md:text-lg">Telegram Channel</h3>
           <Image
