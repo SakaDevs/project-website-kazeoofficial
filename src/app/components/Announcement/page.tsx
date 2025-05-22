@@ -9,7 +9,7 @@ const poppins = Poppins({
 const RunningText = () => {
   return (
     <div className={`${poppins.className}`}>
-      <div className="flex justify-center font-bold items center text-center">
+      <div className="flex justify-center font-bold items center text-center py-2">
         <p className="md:text-base text-sm">
           SUBSCRIBE KE CH ADMIN YANG BARU ={">"}{" "}
           <Link
