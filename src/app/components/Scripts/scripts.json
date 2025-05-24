@@ -1,5 +1,809 @@
 [
   {
+    "id": 63,
+    "video": "",
+    "title": "Script Skin Alpha Legend",
+    "category": "legend",
+    "slug": "alpha-legend",
+    "date": "2025-05-24",
+    "shortStory": "A pure cyborg made by Laboratory 1718. Tasked with hunting down and slaying Saber by its creator, Alpha's burning hatred for Saber makes him a candidate for the role.",
+    "image": "/images/alphaleg.jpg",
+    "download": [
+      {
+        "label": "Default",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/3/38/Hero281-icon.png/revision/latest/scale-to-width-down/100?cb=20250406000959",
+        "url": "https://sfile.mobi/37xvizlcbmx"
+      },{
+        "label": "Basic",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/7/76/Hero283-icon.png/revision/latest?cb=20220126042038",
+        "url": "https://sfile.mobi/bdRzM3U23e7"
+      },{
+        "label": "Luckybox",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/9/9f/Hero282-icon.png/revision/latest?cb=20221022085443",
+        "url": "https://sfile.mobi/9jFyIZfPxYI"
+      },{
+        "label": "Season",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/2/2d/Hero284-icon.png/revision/latest?cb=20220126042036",
+        "url": "https://sfile.mobi/6VVxpBdo88d"
+      },{
+        "label": "Special",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/d/d0/Hero285-icon.png/revision/latest?cb=20220126042032",
+        "url": "https://sfile.mobi/9yryRuMsVOA"
+      },{
+        "label": "Abyss",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/3/3d/Hero286-icon.png/revision/latest?cb=20220126042034",
+        "url": "https://sfile.mobi/4c1vU9y1yEJ"
+      },{
+        "label": "Starlight",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/8/8a/Hero287-icon.png/revision/latest?cb=20230805043935",
+        "url": "https://sfile.mobi/bA1zZb1v7a7"
+      },{
+        "label": "Collector",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/8/87/Hero288-icon.png/revision/latest?cb=20240503043657",
+        "url": "https://sfile.mobi/7aHxyszxuMu"
+      }
+    ]
+  },
+  {
+    "id": 62,
+    "video": "",
+    "title": "Script Skin Johnson Legend",
+    "category": "legend",
+    "slug": "johnson-legend",
+    "date": "2025-05-24",
+    "shortStory": "Johnson was originally from a planet called Varis, where he worked as a delivery driver. On his world, auto racing was the most illustrious sport, but the major races were almost entirely monopolized by the rich and elite. One day, while on a routine delivery, Johnson became mixed up in a race and even managed to win first place March, to the dismay of the wealthy patrons. To punish this upstart, they plotted for him to have an accident. While driving home a speeding truck sidelined Johnson's car, mangling his body with the twisted steel of the wreck. Miraculously, he survived, and chose to be integrated with his car to create a cyborg body. After a successful operation, he had a roaring engine as his new heart, and began racing to satiate his need for speed. As Johnson raced to his heart's content, he kept going faster and faster until he triggered the slip-space device secretly built into his chassis and crossed into the Land of Dawn.",
+    "image": "/images/johnsonleg.jpg",
+    "download": [
+      {
+        "label": "Default",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/7/73/Hero321-icon.png/revision/latest/scale-to-width-down/100?cb=20241021145350",
+        "url": "https://sfile.mobi/blfzOnB0XK7"
+      },{
+        "label": "Basic",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/e/e7/Hero322-icon.png/revision/latest?cb=20220126041855",
+        "url": "https://sfile.mobi/5vhwAIYkIoo"
+      },{
+        "label": "SABER",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/8/8f/Automata_Icon.png/revision/latest?cb=20220126041849",
+        "url": "https://sfile.mobi/3eVvlpMs2kq"
+      },{
+        "label": "Elite",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/9/99/Hero324-icon.png/revision/latest?cb=20221022081323",
+        "url": "https://sfile.mobi/8Blyj6QpnUH"
+      },{
+        "label": "Luckybox",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/0/0d/Hero325-icon.png/revision/latest?cb=20241201053024",
+        "url": "https://sfile.mobi/3ItvC50cScl"
+      },{
+        "label": "Special",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/0/0f/Hero326-icon.png/revision/latest?cb=20220126041843",
+        "url": "https://sfile.mobi/8Q7yrCn2LKq"
+      },{
+        "label": "Transformers",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/8/8d/Hero327-icon.png/revision/latest?cb=20220126041836",
+        "url": "https://sfile.mobi/blfzPr5yQo7"
+      },{
+        "label": "Anniversary",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/0/0a/Hero328-icon.png/revision/latest?cb=20240310133500",
+        "url": "https://sfile.mobi/6zLxcu5V4s9"
+      }
+    ]
+  },
+  {
+    "id": 61,
+    "video": "",
+    "title": "Script Skin Freya Legend",
+    "category": "legend",
+    "slug": "freya-legend",
+    "date": "2025-05-24",
+    "shortStory": "Freya's sister Skuld was an excellent Valkyrie, but because of an accident caused by Freya, Skuld plunged into the Twilight Orb and disappeared with it. Freya has since taken over as a Valkyrie and assumed the responsibility of protecting the Northern Vale.",
+    "image": "/images/freyaleg.jpg",
+    "download": [
+      {
+        "label": "Default",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/4/4e/Hero221-icon.png/revision/latest/scale-to-width-down/100?cb=20241021145253",
+        "url": "https://sfile.mobi/4MWSc9YnoAC"
+      },
+      {
+        "label": "Basic",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/a/a5/Hero222-icon.png/revision/latest?cb=20220125063633",
+        "url": "https://sfile.mobi/aCUVpOB3EW2"
+      },
+      {
+        "label": "Starlight",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/0/03/Hero223-icon.png/revision/latest?cb=20220125063632",
+        "url": "https://sfile.mobi/6zKTbvBxa8s"
+      },
+      {
+        "label": "Summer",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/d/dd/Hero224-icon.png/revision/latest?cb=20220126042153",
+        "url": "https://sfile.mobi/5RqSNdqVPyf"
+      },
+      {
+        "label": "Luckybox",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/8/87/Hero225-icon.png/revision/latest?cb=20241013071549",
+        "url": "https://sfile.mobi/232QHf3hLqB"
+      },
+      {
+        "label": "Elite",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/b/bc/Hero226-icon.png/revision/latest?cb=20220126042058",
+        "url": "https://sfile.mobi/1dkQeS27IiW"
+      },
+      {
+        "label": "Christmast",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/9/9d/Hero227-icon.png/revision/latest?cb=20220126042050",
+        "url": "https://sfile.mobi/66cSWfHQaIV"
+      },
+      {
+        "label": "Epic",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/9/92/Hero228-icon.png/revision/latest?cb=20200724051112",
+        "url": "https://sfile.mobi/1dkQfdRDFUw"
+      },
+      {
+        "label": "SABER",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/2/2b/Manhunter_Icon.png/revision/latest?cb=20220126042040",
+        "url": "https://sfile.mobi/5guSu3Br6gZ"
+      }
+    ]
+  },
+  {
+    "id": 60,
+    "video": "",
+    "title": "Script Skin Lunox Legend",
+    "category": "legend",
+    "slug": "lunox-legend",
+    "date": "2025-05-24",
+    "shortStory": "Lunox was born with magical powers, and her dreamworld reflects and changes the real world. With this power, she uses her dreamworld to temporarily maintain the balance of energy between order and chaos. But as the power of order and the power of chaos rushed into her dreams, Lunox fell into a long sleep and turned into one of the Twilight Orbs.",
+    "image": "/images/lunoxleg.jpg",
+    "download": [
+      {
+        "label": "Default",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/f/f6/Hero681-icon.png/revision/latest/scale-to-width-down/100?cb=20241021145719",
+        "url": "https://sfile.mobi/66cSXjco3Cp"
+      },
+      {
+        "label": "Basic",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/0/02/Hero682-icon.png/revision/latest?cb=20220126142158",
+        "url": "https://sfile.mobi/5K2SKTJWV2Y"
+      },
+      {
+        "label": "Elite",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/4/4d/Hero683-icon.png/revision/latest?cb=20220126142156",
+        "url": "https://sfile.mobi/1GSQwAKqrin"
+      },
+      {
+        "label": "Starlight",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/f/f5/Hero684-icon.png/revision/latest?cb=20220126142154",
+        "url": "https://sfile.mobi/7aGTymEWukn"
+      },
+      {
+        "label": "Zodiac",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/8/81/Hero685-icon.png/revision/latest?cb=20240323060455",
+        "url": "https://sfile.mobi/3XeRMqGA3SF"
+      },
+      {
+        "label": "Luckybox",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/1/11/Hero687-icon.png/revision/latest?cb=20220126142713",
+        "url": "https://sfile.mobi/7EeTP1SHksA"
+      },
+      {
+        "label": "Epic",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/1/11/Hero687-icon.png/revision/latest?cb=20220126142713",
+        "url": "https://sfile.mobi/7wQTL7WTAIE"
+      },
+      {
+        "label": "Epic (Dawn)",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/b/b6/Hero688-icon.png/revision/latest?cb=20220126142705",
+        "url": "https://sfile.mobi/4joRZbYxa03"
+      },
+      {
+        "label": "Elite (Top Up)",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/2/24/Hero106810-icon.png/revision/latest?cb=20240619163035",
+        "url": "https://sfile.mobi/1OgQBJ5x2IS"
+      }
+    ]
+  },
+  {
+    "id": 59,
+    "video": "",
+    "title": "Script Skin Franco Legend",
+    "category": "legend",
+    "slug": "franco-legend",
+    "date": "2025-05-24",
+    "shortStory": "Franco is the only warrior on the Frozen Ocean who can lead people in the fighter against Bane. In one battle, Franco saw through Bane's tricks and finally defeated him. Life was brought back to the Northern Vale under his leadership.",
+    "image": "/images/francoleg.jpg",
+    "download": [
+      {
+        "label": "Default",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/2/25/Hero101-icon.png/revision/latest/scale-to-width-down/100?cb=20241021145139",
+        "url": "https://sfile.mobi/5gvwq6sBxCH"
+      },
+      {
+        "label": "Special",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/a/ac/Hero102-icon.png/revision/latest?cb=20220125055626",
+        "url": "https://sfile.mobi/73jxps5Ljiw"
+      },
+      {
+        "label": "Starlight",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/8/82/Hero103-icon.png/revision/latest?cb=20220125055624",
+        "url": "https://sfile.mobi/7EfxK1fjTUd"
+      },
+      {
+        "label": "Season",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/4/45/Hero104-icon.png/revision/latest?cb=20220125063120",
+        "url": "https://sfile.mobi/8mzy8FfrbiN"
+      },
+      {
+        "label": "Halloween",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/b/b7/Hero105-icon.png/revision/latest?cb=20220611042823",
+        "url": "https://sfile.mobi/2aruIM54M4w"
+      },
+      {
+        "label": "Luckybox",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/d/d4/Hero106-icon.png/revision/latest?cb=20220125063122",
+        "url": "https://sfile.mobi/3eVvjECSe4Y"
+      },
+      {
+        "label": "TOP UP",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/f/ff/Hero108-icon.png/revision/latest?cb=20220125063114",
+        "url": "https://sfile.mobi/ao9zgHjZkca"
+      },
+      {
+        "label": "MPL",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/9/9f/Hero101010-icon.png/revision/latest?cb=20240903050724",
+        "url": "https://sfile.mobi/3PRvEzBWLu4"
+      },
+      {
+        "label": "Blazing",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/1/1a/Hero107-icon.png/revision/latest?cb=20241201053007",
+        "url": "https://sfile.mobi/7i5xzmWsyAr"
+      }
+    ]
+  },
+  {
+    "id": 58,
+    "video": "",
+    "title": "Script Skin Guinevere Legend",
+    "category": "legend",
+    "slug": "guinevere-legend",
+    "date": "2025-05-24",
+    "shortStory": "As the youngest daughter of one of the few noble households in the Land of Dawn, House Baroque, she studied at the Magic Academy since she was a child, and is extremely talented in magic. The household wanted her to marry into another household with a higher status. Unwilling to be used as a political bargaining chip, Guinevere decided to seek help from her elder brother Lancelot.",
+    "image": "/images/guinevereleg.jpg",
+    "download": [
+      {
+        "label": "Default",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/f/f1/Hero801-icon.png/revision/latest/scale-to-width-down/100?cb=20241021152957",
+        "url": "https://sfile.mobi/1Ohuu4IMSQr"
+      },
+      {
+        "label": "Basic",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/f/f1/Hero801-icon.png/revision/latest/scale-to-width-down/100?cb=20241021152957",
+        "url": "https://sfile.mobi/80pxUjIFfGU"
+      },
+      {
+        "label": "KOF",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/c/c4/Hero803-icon.png/revision/latest?cb=20220125050144",
+        "url": "https://sfile.mobi/3eVvhmJ1tm8"
+      },
+      {
+        "label": "Starlight",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/c/c4/Hero803-icon.png/revision/latest?cb=20220125050144",
+        "url": "https://sfile.mobi/6H9xbOe1j2S"
+      },
+      {
+        "label": "Special (Amethyst)",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/7/72/Hero805-icon.png/revision/latest?cb=20220125050147",
+        "url": "https://sfile.mobi/bHpzXgKity7"
+      },
+      {
+        "label": "Luckybox",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/d/d6/Hero806-icon.png/revision/latest?cb=20220125050149",
+        "url": "https://sfile.mobi/4MXw95pkK4W"
+      },
+      {
+        "label": "Special (Sakura)",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/f/f1/Hero807-icon.png/revision/latest?cb=20220125050150",
+        "url": "https://sfile.mobi/4MXw95pkK4W"
+      },
+      {
+        "label": "Summer",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/7/7b/Hero808-icon.png/revision/latest?cb=20220125050201",
+        "url": "https://sfile.mobi/3ItvyyH3fO4"
+      },
+      {
+        "label": "Elite (Top Up)",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/6/62/Hero108010-icon.png/revision/latest?cb=20240302143205",
+        "url": "https://sfile.mobi/7T1xREcanCS"
+      }
+    ]
+  },
+  {
+    "id": 57,
+    "video": "",
+    "title": "Script Skin Valir Legend",
+    "category": "legend",
+    "slug": "valir-legend",
+    "date": "2025-05-24",
+    "shortStory": "In his hometown of Agelta, he showed an amazing talent for arcane energy manipulation when he first arrived at the Magic Academy, so he was valued by his mentor Gord. But Gord got very angry when he discovered that he had incorporated the spells of his hometown into the arcane, thinking that he had defiled the arcane. After a battle between the master and the disciple, Valir left the Magic Academy.",
+    "image": "/images/valirleg.jpg",
+    "download": [
+      {
+        "label": "Default",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/6/60/Hero571-icon.png/revision/latest/scale-to-width-down/100?cb=20241021145616",
+        "url": "https://sfile.mobi/5nSVfdd720W"
+      },
+      {
+        "label": "Basic",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/d/dc/Hero572-icon.png/revision/latest?cb=20220126141932",
+        "url": "https://sfile.mobi/2wATFvMqLaP"
+      },
+      {
+        "label": "Special",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/3/30/Hero573-icon.png/revision/latest?cb=20220126141934",
+        "url": "https://sfile.mobi/5vgVjONWH6u"
+      },
+      {
+        "label": "Starlight",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/9/93/Hero574-icon.png/revision/latest?cb=20220126141930",
+        "url": "https://sfile.mobi/1s6T5kTFesh"
+      },
+      {
+        "label": "Dragon Tamer",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/1/16/Hero575-icon.png/revision/latest?cb=20220126141928",
+        "url": "https://sfile.mobi/bdQYtVklag7"
+      },
+      {
+        "label": "Collector",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/a/a9/Hero576-icon.png/revision/latest?cb=20220126141926",
+        "url": "https://sfile.mobi/5vgVklydDGz"
+      },
+      {
+        "label": "Phoenix Ikki",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/3/3e/Hero578-icon.png/revision/latest?cb=20220915134951",
+        "url": "https://sfile.mobi/2wATGKbJCQF"
+      },
+      {
+        "label": "Leo Ikki",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/6/6a/Hero579-icon.png/revision/latest?cb=20220915134953",
+        "url": "https://sfile.mobi/8Q6Xb42aIgV"
+      },
+      {
+        "label": "Elite (Top Up)",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/2/2a/Hero105710-icon.png/revision/latest?cb=20250106160148",
+        "url": "https://sfile.mobi/6kYVNB9aBUL"
+      },
+      {
+        "label": "KOF",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/1/10/Hero105711-icon.png/revision/latest?cb=20250106160232",
+        "url": "https://sfile.mobi/5nSVh9hrP2H"
+      }
+    ]
+  },
+  {
+    "id": 56,
+    "video": "",
+    "title": "Script Skin Granger Legend",
+    "category": "legend",
+    "slug": "granger-legend",
+    "date": "2025-05-24",
+    "shortStory": "Granger, a demon hunter who walks the line between human and demon, always preferred to keep to himself. But if someone could enter his world, they would realize how terrifying it is—the incessant howls and shrill cries constantly deafening his ears and heart. When he draws his demon-devouring weapons and unleashes a hail of bullets, the agonizing howls of demons become a requiem playing in the depths of his soul. Only the intertwining of their death shrieks and the sound of gunfire can drown out the noise that torments him daily. Each shot fired by Granger is not only his performance against the Abyss, but also an expression of his lament.",
+    "image": "/images/grangerleg.jpg",
+    "download": [
+      {
+        "label": "Default",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/7/7c/Hero791-icon.png/revision/latest?cb=20241108062800",
+        "url": "https://sfile.mobi/6H9x9auEAoF"
+      },
+      {
+        "label": "Basic",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/3/39/Hero792-icon.png/revision/latest?cb=20241201053527",
+        "url": "https://sfile.mobi/7wRxBTlkBiO"
+      },
+      {
+        "label": "Elite",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/4/43/Hero793-icon.png/revision/latest?cb=20220126142649",
+        "url": "https://sfile.mobi/87NxWsuTbUx"
+      },
+      {
+        "label": "Starlight",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/3/3f/Hero794-icon.png/revision/latest?cb=20220126142719",
+        "url": "https://sfile.mobi/73jxlVMBGMM"
+      },
+      {
+        "label": "Lightborn",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/1/1d/Hero795-icon.png/revision/latest?cb=20220118094839",
+        "url": "https://sfile.mobi/7ptxylf2P6j"
+      },
+      {
+        "label": "Collector",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/f/fc/Hero796-icon.png/revision/latest?cb=20220126142802",
+        "url": "https://sfile.mobi/2aruFfLV9Cy"
+      },
+      {
+        "label": "Transformers",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/3/3d/Hero798-icon.png/revision/latest?cb=20220126142813",
+        "url": "https://sfile.mobi/ao9zctlNMkf"
+      },
+      {
+        "label": "Create",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/0/0b/Hero799-icon.png/revision/latest?cb=20220126142811",
+        "url": "https://sfile.mobi/bdRzFn7eMg7"
+      },
+      {
+        "label": "Exorcist",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/4/41/Hero107910-icon.png/revision/latest?cb=20240520065855",
+        "url": "https://sfile.mobi/2pduNWdjxeR"
+      },
+      {
+        "label": "Valentine",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/0/02/Hero107911-icon.png/revision/latest?cb=20240329062320",
+        "url": "https://sfile.mobi/7aHxqTcXjqJ"
+      }
+    ]
+  },
+  {
+    "id": 55,
+    "video": "",
+    "title": "Script Skin Gusion Legend",
+    "category": "legend",
+    "slug": "gusion-legend",
+    "date": "2025-05-24",
+    "shortStory": "Although he was born into the most powerful magic family on the continent, Gusion is not interested in magic. He is keen to draw inspiration from the holy light to develop new fighting skills. In the end, Gusion left the family.",
+    "image": "/images/gusionleg.jpg",
+    "download": [
+      {
+        "label": "Default",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/9/94/Hero561-icon.png/revision/latest/scale-to-width-down/100?cb=20241021145610",
+        "url": "https://sfile.mobi/51IV8r2Vi01"
+      },
+      {
+        "label": "Basic",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/a/a7/Hero562-icon.png/revision/latest?cb=20220908164644",
+        "url": "https://sfile.mobi/b6sYh2HToI7"
+      },
+      {
+        "label": "Elite",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/9/94/Hero563-icon.png/revision/latest?cb=20220126141922",
+        "url": "https://sfile.mobi/3miU08wfDOj"
+      },
+      {
+        "label": "OLD Starlight",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/6/64/Hero564-icon.png/revision/latest?cb=20220126141919",
+        "url": "https://sfile.mobi/1dkSOUaVGmU"
+      },
+      {
+        "label": "Valentine",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/d/df/Hero565-icon.png/revision/latest?cb=20220915134950",
+        "url": "https://sfile.mobi/2pcTtRzhQYJ"
+      },
+      {
+        "label": "VENOM",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/0/0d/Emperor_Scorpion_Icon.png/revision/latest?cb=20220118094837",
+        "url": "https://sfile.mobi/2pcTu2u2POv"
+      },
+      {
+        "label": "KOF",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/1/13/Hero567-icon.png/revision/latest?cb=20220906142254",
+        "url": "https://sfile.mobi/a9mXLivcyW0"
+      },
+      {
+        "label": "Collector",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/b/b3/Hero569-icon.png/revision/latest?cb=20220126141915",
+        "url": "https://sfile.mobi/5nSV8Hl4JiL"
+      },
+      {
+        "label": "Epic",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/b/bf/Hero105610-icon.png/revision/latest?cb=20220906142257",
+        "url": "https://sfile.mobi/8tWWQny7sIi"
+      },
+      {
+        "label": "11.11",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/9/90/Hero105611-icon.png/revision/latest?cb=20221103135334",
+        "url": "https://sfile.mobi/3PQUhvp2p27"
+      },
+      {
+        "label": "NEW Starlight",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/b/b1/Hero105612-icon.png/revision/latest?cb=20240709031301",
+        "url": "https://sfile.mobi/bleYqMDPFY7"
+      }
+    ]
+  },
+  {
+    "id": 54,
+    "video": "",
+    "title": "Script Skin Lesley Legend",
+    "category": "legend",
+    "slug": "lesley-legend",
+    "date": "2025-05-24",
+    "shortStory": "Lesley grew up in the Vance household, where her father presided over the noble family's security. During an unexpected attack by a rival family, Lesley's father was killed. As the assailants approached the Vance household, Lesley took up her father's black long rifle and fulfilled her late father's mission. Tears rolled down Lesley's cheeks as she fired shot after shot, surprisingly, each one taking down an assassin. The final tear came as the final shot took down the last of the rival family's men.",
+    "image": "/images/lesleyleg.jpg",
+    "download": [
+      {
+        "label": "Default",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/8/82/Hero531-icon.png/revision/latest?cb=20241021145551",
+        "url": "https://sfile.mobi/6H8VS5pvAkd"
+      },
+      {
+        "label": "Basic",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/4/4d/Hero532-icon.png/revision/latest?cb=20220824141628",
+        "url": "https://sfile.mobi/a9mXMwUvpCB"
+      },
+      {
+        "label": "Elite",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/b/be/Hero533-icon.png/revision/latest?cb=20220126141701",
+        "url": "https://sfile.mobi/8tWWRBXqko4"
+      },
+      {
+        "label": "Special",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/9/97/Hero534-icon.png/revision/latest?cb=20220126141659",
+        "url": "https://sfile.mobi/80oWBttWr6i"
+      },
+      {
+        "label": "Luckybox",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/b/b4/Hero535-icon.png/revision/latest?cb=20230805043943",
+        "url": "https://sfile.mobi/4c0Uv9gMpqq"
+      },
+      {
+        "label": "Valentine",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/7/72/Hero536-icon.png/revision/latest?cb=20220915134949",
+        "url": "https://sfile.mobi/232TjUVsrW6"
+      },
+      {
+        "label": "Starlight",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/9/9e/Hero538-icon.png/revision/latest?cb=20220126141629",
+        "url": "https://sfile.mobi/4joUzzWR5CA"
+      },
+      {
+        "label": "Collector",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/b/b4/Hero539-icon.png/revision/latest?cb=20220126141704",
+        "url": "https://sfile.mobi/9UAXFqHVRu2"
+      },
+      {
+        "label": "Annual Starlight",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/a/a9/Hero105310-icon.png/revision/latest?cb=20221103135316",
+        "url": "https://sfile.mobi/8tWWSFrYdir"
+      },
+      {
+        "label": "Aspirants",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/3/32/Hero105311-icon.png/revision/latest?cb=20240312065613",
+        "url": "https://sfile.mobi/6smVLvXcYwM"
+      },
+      {
+        "label": "Covenant",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/a/a7/Hero105313-icon.png/revision/latest?cb=20250301113859",
+        "url": "https://sfile.mobi/4joUAhBT0Qp"
+      }
+    ]
+  },
+  {
+    "id": 53,
+    "video": "",
+    "title": "Script Skin Alucard Legend",
+    "category": "legend",
+    "slug": "alucard-legend",
+    "date": "2025-05-24",
+    "shortStory": "Alucard's father was a comrade-in-arms of Tigreal who disappeared in a battle with the Demons. Therefore, he hated darkness, joined the Monastery of Light, and swore to destory all Demons. But later he learned the hidden secrets of this battle, so he left the Monastery of Light in anger and fought the darkness in his own way.",
+    "image": "/images/alucardleg.jpg",
+    "download": [
+      {
+        "label": "Default",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/c/c7/Hero071-icon.png/revision/latest/scale-to-width-down/100?cb=20241021145111",
+        "url": "https://sfile.mobi/6dASUlqDx6c"
+      },
+      {
+        "label": "Basic",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/e/e7/Hero072-icon.png/revision/latest?cb=20220920084827",
+        "url": "https://sfile.mobi/7EeTH6GBb2X"
+      },
+      {
+        "label": "Season",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/7/73/Hero073-icon.png/revision/latest?cb=20220920084843",
+        "url": "https://sfile.mobi/4yaRZBojqw2"
+      },
+      {
+        "label": "Luckybox",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/7/7f/Hero074-icon.png/revision/latest?cb=20220920084848",
+        "url": "https://sfile.mobi/66cSQNklLUH"
+      },
+      {
+        "label": "Starlight",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/b/bc/Hero075-icon.png/revision/latest?cb=20220920090058",
+        "url": "https://sfile.mobi/bsCVOuoj5u7"
+      },
+      {
+        "label": "Valentine",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/6/64/Hero076-icon.png/revision/latest?cb=20220920090103",
+        "url": "https://sfile.mobi/596SkHi8WIT"
+      },
+      {
+        "label": "Empire Agent",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/0/08/Hero078-icon.png/revision/latest?cb=20220920085915",
+        "url": "https://sfile.mobi/6zKT7OnCyAU"
+      },
+      {
+        "label": "Lightborn",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/9/91/Hero079-icon.png/revision/latest/scale-to-width-down/100?cb=20220922084844",
+        "url": "https://sfile.mobi/9r2UHRDON2l"
+      },
+      {
+        "label": "Starwars",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/5/50/Hero100710-icon.png/revision/latest?cb=20220125055644",
+        "url": "https://sfile.mobi/7T0TR1xiqkh"
+      },
+      {
+        "label": "Special",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/7/78/Hero100711-icon.png/revision/latest?cb=20241201053544",
+        "url": "https://sfile.mobi/73iToPqTm0R"
+      }
+    ]
+  },
+  {
+    "id": 52,
+    "video": "",
+    "title": "Script Skin Gord Legend",
+    "category": "legend",
+    "slug": "gord-legend",
+    "date": "2025-05-24",
+    "shortStory": "One of the best students of the Magic Academy, but he mixed ancient sorcery into the process of practicing arcane arts, which led to him being possessed by the Demons. It was lucky that Elward acted in a timely manner, helping Gord control the energy running away in his body. After that, Gord had no hope of reaching the peak of arcane magic in his life, eventually becoming a mentor of the Magic Academy.",
+    "image": "/images/gordleg.jpg",
+    "download": [
+      {
+        "label": "Default",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/2/27/Hero231-icon.png/revision/latest/scale-to-width-down/100?cb=20250109162109",
+        "url": "https://sfile.mobi/a1YXKo8hu8A"
+      },
+      {
+        "label": "Basic",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/5/55/Hero232-icon.png/revision/latest?cb=20250109162248",
+        "url": "https://sfile.mobi/bOMYJnVViS7"
+      },
+      {
+        "label": "Christmast",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/4/41/Hero233-icon.png/revision/latest?cb=20220126042149",
+        "url": "https://sfile.mobi/94SXdWgyIgh"
+      },
+      {
+        "label": "Annual Starlight",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/d/d6/Hero235-icon.png/revision/latest?cb=20220126042146",
+        "url": "https://sfile.mobi/aCUY58cB2wQ"
+      },
+      {
+        "label": "Season",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/1/11/Hero236-icon.png/revision/latest?cb=20220126042112",
+        "url": "https://sfile.mobi/9jEXmrNc76I"
+      },
+      {
+        "label": "Epic",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/1/13/Hero237-icon.png/revision/latest?cb=20241013071552",
+        "url": "https://sfile.mobi/6OwVYYUbZKA"
+      }
+    ]
+  },
+  {
+    "id": 51,
+    "video": "",
+    "title": "Script Skin Miya Legend",
+    "category": "legend",
+    "slug": "miya-legend",
+    "date": "2025-05-24",
+    "shortStory": "Born at the end of the Era of Strife, Miya bore witness to the unspeakable tragedies that befell the elves during the Endless War. She saw how the Abyss defiled the Shadow Swamp and corrupted many of her people into Dark Elves. It was not until the Moon Goddess created the Lunar Aegis over Azrya that the Moon Elves were able to thrive again under its protection. Miya became the Priestess of the Moon, and for thousands of years she served faithfully in the Lunar Temple, diligently watching over her people. However, with the continued expansion of the Abyss and its dark legions, the Land of Dawn is once again shrouded by the fog of war. From the Moonlit Forest, a call to war that has not been heard in thousands of years sounded again. Miya took up her silver bow and swore by the light of the moon to fight for her people.",
+    "image": "/images/miyaleg.jpg",
+    "download": [
+      {
+        "label": "Default",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/8/8c/Hero011-icon.png/revision/latest/scale-to-width-down/100?cb=20241021145035",
+        "url": "https://sfile.mobi/9FNQu84jw40"
+      },
+      {
+        "label": "Elite",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/9/9e/Hero012-icon.png/revision/latest?cb=20220119131843",
+        "url": "https://sfile.mobi/6dzOA2oPE4h"
+      },
+      {
+        "label": "Luckybox",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/6/60/Hero013-icon.png/revision/latest?cb=20220119131821",
+        "url": "https://sfile.mobi/6VTOYGoWWsN"
+      },
+      {
+        "label": "OLD Starlight",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/d/de/Hero014-icon.png/revision/latest?cb=20220119131834",
+        "url": "https://sfile.mobi/1VDMdzIbJai"
+      },
+      {
+        "label": "Limited",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/6/65/Hero015-icon.png/revision/latest?cb=20220119131840",
+        "url": "https://sfile.mobi/66bOwFdiRU6"
+      },
+      {
+        "label": "Valentine",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/1/17/Hero017-icon.png/revision/latest?cb=20220119131857",
+        "url": "https://sfile.mobi/8BjPUtVOVOJ"
+      },
+      {
+        "label": "Special",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/4/43/Hero018-icon.png/revision/latest?cb=20220119131852",
+        "url": "https://sfile.mobi/66bOx12OOst"
+      },
+      {
+        "label": "TOP UP",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/b/b3/Hero019-icon.png/revision/latest?cb=20220119085347",
+        "url": "https://sfile.mobi/8mxPMG4ds4U"
+      },
+      {
+        "label": "Anniversary",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/6/6f/Hero100110-icon.png/revision/latest?cb=20220119131908",
+        "url": "https://sfile.mobi/aZ3RezDifub"
+      },
+      {
+        "label": "Collector",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/8/89/Hero100111-icon.png/revision/latest?cb=20220805125406",
+        "url": "https://sfile.mobi/231MiSY3jqX"
+      },
+      {
+        "label": "Atomic",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/e/e8/Hero100112-icon.png/revision/latest?cb=20230317100416",
+        "url": "https://sfile.mobi/1djLQvWTggn"
+      },
+      {
+        "label": "NEW Starlight",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/7/73/Hero100114-icon.png/revision/latest?cb=20250403144506",
+        "url": "https://sfile.mobi/1dlu4KQLOuL"
+      }
+    ]
+  },
+  {
+    "id": 50,
+    "video": "",
+    "title": "Script Skin Saber Legend",
+    "category": "legend",
+    "slug": "saber-legend",
+    "date": "2025-05-24",
+    "shortStory": "Once called Duan Meng and obsessed with kendo, Saber came to Laboratory 1718 to transform himself in order to pursue perfection, but his memory was erased and he was turned into a killing machine. The torture of his memories drove him to finally destroy the laboratory and set off searching for the past.",
+    "image": "/images/saberlegend.jpg",
+    "download": [
+      {
+        "label": "Default",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/8/87/Hero031-icon.png/revision/latest/scale-to-width-down/100?cb=20250406000724",
+        "url": "https://sfile.mobi/94SXjKtz5Si"
+      },
+      {
+        "label": "Basic",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/8/85/Hero032-icon.png/revision/latest?cb=20220125055709",
+        "url": "https://sfile.mobi/9FOXEuxSEgB"
+      },
+      {
+        "label": "OLD Starlight",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/b/ba/Hero033-icon.png/revision/latest?cb=20220125055710",
+        "url": "https://sfile.mobi/232TrFcNCk3"
+      },
+      {
+        "label": "Elite",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/d/de/Hero035-icon.png/revision/latest?cb=20220125063118",
+        "url": "https://sfile.mobi/3tGUeMihe03"
+      },
+      {
+        "label": "SABER",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/1/18/Hero036-icon.png/revision/latest?cb=20220125055705",
+        "url": "https://sfile.mobi/3miUaSmtugb"
+      },
+      {
+        "label": "Luckybox",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/4/4a/Hero037-icon.png/revision/latest?cb=20241201053004",
+        "url": "https://sfile.mobi/bdQYwdebUA7"
+      },
+      {
+        "label": "TOP UP",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/9/96/Hero038-icon.png/revision/latest?cb=20220125063115",
+        "url": "https://sfile.mobi/9NcXJrYehUc"
+      },
+      {
+        "label": "NEW Starlight",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/f/ff/Hero039-icon.png/revision/latest?cb=20221223124523",
+        "url": "https://sfile.mobi/9yqXBtbROEz"
+      }
+    ]
+  },
+  {
     "id": 49,
     "video": "https://youtu.be/c407NVStJPY",
     "title": "Script Skin Phoveus Starlight",

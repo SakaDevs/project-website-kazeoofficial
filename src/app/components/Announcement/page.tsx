@@ -9,16 +9,8 @@ const poppins = Poppins({
 const RunningText = () => {
   return (
     <div className={`${poppins.className}`}>
-      <div className="flex justify-center font-bold items center text-center py-2">
-        <p className="md:text-base text-sm">
-          SUBSCRIBE KE CH ADMIN YANG BARU ={">"}{" "}
-          <Link
-            className="underline"
-            href="https://www.youtube.com/channel/UCInWujvjdt8MDmtOxy_As1Q"
-          >
-            Kazeo Official
-          </Link>
-        </p>
+      <div className="bounce">
+        <p className="bounce p">(5/24/2025 10:50) NEW UPDATE FULL LEGEND!</p>
       </div>
     </div>
   );

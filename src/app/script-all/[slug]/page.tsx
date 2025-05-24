@@ -25,7 +25,7 @@ const Page = async ({ params }: PageProps) => {
   const selectedScript = scripts.find((script) => script.slug === slug);
 
   if (!selectedScript) {
-    return <div className="p-4 text-red-500">Script tidak ditemukan.</div>;
+    return <div className="p-4 text-red-500">Tidak ditemukan.</div>;
   }
   const videoId = getVideoIdFromUrl(selectedScript.video);
 
@@ -35,7 +35,7 @@ const Page = async ({ params }: PageProps) => {
         <h1 className="text-xl font-bold mb-2 text-center">
           {selectedScript.title}
         </h1>
-        <p className="font-bold text-center">Cerita singkat</p>
+        <p className="font-bold text-center underline">Short Story</p>
         <p className="mb-4 md:text-base text-xs text-center">
           {selectedScript.shortStory}
         </p>
