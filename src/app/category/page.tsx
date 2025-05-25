@@ -21,7 +21,7 @@ export default function CategoryPage() {
             <li key={cat}>
               <Link
                 href={`/category/${cat}`}
-                className="block p-2 border rounded hover:bg-blue-100 capitalize transition"
+                className="block p-2 border rounded  hover:text-white hover:bg-blue-500 transition-all capitalize"
               >
                 {cat.replace(/script-skin-/, "").replace("-", " ")}
               </Link>
