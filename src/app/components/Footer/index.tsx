@@ -37,7 +37,7 @@ const Footer = () => {
               </div>
             </Link>
             <p className="text-sm text-gray-600 mb-4">
-              Tempat script terbaik sepanjang masa!
+              Komunitas MLBB Terbaik Sepanjang Masa!
             </p>
             <div className="flex gap-4">
               <Link
@@ -72,7 +72,7 @@ const Footer = () => {
                   href="/allscript"
                   className="text-gray-600 hover:text-blue-600 transition-all"
                 >
-                  All Script
+                  All
                 </Link>
               </li>
               <li>
@@ -96,11 +96,11 @@ const Footer = () => {
 
           {/* Popular Scripts */}
           <div className="md:col-span-1">
-            <h4 className="font-bold text-lg mb-4">Popular Scripts</h4>
+            <h4 className="font-bold text-lg mb-4">Popular</h4>
             <ul className="space-y-2">
               <li>
                 <Link
-                  href="/script-all/xavier-jujutsu-kaisen"
+                  href="/heroonly/xavier-jujutsu-kaisen"
                   className="text-gray-600 hover:text-blue-600 transition-all"
                 >
                   Xavier Jujutsu
@@ -108,7 +108,7 @@ const Footer = () => {
               </li>
               <li>
                 <Link
-                  href="/script-all/harith-hxh"
+                  href="/heroonly/harith-hxh"
                   className="text-gray-600 hover:text-blue-600 transition-all"
                 >
                   Harith HXH
@@ -116,7 +116,7 @@ const Footer = () => {
               </li>
               <li>
                 <Link
-                  href="/script-all/granger-exorcist"
+                  href="/heroonly/granger-exorcist"
                   className="text-gray-600 hover:text-blue-600 transition-all"
                 >
                   Granger Exorcist
@@ -124,7 +124,7 @@ const Footer = () => {
               </li>
               <li>
                 <Link
-                  href="/script-all/fanny-aspirants"
+                  href="/heroonly/fanny-aspirants"
                   className="text-gray-600 hover:text-blue-600 transition-all"
                 >
                   Fanny Aspirants

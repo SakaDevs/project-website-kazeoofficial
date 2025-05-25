@@ -1,6 +1,7 @@
 import Link from "next/link";
 import scripts from "@/app/components/Scripts/scripts.json";
 import { Poppins } from "next/font/google";
+import PageWrapper from "../components/PageAnimation/page";
 
 const poppins = Poppins({
   subsets: ["latin"],
@@ -11,9 +12,10 @@ export default function CategoryPage() {
   const categories = Array.from(new Set(scripts.map((s) => s.category)));
 
   return (
+    <PageWrapper>
     <main className={`${poppins.className} p-6 `}>
       <div className="md:text-lg text-sm font-bold mb-4 outline p-4">
-        <h1 className="mb-4">Script Category</h1>
+        <h1 className="mb-4">Category</h1>
         <ul className="grid grid-cols-3 md:grid-cols-5 gap-4">
           {categories.map((cat) => (
             <li key={cat}>
@@ -28,5 +30,6 @@ export default function CategoryPage() {
         </ul>
       </div>
     </main>
+    </PageWrapper>
   );
 }

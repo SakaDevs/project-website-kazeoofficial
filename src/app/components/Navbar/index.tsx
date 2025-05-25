@@ -7,6 +7,7 @@ import Link from "next/link";
 import React from "react";
 import { Poppins } from "next/font/google";
 import InputSearch from "./InputSearch";
+import { AnimatePresence, motion } from "framer-motion";
 
 const poppins = Poppins({
   subsets: ["latin"],
@@ -78,7 +79,7 @@ const Navbar = () => {
           </div>
         </nav>
 
-        {/* ✅ Tambahan: Search bar mobile, hanya muncul saat menu tertutup */}
+        {/*Search bar mobile, hanya muncul saat menu tertutup */}
         {!menuOpen && (
           <div className="md:hidden px-6 pb-4">
             <InputSearch />
@@ -86,15 +87,24 @@ const Navbar = () => {
         )}
 
         {/* Mobile Menu */}
-        {menuOpen && (
-          <div className="md:hidden flex flex-col items-start px-6 gap-2 font-bold pb-4">
-            <Link href="/">Home</Link>
-            <Link href="/category">Category</Link>
-            <Link href="/order">Order</Link>
-            <Link href="/social">Social</Link>
-            <InputSearch />
-          </div>
-        )}
+        {/* Mobile Menu */}
+        <AnimatePresence>
+          {menuOpen && (
+            <motion.div
+              initial={{ opacity: 0, height: 0 }}
+              animate={{ opacity: 1, height: "auto" }}
+              exit={{ opacity: 0, height: 0 }}
+              transition={{ duration: 0.3, ease: "easeInOut" }}
+              className="md:hidden flex flex-col items-start px-6 gap-2 font-bold pb-4 overflow-hidden"
+            >
+              <Link href="/">Home</Link>
+              <Link href="/category">Category</Link>
+              <Link href="/order">Order</Link>
+              <Link href="/social">Social</Link>
+              <InputSearch />
+            </motion.div>
+          )}
+        </AnimatePresence>
       </div>
     </main>
   );

@@ -13,7 +13,7 @@ const InputSearch = () => {
     if (event.key === "Enter" || event.type === "click") {
       event.preventDefault();
       const normalized = userSearch.toLowerCase().replace(/\s+/g, "-");
-      router.push(`/script/${normalized}`);
+      router.push(`/hero/${normalized}`);
     }
   };
   return (

@@ -5,6 +5,7 @@ import Navbar from "./components/Navbar";
 import Footer from "./components/Footer";
 import { Analytics } from "@vercel/analytics/next";
 import RunningText from "./components/Announcement/page";
+import PageWrapper from "./components/PageAnimation/page";
 
 const geistSans = Geist({
   variable: "--font-geist-sans",
@@ -46,7 +47,7 @@ export default function RootLayout({
         {" "}
         <RunningText />
         <Navbar />
-        {children}
+        <PageWrapper>{children}</PageWrapper>
         <Footer />
         <Analytics />
       </body>

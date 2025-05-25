@@ -33,7 +33,7 @@ const Randomscript = () => {
             key={script.id}
             className="bg-white rounded shadow hover:shadow-lg transition overflow-hidden"
           >
-            <Link href={`/script-all/${script.slug}`} className="flex">
+            <Link href={`/heroonly/${script.slug}`} className="flex">
               <div className="cursor-pointer rounded">
                 <Image
                   src={script.image}
@@ -41,7 +41,6 @@ const Randomscript = () => {
                   width={300}
                   alt={script.title}
                   className="rounded"
-
                 />
                 <div className="flex flex-col py-4 px-2">
                   <span className="text-xs font-thin">{script.date}</span>
