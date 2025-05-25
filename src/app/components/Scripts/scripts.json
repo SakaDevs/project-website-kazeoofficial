@@ -1,5 +1,258 @@
 [
   {
+    "id": 67,
+    "video": "",
+    "title": "Script Skin Alucard Luckybox",
+    "category": "luckybox",
+    "slug": "alucard-luckybox",
+    "date": "2025-05-25",
+    "shortStory": "Alucard's father was a comrade-in-arms of Tigreal who disappeared in a battle with the Demons. Therefore, he hated darkness, joined the Monastery of Light, and swore to destory all Demons. But later he learned the hidden secrets of this battle, so he left the Monastery of Light in anger and fought the darkness in his own way.",
+    "image": "/images/alucardluckybox.jpg",
+    "download": [
+      {
+        "label": "Default",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/c/c7/Hero071-icon.png/revision/latest/scale-to-width-down/100?cb=20241021145111",
+        "url": "https://sfile.mobi/8Q7BFrp6uI0"
+      },
+      {
+        "label": "Basic",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/e/e7/Hero072-icon.png/revision/latest?cb=20220920084827",
+        "url": "https://sfile.mobi/9r3C0mob28N"
+      },
+      {
+        "label": "Season",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/7/73/Hero073-icon.png/revision/latest?cb=20220920084843",
+        "url": "https://sfile.mobi/6snAmA6W2sb"
+      },
+      {
+        "label": "Starlight",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/b/bc/Hero075-icon.png/revision/latest?cb=20220920090058",
+        "url": "https://sfile.mobi/blfD48HptK7"
+      },
+      {
+        "label": "Legend",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/c/c4/Hero077-icon.png/revision/latest?cb=20220920085912",
+        "url": "https://sfile.mobi/9UBChymcOkN"
+      },
+      {
+        "label": "Valentine",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/6/64/Hero076-icon.png/revision/latest?cb=20220920090103",
+        "url": "https://sfile.mobi/9NdCdiAT72y"
+      },
+      {
+        "label": "Empire Agent",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/0/08/Hero078-icon.png/revision/latest?cb=20220920085915",
+        "url": "https://sfile.mobi/b6tCWvKyZM7"
+      },
+      {
+        "label": "Lightborn",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/9/91/Hero079-icon.png/revision/latest/scale-to-width-down/100?cb=20220922084844",
+        "url": "https://sfile.mobi/2pdy8YMrtSG"
+      },
+      {
+        "label": "Starwars",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/5/50/Hero100710-icon.png/revision/latest?cb=20220125055644",
+        "url": "https://sfile.mobi/2ary10051y7"
+      },
+      {
+        "label": "Special",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/7/78/Hero100711-icon.png/revision/latest?cb=20241201053544",
+        "url": "https://sfile.mobi/3mjyFXorc4Y"
+      }
+    ]
+  },
+  {
+    "id": 66,
+    "video": "",
+    "title": "Script Skin Karrie Kishin Densetsu",
+    "category": "kishin",
+    "slug": "karrie-kishin-densetsu",
+    "date": "2025-05-25",
+    "shortStory": "Karrie was trained by the Empire to become a war machine from when she was a child because of her incredible talent. After one battle, the seriously wounded Karrie fused with the consciousness of an alien prophet, so she knew the fate of the demise of her hometown, and to find a way to break the prophecy, she left Alaghat.",
+    "image": "/images/karriekishin.jpg",
+    "download": [
+      {
+        "label": "Default",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/d/de/Hero401-icon.png/revision/latest/scale-to-width-down/100?cb=20241021145437",
+        "url": "https://sfile.mobi/8Q7B1PqBJ6K"
+      },
+      {
+        "label": "Basic",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/0/06/Hero402-icon.png/revision/latest?cb=20240311082236",
+        "url": "https://sfile.mobi/bdRClziz5u7"
+      },
+      {
+        "label": "Elite",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/b/bd/Hero403-icon.png/revision/latest?cb=20220126041720",
+        "url": "https://sfile.mobi/5nTz7UFSQoi"
+      },
+      {
+        "label": "Starlight",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/d/d1/Hero404-icon.png/revision/latest?cb=20220126041722",
+        "url": "https://sfile.mobi/9jFBiFz7y0j"
+      },
+      {
+        "label": "Special",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/6/66/Hero405-icon.png/revision/latest?cb=20220126041718",
+        "url": "https://sfile.mobi/2hPxqesQ6UP"
+      },
+      {
+        "label": "Luckybox",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Hero406-icon.png/revision/latest?cb=20241201053035",
+        "url": "https://sfile.mobi/66dzwUvw64i"
+      },
+      {
+        "label": "Epic (Gill-Girl)",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/7/77/Hero407-icon.png/revision/latest?cb=20220126041714",
+        "url": "https://sfile.mobi/7LDAsbi78QH"
+      },
+      {
+        "label": "Annual Starlight",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/2/21/Hero408-icon.png/revision/latest?cb=20220126041656",
+        "url": "https://sfile.mobi/8mzAMKrFIsv"
+      },
+      {
+        "label": "Elite (Top Up)",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/8/86/Hero104010-icon.png/revision/latest?cb=20230805044015",
+        "url": "https://sfile.mobi/agLBQaVocw4"
+      },
+      {
+        "label": "Epic (Ice Talon)",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/8/86/Hero104010-icon.png/revision/latest?cb=20230805044015",
+        "url": "https://sfile.mobi/2arxn2c4io6"
+      }
+    ]
+  },
+  {
+    "id": 65,
+    "video": "",
+    "title": "Script Skin Angela Kishin Densetsu",
+    "category": "kishin",
+    "slug": "angela-kishin-densetsu",
+    "date": "2025-05-25",
+    "shortStory": "An android created by the founder of Laboratory 1718, Dr. Baker. It was the first life form created without using human body or soul. In order to gain the knowledge of her, other scientists in the lab went after Dr. Baker. Before taken away, Dr. Baker stuffed her into a flight capsule to escape.",
+    "image": "/images/angelakishin.jpg",
+    "download": [
+      {
+        "label": "Default",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/1/13/Hero551-icon.png/revision/latest?cb=20250406000608",
+        "url": "https://sfile.mobi/66dztz77skX"
+      },
+      {
+        "label": "Basic",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/9/94/Hero552-icon.png/revision/latest?cb=20220126141947",
+        "url": "https://sfile.mobi/aCVBYIf9L2Z"
+      },
+      {
+        "label": "Starlight",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/b/b8/Hero553-icon.png/revision/latest?cb=20220126141949",
+        "url": "https://sfile.mobi/1dlwMIbFWif"
+      },
+      {
+        "label": "VENOM",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/5/56/Hero554-icon.png/revision/latest?cb=20220126141945",
+        "url": "https://sfile.mobi/1GTx3cuFNqp"
+      },
+      {
+        "label": "Halloween",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/d/d4/Hero555-icon.png/revision/latest?cb=20220126141943",
+        "url": "https://sfile.mobi/1GTx3npqMc9"
+      },
+      {
+        "label": "Summer",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/3/35/Hero556-icon.png/revision/latest?cb=20220527065319",
+        "url": "https://sfile.mobi/3eVxUzlt6wL"
+      },
+      {
+        "label": "Collector",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/f/fd/Hero557-icon.png/revision/latest?cb=20220126141936",
+        "url": "https://sfile.mobi/9NdBx2T1D2b"
+      },
+      {
+        "label": "Sanrio",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/6/64/Hero558-icon.png/revision/latest?cb=20220218031013",
+        "url": "https://sfile.mobi/5vhzaphCJaP"
+      },
+      {
+        "label": "Aspirants",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/2/2b/Hero559-icon.png/revision/latest?cb=20221103135301",
+        "url": "https://sfile.mobi/3eVxV65K3YS"
+      },
+      {
+        "label": "Annual Starlight",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/e/e4/Hero105510-icon.png/revision/latest?cb=20240313082100",
+        "url": "https://sfile.mobi/80pAyoUTMQ5"
+      }
+    ]
+  },
+  {
+    "id": 64,
+    "video": "",
+    "title": "Script Skin Lancelot Kishin Densetsu",
+    "category": "kishin",
+    "slug": "lancelot-kishin-densetsu",
+    "date": "2025-05-25",
+    "shortStory": "As the eldest son of Duke Baroque, Lancelot was born rebellious. Dead set on resisting the political marriage arranged for him by his father, he traveled the country and led a licentious life instead. After being wounded at a drunken brawl in a tavern, Lancelot was rescued by Odette and finally came to realize what his heart truly yearned for. The prodigal son made a repentant return and thus began his adventure across the Land of Dawn.",
+    "image": "/images/lancelotkishin.jpg",
+    "download": [
+      {
+        "label": "Default",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/2/29/Hero471-icon.png/revision/latest/scale-to-width-down/100?cb=20241021145518",
+        "url": "https://sfile.mobi/8mzAH79qk8F"
+      },
+      {
+        "label": "Basic",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/b/bf/Hero472-icon.png/revision/latest?cb=20220125055632",
+        "url": "https://sfile.mobi/8tXALmUK1GY"
+      },
+      {
+        "label": "Christmast",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/9/99/Hero473-icon.png/revision/latest?cb=20220119131814",
+        "url": "https://sfile.mobi/avxBSSf1egh"
+      },
+      {
+        "label": "Luckybox",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/0/0d/Hero474-icon.png/revision/latest?cb=20220119131815",
+        "url": "https://sfile.mobi/9NdBuA4pTqd"
+      },
+      {
+        "label": "Starlight",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/1/18/Hero475-icon.png/revision/latest?cb=20220119131817",
+        "url": "https://sfile.mobi/6VVzUSDJCwf"
+      },
+      {
+        "label": "Zodiac",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/c/c8/Hero476-icon.png/revision/latest?cb=20230212040124",
+        "url": "https://sfile.mobi/4FzyFzrQWkh"
+      },
+      {
+        "label": "Epic",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/6/6a/Hero477-icon.png/revision/latest?cb=20220125050154",
+        "url": "https://sfile.mobi/233xe1Ii6Ax"
+      },
+      {
+        "label": "Dawning",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/c/ca/Hero478-icon.png/revision/latest?cb=20220118094835",
+        "url": "https://sfile.mobi/6dBzwWiEfuI"
+      },
+      {
+        "label": "Champion",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/0/06/Hero479-icon.png/revision/latest?cb=20220125050152",
+        "url": "https://sfile.mobi/4FzyG6c7SMu"
+      },
+      {
+        "label": "Dragon Tamer",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/4/48/Hero104710-icon.png/revision/latest?cb=20220805125409",
+        "url": "https://sfile.mobi/1dlwM0wE10l"
+      },
+      {
+        "label": "Elite (Top Up)",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/2/28/Hero104711-icon.png/revision/latest?cb=20241111045811",
+        "url": "https://sfile.mobi/8tXAMX9yRUn"
+      }
+    ]
+  },
+  {
     "id": 63,
     "video": "",
     "title": "Script Skin Alpha Legend",
@@ -13,31 +266,38 @@
         "label": "Default",
         "icon": "https://static.wikia.nocookie.net/mobile-legends/images/3/38/Hero281-icon.png/revision/latest/scale-to-width-down/100?cb=20250406000959",
         "url": "https://sfile.mobi/37xvizlcbmx"
-      },{
+      },
+      {
         "label": "Basic",
         "icon": "https://static.wikia.nocookie.net/mobile-legends/images/7/76/Hero283-icon.png/revision/latest?cb=20220126042038",
         "url": "https://sfile.mobi/bdRzM3U23e7"
-      },{
+      },
+      {
         "label": "Luckybox",
         "icon": "https://static.wikia.nocookie.net/mobile-legends/images/9/9f/Hero282-icon.png/revision/latest?cb=20221022085443",
         "url": "https://sfile.mobi/9jFyIZfPxYI"
-      },{
+      },
+      {
         "label": "Season",
         "icon": "https://static.wikia.nocookie.net/mobile-legends/images/2/2d/Hero284-icon.png/revision/latest?cb=20220126042036",
         "url": "https://sfile.mobi/6VVxpBdo88d"
-      },{
+      },
+      {
         "label": "Special",
         "icon": "https://static.wikia.nocookie.net/mobile-legends/images/d/d0/Hero285-icon.png/revision/latest?cb=20220126042032",
         "url": "https://sfile.mobi/9yryRuMsVOA"
-      },{
+      },
+      {
         "label": "Abyss",
         "icon": "https://static.wikia.nocookie.net/mobile-legends/images/3/3d/Hero286-icon.png/revision/latest?cb=20220126042034",
         "url": "https://sfile.mobi/4c1vU9y1yEJ"
-      },{
+      },
+      {
         "label": "Starlight",
         "icon": "https://static.wikia.nocookie.net/mobile-legends/images/8/8a/Hero287-icon.png/revision/latest?cb=20230805043935",
         "url": "https://sfile.mobi/bA1zZb1v7a7"
-      },{
+      },
+      {
         "label": "Collector",
         "icon": "https://static.wikia.nocookie.net/mobile-legends/images/8/87/Hero288-icon.png/revision/latest?cb=20240503043657",
         "url": "https://sfile.mobi/7aHxyszxuMu"
@@ -58,31 +318,38 @@
         "label": "Default",
         "icon": "https://static.wikia.nocookie.net/mobile-legends/images/7/73/Hero321-icon.png/revision/latest/scale-to-width-down/100?cb=20241021145350",
         "url": "https://sfile.mobi/blfzOnB0XK7"
-      },{
+      },
+      {
         "label": "Basic",
         "icon": "https://static.wikia.nocookie.net/mobile-legends/images/e/e7/Hero322-icon.png/revision/latest?cb=20220126041855",
         "url": "https://sfile.mobi/5vhwAIYkIoo"
-      },{
+      },
+      {
         "label": "SABER",
         "icon": "https://static.wikia.nocookie.net/mobile-legends/images/8/8f/Automata_Icon.png/revision/latest?cb=20220126041849",
         "url": "https://sfile.mobi/3eVvlpMs2kq"
-      },{
+      },
+      {
         "label": "Elite",
         "icon": "https://static.wikia.nocookie.net/mobile-legends/images/9/99/Hero324-icon.png/revision/latest?cb=20221022081323",
         "url": "https://sfile.mobi/8Blyj6QpnUH"
-      },{
+      },
+      {
         "label": "Luckybox",
         "icon": "https://static.wikia.nocookie.net/mobile-legends/images/0/0d/Hero325-icon.png/revision/latest?cb=20241201053024",
         "url": "https://sfile.mobi/3ItvC50cScl"
-      },{
+      },
+      {
         "label": "Special",
         "icon": "https://static.wikia.nocookie.net/mobile-legends/images/0/0f/Hero326-icon.png/revision/latest?cb=20220126041843",
         "url": "https://sfile.mobi/8Q7yrCn2LKq"
-      },{
+      },
+      {
         "label": "Transformers",
         "icon": "https://static.wikia.nocookie.net/mobile-legends/images/8/8d/Hero327-icon.png/revision/latest?cb=20220126041836",
         "url": "https://sfile.mobi/blfzPr5yQo7"
-      },{
+      },
+      {
         "label": "Anniversary",
         "icon": "https://static.wikia.nocookie.net/mobile-legends/images/0/0a/Hero328-icon.png/revision/latest?cb=20240310133500",
         "url": "https://sfile.mobi/6zLxcu5V4s9"
