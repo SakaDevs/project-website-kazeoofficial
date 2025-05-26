@@ -17,7 +17,7 @@ const Page = () => {
           <div className="flex flex-col shadow md:shadow-2xl items-center text-center gap-4 hover:scale-105 duration-700 transition-all">
             <h3 className="font-bold text-lg md:text-lg">Main Channel</h3>
             <Image
-              src="https://yt3.googleusercontent.com/AoXDCzZQHVcfkVgGA-KV5zQbB7w6_wxi7OrFZHKZs11X-jTXrHelMYjLF-nxwsQeyI5zxWRRqQ=s160-c-k-c0x00ffffff-no-rj"
+              src="https://yt3.googleusercontent.com/b6WjkWqyoXOwf0j2iOnpJfaMoDgvgHidMPajLTWoHpoNEXg-SjDl9ChdrU_leZ0O3Urq_GxT=s160-c-k-c0x00ffffff-no-rj"
               alt=""
               height={400}
               width={200}

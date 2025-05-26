@@ -1,5 +1,488 @@
 [
   {
+    "id": 76,
+    "video": "",
+    "title": "Paquito KOF",
+    "category": "kof",
+    "slug": "paquito-kof",
+    "date": "2025-05-26",
+    "shortStory": "The Abyss grew in power, thrusting the Land of Dawn once more into the thick mists of eternal war. It was a true calamity that spread suffering throughout the Land of Dawn. Especially the Moniyan Empire's southern frontier. The creeping threat and corruption of the Abyss plunged this place into ruins and it stands now as a barren wilderness.",
+    "image": "/images/paquitokof.jpg",
+    "download": [
+      {
+        "label": "Default",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/3/35/Hero1031-icon.png/revision/latest/scale-to-width-down/100?cb=20241021153208",
+        "url": "https://sfile.mobi/8tXDBMc1heQ"
+      },
+      {
+        "label": "Basic",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/4/48/Hero1032-icon.png/revision/latest?cb=20220126142318",
+        "url": "https://sfile.mobi/8mzDxwqHAWD"
+      },
+      {
+        "label": "Manny Pacquiao",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/5/5c/Hero1033-icon.png/revision/latest?cb=20220612054917",
+        "url": "https://sfile.mobi/3tHAQFvg48X"
+      },
+      {
+        "label": "Special",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/5/54/Hero1034-icon.png/revision/latest?cb=20220126142819",
+        "url": "https://sfile.mobi/4UlBDMAJFSZ"
+      },
+      {
+        "label": "Starlight",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/8/84/Hero1035-icon.png/revision/latest?cb=20220612060009",
+        "url": "https://sfile.mobi/6kZCqTGdhu0"
+      },
+      {
+        "label": "Special (MPASS)",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/7/7f/Hero1036-icon.png/revision/latest?cb=20221223124540",
+        "url": "https://sfile.mobi/2wBAkzt3fW7"
+      },
+      {
+        "label": "Collector",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/1/18/Hero1037-icon.png/revision/latest?cb=20240404001454",
+        "url": "https://sfile.mobi/9NdElw5Y64h"
+      },
+      {
+        "label": "FMVP",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/3/32/Hero1039-icon.png/revision/latest?cb=20241013073216",
+        "url": "https://sfile.mobi/bsDFgMSz8k7"
+      }
+    ]
+  },
+  {
+    "id": 75,
+    "video": "",
+    "title": "Masha KOF",
+    "category": "kof",
+    "slug": "masha-kof",
+    "date": "2025-05-26",
+    "shortStory": "Leader of the Sami people who lives in the Northern Vale. After the wandering pirates of the Frozen Ocean began to invade the Northern Vale. Masha fought constantly with the pirates, and insisted on finding the Direbears, who had been scattered by the pirate invasion, to protect the land.",
+    "image": "/images/mashakof.jpg",
+    "download": [
+      {
+        "label": "Default",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/c/c5/Hero881-icon.png/revision/latest/scale-to-width-down/100?cb=20241021153044",
+        "url": "https://sfile.mobi/7i5CYp2tWga"
+      },
+      {
+        "label": "Basic",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/c/cc/Hero882-icon.png/revision/latest?cb=20220126142723",
+        "url": "https://sfile.mobi/1GTzSyhpasG"
+      },
+      {
+        "label": "Starlight",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/9/9b/Hero883-icon.png/revision/latest?cb=20220126142721",
+        "url": "https://sfile.mobi/8mzDzhAhoch"
+      },
+      {
+        "label": "Dragon Tamer",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/8/87/Hero884-icon.png/revision/latest?cb=20200724050610",
+        "url": "https://sfile.mobi/blfFdpH2la7"
+      },
+      {
+        "label": "Season",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/e/e2/Hero885-icon.png/revision/latest?cb=20220401091151",
+        "url": "https://sfile.mobi/4UlBFmPyve0"
+      },
+      {
+        "label": "Special",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/b/b4/Hero886-icon.png/revision/latest?cb=20221103135303",
+        "url": "https://sfile.mobi/1zvzPm0DlWu"
+      }
+    ]
+  },
+  {
+    "id": 74,
+    "video": "",
+    "title": "Valir KOF",
+    "category": "kof",
+    "slug": "valir-kof",
+    "date": "2025-05-26",
+    "shortStory": "In his hometown of Agelta, he showed an amazing talent for arcane energy manipulation when he first arrived at the Magic Academy, so he was valued by his mentor Gord. But Gord got very angry when he discovered that he had incorporated the spells of his hometown into the arcane, thinking that he had defiled the arcane. After a battle between the master and the disciple, Valir left the Magic Academy.",
+    "image": "/images/valirkof.jpg",
+    "download": [
+      {
+        "label": "Default",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/6/60/Hero571-icon.png/revision/latest/scale-to-width-down/100?cb=20241021145616",
+        "url": "https://sfile.mobi/231QpsHMbu9"
+      },
+      {
+        "label": "Basic",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/d/dc/Hero572-icon.png/revision/latest?cb=20220126141932",
+        "url": "https://sfile.mobi/231QqH753ez"
+      },
+      {
+        "label": "Special",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/3/30/Hero573-icon.png/revision/latest?cb=20220126141934",
+        "url": "https://sfile.mobi/8IHUhhGodaZ"
+      },
+      {
+        "label": "Starlight",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/9/93/Hero574-icon.png/revision/latest?cb=20220126141930",
+        "url": "https://sfile.mobi/b6rVvdllcs7"
+      },
+      {
+        "label": "Dragon Tamer",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/1/16/Hero575-icon.png/revision/latest?cb=20220126141928",
+        "url": "https://sfile.mobi/9ypUEJ4kNi9"
+      },
+      {
+        "label": "Collector",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/a/a9/Hero576-icon.png/revision/latest?cb=20220126141926",
+        "url": "https://sfile.mobi/9ypUETZ5M4T"
+      },
+      {
+        "label": "Legend",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/5/50/Hero577-icon.png/revision/latest?cb=20220126141924",
+        "url": "https://sfile.mobi/5vfSqq4OjeU"
+      },
+      {
+        "label": "Phoenix Ikki",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/3/3e/Hero578-icon.png/revision/latest?cb=20220915134951",
+        "url": "https://sfile.mobi/1VDQsfyLIUq"
+      },
+      {
+        "label": "Leo Ikki",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/6/6a/Hero579-icon.png/revision/latest?cb=20220915134953",
+        "url": "https://sfile.mobi/7LBTGg0XVSe"
+      },
+      {
+        "label": "Elite (Top Up)",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/2/2a/Hero105710-icon.png/revision/latest?cb=20250106160148",
+        "url": "https://sfile.mobi/7EdTFSojOET"
+      }
+    ]
+  },
+  {
+    "id": 73,
+    "video": "",
+    "title": "Aurora KOF",
+    "category": "kof",
+    "slug": "aurora-kof",
+    "date": "2025-05-26",
+    "shortStory": "Aurora, the Maiden of the Glacier, commanding the unwavering faith of innumerable mortals in the North, bestows eternity upon the world. In her youth, she endured the torment of her innate prowess for Frost Magic until the disciples of the Light brought her to Queen's Peak, whereupon she received an infusion of light which granted her immortality. Tearfully, her mother bade her farewell as she succumbed to the cold embrace of blizzard. Aurora slumbered for a thousand years atop the peak. Upon her awakening, the truth dawned on her: genuine eternity lay in fleeting emotions, such as her mother's final comforting smile. Thus, Aurora resolved to bestow this eternity upon the world. It was at that moment that a legend was born in the North. The legend spoke of people close to death who would climb Queen's Peak, seeking the frigid embrace of the goddess there. If granted, all of the one's memories, longings, and emotions would be left tot he goddess, who would cherish them until the end of time. And thus, they would live on the eternity.",
+    "image": "/images/aurorakof.jpg",
+    "download": [
+      {
+        "label": "Default",
+        "icon": "",
+        "url": "https://sfile.mobi/5gtSo4AHfqc"
+      },
+      {
+        "label": "Basic",
+        "icon": "",
+        "url": "https://sfile.mobi/9UzUXizigwH"
+      },
+      {
+        "label": "Starlight",
+        "icon": "",
+        "url": "https://sfile.mobi/3IrSWcIvG0h"
+      },
+      {
+        "label": "Lunar Fest",
+        "icon": "",
+        "url": "https://sfile.mobi/3mhSK95Av6y"
+      },
+      {
+        "label": "Zodiac",
+        "icon": "",
+        "url": "https://sfile.mobi/4FxTtxa1lSO"
+      },
+      {
+        "label": "Collector",
+        "icon": "",
+        "url": "https://sfile.mobi/231S2alduQX"
+      }
+    ]
+  },
+  {
+    "id": 72,
+    "video": "",
+    "title": "Gusion KOF",
+    "category": "kof",
+    "slug": "gusion-kof",
+    "date": "2025-05-26",
+    "shortStory": "Although he was born into the most powerful magic family on the continent, Gusion is not interested in magic. He is keen to draw inspiration from the holy light to develop new fighting skills. In the end, Gusion left the family.",
+    "image": "/images/gusionkof.jpg",
+    "download": [
+      {
+        "label": "Default",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/9/94/Hero561-icon.png/revision/latest/scale-to-width-down/100?cb=20241021145610",
+        "url": "https://sfile.mobi/8XtSNguloIp"
+      },
+      {
+        "label": "Basic",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/a/a7/Hero562-icon.png/revision/latest?cb=20220908164644",
+        "url": "https://sfile.mobi/51HQCRqCEwN"
+      },
+      {
+        "label": "Elite",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/9/94/Hero563-icon.png/revision/latest?cb=20220126141922",
+        "url": "https://sfile.mobi/1s5OEGUA408"
+      },
+      {
+        "label": "OLD Starlight",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/6/64/Hero564-icon.png/revision/latest?cb=20220126141919",
+        "url": "https://sfile.mobi/4qLQiZW600I"
+      },
+      {
+        "label": "Valentine",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/d/df/Hero565-icon.png/revision/latest?cb=20220915134950",
+        "url": "https://sfile.mobi/ao7TB5eQVy7"
+      },
+      {
+        "label": "VENOM",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/0/0d/Emperor_Scorpion_Icon.png/revision/latest?cb=20220118094837",
+        "url": "https://sfile.mobi/9NbTgRUOjuL"
+      },
+      {
+        "label": "Legend",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/e/e3/Hero568-icon.png/revision/latest?cb=20220126141917",
+        "url": "https://sfile.mobi/4FxQrRifmwO"
+      },
+      {
+        "label": "Collector",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/b/b3/Hero569-icon.png/revision/latest?cb=20220126141915",
+        "url": "https://sfile.mobi/9ypT9eXXOMB"
+      },
+      {
+        "label": "Epic",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/b/bf/Hero105610-icon.png/revision/latest?cb=20220906142257",
+        "url": "https://sfile.mobi/3B3PRvuIQUK"
+      },
+      {
+        "label": "11.11",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/9/90/Hero105611-icon.png/revision/latest?cb=20221103135334",
+        "url": "https://sfile.mobi/4UjQAxJDK09"
+      },
+      {
+        "label": "NEW Starlight",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/b/b1/Hero105612-icon.png/revision/latest?cb=20240709031301",
+        "url": "https://sfile.mobi/7EdS6H42eQF"
+      }
+    ]
+  },
+  {
+    "id": 71,
+    "video": "",
+    "title": "Dyrroth KOF",
+    "category": "kof",
+    "slug": "dyrroth-kof",
+    "date": "2025-05-26",
+    "shortStory": "Twelve years ago, a prince was born in the Moniyan Empire. He was a symbol of salvation and justice for his people. It was believed that he would lead the Moniyan Empire in unifying the Land of Dawn. The Empire Nobles gave everything to the prince..",
+    "image": "/images/dyrrothkof.jpg",
+    "download": [
+      {
+        "label": "Default",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/6/62/Hero851-icon.png/revision/latest?cb=20241021153026",
+        "url": "https://sfile.mobi/7prS4Hpr8IL"
+      },
+      {
+        "label": "Basic",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/c/cf/Hero852-icon.png/revision/latest?cb=20220126142113",
+        "url": "https://sfile.mobi/6zJRCkoh5Cg"
+      },
+      {
+        "label": "Starlight",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/f/f9/Hero854-icon.png/revision/latest?cb=20220126142115",
+        "url": "https://sfile.mobi/595QPK34qkg"
+      },
+      {
+        "label": "VENOM",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/a/a7/Hero856-icon.png/revision/latest?cb=20220401091155",
+        "url": "https://sfile.mobi/8Q5SSlfbH2g"
+      },
+      {
+        "label": "Collector",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/1/13/Hero857-icon.png/revision/latest?cb=20221217033854",
+        "url": "https://sfile.mobi/7EdSdUB6tUt"
+      },
+      {
+        "label": "GON",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/a/a3/Hero858-icon.png/revision/latest?cb=20241201053531",
+        "url": "https://sfile.mobi/6zJRDnSOYwF"
+      }
+    ]
+  },
+  {
+    "id": 70,
+    "video": "",
+    "title": "Karina KOF",
+    "category": "kof",
+    "slug": "karina-kof",
+    "date": "2025-05-25",
+    "shortStory": "Karina is the best killer among the Dark Elves who lived codependently with her younger sister Selena. But as the older sister, Karina failed to prevent Selena from dedicating herself to the Abyss. In order to stop her sister's evil deeds, and to find a way to bring her back, Karina embarked on a new journey.",
+    "image": "/images/karinakof.jpg",
+    "download": [
+      {
+        "label": "Default",
+        "icon": "",
+        "url": "https://sfile.mobi/73hRDFY6zKn"
+      },
+      {
+        "label": "Basic",
+        "icon": "",
+        "url": "https://sfile.mobi/bsBU4KfAaW7"
+      },
+      {
+        "label": "Christmast",
+        "icon": "",
+        "url": "https://sfile.mobi/7prRQrg3FS9"
+      },
+      {
+        "label": "Starlight",
+        "icon": "",
+        "url": "https://sfile.mobi/6zJRo4eTCMt"
+      },
+      {
+        "label": "Elite",
+        "icon": "",
+        "url": "https://sfile.mobi/8f9Sjl1uFyE"
+      },
+      {
+        "label": "Luckybox",
+        "icon": "",
+        "url": "https://sfile.mobi/7SZS7hozuMx"
+      },
+      {
+        "label": "Zodiac",
+        "icon": "",
+        "url": "https://sfile.mobi/aZ3TPulTawh"
+      },
+      {
+        "label": "TOP UP",
+        "icon": "",
+        "url": "https://sfile.mobi/8Q5SEqVkbKv"
+      }
+    ]
+  },
+  {
+    "id": 69,
+    "video": "",
+    "title": "Guinevere KOF",
+    "category": "kof",
+    "slug": "guinevere-kof",
+    "date": "2025-05-25",
+    "shortStory": "As the youngest daughter of one of the few noble households in the Land of Dawn, House Baroque, she studied at the Magic Academy since she was a child, and is extremely talented in magic. The household wanted her to marry into another household with a higher status. Unwilling to be used as a political bargaining chip, Guinevere decided to seek help from her elder brother Lancelot.",
+    "image": "/images/guineverekof.jpg",
+    "download": [
+      {
+        "label": "Default",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/f/f1/Hero801-icon.png/revision/latest/scale-to-width-down/100?cb=20241021152957",
+        "url": "https://sfile.mobi/bdPTZehPri7"
+      },
+      {
+        "label": "Basic",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/f/f1/Hero801-icon.png/revision/latest/scale-to-width-down/100?cb=20241021152957",
+        "url": "https://sfile.mobi/b6rTVvgMG47"
+      },
+      {
+        "label": "Starlight",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/c/c4/Hero803-icon.png/revision/latest?cb=20220125050144",
+        "url": "https://sfile.mobi/9jDSWvt8SAM"
+      },
+      {
+        "label": "Special (Amethyst)",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/7/72/Hero805-icon.png/revision/latest?cb=20220125050147",
+        "url": "https://sfile.mobi/8XtSKCKYGkb"
+      },
+      {
+        "label": "Luckybox",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/d/d6/Hero806-icon.png/revision/latest?cb=20220125050149",
+        "url": "https://sfile.mobi/80nSelO0TuA"
+      },
+      {
+        "label": "Special (Sakura)",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/f/f1/Hero807-icon.png/revision/latest?cb=20220125050150",
+        "url": "https://sfile.mobi/3tFPJyvuyke"
+      },
+      {
+        "label": "Summer",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/7/7b/Hero808-icon.png/revision/latest?cb=20220125050201",
+        "url": "https://sfile.mobi/6slRnGCfvyb"
+      },
+      {
+        "label": "Legend",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/e/e2/Hero809-icon.png/revision/latest?cb=20220525115139",
+        "url": "https://sfile.mobi/bdPU1amae47"
+      },
+      {
+        "label": "Elite (Top Up)",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/6/62/Hero108010-icon.png/revision/latest?cb=20240302143205",
+        "url": "https://sfile.mobi/3PPPWuIcDeO"
+      }
+    ]
+  },
+  {
+    "id": 68,
+    "video": "",
+    "title": "Chou KOF",
+    "category": "kof",
+    "slug": "-kof",
+    "date": "2025-05-26",
+    "shortStory": "Chou was born in a secluded slum deep in the hearts of poverty, living the lowest quality of life. Despite the dreadful conditions, Chou kept his heart of kindness, as day in and day out he continued to look after the old and the young there with passion. During this time, there was great turmoil and unrest in the Land of the Dawn; mayhem spread throughout the land and eventually started to affect this small remote area.",
+    "image": "/images/choukof.jpg",
+    "download": [
+      {
+        "label": "Default",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/a/a9/Hero261-icon.png/revision/latest/scale-to-width-down/100?cb=20241021145315",
+        "url": "https://sfile.mobi/5gvBSj2gAgv"
+      },
+      {
+        "label": "Basic",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/b/ba/Hero262-icon.png/revision/latest?cb=20221022075048",
+        "url": "https://sfile.mobi/5gvBSj2gAgv"
+      },
+      {
+        "label": "Luckybox",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/d/d1/Hero263-icon.png/revision/latest?cb=20220126042108",
+        "url": "https://sfile.mobi/8IJDN6mMnue"
+      },
+      {
+        "label": "Elite",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/4/4e/Hero264-icon.png/revision/latest?cb=20220126042106",
+        "url": "https://sfile.mobi/5CFC5feYFi0"
+      },
+      {
+        "label": "Special",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/a/a9/Hero265-icon.png/revision/latest?cb=20220126042104",
+        "url": "https://sfile.mobi/7LDDgPpOAoN"
+      },
+      {
+        "label": "Starlight",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/8/80/Hero267-icon.png/revision/latest?cb=20220126042100",
+        "url": "https://sfile.mobi/bONFvF9C0w7"
+      },
+      {
+        "label": "Dawning",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/1/16/Hero268-icon.png/revision/latest?cb=20220119085348",
+        "url": "https://sfile.mobi/1GTzVc0LSMM"
+      },
+      {
+        "label": "STUN",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/3/34/Hero269-icon.png/revision/latest?cb=20220126042058",
+        "url": "https://sfile.mobi/1kJzJ8nQHOB"
+      },
+      {
+        "label": "Dragon Shiryu",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/a/ad/Hero102610-icon.png/revision/latest?cb=20220915135005",
+        "url": "https://sfile.mobi/3XfBbcRGu4u"
+      },
+      {
+        "label": "Libra Shiryu",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/5/54/Hero102611-icon.png/revision/latest?cb=20220915135007",
+        "url": "https://sfile.mobi/7EfDdO3NKM6"
+      },
+      {
+        "label": "Champion",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/9/96/Hero102612-icon.png/revision/latest?cb=20230805044014",
+        "url": "https://sfile.mobi/7LDDi3P7s4s"
+      }
+    ]
+  },
+  {
     "id": 67,
     "video": "",
     "title": "Alucard Luckybox",
