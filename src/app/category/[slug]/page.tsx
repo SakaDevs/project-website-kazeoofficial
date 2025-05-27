@@ -43,7 +43,7 @@ export default function Page({ params }: PageProps) {
               Kategori : {slug[0].toUpperCase() + slug.slice(1)}
             </h3>
           </div>
-          <ul className="grid md:grid-cols-5 grid-cols-2 gap-4">
+          <ul className="grid grid-cols-1 md:grid-cols-5 gap-4">
             {filteredScripts.map((script) => (
               <li
                 key={script.id}
