@@ -1,9 +1,98 @@
 [
   {
+    "id": 81,
+    "video": "",
+    "title": "Hanabi Soul Vessels",
+    "category": "soul vessels",
+    "slug": "hanabi-soul-vessels",
+    "date": "2025-05-27",
+    "shortStory": "As the owner of Higanbana, one of the seven great armaments of the Scarlet Shadow clan, Hanabi is the pride of the Scarlet Sect. To carry on her father's will, she has sought power since childhood. As a result of her single-minded goal, she closed herself off to all feelings and emotions. Even so, she was never truly accepted by Higanbana. Once, when she was pursuing an enemy spy and losing ground, she accidentally stepped into the world inside Higanbana and lingered between illusion and reality. Eventually, she came to understand that power without emotion was volatile and fleeting. She came to terms with herself and embraced her feelings and desires as she became one with Higanbana.",
+    "image": "/images/hanabisoul.jpg",
+    "download": [
+      {
+        "label": "Default",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/f/ff/Hero601-icon.png/revision/latest/scale-to-width-down/100?cb=20241021145634",
+        "url": "https://sfile.mobi/3XfF0wT9ba5"
+      },
+      {
+        "label": "Basic",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/2/2f/Hero602-icon.png/revision/latest?cb=20221217033852",
+        "url": "https://sfile.mobi/4qNFh1c92gj"
+      },
+      {
+        "label": "Elite",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/e/e4/Hero603-icon.png/revision/latest?cb=20220126141823",
+        "url": "https://sfile.mobi/1s7DDeUU2IT"
+      },
+      {
+        "label": "Venom",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/d/d9/Nephila_Icon.png/revision/latest?cb=20220118094850",
+        "url": "https://sfile.mobi/9r3I2EDbc4z"
+      },
+      {
+        "label": "Starlight",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/1/1f/Hero606-icon.png/revision/latest?cb=20220126141819",
+        "url": "https://sfile.mobi/8XvHMw9HiMU"
+      },
+      {
+        "label": "Luckybox",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/1/1f/Hero606-icon.png/revision/latest?cb=20220126141819",
+        "url": "https://sfile.mobi/94THR7KwXC1"
+      },
+      {
+        "label": "Special",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/1/12/Hero607-icon.png/revision/latest?cb=20220126141817",
+        "url": "https://sfile.mobi/bA1JftdjZ67"
+      },
+      {
+        "label": "Collector",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/b/be/Hero608-icon.png/revision/latest?cb=20220126141815",
+        "url": "https://sfile.mobi/6VVGGB4eVq3"
+      },
+      {
+        "label": "Allstar",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/4/40/Hero609-icon.png/revision/latest?cb=20230317100356",
+        "url": "https://sfile.mobi/5nTFPKXIyIO"
+      }
+    ]
+  },
+  {
+    "id": 80,
+    "video": "",
+    "title": "Aamon Soul Vessels",
+    "category": "soul vessels",
+    "slug": "aamon-soul-vessels",
+    "date": "2025-05-27",
+    "shortStory": "Aamon is the head of House Paxley and the current Duke of Castle Aberleen. Despite his cool and distant facade, he puts his kin above everything and will do anything for them.",
+    "image": "/images/aamonsoul.jpg",
+    "download": [
+      {
+        "label": "Default",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/b/bc/Hero1091-icon.png/revision/latest/scale-to-width-down/100?cb=20241021153241",
+        "url": "https://sfile.mobi/8mzHupOKswp"
+      },
+      {
+        "label": "Basic",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/0/09/Hero1092-icon.png/revision/latest?cb=20220118095053",
+        "url": "https://sfile.mobi/7LDHacuHQsY"
+      },
+      {
+        "label": "Elite",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/a/ad/Hero1094-icon.png/revision/latest?cb=20221223124541",
+        "url": "https://sfile.mobi/aZ5IWuiAesg"
+      },
+      {
+        "label": "Starlight",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/a/ad/Hero1094-icon.png/revision/latest?cb=20221223124541",
+        "url": "https://sfile.mobi/309ExBkA1OD"
+      }
+    ]
+  },
+  {
     "id": 79,
     "video": "",
     "title": "Edith Beyond the Clouds",
-    "category": "btc",
+    "category": "BTC",
     "slug": "edith-btc",
     "date": "2025-05-26",
     "shortStory": "Created by the Ancient Ones, Edith was the Primal Warden that watched over the sealed Evil Gods on the Sanctum Island. Awakened and injured in an earthquake, she lost her memories and was saved by her foster father who made a living by selling scraps and continued to raise her for ten years. When she once again helped her foster father enter the temple to search for scraps, the guardian of the ruins-Elemental Giant Uranus was prepared to destroy the invaders. It was then that Edith remembered everything, but her humanity overpowered her divine nature, and she fought Uranus to protect her foster father. Just then, the Celestial Palace fell and the sealed Evil Gods scattered. Edith parted with her foster father, drove her Mecha 'Phylax' and set out on a journey to hunt down fleeing Evil Gods.",
@@ -40,7 +129,7 @@
     "id": 78,
     "video": "",
     "title": "Xavier Beyond the Clouds",
-    "category": "btc",
+    "category": "BTC",
     "slug": "xavier-btc",
     "date": "2025-05-26",
     "shortStory": "Xavier was a member of the Knights of Light who was awarded the title 'Arbiter of Light'. After suppressing Terizla's Free Smiths' Guild, Xavier underwent a decade of inner struggle and despondency. And when he was ordered to capture the two 'heretics', Yin and Melissa, he was once again forced to choose between duty and conscience…",
@@ -72,7 +161,7 @@
     "id": 77,
     "video": "",
     "title": "Kagura Beyond the Clouds",
-    "category": "btc",
+    "category": "BTC",
     "slug": "kagura-btc",
     "date": "2025-05-26",
     "shortStory": "Though the Scarlet Shadow bestowed her a name and Hayabusa taught her of peace, the young Kagura remained uncertain of her true path. When she opened her umbrella in contemplation, she beheld not gentle rain but visions of calamity, eternities of regret, and a past seen through her umbrella. At last, Kagura understood: though born from lingering attachments, her path led toward freedom. She would carry both the regrets and hopes of those who had passed to experience the beauty of the mortal realm they were never able to, and embrace the future they were robbed of yet graciously bestowed upon her.",
@@ -129,7 +218,7 @@
     "id": 76,
     "video": "",
     "title": "Paquito KOF",
-    "category": "kof",
+    "category": "KOF",
     "slug": "paquito-kof",
     "date": "2025-05-26",
     "shortStory": "The Abyss grew in power, thrusting the Land of Dawn once more into the thick mists of eternal war. It was a true calamity that spread suffering throughout the Land of Dawn. Especially the Moniyan Empire's southern frontier. The creeping threat and corruption of the Abyss plunged this place into ruins and it stands now as a barren wilderness.",
@@ -181,7 +270,7 @@
     "id": 75,
     "video": "",
     "title": "Masha KOF",
-    "category": "kof",
+    "category": "KOF",
     "slug": "masha-kof",
     "date": "2025-05-26",
     "shortStory": "Leader of the Sami people who lives in the Northern Vale. After the wandering pirates of the Frozen Ocean began to invade the Northern Vale. Masha fought constantly with the pirates, and insisted on finding the Direbears, who had been scattered by the pirate invasion, to protect the land.",
@@ -223,7 +312,7 @@
     "id": 74,
     "video": "",
     "title": "Valir KOF",
-    "category": "kof",
+    "category": "KOF",
     "slug": "valir-kof",
     "date": "2025-05-26",
     "shortStory": "In his hometown of Agelta, he showed an amazing talent for arcane energy manipulation when he first arrived at the Magic Academy, so he was valued by his mentor Gord. But Gord got very angry when he discovered that he had incorporated the spells of his hometown into the arcane, thinking that he had defiled the arcane. After a battle between the master and the disciple, Valir left the Magic Academy.",
@@ -285,7 +374,7 @@
     "id": 73,
     "video": "",
     "title": "Aurora KOF",
-    "category": "kof",
+    "category": "KOF",
     "slug": "aurora-kof",
     "date": "2025-05-26",
     "shortStory": "Aurora, the Maiden of the Glacier, commanding the unwavering faith of innumerable mortals in the North, bestows eternity upon the world. In her youth, she endured the torment of her innate prowess for Frost Magic until the disciples of the Light brought her to Queen's Peak, whereupon she received an infusion of light which granted her immortality. Tearfully, her mother bade her farewell as she succumbed to the cold embrace of blizzard. Aurora slumbered for a thousand years atop the peak. Upon her awakening, the truth dawned on her: genuine eternity lay in fleeting emotions, such as her mother's final comforting smile. Thus, Aurora resolved to bestow this eternity upon the world. It was at that moment that a legend was born in the North. The legend spoke of people close to death who would climb Queen's Peak, seeking the frigid embrace of the goddess there. If granted, all of the one's memories, longings, and emotions would be left tot he goddess, who would cherish them until the end of time. And thus, they would live on the eternity.",
@@ -327,7 +416,7 @@
     "id": 72,
     "video": "",
     "title": "Gusion KOF",
-    "category": "kof",
+    "category": "KOF",
     "slug": "gusion-kof",
     "date": "2025-05-26",
     "shortStory": "Although he was born into the most powerful magic family on the continent, Gusion is not interested in magic. He is keen to draw inspiration from the holy light to develop new fighting skills. In the end, Gusion left the family.",
@@ -394,7 +483,7 @@
     "id": 71,
     "video": "",
     "title": "Dyrroth KOF",
-    "category": "kof",
+    "category": "KOF",
     "slug": "dyrroth-kof",
     "date": "2025-05-26",
     "shortStory": "Twelve years ago, a prince was born in the Moniyan Empire. He was a symbol of salvation and justice for his people. It was believed that he would lead the Moniyan Empire in unifying the Land of Dawn. The Empire Nobles gave everything to the prince..",
@@ -436,7 +525,7 @@
     "id": 70,
     "video": "",
     "title": "Karina KOF",
-    "category": "kof",
+    "category": "KOF",
     "slug": "karina-kof",
     "date": "2025-05-25",
     "shortStory": "Karina is the best killer among the Dark Elves who lived codependently with her younger sister Selena. But as the older sister, Karina failed to prevent Selena from dedicating herself to the Abyss. In order to stop her sister's evil deeds, and to find a way to bring her back, Karina embarked on a new journey.",
@@ -444,42 +533,42 @@
     "download": [
       {
         "label": "Default",
-        "icon": "",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/8/8a/Hero081-icon.png/revision/latest/scale-to-width-down/100?cb=20241021145117",
         "url": "https://sfile.mobi/73hRDFY6zKn"
       },
       {
         "label": "Basic",
-        "icon": "",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/a/a4/Hero082-icon.png/revision/latest?cb=20220125055642",
         "url": "https://sfile.mobi/bsBU4KfAaW7"
       },
       {
         "label": "Christmast",
-        "icon": "",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/c/c2/Hero083-icon.png/revision/latest?cb=20220125055638",
         "url": "https://sfile.mobi/7prRQrg3FS9"
       },
       {
         "label": "Starlight",
-        "icon": "",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/c/c1/Hero084-icon.png/revision/latest?cb=20220125055640",
         "url": "https://sfile.mobi/6zJRo4eTCMt"
       },
       {
         "label": "Elite",
-        "icon": "",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/b/b1/Hero085-icon.png/revision/latest?cb=20220125063050",
         "url": "https://sfile.mobi/8f9Sjl1uFyE"
       },
       {
         "label": "Luckybox",
-        "icon": "",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/7/7e/Hero086-icon.png/revision/latest?cb=20220125063052",
         "url": "https://sfile.mobi/7SZS7hozuMx"
       },
       {
         "label": "Zodiac",
-        "icon": "",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/d/d1/Hero088-icon.png/revision/latest?cb=20230623130814",
         "url": "https://sfile.mobi/aZ3TPulTawh"
       },
       {
         "label": "TOP UP",
-        "icon": "",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/c/c8/Hero089-icon.png/revision/latest?cb=20220125063053",
         "url": "https://sfile.mobi/8Q5SEqVkbKv"
       }
     ]
@@ -488,7 +577,7 @@
     "id": 69,
     "video": "",
     "title": "Guinevere KOF",
-    "category": "kof",
+    "category": "KOF",
     "slug": "guinevere-kof",
     "date": "2025-05-25",
     "shortStory": "As the youngest daughter of one of the few noble households in the Land of Dawn, House Baroque, she studied at the Magic Academy since she was a child, and is extremely talented in magic. The household wanted her to marry into another household with a higher status. Unwilling to be used as a political bargaining chip, Guinevere decided to seek help from her elder brother Lancelot.",
@@ -545,7 +634,7 @@
     "id": 68,
     "video": "",
     "title": "Chou KOF",
-    "category": "kof",
+    "category": "KOF",
     "slug": "-kof",
     "date": "2025-05-26",
     "shortStory": "Chou was born in a secluded slum deep in the hearts of poverty, living the lowest quality of life. Despite the dreadful conditions, Chou kept his heart of kindness, as day in and day out he continued to look after the old and the young there with passion. During this time, there was great turmoil and unrest in the Land of the Dawn; mayhem spread throughout the land and eventually started to affect this small remote area.",

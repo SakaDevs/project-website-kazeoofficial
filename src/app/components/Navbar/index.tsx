@@ -63,10 +63,10 @@ const Navbar = () => {
               </Link>
 
               <Link
-                href="/order"
+                href="/youtube"
                 className="hover:text-blue-600 transition-all"
               >
-                Order
+                Youtube
               </Link>
               <Link
                 href="/social"
@@ -99,7 +99,7 @@ const Navbar = () => {
             >
               <Link href="/">Home</Link>
               <Link href="/category">Category</Link>
-              <Link href="/order">Order</Link>
+              <Link href="/youtube">Youtube</Link>
               <Link href="/social">Social</Link>
               <InputSearch />
             </motion.div>
