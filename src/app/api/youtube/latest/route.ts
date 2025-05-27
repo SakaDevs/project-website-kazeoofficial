@@ -1,4 +1,3 @@
-// app/api/youtube/latest/route.ts
 import { NextResponse } from "next/server";
 
 const API_KEY = process.env.NEXT_PUBLIC_YOUTUBE_API_KEY;
@@ -18,15 +17,26 @@ export async function GET() {
     );
     const videoData = await videosRes.json();
 
-    const videos = videoData.items.map((item: any) => ({
-      title: item.snippet.title,
-      videoId: item.snippet.resourceId.videoId,
-      publishedAt: item.snippet.publishedAt,
-      thumbnail: item.snippet.thumbnails.high.url,
-    }));
+    const videos = videoData.items.map(
+      (item: {
+        snippet: {
+          title: string;
+          publishedAt: string;
+          thumbnails: {
+            high: { url: string };
+          };
+          resourceId: { videoId: string };
+        };
+      }) => ({
+        title: item.snippet.title,
+        videoId: item.snippet.resourceId.videoId,
+        publishedAt: item.snippet.publishedAt,
+        thumbnail: item.snippet.thumbnails.high.url,
+      })
+    );
 
     return NextResponse.json(videos);
-  } catch (err) {
+  } catch {
     return NextResponse.json(
       { error: "Failed to fetch videos" },
       { status: 500 }
