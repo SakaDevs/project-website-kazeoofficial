@@ -23,10 +23,17 @@ export default function CommunityPage() {
     fetch("/api/youtube/latest")
       .then((res) => res.json())
       .then((data) => {
-        setVideos(data);
+        if (Array.isArray(data)) {
+          setVideos(data);
+        } else {
+          console.error("API response is not an array:", data);
+        }
         setLoading(false);
       })
-      .catch(() => setLoading(false));
+      .catch((err) => {
+        console.error("Fetch failed:", err);
+        setLoading(false);
+      });
   }, []);
 
   if (loading)
