@@ -1,5 +1,62 @@
 [
   {
+    "id": 86,
+    "video": "https://youtu.be/A5jxo7HSZlc",
+    "title": "Jawhead Allstar",
+    "category": "allstar",
+    "slug": "jawhead-allstar",
+    "date": "2025-05-29",
+    "shortStory": "This intelligent robot developed by Henry and his wife is armed with weapons and strong defensive capabilities, and can also act as a housekeeper. It is responsible for protecting the couple's daughter little Ailee after their disappearance.",
+    "image": "/images/jawallstar.jpg",
+    "download": [
+      {
+        "label": "Default",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/1/1c/Hero541-icon.png/revision/latest/scale-to-width-down/100?cb=20241021145558",
+        "url": "https://sfile.mobi/66dMmvpQoEB"
+      },
+      {
+        "label": "Basic",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/5/56/Hero542-icon.png/revision/latest?cb=20220126142009",
+        "url": "https://sfile.mobi/597LQAiozeP"
+      },
+      {
+        "label": "MSC",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/c/c8/Hero543-icon.png/revision/latest?cb=20220126142011",
+        "url": "https://sfile.mobi/9chO5AWWYw2"
+      },
+      {
+        "label": "Elite",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/1/1c/Hero544-icon.png/revision/latest?cb=20220126142007",
+        "url": "https://sfile.mobi/8fbNz95ecER"
+      },
+      {
+        "label": "Special",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/5/54/Hero545-icon.png/revision/latest?cb=20220126142005",
+        "url": "https://sfile.mobi/bONPxFqMLY7"
+      },
+      {
+        "label": "Collector",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/3/31/Hero546-icon.png/revision/latest?cb=20220126142001",
+        "url": "https://sfile.mobi/4qNLtaHA8Mm"
+      },
+      {
+        "label": "Starlight",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/f/f2/Hero547-icon.png/revision/latest?cb=20220126142003",
+        "url": "https://sfile.mobi/a9nOD6jdD2x"
+      },
+      {
+        "label": "MPL",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/0/0f/Hero548-icon.png/revision/latest?cb=20220805125355",
+        "url": "https://sfile.mobi/7wRNbyzENaJ"
+      },
+      {
+        "label": "Season",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/0/09/Hero549-icon.png/revision/latest?cb=20241013071631",
+        "url": "https://sfile.mobi/4ybLxMipNK3"
+      }
+    ]
+  },
+  {
     "id": 85,
     "video": "https://youtu.be/p5PsJCXezBo",
     "title": "Kadita Starlight",
