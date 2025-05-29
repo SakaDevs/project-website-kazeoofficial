@@ -1,5 +1,42 @@
 [
   {
+    "id": 85,
+    "video": "https://youtu.be/p5PsJCXezBo",
+    "title": "Kadita Starlight",
+    "category": "starlight",
+    "slug": "kadita-starlight",
+    "date": "2025-05-29",
+    "shortStory": "A princess of a certain island country in the Vonetis Islands. She was victimized by poltical enemies and lost her beauty and power. When she threw herself into the sea in despair, an Elf in the sea rescued her. After that, she regained her beauty and turned into the form of a mermaid. With the help of the Elves, she became the Queen of the Southern Seas who all sailors fear.",
+    "image": "/images/kaditastar.jpg",
+    "download": [
+      {
+        "label": "Default",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/4/46/Hero751-icon.png/revision/latest/scale-to-width-down/100?cb=20241021145759",
+        "url": "https://sfile.mobi/1kJJpEYzKIb"
+      },
+      {
+        "label": "Basic",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/4/46/Hero751-icon.png/revision/latest/scale-to-width-down/100?cb=20241021145759",
+        "url": "https://sfile.mobi/4c1KZIeLZew"
+      },
+      {
+        "label": "Special",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/2/2b/Hero753-icon.png/revision/latest?cb=20220125050133",
+        "url": "https://sfile.mobi/blfOXsAV0s7"
+      },
+      {
+        "label": "MPL",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/6/6c/Hero755-icon.png/revision/latest?cb=20230805044000",
+        "url": "https://sfile.mobi/5CFLO3JysEu"
+      },
+      {
+        "label": "Create",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/f/f2/Hero756-icon.png/revision/latest?cb=20241013072541",
+        "url": "https://sfile.mobi/44DKXdD26cf"
+      }
+    ]
+  },
+  {
     "id": 84,
     "video": "",
     "title": "Brody STUN",
