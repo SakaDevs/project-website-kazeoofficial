@@ -28,23 +28,14 @@ export const metadata: Metadata = {
 
 export default function RootLayout({
   children,
-}: Readonly<{
+}: {
   children: React.ReactNode;
-}>) {
+}) {
   return (
     <html lang="en">
-      <head>
-        {/* Optional: OG Meta Tags untuk lebih baik di social media dan Google */}
-        <meta property="og:title" content="Kazeo Official" />
-        <meta property="og:description" content="Situs resmi Kazeo Official" />
-        <meta property="og:image" content="/profile.ico" />
-        <meta property="og:type" content="website" />
-        <meta name="theme-color" content="#2563eb" />
-      </head>
       <body
         className={`${geistSans.variable} ${geistMono.variable} antialiased`}
       >
-        {" "}
         <RunningText />
         <Navbar />
         <PageWrapper>{children}</PageWrapper>

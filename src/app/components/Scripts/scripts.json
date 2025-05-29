@@ -1,5 +1,176 @@
 [
   {
+    "id": 84,
+    "video": "",
+    "title": "Brody STUN",
+    "category": "STUN",
+    "slug": "brody-stun",
+    "date": "2025-05-29",
+    "shortStory": "Brody lost his memory and wandered aimlessly between the villages of the Barren Lands, but there was always a voice in his heart asking him to hunt the Demons. In countless battles, Brody gradually recalled his past. Once, because of his mistakes, his village was massacred by the Demons and his right hand was also corroded. Now he understands his mission, in order to protect the people around him, Brody will always be fighting in a foreign land.",
+    "image": "/images/brodystun.jpg",
+    "download": [
+      {
+        "label": "Default",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/1/12/Hero1001-icon.png/revision/latest?cb=20241021153151",
+        "url": "https://sfile.mobi/7wPMdaNN1mC"
+      },
+      {
+        "label": "Basic",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/a/a6/Hero1002-icon.png/revision/latest?cb=20220126142648",
+        "url": "https://sfile.mobi/5CDLa69AuQQ"
+      },
+      {
+        "label": "Starlight",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/5/5d/Hero1004-icon.png/revision/latest?cb=20220126142657",
+        "url": "https://sfile.mobi/3eTJQI7968w"
+      },
+      {
+        "label": "Collector",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/0/08/Hero1005-icon.png/revision/latest?cb=20220401091143",
+        "url": "https://sfile.mobi/4MVKHU3bqwb"
+      },
+      {
+        "label": "MPL",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/c/c5/Hero1006-icon.png/revision/latest?cb=20230212040126",
+        "url": "https://sfile.mobi/b6rOcdTCvK7"
+      },
+      {
+        "label": "APBren",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/3/39/Hero1007-icon.png/revision/latest?cb=20241013071655",
+        "url": "https://sfile.mobi/bldOkyvuVi7"
+      },
+      {
+        "label": "Neobeast",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/7/7c/Hero1008-icon.png/revision/latest?cb=20250301113848",
+        "url": "https://sfile.mobi/3eTJRpMb1uz"
+      }
+    ]
+  },
+  {
+    "id": 83,
+    "video": "",
+    "title": "Selena STUN",
+    "category": "STUN",
+    "slug": "selena-stun",
+    "date": "2025-05-29",
+    "shortStory": "The Dark Elf Selena had been dependent on her sister Karina since childhood. Selena maintained her innocent nature under the protection of her sister, until she discovered the dirty things her sister Karina had done for her. She thought that she had become a burden for her sister. In order to gain more power, she dedicated herself to the Abyss, but did not want to be completely controlled by the Abyss and ultimately became a horrifying demon.",
+    "image": "/images/selenastun.jpg",
+    "download": [
+      {
+        "label": "Default",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/d/d4/Hero631-icon.png/revision/latest?cb=20241021145650",
+        "url": "https://sfile.mobi/avvNLFCizek"
+      },
+      {
+        "label": "Basic",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/e/e3/Hero632-icon.png/revision/latest?cb=20220126142249",
+        "url": "https://sfile.mobi/7prM3ZpfPOF"
+      },
+      {
+        "label": "Virus",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/b/b0/Hero633-icon.png/revision/latest?cb=20220126142312",
+        "url": "https://sfile.mobi/1GRIUpD8je3"
+      },
+      {
+        "label": "Zodiac",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/b/b8/Hero634-icon.png/revision/latest?cb=20230623130906",
+        "url": "https://sfile.mobi/8BjMJ7ImZif"
+      },
+      {
+        "label": "Starlight",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/7/78/Hero635-icon.png/revision/latest?cb=20220126142245",
+        "url": "https://sfile.mobi/2wzJnjoziUI"
+      },
+      {
+        "label": "Luckybox",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/2/2b/Hero636-icon.png/revision/latest?cb=20220126142243",
+        "url": "https://sfile.mobi/bldOfh2Luw7"
+      },
+      {
+        "label": "Elite",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/1/14/Hero637-icon.png/revision/latest?cb=20220126142241",
+        "url": "https://sfile.mobi/8Q5MRO9LnUL"
+      },
+      {
+        "label": "Abyss",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/a/aa/Hero639-icon.png/revision/latest?cb=20220126142237",
+        "url": "https://sfile.mobi/bHnOrRpXCS7"
+      },
+      {
+        "label": "Zenith",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/1/11/Hero106311-icon.png/revision/latest?cb=20250106155532",
+        "url": "https://sfile.mobi/8IHMO58ICWc"
+      }
+    ]
+  },
+  {
+    "id": 82,
+    "video": "",
+    "title": "Chou STUN",
+    "category": "STUN",
+    "slug": "chou-stun",
+    "date": "2025-05-29",
+    "shortStory": "Chou was born in a secluded slum deep in the hearts of poverty, living the lowest quality of life. Despite the dreadful conditions, Chou kept his heart of kindness, as day in and day out he continued to look after the old and the young there with passion. During this time, there was great turmoil and unrest in the Land of the Dawn; mayhem spread throughout the land and eventually started to affect this small remote area.",
+    "image": "/images/choustun.jpg",
+    "download": [
+      {
+        "label": "Default",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/a/a9/Hero261-icon.png/revision/latest/scale-to-width-down/100?cb=20241021145315",
+        "url": "https://sfile.mobi/37vKvSxkxq6"
+      },
+      {
+        "label": "Basic",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/b/ba/Hero262-icon.png/revision/latest?cb=20221022075048",
+        "url": "https://sfile.mobi/bHnPfGuphK7"
+      },
+      {
+        "label": "Luckybox",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/d/d1/Hero263-icon.png/revision/latest?cb=20220126042108",
+        "url": "https://sfile.mobi/bsBOkW89207"
+      },
+      {
+        "label": "Elite",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/4/4e/Hero264-icon.png/revision/latest?cb=20220126042106",
+        "url": "https://sfile.mobi/8tVMH9QU2Qu"
+      },
+      {
+        "label": "Special",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/a/a9/Hero265-icon.png/revision/latest?cb=20220126042104",
+        "url": "https://sfile.mobi/4FxKAPDK12E"
+      },
+      {
+        "label": "KOF",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/9/96/Hero266-icon.png/revision/latest?cb=20220126042102",
+        "url": "https://sfile.mobi/a1XNywHHlSY"
+      },
+      {
+        "label": "Starlight",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/8/80/Hero267-icon.png/revision/latest?cb=20220126042100",
+        "url": "https://sfile.mobi/7prM79STuMS"
+      },
+      {
+        "label": "Dawning",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/1/16/Hero268-icon.png/revision/latest?cb=20220119085348",
+        "url": "https://sfile.mobi/6zJLEMRJrGm"
+      },
+      {
+        "label": "Dragon Shiryu",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/a/ad/Hero102610-icon.png/revision/latest?cb=20220915135005",
+        "url": "https://sfile.mobi/9r1NeQ7VGoY"
+      },
+      {
+        "label": "Libra Shiryu",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/5/54/Hero102611-icon.png/revision/latest?cb=20220915135007",
+        "url": "https://sfile.mobi/5nRL0mdEdyM"
+      },
+      {
+        "label": "Champion",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/9/96/Hero102612-icon.png/revision/latest?cb=20230805044014",
+        "url": "https://sfile.mobi/37vJLVBys8o"
+      }
+    ]
+  },
+  {
     "id": 81,
     "video": "",
     "title": "Hanabi Soul Vessels",
@@ -31,7 +202,7 @@
       },
       {
         "label": "Starlight",
-        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/1/1f/Hero606-icon.png/revision/latest?cb=20220126141819",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/f/ff/Hero605-icon.png/revision/latest?cb=20220126141821",
         "url": "https://sfile.mobi/8XvHMw9HiMU"
       },
       {
@@ -648,7 +819,7 @@
       {
         "label": "Basic",
         "icon": "https://static.wikia.nocookie.net/mobile-legends/images/b/ba/Hero262-icon.png/revision/latest?cb=20221022075048",
-        "url": "https://sfile.mobi/5gvBSj2gAgv"
+        "url": "https://sfile.mobi/7T1DkcBlnOB"
       },
       {
         "label": "Luckybox",

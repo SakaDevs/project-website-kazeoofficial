@@ -13,6 +13,7 @@
     "isolatedModules": true,
     "jsx": "preserve",
     "incremental": true,
+    "typeRoots": ["./node_modules/@types", "./src/types"],
     "plugins": [
       {
         "name": "next"
@@ -28,7 +29,8 @@
     "**/*.tsx",
     ".next/types/**/*.ts",
     "src/app/components/Navbar/InputSearch/index.jsx",
-    "src/app/loading.tsx"
-, "tailwind.config.js"  ],
+    "src/app/loading.tsx",
+    "tailwind.config.js"
+  ],
   "exclude": ["node_modules"]
 }

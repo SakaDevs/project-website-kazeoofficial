@@ -1,0 +1,15 @@
+[
+  {
+    "id": "1",
+    "content": "Selamat datang di komunitas Kazeo! Ini adalah post pertama.",
+    "imageUrl": "/images/default.jpg",
+    "createdAt": "2025-05-29T10:00:00Z",
+    "author": {
+      "name": "Admin",
+      "role": "admin"
+    },
+    "likes": 0,
+    "dislikes": 0,
+    "comments": []
+  }
+]
