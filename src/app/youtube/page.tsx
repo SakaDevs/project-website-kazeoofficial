@@ -19,6 +19,13 @@ const poppins = Poppins({
 export default function CommunityPage() {
   const [videos, setVideos] = useState<VideoData[]>([]);
   const [loading, setLoading] = useState(true);
+  const [subs, setSubs] = useState<string>("...");
+
+  useEffect(() => {
+    fetch("/api/youtube-subs")
+      .then((res) => res.json())
+      .then((data) => setSubs(data.subscribers));
+  }, []);
 
   useEffect(() => {
     fetch("/api/youtube/latest")
@@ -48,35 +55,38 @@ export default function CommunityPage() {
 
   return (
     <PageWrapper>
-      <div
-        className={`${poppins.className} p-6 flex flex-col text-center items-center `}
-      >
-        <h1 className="text-2xl font-bold mb-6">Video Terbaru</h1>
-        <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4 w-full max-w-9xl p-4 outline rounded">
-          {videos.map((video) => (
-            <div
-              key={video.videoId}
-              className="bg-white shadow-lg rounded-xl overflow-hidden hover:scale-102 transition-all"
-            >
-              <iframe
-                width="200"
-                height="170"
-                src={`https://www.youtube.com/embed/${video.videoId}`}
-                title={video.title}
-                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                allowFullScreen
-                className="w-full"
-              ></iframe>
-              <div className="p-4 text-left">
-                <h2 className="font-semibold text-sm">{video.title}</h2>
-                <p className="text-sm text-gray-600">
-                  Published: {new Date(video.publishedAt).toLocaleString()}
-                </p>
-              </div>
-            </div>
-          ))}
+      <main className={`${poppins.className} p-6`}>
+        <div className="md:text-lg text-sm mb-4 outline p-4">
+          <div className="flex flex-row justify-between font-bold">
+            <h1 className="mb-5">Video Terbaru</h1>
+            <h1 className="md:text-base text-xs mt-0.5">🎥 Subs : {subs}</h1>
+          </div>
+          <ul className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-5 gap-4 rounded">
+            {videos.map((video) => (
+              <li
+                key={video.videoId}
+                className="bg-white shadow-lg overflow-hidden hover:hover:scale-105 duration-100 transition-all flex flex-col rounded"
+              >
+                <iframe
+                  width="200"
+                  height="150"
+                  src={`https://www.youtube.com/embed/${video.videoId}`}
+                  title={video.title}
+                  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                  allowFullScreen
+                  className="w-full"
+                ></iframe>
+                <div className="py-4 px-2 text-left flex-1 flex flex-col justify-between">
+                  <h2 className="text-sm mb-2">{video.title}</h2>
+                  <p className="text-xs font-thin mt-auto">
+                    Diupload: {new Date(video.publishedAt).toLocaleString()}
+                  </p>
+                </div>
+              </li>
+            ))}
+          </ul>
         </div>
-      </div>
+      </main>
     </PageWrapper>
   );
 }

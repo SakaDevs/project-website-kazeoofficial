@@ -47,7 +47,7 @@ export default function Page({ params }: PageProps) {
             {filteredScripts.map((script) => (
               <li
                 key={script.id}
-                className="bg-white rounded shadow hover:shadow-lg transition overflow-hidden"
+                className="bg-white rounded shadow hover:hover:scale-105 duration-100 transition-all"
               >
                 <Link href={`/heroonly/${script.slug}`} className="flex">
                   <div className="cursor-pointer rounded">

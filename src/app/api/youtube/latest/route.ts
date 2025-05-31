@@ -13,7 +13,7 @@ export async function GET() {
       playlistData.items[0].contentDetails.relatedPlaylists.uploads;
 
     const videosRes = await fetch(
-      `https://www.googleapis.com/youtube/v3/playlistItems?part=snippet&playlistId=${uploadsPlaylistId}&maxResults=8&key=${API_KEY}`
+      `https://www.googleapis.com/youtube/v3/playlistItems?part=snippet&playlistId=${uploadsPlaylistId}&maxResults=10&key=${API_KEY}`
     );
     const videoData = await videosRes.json();
 

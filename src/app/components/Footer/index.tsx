@@ -5,7 +5,6 @@ import Image from "next/image";
 import Link from "next/link";
 import { Poppins } from "next/font/google";
 import { YoutubeLogo, TelegramLogo } from "@phosphor-icons/react";
-
 const poppins = Poppins({
   subsets: ["latin"],
   weight: "400",
@@ -162,7 +161,7 @@ const Footer = () => {
                 </Link>
               </div>
               <p className="text-sm text-gray-600">
-                kalo ada lebihan, boleh lah.
+                Kalo ada lebihan, boleh lah.
               </p>
             </div>
           </div>
