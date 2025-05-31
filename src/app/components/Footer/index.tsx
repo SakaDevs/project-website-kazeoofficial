@@ -80,7 +80,7 @@ const Footer = () => {
                   href="/youtube"
                   className="text-gray-600 hover:text-blue-600 transition-all"
                 >
-                  Youtbe
+                  Youtube
                 </Link>
               </li>
               <li>
