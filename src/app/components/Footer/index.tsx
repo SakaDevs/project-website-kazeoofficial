@@ -69,18 +69,18 @@ const Footer = () => {
               </li>
               <li>
                 <Link
-                  href="/allscript"
+                  href="/allhero"
                   className="text-gray-600 hover:text-blue-600 transition-all"
                 >
-                  All
+                  All Hero
                 </Link>
               </li>
               <li>
                 <Link
-                  href="/order"
+                  href="/youtube"
                   className="text-gray-600 hover:text-blue-600 transition-all"
                 >
-                  Order
+                  Youtbe
                 </Link>
               </li>
               <li>

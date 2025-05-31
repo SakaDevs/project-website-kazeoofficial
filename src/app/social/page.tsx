@@ -14,7 +14,7 @@ const Page = () => {
     <PageWrapper>
       <div className={`${poppins.className} p-6 `}>
         <div className="grid md:grid-cols-2 grid-cols-1 gap-4 p-4 outline">
-          <div className="flex flex-col shadow md:shadow-2xl items-center text-center gap-4 hover:scale-105 duration-700 transition-all">
+          <div className="flex flex-col shadow md:shadow-2xl items-center text-center gap-4 hover:scale-102 duration-700 transition-all">
             <h3 className="font-bold text-lg md:text-lg">Main Channel</h3>
             <Image
               src="https://yt3.googleusercontent.com/b6WjkWqyoXOwf0j2iOnpJfaMoDgvgHidMPajLTWoHpoNEXg-SjDl9ChdrU_leZ0O3Urq_GxT=s160-c-k-c0x00ffffff-no-rj"
@@ -68,7 +68,7 @@ const Page = () => {
             <h3>Subscribe Now</h3>
           </Link>
         </div> */}
-          <div className="flex flex-col shadow md:shadow-2xl items-center text-center gap-4 hover:scale-105 duration-700 transition-all">
+          <div className="flex flex-col shadow md:shadow-2xl items-center text-center gap-4 hover:scale-102 duration-700 transition-all">
             <h3 className="font-bold text-lg md:text-lg">Telegram Channel</h3>
             <Image
               src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png"

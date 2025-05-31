@@ -1,5 +1,147 @@
 [
   {
+    "id": 90,
+    "video": "",
+    "title": "Thamuz Kungfu Panda",
+    "category": "kungfu panda",
+    "slug": "thamuz-kungfu-panda",
+    "date": "2025-05-31",
+    "shortStory": "A warrior who believed in the Abyss and was appointed as the leader of the Abyss Legion. Because the Fire Demons were affected by the Abyss for thousands of years and are considered the race closest to Abyss, Thamuz has always had a high sense of superiority and self-esteem.",
+    "image": "/images/thamuzkunf.jpg",
+    "download": [
+      {
+        "label": "Default",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/1/17/Hero721-icon.png/revision/latest/scale-to-width-down/100?cb=20241021145742",
+        "url": "https://sfile.mobi/a1Y1zxm0Ss1"
+      },{
+        "label": "Basic",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/e/ea/Hero722-icon.png/revision/latest?cb=20220126142145",
+        "url": "https://sfile.mobi/307XGKqdtuf"
+      },{
+        "label": "Elite",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/3/37/Hero723-icon.png/revision/latest?cb=20220126142146",
+        "url": "https://sfile.mobi/5YNZl3rJpCR"
+      },{
+        "label": "Special",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/e/e2/Hero724-icon.png/revision/latest?cb=20220126142731",
+        "url": "https://sfile.mobi/8II0R1RmVOF"
+      },{
+        "label": "Starlight",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/6/6b/Hero726-icon.png/revision/latest?cb=20230805043958",
+        "url": "https://sfile.mobi/7LC0kzZEaWs"
+      }
+    ]
+  },
+  {
+    "id": 89,
+    "video": "",
+    "title": "Akai Kungfu Panda",
+    "category": "kungfu panda",
+    "slug": "akai-kungfu-panda",
+    "date": "2025-05-31",
+    "shortStory": "Once there was a panda in Stream Valley named Akai. With the dream of becoming a hero, he was always eager to offer help, but often ended up causing more trouble instead. He worked hard to pursue his dream, and although he'd once wandered off right the path. In the end, he recalled his original intention and become a true hero.",
+    "image": "/images/akaikunf.jpg",
+    "download": [
+      {
+        "label": "Default",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/b/be/Hero091-icon.png/revision/latest/scale-to-width-down/100?cb=20241021145133",
+        "url": "https://sfile.mobi/agK1IoIaeQH"
+      },
+      {
+        "label": "Summer",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/c/ca/Hero092-icon.png/revision/latest?cb=20220125055637",
+        "url": "https://sfile.mobi/7i404CqVfa4"
+      },
+      {
+        "label": "Elite",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/1/1e/Hero093-icon.png/revision/latest?cb=20220125055634",
+        "url": "https://sfile.mobi/2wzXrFrht2f"
+      },
+      {
+        "label": "Starlight",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/8/8b/Hero094-icon.png/revision/latest?cb=20220125055631",
+        "url": "https://sfile.mobi/2pbXnLvtJil"
+      },
+      {
+        "label": "Luckybox",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/7/7b/Hero095-icon.png/revision/latest?cb=20220125055629",
+        "url": "https://sfile.mobi/1ztWVzp4EQq"
+      },
+      {
+        "label": "Elite (Top Up)",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/4/4d/Hero096-icon.png/revision/latest?cb=20220118094826",
+        "url": "https://sfile.mobi/6zJZH1VlQWT"
+      },
+      {
+        "label": "Season",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/8/8f/Hero097-icon.png/revision/latest?cb=20220125055627",
+        "url": "https://sfile.mobi/a9m1FygUo04"
+      },
+      {
+        "label": "Halloween",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/7/79/Hero099-icon.png/revision/latest?cb=20240304132956",
+        "url": "https://sfile.mobi/7LC0maesZay"
+      },
+      {
+        "label": "Anniversary",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/c/c5/Hero100910-icon.png/revision/latest?cb=20240903070444",
+        "url": "https://sfile.mobi/1ztWWh46A8q"
+      }
+    ]
+  },
+  {
+    "id": 88,
+    "video": "",
+    "title": "Ling Kungfu Panda",
+    "category": "kungfu panda",
+    "slug": "ling-kungfu-panda",
+    "date": "2025-05-31",
+    "shortStory": "Ling once belonged to the Finch Sect, a mysterious and feared order of assassins from the Cadia Riverlands. During a mission, he nearly lost his life but was saved by the Vermilion Bird; it was an encounter that would kindle his yearning for freedom. In a bargain to leave the Finch Sect, he undertook one last mission to infiltrate the Dragon Altar. It wasn't until he allied with Yu Zhong, the reincarnation of the Black Dragon, to break the seal of the Dragon Altar, that the spirit of the Vermilion Bird once again saved his life. Only then did he see the truth and understand the meaning of freedom. In this world, the Vermilion Bird had faded away, leaving only Ling, a young man with wings to soar freely among the clouds like the Cyan Finch.",
+    "image": "/images/lingkunf.jpg",
+    "download": [
+      {
+        "label": "Default",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/c/ca/Hero841-icon.png/revision/latest?cb=20241021153020",
+        "url": "https://sfile.mobi/6OvZLjtNHUU"
+      },
+      {
+        "label": "Basic",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/c/cc/Hero842-icon.png/revision/latest?cb=20240619162207",
+        "url": "https://sfile.mobi/94S11kkIikJ"
+      },
+      {
+        "label": "Starlight",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/5/56/Hero843-icon.png/revision/latest?cb=20220126142724",
+        "url": "https://sfile.mobi/3tFXVPp9u8D"
+      },
+      {
+        "label": "Dragon Tamer",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/d/de/Hero844-icon.png/revision/latest?cb=20220119085344",
+        "url": "https://sfile.mobi/6slZA8qFqgs"
+      },
+      {
+        "label": "Special",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/d/da/Hero845-icon.png/revision/latest?cb=20220126142312",
+        "url": "https://sfile.mobi/51HYN1lbOov"
+      },
+      {
+        "label": "M World",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/a/a9/Hero847-icon.png/revision/latest?cb=20220401091145",
+        "url": "https://sfile.mobi/8Q60U3dnLqf"
+      },
+      {
+        "label": "Collector",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/b/bf/Hero846-icon.png/revision/latest?cb=20220126142634",
+        "url": "https://sfile.mobi/2wzXpJmWG0Y"
+      },
+      {
+        "label": "Neobeast",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/4/49/Hero108410-icon.png/revision/latest?cb=20250301113846",
+        "url": "https://sfile.mobi/3B3Y0MPv6MX"
+      }
+    ]
+  },
+  {
     "id": 87,
     "video": "https://youtu.be/Dh60nFrawQs",
     "title": "Eudora Luckybox",
