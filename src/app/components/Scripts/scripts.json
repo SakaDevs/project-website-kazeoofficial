@@ -1,5 +1,617 @@
 [
   {
+    "id": 103,
+    "video": "",
+    "title": "Martis Zodiac",
+    "category": "zodiac",
+    "slug": "martis-zodiac",
+    "date": "2025-06-02",
+    "shortStory": "The Shura clan have thrived in isolation for countless generations, in the Arcapada universe. Their men, renowned for being the world's bravest fighters, and their women famed for being the world's greatest beauties. At the heart of the Shura clan's beliefs lies the legend of the Three Thousand Worlds. The legends speaks of three thousand secret worlds, which upon entering, one must face various levels of psychic and physical trials and advance to world after world upon victory. The people of the Shura clan had discovered a way to enter these worlds, and only those who have conquered over three hundred worlds could be granted the title of Asura, raising them to the level of a demigod in the eyes of their people. However, in the innumerable eons of Shura history, none managed to conquer the fabled three thousand world, until Martis appeared.",
+    "image": "/images/martiszodiac.jpg",
+    "download": [
+      {
+        "label": "Default",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/a/ac/Hero581-icon.png/revision/latest/scale-to-width-down/100?cb=20241021145622",
+        "url": "https://sfile.mobi/9chW5bW3v2n"
+      },
+      {
+        "label": "Basic",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/8/81/Hero582-icon.png/revision/latest?cb=20220126141846",
+        "url": "https://sfile.mobi/8fbVyK4kJq5"
+      },
+      {
+        "label": "OLD Starlight",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Hero583-icon.png/revision/latest?cb=20220126141844",
+        "url": "https://sfile.mobi/8XvVXo4s1yt"
+      },
+      {
+        "label": "Luckybox",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/6/6b/Hero584-icon.png/revision/latest?cb=20220805131452",
+        "url": "https://sfile.mobi/1OhS0S7BS0n"
+      },
+      {
+        "label": "Special",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/a/a2/Hero586-icon.png/revision/latest?cb=20220126141842",
+        "url": "https://sfile.mobi/6zLUEaWLBKC"
+      },
+      {
+        "label": "Attack on Titan",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/6/66/Hero587-icon.png/revision/latest/scale-to-width-down/100?cb=20240314070654",
+        "url": "https://sfile.mobi/309SG0qJ1mS"
+      },
+      {
+        "label": "NEW Starlight",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/e/eb/Hero588-icon.png/revision/latest?cb=20241013072531",
+        "url": "https://sfile.mobi/7EfVfepk2sx"
+      }
+    ]
+  },
+  {
+    "id": 102,
+    "video": "",
+    "title": "Irithel Zodiac",
+    "category": "zodiac",
+    "slug": "irithel-zodiac",
+    "date": "2025-06-02",
+    "shortStory": "A jungle orphan raised by a smilodon, was rescued by Leonin Nana when she was almost caught by a human slave trader. With the help of Nana, she learned the human language and fighting skills, but she still didn't trust humans and only trusted her friend, a little tiger named Leo.",
+    "image": "/images/irithelzodiac.jpg",
+    "download": [
+      {
+        "label": "Default",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/5/58/Hero431-icon.png/revision/latest/scale-to-width-down/100?cb=20241021145456",
+        "url": "https://sfile.mobi/3mi3WGwXBmV"
+      },
+      {
+        "label": "Basic",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/f/f5/Hero432-icon.png/revision/latest?cb=20220126141846",
+        "url": "https://sfile.mobi/2aq3i4Y7oor"
+      },
+      {
+        "label": "Epic",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/1/1b/Hero433-icon.png/revision/latest?cb=20220126141844",
+        "url": "https://sfile.mobi/2wA3uuqywU4"
+      },
+      {
+        "label": "OLD Starlight",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/7/75/Hero434-icon.png/revision/latest?cb=20220126141842",
+        "url": "https://sfile.mobi/8II6UJqqTCE"
+      },
+      {
+        "label": "NEW Starlight",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/4/41/Hero438-icon.png/revision/latest?cb=20241201053046",
+        "url": "https://sfile.mobi/5CE5cSiDbqW"
+      },
+      {
+        "label": "Ducati",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/a/af/Hero437-icon.png/revision/latest?cb=20240311115954",
+        "url": "https://sfile.mobi/2hO3mRtI2gn"
+      },
+      {
+        "label": "Luckybox",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/3/32/Hero436-icon.png/revision/latest?cb=20220920091018",
+        "url": "https://sfile.mobi/2pc3r7f1JGO"
+      }
+    ]
+  },
+  {
+    "id": 101,
+    "video": "",
+    "title": "Helcurt Zodiac",
+    "category": "zodiac",
+    "slug": "helcurt-zodiac",
+    "date": "2025-06-02",
+    "shortStory": "Helcurt was born into the Styx Clan of the Abyss and bore the stigma of his clan's betrayal against the Lord of the Abyss. However, in a twist of fate, he was put on the Tribunal tasked with executing traitors for the Lord. To survive, Helcurt was willing to do anything, including hunting his own kin. Yet, during the great uprising against the Lord of the Abyss, Helcurt was the one who slew him. He was born a traitor and never knew the honor of loyalty, but even as a traitor, he had the right to live.",
+    "image": "/images/helcurtzodiac.jpg",
+    "download": [
+      {
+        "label": "Default",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/e/eb/Hero511-icon.png/revision/latest/scale-to-width-down/100?cb=20241021145541",
+        "url": "https://sfile.mobi/8mzVBAvAA0u"
+      },
+      {
+        "label": "Basic",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/a/a3/Hero512-icon.png/revision/latest?cb=20240429083347",
+        "url": "https://sfile.mobi/2LnSwguMKI2"
+      },
+      {
+        "label": "Elite",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/7/78/Hero513-icon.png/revision/latest?cb=20221022072106",
+        "url": "https://sfile.mobi/6snUyvRo3ur"
+      },
+      {
+        "label": "Special",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/d/d0/Hero514-icon.png/revision/latest?cb=20220126141750",
+        "url": "https://sfile.mobi/3mjSQPElksO"
+      },
+      {
+        "label": "Starlight",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/0/08/Hero516-icon.png/revision/latest?cb=20250105154932",
+        "url": "https://sfile.mobi/2hPSgiW3Q4t"
+      }
+    ]
+  },
+  {
+    "id": 100,
+    "video": "",
+    "title": "Lunox Zodiac",
+    "category": "zodiac",
+    "slug": "lunox-zodiac",
+    "date": "2025-06-02",
+    "shortStory": "Lunox was born with magical powers, and her dreamworld reflects and changes the real world. With this power, she uses her dreamworld to temporarily maintain the balance of energy between order and chaos. But as the power of order and the power of chaos rushed into her dreams, Lunox fell into a long sleep and turned into one of the Twilight Orbs.",
+    "image": "/images/lunoxzodiac.jpg",
+    "download": [
+      {
+        "label": "Default",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/f/f6/Hero681-icon.png/revision/latest/scale-to-width-down/100?cb=20241021145719",
+        "url": "https://sfile.mobi/bdRX7WxSdG7"
+      },
+      {
+        "label": "Basic",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/0/02/Hero682-icon.png/revision/latest?cb=20220126142158",
+        "url": "https://sfile.mobi/aRHWVSUX2o2"
+      },
+      {
+        "label": "Elite",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/4/4d/Hero683-icon.png/revision/latest?cb=20220126142156",
+        "url": "https://sfile.mobi/6OxUHVKWw8P"
+      },
+      {
+        "label": "Starlight",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/f/f5/Hero684-icon.png/revision/latest?cb=20220126142154",
+        "url": "https://sfile.mobi/1VFS0nat56t"
+      },
+      {
+        "label": "Luckybox",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/1/11/Hero687-icon.png/revision/latest?cb=20220126142713",
+        "url": "https://sfile.mobi/2SLSxaRHOwZ"
+      },
+      {
+        "label": "Epic (Eyes)",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/1/11/Hero687-icon.png/revision/latest?cb=20220126142713",
+        "url": "https://sfile.mobi/6dBUnIqTUkv"
+      },
+      {
+        "label": "Epic (Dawn)",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/b/b6/Hero688-icon.png/revision/latest?cb=20220126142705",
+        "url": "https://sfile.mobi/5RrUbENYJio"
+      },
+      {
+        "label": "Legend",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/8/82/Hero689-icon.png/revision/latest?cb=20230623130915",
+        "url": "https://sfile.mobi/5YPUg5u3pCl"
+      },
+      {
+        "label": "Elite (Top Up)",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/2/24/Hero106810-icon.png/revision/latest?cb=20240619163035",
+        "url": "https://sfile.mobi/7ptV3czx16y"
+      }
+    ]
+  },
+  {
+    "id": 99,
+    "video": "",
+    "title": "Odette Zodiac",
+    "category": "zodiac",
+    "slug": "odette-zodiac",
+    "date": "2025-06-02",
+    "shortStory": "As the daughter of Prince Alvin, Princess Odette was a romantic that seemed a well-behaved, obedient lady but actually yearned for adventures instead. After she became acquainted with Lancelot and rescued him in a duel ruckus, Odette slowly became aware of her own feelings towards Lancelot. Finally, she made the decision to leave the Swan Castle and set out on an adventure in search of her loved one.",
+    "image": "/images/odettezodiac.jpg",
+    "download": [
+      {
+        "label": "Default",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/a/a9/Hero461-icon.png/revision/latest/scale-to-width-down/100?cb=20250118142124",
+        "url": "https://sfile.mobi/4yamxMO6iIs"
+      },
+      {
+        "label": "Basic",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/5/54/Hero462-icon.png/revision/latest?cb=20250109162321",
+        "url": "https://sfile.mobi/avwpPS6ReoP"
+      },
+      {
+        "label": "Christmast",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/1/1d/Hero463-icon.png/revision/latest?cb=20220125050138",
+        "url": "https://sfile.mobi/8XuoZ20kRGy"
+      },
+      {
+        "label": "Luckybox",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/7/77/Hero464-icon.png/revision/latest?cb=20220125050140",
+        "url": "https://sfile.mobi/5vgn57fBYIv"
+      },
+      {
+        "label": "Special",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/4/49/Hero465-icon.png/revision/latest?cb=20220125050141",
+        "url": "https://sfile.mobi/bdQqf2Rft67"
+      },
+      {
+        "label": "Lunar Fest",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/6/6c/Hero467-icon.png/revision/latest?cb=20220125050136",
+        "url": "https://sfile.mobi/aCUpUPxcR29"
+      },
+      {
+        "label": "Create",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/b/b3/Hero468-icon.png/revision/latest?cb=20230623130819",
+        "url": "https://sfile.mobi/5gumXuiLtSj"
+      },
+      {
+        "label": "Starlight",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/6/6a/Hero469-icon.png/revision/latest?cb=20241013071621",
+        "url": "https://sfile.mobi/1s6kRa5Bssp"
+      }
+    ]
+  },
+  {
+    "id": 98,
+    "video": "",
+    "title": "Badang Zodiac",
+    "category": "zodiac",
+    "slug": "badang-zodiac",
+    "date": "2025-06-02",
+    "shortStory": "Born in the Vonetis Islands off the southern part of the mainland. Originally just an ordinary villager, after defeating the water monster that was harassing the village, he gained huge power from the water monster. After that, Badang set out to the mountains of the southern Moniyan Empire where the Abyss was entrenched, hoping to completely solve the problem of the water source being contaminated by the Abyss.",
+    "image": "/images/badangzodiac.jpg",
+    "download": [
+      {
+        "label": "Default",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/a/a4/Hero771-icon.png/revision/latest/scale-to-width-down/100?cb=20241021152939",
+        "url": "https://sfile.mobi/3PRSZoLf2wj"
+      },
+      {
+        "label": "Basic",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Hero772-icon.png/revision/latest?cb=20220126142138",
+        "url": "https://sfile.mobi/3PRSZVvvZY6"
+      },
+      {
+        "label": "Special",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/6/61/Hero773-icon.png/revision/latest?cb=20220126142141",
+        "url": "https://sfile.mobi/3mjSJN225yk"
+      },
+      {
+        "label": "Collector",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/9/9b/Hero776-icon.png/revision/latest?cb=20220126142706",
+        "url": "https://sfile.mobi/6H9WbrZQzuq"
+      },
+      {
+        "label": "Pegassus Saiya",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/1/18/Hero777-icon.png/revision/latest?cb=20220915134956",
+        "url": "https://sfile.mobi/5RrVJqOcuWI"
+      },
+      {
+        "label": "Sagittarius Saiya",
+        "icon": "https://sfile.mobi/aZ5Yz95Nm0z",
+        "url": "https://sfile.mobi/aZ5Yz95Nm0z"
+      }
+    ]
+  },
+  {
+    "id": 97,
+    "video": "",
+    "title": "Zhask Zodiac",
+    "category": "zodiac",
+    "slug": "zhask-zodiac",
+    "date": "2025-06-02",
+    "shortStory": "Zhask expanded his swarm as he pleased in the universe, disrupting its balance in the process. Yve pursued him, but Zhask was able to escape every time. When he shuffled to the Land of Dawn and attempted to destroy it, he was hit hard by the resistance of Aurora Aurora and Tobias, so he hibernated in Kastiya to recuperate. But at this time, Yve also arrived, so a dual was imminent.",
+    "image": "/images/zhaskzodiac.jpg",
+    "download": [
+      {
+        "label": "Default",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/5/54/Hero501-icon.png/revision/latest/scale-to-width-down/100?cb=20241021145534",
+        "url": "https://sfile.mobi/1VFMtAN6kMC"
+      },
+      {
+        "label": "Basic",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/a/ac/Hero502-icon.png/revision/latest?cb=20230623130840",
+        "url": "https://sfile.mobi/3ItNvA9COQK"
+      },
+      {
+        "label": "Luckybox",
+        "icon": "",
+        "url": "https://sfile.mobi/agLR83Hbl6e"
+      },
+      {
+        "label": "Special",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/d/d9/Hero505-icon.png/revision/latest?cb=20230623130859",
+        "url": "https://sfile.mobi/6dBOTzMTSwo"
+      },
+      {
+        "label": "Starlight",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/d/d2/Hero506-icon.png/revision/latest?cb=20221022085446",
+        "url": "https://sfile.mobi/8BlQdjERfUk"
+      }
+    ]
+  },
+  {
+    "id": 96,
+    "video": "",
+    "title": "Karina Zodiac",
+    "category": "zodiac",
+    "slug": "karina-zodiac",
+    "date": "2025-06-02",
+    "shortStory": "Karina is the best killer among the Dark Elves who lived codependently with her younger sister Selena. But as the older sister, Karina failed to prevent Selena from dedicating herself to the Abyss. In order to stop her sister's evil deeds, and to find a way to bring her back, Karina embarked on a new journey.",
+    "image": "/images/karinazodiac.jpg",
+    "download": [
+      {
+        "label": "Default",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/8/8a/Hero081-icon.png/revision/latest/scale-to-width-down/100?cb=20241021145117",
+        "url": "https://sfile.mobi/6OxNTzB4fS6"
+      },
+      {
+        "label": "Elite (Phantom)",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/a/a4/Hero082-icon.png/revision/latest?cb=20220125055642",
+        "url": "https://sfile.mobi/2SLLJaxlvGH"
+      },
+      {
+        "label": "Christmast",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/c/c2/Hero083-icon.png/revision/latest?cb=20220125055638",
+        "url": "https://sfile.mobi/9UBPC8nTTq8"
+      },
+      {
+        "label": "Starlight",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/c/c1/Hero084-icon.png/revision/latest?cb=20220125055640",
+        "url": "https://sfile.mobi/66dNvOaJRSc"
+      },
+      {
+        "label": "Elite (Lily)",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/b/b1/Hero085-icon.png/revision/latest?cb=20220125063050",
+        "url": "https://sfile.mobi/6H9NQnkiruW"
+      },
+      {
+        "label": "Luckybox",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/7/7e/Hero086-icon.png/revision/latest?cb=20220125063052",
+        "url": "https://sfile.mobi/73jO2MMJA4x"
+      },
+      {
+        "label": "KOF",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/7/76/Hero087-icon.png/revision/latest?cb=20220125063039",
+        "url": "https://sfile.mobi/7i5Ob7oBZSt"
+      },
+      {
+        "label": "TOP UP",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/c/c8/Hero089-icon.png/revision/latest?cb=20220125063053",
+        "url": "https://sfile.mobi/4c1MtggOhOi"
+      }
+    ]
+  },
+  {
+    "id": 95,
+    "video": "",
+    "title": "Selena Zodiac",
+    "category": "zodiac",
+    "slug": "selena-zodiac",
+    "date": "2025-06-02",
+    "shortStory": "The Dark Elf Selena had been dependent on her sister Karina since childhood. Selena maintained her innocent nature under the protection of her sister, until she discovered the dirty things her sister Karina had done for her. She thought that she had become a burden for her sister. In order to gain more power, she dedicated herself to the Abyss, but did not want to be completely controlled by the Abyss and ultimately became a horrifying demon.",
+    "image": "/images/selenazodiac.jpg",
+    "download": [
+      {
+        "label": "Default",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/d/d4/Hero631-icon.png/revision/latest?cb=20241021145650",
+        "url": "https://sfile.mobi/5gvN0YkY52S"
+      },
+      {
+        "label": "Basic",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/e/e3/Hero632-icon.png/revision/latest?cb=20220126142249",
+        "url": "https://sfile.mobi/aKjQ2Kfu8gG"
+      },
+      {
+        "label": "Virus",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/b/b0/Hero633-icon.png/revision/latest?cb=20220126142312",
+        "url": "https://sfile.mobi/a1ZPEs4SNGF"
+      },
+
+      {
+        "label": "Starlight",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/7/78/Hero635-icon.png/revision/latest?cb=20220126142245",
+        "url": "https://sfile.mobi/5nTN5zVNK0s"
+      },
+      {
+        "label": "Luckybox",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/2/2b/Hero636-icon.png/revision/latest?cb=20220126142243",
+        "url": "https://sfile.mobi/8IJOVWAeR2k"
+      },
+      {
+        "label": "Elite",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/1/14/Hero637-icon.png/revision/latest?cb=20220126142241",
+        "url": "https://sfile.mobi/blfQnQ9jEI7"
+      },
+      {
+        "label": "Abyss",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/a/aa/Hero639-icon.png/revision/latest?cb=20220126142237",
+        "url": "https://sfile.mobi/87NOC55IcMf"
+      },
+      {
+        "label": "STUN",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/d/de/Hero638-icon.png/revision/latest?cb=20220126142239",
+        "url": "https://sfile.mobi/4ybMDyK9Esb"
+      },
+      {
+        "label": "Zenith",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/1/11/Hero106311-icon.png/revision/latest?cb=20250106155532",
+        "url": "https://sfile.mobi/1dlKNIPZu4p"
+      }
+    ]
+  },
+  {
+    "id": 94,
+    "video": "",
+    "title": "Minotaur Zodiac",
+    "category": "zodiac",
+    "slug": "minotaur-zodiac",
+    "date": "2025-06-02",
+    "shortStory": "In olden times, there was once a state named Minoa in Agelta Drylands. The prince in the state, Minotaur fatally injured his father in a fit of rage, after which he exiled himself to the Minoan Labyrinth in shame and regret. When he stepped out of the Labyrinth again, he found his state had long perished, his kin long gone. With his teeth set, Monitor embark on the path to restoring his homeland to its former glory.",
+    "image": "/images/minotaurzodiac.jpg",
+    "download": [
+      {
+        "label": "Default",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/0/08/Hero191-icon.png/revision/latest/scale-to-width-down/100?cb=20241021145234",
+        "url": "https://sfile.mobi/1OhL5PaWkgP"
+      },
+      {
+        "label": "Elite (Yama)",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/8/8d/Hero192-icon.png/revision/latest?cb=20220125063030",
+        "url": "https://sfile.mobi/bsDQqkL3xK7"
+      },
+      {
+        "label": "Season",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/a/a0/Hero193-icon.png/revision/latest?cb=20220125063029",
+        "url": "https://sfile.mobi/avxPTSTkLCW"
+      },
+      {
+        "label": "Elite (Hammer)",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/1/13/Hero194-icon.png/revision/latest?cb=20220125063023",
+        "url": "https://sfile.mobi/3mjLXmWuCcV"
+      },
+      {
+        "label": "Special",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/5/5a/Hero196-icon.png/revision/latest?cb=20240308031125",
+        "url": "https://sfile.mobi/233LeGx5GER"
+      }
+    ]
+  },
+  {
+    "id": 93,
+    "video": "",
+    "title": "Hilda Zodiac",
+    "category": "zodiac",
+    "slug": "hilda-zodiac",
+    "date": "2025-06-02",
+    "shortStory": "Nestled between the tundras of the Northern Vale and the Moniyan Plain lies a unique land with a massive and ancient stone formation for which it is named the Megalith Wasteland. The Megalith Wasteland must be passed if one is to reach Northern Vale. It was also, Hilda's homeland.",
+    "image": "/images/hildazodiac.jpg",
+    "download": [
+      {
+        "label": "Default",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/1/11/Hero351-icon.png/revision/latest/scale-to-width-down/100?cb=20241021145405",
+        "url": "https://sfile.mobi/87NOz5wPwAu"
+      },
+      {
+        "label": "Basic",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/e/ec/Hero352-icon.png/revision/latest?cb=20240310143100",
+        "url": "https://sfile.mobi/5K3NfHuo7KX"
+      },
+      {
+        "label": "Season",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/a/aa/Hero353-icon.png/revision/latest?cb=20240310143042",
+        "url": "https://sfile.mobi/4qNMx14ZckO"
+      },
+      {
+        "label": "Elite",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/d/d7/Hero354-icon.png/revision/latest?cb=20220126041821",
+        "url": "https://sfile.mobi/6OxNQKWWyIJ"
+      },
+      {
+        "label": "Special",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/8/85/Hero356-icon.png/revision/latest?cb=20240310143153",
+        "url": "https://sfile.mobi/8Q7OYghdLiW"
+      }
+    ]
+  },
+  {
+    "id": 92,
+    "video": "",
+    "title": "Lancelot Zodiac",
+    "category": "zodiac",
+    "slug": "lancelot-zodiac",
+    "date": "2025-06-02",
+    "shortStory": "As the eldest son of Duke Baroque, Lancelot was born rebellious. Dead set on resisting the political marriage arranged for him by his father, he traveled the country and led a licentious life instead. After being wounded at a drunken brawl in a tavern, Lancelot was rescued by Odette and finally came to realize what his heart truly yearned for. The prodigal son made a repentant return and thus began his adventure across the Land of Dawn.",
+    "image": "/images/lancelotzodiac.jpg",
+    "download": [
+      {
+        "label": "Default",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/2/29/Hero471-icon.png/revision/latest/scale-to-width-down/100?cb=20241021145518",
+        "url": "https://sfile.mobi/aZ5Q71NVZeJ"
+      },
+      {
+        "label": "Basic",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/b/bf/Hero472-icon.png/revision/latest?cb=20220125055632",
+        "url": "https://sfile.mobi/8tXOJyUVS8v"
+      },
+      {
+        "label": "Christmast",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/9/99/Hero473-icon.png/revision/latest?cb=20220119131814",
+        "url": "https://sfile.mobi/avxPR4fd4IH"
+      },
+      {
+        "label": "Luckybox",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/0/0d/Hero474-icon.png/revision/latest?cb=20220119131815",
+        "url": "https://sfile.mobi/8Q7OW9i7ZuO"
+      },
+      {
+        "label": "Starlight",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/1/18/Hero475-icon.png/revision/latest?cb=20220119131817",
+        "url": "https://sfile.mobi/1dlKJjX2Xwf"
+      },
+      {
+        "label": "Epic",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/6/6a/Hero477-icon.png/revision/latest?cb=20220125050154",
+        "url": "https://sfile.mobi/8IJOSqh5ewz"
+      },
+      {
+        "label": "Dawning",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/c/ca/Hero478-icon.png/revision/latest?cb=20220118094835",
+        "url": "https://sfile.mobi/309LIQuXHOT"
+      },
+      {
+        "label": "Champion",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/0/06/Hero479-icon.png/revision/latest?cb=20220125050152",
+        "url": "https://sfile.mobi/ao9PNRYrg4A"
+      },
+      {
+        "label": "Dragon Tamer",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/4/48/Hero104710-icon.png/revision/latest?cb=20220805125409",
+        "url": "https://sfile.mobi/4qNMw8vcikB"
+      },
+      {
+        "label": "Elite (Top Up)",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/2/28/Hero104711-icon.png/revision/latest?cb=20241111045811",
+        "url": "https://sfile.mobi/2arLgPjjCcC"
+      },
+      {
+        "label": "Kishin",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/c/cd/Hero104712-icon.png/revision/latest?cb=20240928233454",
+        "url": "https://sfile.mobi/6zLNHTANckd"
+      }
+    ]
+  },
+  {
+    "id": 91,
+    "video": "",
+    "title": "Aurora Zodiac",
+    "category": "zodiac",
+    "slug": "aurora-zodiac",
+    "date": "2025-06-02",
+    "shortStory": "Aurora, the Maiden of the Glacier, commanding the unwavering faith of innumerable mortals in the North, bestows eternity upon the world. In her youth, she endured the torment of her innate prowess for Frost Magic until the disciples of the Light brought her to Queen's Peak, whereupon she received an infusion of light which granted her immortality. Tearfully, her mother bade her farewell as she succumbed to the cold embrace of blizzard. Aurora slumbered for a thousand years atop the peak. Upon her awakening, the truth dawned on her: genuine eternity lay in fleeting emotions, such as her mother's final comforting smile. Thus, Aurora resolved to bestow this eternity upon the world. It was at that moment that a legend was born in the North. The legend spoke of people close to death who would climb Queen's Peak, seeking the frigid embrace of the goddess there. If granted, all of the one's memories, longings, and emotions would be left tot he goddess, who would cherish them until the end of time. And thus, they would live on the eternity.",
+    "image": "/images/aurorazodiac.jpg",
+    "download": [
+      {
+        "label": "Default",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/2/2c/Hero361-icon.png/revision/latest/scale-to-width-down/100?cb=20241021145411",
+        "url": "https://sfile.mobi/7aHJGorWrSU"
+      },
+      {
+        "label": "Basic",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/1/1e/Hero362-icon.png/revision/latest?cb=20241201053032",
+        "url": "https://sfile.mobi/1dlGoEYHu4D"
+      },
+      {
+        "label": "Starlight",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/a/a5/Hero363-icon.png/revision/latest?cb=20220118094819",
+        "url": "https://sfile.mobi/5nTIHzz3DUU"
+      },
+      {
+        "label": "Lunar Fest",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/a/ad/Hero364-icon.png/revision/latest?cb=20220119131812",
+        "url": "https://sfile.mobi/5YPJ2uy8a41"
+      },
+      {
+        "label": "KOF",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/b/bf/Hero366-icon.png/revision/latest?cb=20220126041811",
+        "url": "https://sfile.mobi/9NdL8DQxcQn"
+      },
+      {
+        "label": "Collector",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/1/1b/Hero367-icon.png/revision/latest?cb=20241013071600",
+        "url": "https://sfile.mobi/a1ZLgYspDUf"
+      }
+    ]
+  },
+  {
     "id": 90,
     "video": "",
     "title": "Thamuz Kungfu Panda",
@@ -13,19 +625,23 @@
         "label": "Default",
         "icon": "https://static.wikia.nocookie.net/mobile-legends/images/1/17/Hero721-icon.png/revision/latest/scale-to-width-down/100?cb=20241021145742",
         "url": "https://sfile.mobi/a1Y1zxm0Ss1"
-      },{
+      },
+      {
         "label": "Basic",
         "icon": "https://static.wikia.nocookie.net/mobile-legends/images/e/ea/Hero722-icon.png/revision/latest?cb=20220126142145",
         "url": "https://sfile.mobi/307XGKqdtuf"
-      },{
+      },
+      {
         "label": "Elite",
         "icon": "https://static.wikia.nocookie.net/mobile-legends/images/3/37/Hero723-icon.png/revision/latest?cb=20220126142146",
         "url": "https://sfile.mobi/5YNZl3rJpCR"
-      },{
+      },
+      {
         "label": "Special",
         "icon": "https://static.wikia.nocookie.net/mobile-legends/images/e/e2/Hero724-icon.png/revision/latest?cb=20220126142731",
         "url": "https://sfile.mobi/8II0R1RmVOF"
-      },{
+      },
+      {
         "label": "Starlight",
         "icon": "https://static.wikia.nocookie.net/mobile-legends/images/6/6b/Hero726-icon.png/revision/latest?cb=20230805043958",
         "url": "https://sfile.mobi/7LC0kzZEaWs"
@@ -991,7 +1607,7 @@
         "url": "https://sfile.mobi/73hRDFY6zKn"
       },
       {
-        "label": "Basic",
+        "label": "Elite (Phantom)",
         "icon": "https://static.wikia.nocookie.net/mobile-legends/images/a/a4/Hero082-icon.png/revision/latest?cb=20220125055642",
         "url": "https://sfile.mobi/bsBU4KfAaW7"
       },
@@ -1006,7 +1622,7 @@
         "url": "https://sfile.mobi/6zJRo4eTCMt"
       },
       {
-        "label": "Elite",
+        "label": "Elite (Lily)",
         "icon": "https://static.wikia.nocookie.net/mobile-legends/images/b/b1/Hero085-icon.png/revision/latest?cb=20220125063050",
         "url": "https://sfile.mobi/8f9Sjl1uFyE"
       },
@@ -1606,7 +2222,7 @@
         "url": "https://sfile.mobi/7EeTP1SHksA"
       },
       {
-        "label": "Epic",
+        "label": "Epic (Eyes)",
         "icon": "https://static.wikia.nocookie.net/mobile-legends/images/1/11/Hero687-icon.png/revision/latest?cb=20220126142713",
         "url": "https://sfile.mobi/7wQTL7WTAIE"
       },

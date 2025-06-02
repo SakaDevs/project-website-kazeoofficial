@@ -9,7 +9,7 @@ const RunningText = () => {
   return (
     <div className={`${poppins.className}`}>
       <div className="bounce">
-        <p className="bounce p">NEW UPDATE FULL KUNGFU PANDA</p>
+        <p className="bounce p">NEW UPDATE FULL ZODIAC SKIN!</p>
       </div>
     </div>
   );
