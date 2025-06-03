@@ -1,5 +1,295 @@
 [
   {
+    "id": 108,
+    "video": "https://youtu.be/2OyWaNwMXAc",
+    "title": "Esmeralda Dawning",
+    "category": "dawning",
+    "slug": "esmeralda-dawning",
+    "date": "2025-06-03",
+    "shortStory": "Born into a family of Agelta astrologers, she is the greatest astrologers on the Land of Dawn. Through the treasure star-moon box, she learned the fact that the tyrant Khufra was about to wake up. The re-sealing of Khufra became her new mission as an astrologer.",
+    "image": "/images/esmeraldadawning.jpg",
+    "download": [
+      {
+        "label": "Default",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/8/88/Hero811-icon.png/revision/latest/scale-to-width-down/100?cb=20241021153002",
+        "url": "https://sfile.mobi/2pdVejn3owJ"
+      },
+      {
+        "label": "Basic",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/3/34/Hero812-icon.png/revision/latest?cb=20220126142704",
+        "url": "https://sfile.mobi/9r3Z76iQN2B"
+      },
+      {
+        "label": "Elite",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/e/ea/Hero813-icon.png/revision/latest?cb=20220126142702",
+        "url": "https://sfile.mobi/1s7UI2q5Bye"
+      },
+      {
+        "label": "Valentine",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/7/74/Hero814-icon.png/revision/latest?cb=20220126142717",
+        "url": "https://sfile.mobi/2hPVaLgLCof"
+      },
+      {
+        "label": "Starlight",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/5/5a/Hero815-icon.png/revision/latest?cb=20220126142756",
+        "url": "https://sfile.mobi/5vhWX34E0wr"
+      },
+      {
+        "label": "Blazing",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/5/54/Hero816-icon.png/revision/latest?cb=20250105154936",
+        "url": "https://sfile.mobi/aZ5ZYOZa3Ck"
+      },
+      {
+        "label": "Collector",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/1/10/Hero818-icon.png/revision/latest?cb=20220604070109",
+        "url": "https://sfile.mobi/7wRY4JjGbSi"
+      },
+      {
+        "label": "Allstar",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/d/d7/Hero819-icon.png/revision/latest?cb=20240329063258",
+        "url": "https://sfile.mobi/aKjZR17yA8u"
+      }
+    ]
+  },
+  {
+    "id": 107,
+    "video": "https://youtu.be/L2sAI6WyRLk",
+    "title": "Vale Dawning",
+    "category": "dawning",
+    "slug": "vale-dawning",
+    "date": "2025-06-03",
+    "shortStory": "A magician of Wind Fort and the only genius in the entire family who can change the form of wind magic at will. Once a close friend of Valir of Fire Throat. After the changes in the Land of Fire and Valir left his hometown, Vale has always adhered to the agreement he made with him, waiting for his return.",
+    "image": "/images/valedawning.jpg",
+    "download": [
+      {
+        "label": "Default",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/f/fb/Hero661-icon.png/revision/latest?cb=20241021145708",
+        "url": "https://sfile.mobi/6zLXvDIAHSO"
+      },
+      {
+        "label": "Basic",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/9/9b/Hero662-icon.png/revision/latest?cb=20220126142226",
+        "url": "https://sfile.mobi/9UBZm0n1PUB"
+      },
+      {
+        "label": "Elite",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/f/f9/Hero664-icon.png/revision/latest?cb=20220126142223",
+        "url": "https://sfile.mobi/6OxXE9fe6In"
+      },
+      {
+        "label": "Starlight",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/4/48/Hero665-icon.png/revision/latest?cb=20220126142221",
+        "url": "https://sfile.mobi/agLZyAKdWgT"
+      },
+      {
+        "label": "Collector",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/2/23/Hero666-icon.png/revision/latest?cb=20221022084021",
+        "url": "https://sfile.mobi/a9nZuGOqcwV"
+      },
+      {
+        "label": "Epic",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/3/35/Hero667-icon.png/revision/latest?cb=20230317102456",
+        "url": "https://sfile.mobi/5RrX83d1iEO"
+      },
+      {
+        "label": "Annual Starlight",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/1/1e/Hero668-icon.png/revision/latest?cb=20241013072533",
+        "url": "https://sfile.mobi/51JWFGbRfyf"
+      },
+      {
+        "label": "Gaara",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/5/5a/Hero669-icon.png/revision/latest?cb=20250411100949",
+        "url": "https://sfile.mobi/bHq0mezYuA7"
+      }
+    ]
+  },
+  {
+    "id": 106,
+    "video": "https://youtu.be/6MeGpmaNwYI",
+    "title": "Chou Dawning",
+    "category": "Dawning",
+    "slug": "chou-dawning",
+    "date": "2025-06-03",
+    "shortStory": "Chou was born in a secluded slum deep in the hearts of poverty, living the lowest quality of life. Despite the dreadful conditions, Chou kept his heart of kindness, as day in and day out he continued to look after the old and the young there with passion. During this time, there was great turmoil and unrest in the Land of the Dawn; mayhem spread throughout the land and eventually started to affect this small remote area.",
+    "image": "/images/choudawning.jpg",
+    "download": [
+      {
+        "label": "Default",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/a/a9/Hero261-icon.png/revision/latest/scale-to-width-down/100?cb=20241021145315",
+        "url": "https://sfile.mobi/5nTWOVaEJaK"
+      },
+      {
+        "label": "Basic",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/b/ba/Hero262-icon.png/revision/latest?cb=20221022075048",
+        "url": "https://sfile.mobi/4c1WajBOwge"
+      },
+      {
+        "label": "Luckybox",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/d/d1/Hero263-icon.png/revision/latest?cb=20220126042108",
+        "url": "https://sfile.mobi/9NdZgamTi8J"
+      },
+      {
+        "label": "Elite",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/4/4e/Hero264-icon.png/revision/latest?cb=20220126042106",
+        "url": "https://sfile.mobi/bHq0jAQBMc7"
+      },
+      {
+        "label": "Special",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/a/a9/Hero265-icon.png/revision/latest?cb=20220126042104",
+        "url": "https://sfile.mobi/4qNWj03cTSs"
+      },
+      {
+        "label": "KOF",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/9/96/Hero266-icon.png/revision/latest?cb=20220126042102",
+        "url": "https://sfile.mobi/b6tZZyrk9U7"
+      },
+      {
+        "label": "Starlight",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/8/80/Hero267-icon.png/revision/latest?cb=20220126042100",
+        "url": "https://sfile.mobi/5gvWLTODTy8"
+      },
+      {
+        "label": "STUN",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/1/16/Hero268-icon.png/revision/latest?cb=20220119085348",
+        "url": "https://sfile.mobi/9yrZ8TfyLYW"
+      },
+      {
+        "label": "Dragon Shiryu",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/a/ad/Hero102610-icon.png/revision/latest?cb=20220915135005",
+        "url": "https://sfile.mobi/4c1Wby17o48"
+      },
+      {
+        "label": "Libra Shiryu",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/5/54/Hero102611-icon.png/revision/latest?cb=20220915135007",
+        "url": "https://sfile.mobi/9UBZltCKSk9"
+      },
+      {
+        "label": "Champion",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/9/96/Hero102612-icon.png/revision/latest?cb=20230805044014",
+        "url": "https://sfile.mobi/1zvUKbcjx6V"
+      }
+    ]
+  },
+  {
+    "id": 105,
+    "video": "https://youtu.be/Ip-NIgH7VuI",
+    "title": "Lancelot Dawning",
+    "category": "dawning",
+    "slug": "lancelot-dawning",
+    "date": "2025-06-03",
+    "shortStory": "As the eldest son of Duke Baroque, Lancelot was born rebellious. Dead set on resisting the political marriage arranged for him by his father, he traveled the country and led a licentious life instead. After being wounded at a drunken brawl in a tavern, Lancelot was rescued by Odette and finally came to realize what his heart truly yearned for. The prodigal son made a repentant return and thus began his adventure across the Land of Dawn.",
+    "image": "/images/lancelotdawning.jpg",
+    "download": [
+      {
+        "label": "Default",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/2/29/Hero471-icon.png/revision/latest/scale-to-width-down/100?cb=20241021145518",
+        "url": "http://sfile.mobi/7EfY2E7IA0f"
+      },
+      {
+        "label": "Basic",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/b/bf/Hero472-icon.png/revision/latest?cb=20220125055632",
+        "url": "https://sfile.mobi/b6tZWJNcru7"
+      },
+      {
+        "label": "Christmast",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/9/99/Hero473-icon.png/revision/latest?cb=20220119131814",
+        "url": "https://sfile.mobi/bA20dp0XhC7"
+      },
+      {
+        "label": "Luckybox",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/0/0d/Hero474-icon.png/revision/latest?cb=20220119131815",
+        "url": "https://sfile.mobi/51JWBhiUJ29"
+      },
+      {
+        "label": "Starlight",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/1/18/Hero475-icon.png/revision/latest?cb=20220119131817",
+        "url": "https://sfile.mobi/7ptXV1aS5i7"
+      },
+      {
+        "label": "Epic",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/6/6a/Hero477-icon.png/revision/latest?cb=20220125050154",
+        "url": "https://sfile.mobi/8fbYnUWj5YJ"
+      },
+      {
+        "label": "Zodiac",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/c/c8/Hero476-icon.png/revision/latest?cb=20230212040124",
+        "url": "https://sfile.mobi/73jXIXxWUgY"
+      },
+      {
+        "label": "Champion",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/0/06/Hero479-icon.png/revision/latest?cb=20220125050152",
+        "url": "https://sfile.mobi/9yrZ6XbdYcd"
+      },
+      {
+        "label": "Dragon Tamer",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/4/48/Hero104710-icon.png/revision/latest?cb=20220805125409",
+        "url": "https://sfile.mobi/73jXJuidQQh"
+      },
+      {
+        "label": "Elite (Top Up)",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/2/28/Hero104711-icon.png/revision/latest?cb=20241111045811",
+        "url": "https://sfile.mobi/9r3Z3eabdep"
+      },
+      {
+        "label": "Kishin",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/c/cd/Hero104712-icon.png/revision/latest?cb=20240928233454",
+        "url": "https://sfile.mobi/9chYVfnOKIQ"
+      }
+    ]
+  },
+  {
+    "id": 104,
+    "video": "https://youtu.be/25rKpgEx8iM",
+    "title": "Bruno Dawning",
+    "category": "dawning",
+    "slug": "bruno-dawning",
+    "date": "2025-06-03",
+    "shortStory": "Bruno, the current captain of the Eruditio Rangers and a star footballer, had a very eventful past. Born in the Agelta Drylands, Bruno grew up in a remote village surrounded by poverty. But it was those hardships that fueled his longing for freedom. As soon as he was of age, Bruno joined a caravan in hopes of seeing the world. Unfortunately, a tragic accident robbed him of his legs and his freedom. But fate was on his side, for when the caravan passed him through Eruditio, Bruno was offered a second chance. Although it came with great risk, he was so touched by the passion of the city that he decided to take that chance, and in the end of his courage paid off. He not only regained his legs, but was now faster than ever. Instead of continuing his travels, he decided to remain in Eruditio and become its protector. He vowed to uphold the ideals of the Oasis in the desert and help others find true freedom.",
+    "image": "/images/brunodawning.jpg",
+    "download": [
+      {
+        "label": "Default",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/f/f9/Hero121-icon.png/revision/latest/scale-to-width-down/100?cb=20241021145152",
+        "url": "https://sfile.mobi/9UBZgn4MqQI"
+      },
+      {
+        "label": "Elite (Vanguard)",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/4/41/Hero123-icon.png/revision/latest?cb=20220125063130",
+        "url": "https://sfile.mobi/8BlYxGFnvaI"
+      },
+      {
+        "label": "Special (DJ)",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/4/41/Hero123-icon.png/revision/latest?cb=20220125063130",
+        "url": "https://sfile.mobi/6dBXeiCW6Am"
+      },
+      {
+        "label": "Elite (Street)",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/3/39/Hero125-icon.png/revision/latest?cb=20220125063124",
+        "url": "https://sfile.mobi/a9nZp3waOsn"
+      },
+      {
+        "label": "Special (Falcon)",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/3/39/Hero125-icon.png/revision/latest?cb=20220125063124",
+        "url": "https://sfile.mobi/a9nZpplGM0R"
+      },
+      {
+        "label": "Starlight",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/1/1f/Hero127-icon.png/revision/latest?cb=20240306070321",
+        "url": "https://sfile.mobi/agLZtF70tie"
+      },
+      {
+        "label": "Halo Striker",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/2/2e/Hero128-icon.png/revision/latest?cb=20240306070451",
+        "url": "https://sfile.mobi/9FPZ9rMXReV"
+      },
+      {
+        "label": "Neymar Jr",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/5/5a/Hero129-icon.png/revision/latest?cb=20221103135257",
+        "url": "https://sfile.mobi/5YPX7cqmycC"
+      }
+    ]
+  },
+  {
     "id": 103,
     "video": "",
     "title": "Martis Zodiac",
@@ -162,7 +452,7 @@
       },
       {
         "label": "Luckybox",
-        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/1/11/Hero687-icon.png/revision/latest?cb=20220126142713",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/f/f9/Hero686-icon.png/revision/latest?cb=20220126142733",
         "url": "https://sfile.mobi/2SLSxaRHOwZ"
       },
       {
@@ -276,7 +566,7 @@
       },
       {
         "label": "Sagittarius Saiya",
-        "icon": "https://sfile.mobi/aZ5Yz95Nm0z",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/5/51/Hero778-icon.png/revision/latest?cb=20220915134959",
         "url": "https://sfile.mobi/aZ5Yz95Nm0z"
       }
     ]
