@@ -1,5 +1,382 @@
 [
   {
+    "id": 28,
+    "video": "",
+    "title": "Change Aspirants",
+    "category": "aspirants",
+    "slug": "change-aspirants",
+    "date": "2025-06-04",
+    "shortStory": "The Great Dragon's youngest disciple. Because she was mischievous, the Great Dragon handed her over to Zilong for discipline. After Zilong took on the huge responsibility of protecting the Cadia Riverlands and left the Dragon Altar, Chang'e regained her willful nature. the Great Dragon was unable to bear it and drove her out of the Dragon Altar and ask her to help Zilong to make up for her mistake.",
+    "image": "/images/changeasp.jpg",
+    "download": [
+      {
+        "label": "Default",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/5/5c/Hero611-icon.png/revision/latest?cb=20241021145640",
+        "url": "https://sfile.mobi/7wRlBlUKU8B"
+      },
+      {
+        "label": "Basic",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/d/d2/Hero612-icon.png/revision/latest?cb=20220126141811",
+        "url": "https://sfile.mobi/4qNjTuMXc4s"
+      },
+      {
+        "label": "Elite",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/6/61/Hero613-icon.png/revision/latest?cb=20220126141813",
+        "url": "https://sfile.mobi/blfnJgmJLU7"
+      },
+      {
+        "label": "Special",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/8/8f/Hero614-icon.png/revision/latest?cb=20220126141809",
+        "url": "https://sfile.mobi/233iA6KvNi2"
+      },
+      {
+        "label": "Luckybox",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/5/5b/Hero615-icon.png/revision/latest?cb=20220118094845",
+        "url": "https://sfile.mobi/8IJmgF8D2o5"
+      },
+      {
+        "label": "Starlight",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/d/d9/Hero616-icon.png/revision/latest?cb=20220126141808",
+        "url": "https://sfile.mobi/6VVlhFkZeEz"
+      },
+      {
+        "label": "Epic",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/9/9c/Hero617-icon.png/revision/latest?cb=20220126141756",
+        "url": "https://sfile.mobi/3B5jrEw45i9"
+      },
+      {
+        "label": "Sanrio",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/c/cc/Hero618-icon.png/revision/latest?cb=20220218031009",
+        "url": "https://sfile.mobi/51JkeLBxGUe"
+      },
+      {
+        "label": "Lunar Fest",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/3/35/Hero619-icon.png/revision/latest?cb=20221217033853",
+        "url": "https://sfile.mobi/73jlmgVOTuA"
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "video": "",
+    "title": "Lesley Aspirants",
+    "category": "aspirants",
+    "slug": "lesley-aspirants",
+    "date": "2025-06-04",
+    "shortStory": "Lesley grew up in the Vance household, where her father presided over the noble family's security. During an unexpected attack by a rival family, Lesley's father was killed. As the assailants approached the Vance household, Lesley took up her father's black long rifle and fulfilled her late father's mission. Tears rolled down Lesley's cheeks as she fired shot after shot, surprisingly, each one taking down an assassin. The final tear came as the final shot took down the last of the rival family's men.",
+    "image": "/images/lesleyasp.jpg",
+    "download": [
+      {
+        "label": "Default",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/8/82/Hero531-icon.png/revision/latest?cb=20241021145551",
+        "url": "https://sfile.mobi/2DZhwAfwv2O"
+      },
+      {
+        "label": "Basic",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/4/4d/Hero532-icon.png/revision/latest?cb=20220824141628",
+        "url": "https://sfile.mobi/5RrjiS3oTmX"
+      },
+      {
+        "label": "Elite",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/b/be/Hero533-icon.png/revision/latest?cb=20220126141701",
+        "url": "https://sfile.mobi/7LDkmEmDlY9"
+      },
+      {
+        "label": "Special",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/9/97/Hero534-icon.png/revision/latest?cb=20220126141659",
+        "url": "https://sfile.mobi/80pkuseeOsR"
+      },
+      {
+        "label": "Luckybox",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/b/b4/Hero535-icon.png/revision/latest?cb=20230805043943",
+        "url": "https://sfile.mobi/7T1kr52I1iZ"
+      },
+      {
+        "label": "Valentine",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/7/72/Hero536-icon.png/revision/latest?cb=20220915134949",
+        "url": "https://sfile.mobi/1kJgOfFDxai"
+      },
+      {
+        "label": "Legend",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/8/81/Hero537-icon.png/revision/latest?cb=20220126141633",
+        "url": "https://sfile.mobi/87Nkz3P4tyA"
+      },
+      {
+        "label": "Starlight",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/9/9e/Hero538-icon.png/revision/latest?cb=20220126141629",
+        "url": "https://sfile.mobi/7i5k6RIFpeB"
+      },
+      {
+        "label": "Collector",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/b/b4/Hero539-icon.png/revision/latest?cb=20220126141704",
+        "url": "https://sfile.mobi/4qNixlcK7Yq"
+      },
+      {
+        "label": "Annual Starlight",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/a/a9/Hero105310-icon.png/revision/latest?cb=20221103135316",
+        "url": "https://sfile.mobi/aCVlXen6w0F"
+      },
+      {
+        "label": "Covenant",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/a/a7/Hero105313-icon.png/revision/latest?cb=20250301113859",
+        "url": "https://sfile.mobi/7LDlIs7ksgO"
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "video": "",
+    "title": "Ruby Aspirants",
+    "category": "aspirants",
+    "slug": "ruby-aspirants",
+    "date": "2025-06-04",
+    "shortStory": "he village where Ruby lived was attacked by werewolves. At the time of crisis, Roger appeared to help them repel the werewolves. Roger taught Ruby how to fight and gave her a sickle so that she could protect herself and the village.",
+    "image": "/images/rubyasp.jpg",
+    "download": [
+      {
+        "label": "Default",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/1/1d/Hero291-icon.png/revision/latest?cb=20241021145332",
+        "url": "https://sfile.mobi/7wRkbkbSfYF"
+      },
+      {
+        "label": "Basic",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/8/89/Hero292-icon.png/revision/latest?cb=20220126042030",
+        "url": "https://sfile.mobi/597iRAjUSIH"
+      },
+      {
+        "label": "Elite (Butterfly)",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/7/71/Hero293-icon.png/revision/latest?cb=20220126042027",
+        "url": "https://sfile.mobi/1Ohh1KpKIg4"
+      },
+      {
+        "label": "Elite (Edelweiss)",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/9/91/Hero294-icon.png/revision/latest?cb=20220126042023",
+        "url": "https://sfile.mobi/1kJgLXLMMss"
+      },
+      {
+        "label": "Luckybox",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/e/e6/Hero295-icon.png/revision/latest?cb=20220126042025",
+        "url": "https://sfile.mobi/1GTgYnedUY2"
+      },
+      {
+        "label": "Starlight",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/9/92/Hero296-icon.png/revision/latest?cb=20220119131911",
+        "url": "https://sfile.mobi/a1ZlA1ube0L"
+      },
+      {
+        "label": "Collector",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/1/12/Hero297-icon.png/revision/latest?cb=20230805043936",
+        "url": "https://sfile.mobi/6OxjO5vONyy"
+      },
+      {
+        "label": "Special",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/6/66/Hero299-icon.png/revision/latest?cb=20240610094403",
+        "url": "https://sfile.mobi/bA1mrokYxM7"
+      },
+      {
+        "label": "Golden Month (Crescent)",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/a/aa/Hero102910-icon.png/revision/latest?cb=20250105154942",
+        "url": "https://sfile.mobi/8mzkFsmC6Ae"
+      },
+      {
+        "label": "Golden Month (Neon)",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/7/78/Hero102911-icon.png/revision/latest?cb=20250105154943",
+        "url": "https://sfile.mobi/3B5i2vmYkgj"
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "video": "",
+    "title": "Angela Aspirants",
+    "category": "aspirants",
+    "slug": "angela-aspirants",
+    "date": "2025-06-04",
+    "shortStory": "An android created by the founder of Laboratory 1718, Dr. Baker. It was the first life form created without using human body or soul. In order to gain the knowledge of her, other scientists in the lab went after Dr. Baker. Before taken away, Dr. Baker stuffed her into a flight capsule to escape.",
+    "image": "/images/angelaasp.jpg",
+    "download": [
+      {
+        "label": "Default",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/1/13/Hero551-icon.png/revision/latest?cb=20250406000608",
+        "url": "https://sfile.mobi/4UkLVssmXud"
+      },
+      {
+        "label": "Basic",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/9/94/Hero552-icon.png/revision/latest?cb=20220126141947",
+        "url": "https://sfile.mobi/44CLt5rcUgy"
+      },
+      {
+        "label": "Starlight",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/b/b8/Hero553-icon.png/revision/latest?cb=20220126141949",
+        "url": "https://sfile.mobi/1dkJTo0wDoB"
+      },
+      {
+        "label": "VENOM",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/5/56/Hero554-icon.png/revision/latest?cb=20220126141945",
+        "url": "https://sfile.mobi/1kIJXDLQkMW"
+      },
+      {
+        "label": "Halloween",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/d/d4/Hero555-icon.png/revision/latest?cb=20220126141943",
+        "url": "https://sfile.mobi/2aqKqxxhksF"
+      },
+      {
+        "label": "Summer",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/3/35/Hero556-icon.png/revision/latest?cb=20220527065319",
+        "url": "https://sfile.mobi/7i4Ng4U7e0E"
+      },
+      {
+        "label": "Collector",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/f/fd/Hero557-icon.png/revision/latest?cb=20220126141936",
+        "url": "https://sfile.mobi/3PQLlZeDm0A"
+      },
+      {
+        "label": "Sanrio",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/6/64/Hero558-icon.png/revision/latest?cb=20220218031013",
+        "url": "https://sfile.mobi/b6sPmVRyc87"
+      },
+      {
+        "label": "Annual Starlight",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/e/e4/Hero105510-icon.png/revision/latest?cb=20240313082100",
+        "url": "https://sfile.mobi/4qMLGUdHTqE"
+      },
+      {
+        "label": "Kishin",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/e/ec/Hero105511-icon.png/revision/latest?cb=20241013072638",
+        "url": "https://sfile.mobi/6smMOpxZ60K"
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "video": "",
+    "title": "Layla Aspirants",
+    "category": "aspirants",
+    "slug": "layla-aspirants",
+    "date": "2025-06-04",
+    "shortStory": "In Eruditio—the City of Scholars, there's hardly anyone who doesn't know of Layla. She's the 'daughter of Eruditio', just like a bright star that shines over the streets of Eruditio in the darkness of night. Brave and selfless, she always had a bright and happy smile on her face while toting the gun handed to her by her grandfather, protecting Eruditio in her own way. As a child, Layla would always ask her grandfather about her parents, but his reluctance to tell her and his sad face told her it was something tragic. Because of that, Layla decided to never pain her grandfather anymore, so she stopped pursuing the matter. However, as secrets cannot be hidden forever, the truth of her birth eventually surfaced, and it turns out that her parents have always been watching her from the skies—well, in the literal sense.",
+    "image": "/images/laylaasp.jpg",
+    "download": [
+      {
+        "label": "Default",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/0/02/Hero181-icon.png/revision/latest?cb=20241021145229",
+        "url": "https://sfile.mobi/3B3SWwKTuoa"
+      },
+      {
+        "label": "Basic",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/7/70/Hero182-icon.png/revision/latest?cb=20220119131848",
+        "url": "https://sfile.mobi/1djRD8Is5AF"
+      },
+      {
+        "label": "OLD Starlight",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/a/ae/Hero183-icon.png/revision/latest?cb=20220119131846",
+        "url": "https://sfile.mobi/a9lWzbdcZir"
+      },
+      {
+        "label": "Valentine",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/2/2c/Hero184-icon.png/revision/latest?cb=20220119131851",
+        "url": "https://sfile.mobi/1djRDuxY3eg"
+      },
+      {
+        "label": "Blue Spectre",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/a/ac/Hero185-icon.png/revision/latest?cb=20220119131844",
+        "url": "https://sfile.mobi/5gtTSkhLtCQ"
+      },
+      {
+        "label": "Classic",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/6/6c/Hero186-icon.png/revision/latest?cb=20220119131819",
+        "url": "https://sfile.mobi/2pbSiCR5cAR"
+      },
+      {
+        "label": "SABER",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/9/91/Breacher_Icon.png/revision/latest?cb=20220119131810",
+        "url": "https://sfile.mobi/2apSaE4IKkj"
+      },
+      {
+        "label": "Blazing",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/6/67/Hero188-icon.png/revision/latest?cb=20250105154931",
+        "url": "https://sfile.mobi/8XtVVse9Gwd"
+      },
+      {
+        "label": "NEW Starlight",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/d/d9/Hero101810-icon.png/revision/latest?cb=20250109162119",
+        "url": "https://sfile.mobi/7SZVkVvSc8r"
+      },
+      {
+        "label": "Collector",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/5/56/Hero101811-icon.png/revision/latest?cb=20241013071715",
+        "url": "https://sfile.mobi/4MVTDfiPt6X"
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "video": "",
+    "title": "Fanny Aspirants",
+    "category": "aspirants",
+    "slug": "fanny-aspirants",
+    "date": "2025-06-04",
+    "shortStory": "Fanny is the younger sister of Tigreal, who grew up under the protection of her family and her elder brother since she was a child. But Tigreal took the blame for a mistake in battle and left home. Disregarding obstructions from her family, Fanny joined the army, and through her own designed weapons, she successfully completed one task after another, becoming an outstanding fighter who can take care of herself.",
+    "image": "/images/fannyasp.jpg",
+    "download": [
+      {
+        "label": "Default",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/7/78/Hero171-icon.png/revision/latest?cb=20241021145223",
+        "url": "https://sfile.mobi/2pdZ1wpqmoR"
+      },
+      {
+        "label": "Elite",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/e/e3/Hero172-icon.png/revision/latest?cb=20221022061356",
+        "url": "https://sfile.mobi/2arYTIxOSUs"
+      },
+      {
+        "label": "Season",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/b/ba/Hero173-icon.png/revision/latest?cb=20220125063038",
+        "url": "https://sfile.mobi/7aI1FlYR2Mt"
+      },
+      {
+        "label": "Luckybox",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/8/85/Hero174-icon.png/revision/latest?cb=20220125063036",
+        "url": "https://sfile.mobi/bOO4eKSd2w7"
+      },
+      {
+        "label": "Starlight",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/3/34/Hero175-icon.png/revision/latest?cb=20220125063027",
+        "url": "https://sfile.mobi/309Zn93wPY7"
+      },
+      {
+        "label": "Summer",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/b/b3/Hero176-icon.png/revision/latest?cb=20220125063025",
+        "url": "https://sfile.mobi/3tHZDDmwG4p"
+      },
+      {
+        "label": "Lightborn",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/d/d2/Hero177-icon.png/revision/latest?cb=20220118094844",
+        "url": "https://sfile.mobi/4FA0iAKSQEc"
+      },
+      {
+        "label": "Christmast",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/a/a4/Hero178-icon.png/revision/latest?cb=20220126141727",
+        "url": "https://sfile.mobi/51K0vb84Y0t"
+      },
+      {
+        "label": "Imperial Warrior",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/8/80/Hero179-icon.png/revision/latest?cb=20221030072143",
+        "url": "https://sfile.mobi/7LE219xIu4j"
+      },
+      {
+        "label": "Valentine",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/a/a4/Hero101711-icon.png/revision/latest?cb=20230212040142",
+        "url": "https://sfile.mobi/9r42WqkjwQE"
+      },
+      {
+        "label": "Attack on Titan",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/0/06/Hero101712-icon.png/revision/latest/scale-to-width-down/100?cb=20240307111042",
+        "url": "https://sfile.mobi/87O2dJUUBqB"
+      }
+    ]
+  },
+  {
     "id": 108,
     "video": "https://youtu.be/2OyWaNwMXAc",
     "title": "Esmeralda Dawning",
@@ -107,7 +484,7 @@
     "id": 106,
     "video": "https://youtu.be/6MeGpmaNwYI",
     "title": "Chou Dawning",
-    "category": "Dawning",
+    "category": "dawning",
     "slug": "chou-dawning",
     "date": "2025-06-03",
     "shortStory": "Chou was born in a secluded slum deep in the hearts of poverty, living the lowest quality of life. Despite the dreadful conditions, Chou kept his heart of kindness, as day in and day out he continued to look after the old and the young there with passion. During this time, there was great turmoil and unrest in the Land of the Dawn; mayhem spread throughout the land and eventually started to affect this small remote area.",
@@ -4113,378 +4490,6 @@
         "label": "Elite",
         "icon": "https://static.wikia.nocookie.net/mobile-legends/images/d/d2/Hero719-icon.png/revision/latest?cb=20241201053524",
         "url": "https://sfile.mobi/3tH0qKSXiED"
-      }
-    ]
-  },
-  {
-    "id": 28,
-    "video": "",
-    "title": "Change Aspirants",
-    "category": "aspirants",
-    "slug": "change-aspirants",
-    "date": "2025-05-19",
-    "shortStory": "The Great Dragon's youngest disciple. Because she was mischievous, the Great Dragon handed her over to Zilong for discipline. After Zilong took on the huge responsibility of protecting the Cadia Riverlands and left the Dragon Altar, Chang'e regained her willful nature. the Great Dragon was unable to bear it and drove her out of the Dragon Altar and ask her to help Zilong to make up for her mistake.",
-    "image": "/images/changeasp.jpg",
-    "download": [
-      {
-        "label": "Default",
-        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/5/5c/Hero611-icon.png/revision/latest?cb=20241021145640",
-        "url": "https://sfile.mobi/7wRlBlUKU8B"
-      },
-      {
-        "label": "Basic",
-        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/d/d2/Hero612-icon.png/revision/latest?cb=20220126141811",
-        "url": "https://sfile.mobi/4qNjTuMXc4s"
-      },
-      {
-        "label": "Elite",
-        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/6/61/Hero613-icon.png/revision/latest?cb=20220126141813",
-        "url": "https://sfile.mobi/blfnJgmJLU7"
-      },
-      {
-        "label": "Special",
-        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/8/8f/Hero614-icon.png/revision/latest?cb=20220126141809",
-        "url": "https://sfile.mobi/233iA6KvNi2"
-      },
-      {
-        "label": "Luckybox",
-        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/5/5b/Hero615-icon.png/revision/latest?cb=20220118094845",
-        "url": "https://sfile.mobi/8IJmgF8D2o5"
-      },
-      {
-        "label": "Starlight",
-        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/d/d9/Hero616-icon.png/revision/latest?cb=20220126141808",
-        "url": "https://sfile.mobi/6VVlhFkZeEz"
-      },
-      {
-        "label": "Epic",
-        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/9/9c/Hero617-icon.png/revision/latest?cb=20220126141756",
-        "url": "https://sfile.mobi/3B5jrEw45i9"
-      },
-      {
-        "label": "Sanrio",
-        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/c/cc/Hero618-icon.png/revision/latest?cb=20220218031009",
-        "url": "https://sfile.mobi/51JkeLBxGUe"
-      },
-      {
-        "label": "Lunar Fest",
-        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/3/35/Hero619-icon.png/revision/latest?cb=20221217033853",
-        "url": "https://sfile.mobi/73jlmgVOTuA"
-      }
-    ]
-  },
-  {
-    "id": 27,
-    "video": "",
-    "title": "Lesley Aspirants",
-    "category": "aspirants",
-    "slug": "lesley-aspirants",
-    "date": "2025-05-19",
-    "shortStory": "Lesley grew up in the Vance household, where her father presided over the noble family's security. During an unexpected attack by a rival family, Lesley's father was killed. As the assailants approached the Vance household, Lesley took up her father's black long rifle and fulfilled her late father's mission. Tears rolled down Lesley's cheeks as she fired shot after shot, surprisingly, each one taking down an assassin. The final tear came as the final shot took down the last of the rival family's men.",
-    "image": "/images/lesleyasp.jpg",
-    "download": [
-      {
-        "label": "Default",
-        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/8/82/Hero531-icon.png/revision/latest?cb=20241021145551",
-        "url": "https://sfile.mobi/2DZhwAfwv2O"
-      },
-      {
-        "label": "Basic",
-        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/4/4d/Hero532-icon.png/revision/latest?cb=20220824141628",
-        "url": "https://sfile.mobi/5RrjiS3oTmX"
-      },
-      {
-        "label": "Elite",
-        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/b/be/Hero533-icon.png/revision/latest?cb=20220126141701",
-        "url": "https://sfile.mobi/7LDkmEmDlY9"
-      },
-      {
-        "label": "Special",
-        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/9/97/Hero534-icon.png/revision/latest?cb=20220126141659",
-        "url": "https://sfile.mobi/80pkuseeOsR"
-      },
-      {
-        "label": "Luckybox",
-        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/b/b4/Hero535-icon.png/revision/latest?cb=20230805043943",
-        "url": "https://sfile.mobi/7T1kr52I1iZ"
-      },
-      {
-        "label": "Valentine",
-        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/7/72/Hero536-icon.png/revision/latest?cb=20220915134949",
-        "url": "https://sfile.mobi/1kJgOfFDxai"
-      },
-      {
-        "label": "Legend",
-        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/8/81/Hero537-icon.png/revision/latest?cb=20220126141633",
-        "url": "https://sfile.mobi/87Nkz3P4tyA"
-      },
-      {
-        "label": "Starlight",
-        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/9/9e/Hero538-icon.png/revision/latest?cb=20220126141629",
-        "url": "https://sfile.mobi/7i5k6RIFpeB"
-      },
-      {
-        "label": "Collector",
-        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/b/b4/Hero539-icon.png/revision/latest?cb=20220126141704",
-        "url": "https://sfile.mobi/4qNixlcK7Yq"
-      },
-      {
-        "label": "Annual Starlight",
-        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/a/a9/Hero105310-icon.png/revision/latest?cb=20221103135316",
-        "url": "https://sfile.mobi/aCVlXen6w0F"
-      },
-      {
-        "label": "Covenant",
-        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/a/a7/Hero105313-icon.png/revision/latest?cb=20250301113859",
-        "url": "https://sfile.mobi/7LDlIs7ksgO"
-      }
-    ]
-  },
-  {
-    "id": 26,
-    "video": "",
-    "title": "Ruby Aspirants",
-    "category": "aspirants",
-    "slug": "ruby-aspirants",
-    "date": "2025-05-19",
-    "shortStory": "he village where Ruby lived was attacked by werewolves. At the time of crisis, Roger appeared to help them repel the werewolves. Roger taught Ruby how to fight and gave her a sickle so that she could protect herself and the village.",
-    "image": "/images/rubyasp.jpg",
-    "download": [
-      {
-        "label": "Default",
-        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/1/1d/Hero291-icon.png/revision/latest?cb=20241021145332",
-        "url": "https://sfile.mobi/7wRkbkbSfYF"
-      },
-      {
-        "label": "Basic",
-        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/8/89/Hero292-icon.png/revision/latest?cb=20220126042030",
-        "url": "https://sfile.mobi/597iRAjUSIH"
-      },
-      {
-        "label": "Elite (Butterfly)",
-        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/7/71/Hero293-icon.png/revision/latest?cb=20220126042027",
-        "url": "https://sfile.mobi/1Ohh1KpKIg4"
-      },
-      {
-        "label": "Elite (Edelweiss)",
-        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/9/91/Hero294-icon.png/revision/latest?cb=20220126042023",
-        "url": "https://sfile.mobi/1kJgLXLMMss"
-      },
-      {
-        "label": "Luckybox",
-        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/e/e6/Hero295-icon.png/revision/latest?cb=20220126042025",
-        "url": "https://sfile.mobi/1GTgYnedUY2"
-      },
-      {
-        "label": "Starlight",
-        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/9/92/Hero296-icon.png/revision/latest?cb=20220119131911",
-        "url": "https://sfile.mobi/a1ZlA1ube0L"
-      },
-      {
-        "label": "Collector",
-        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/1/12/Hero297-icon.png/revision/latest?cb=20230805043936",
-        "url": "https://sfile.mobi/6OxjO5vONyy"
-      },
-      {
-        "label": "Special",
-        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/6/66/Hero299-icon.png/revision/latest?cb=20240610094403",
-        "url": "https://sfile.mobi/bA1mrokYxM7"
-      },
-      {
-        "label": "Golden Month (Crescent)",
-        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/a/aa/Hero102910-icon.png/revision/latest?cb=20250105154942",
-        "url": "https://sfile.mobi/8mzkFsmC6Ae"
-      },
-      {
-        "label": "Golden Month (Neon)",
-        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/7/78/Hero102911-icon.png/revision/latest?cb=20250105154943",
-        "url": "https://sfile.mobi/3B5i2vmYkgj"
-      }
-    ]
-  },
-  {
-    "id": 25,
-    "video": "",
-    "title": "Angela Aspirants",
-    "category": "aspirants",
-    "slug": "angela-aspirants",
-    "date": "2025-05-19",
-    "shortStory": "An android created by the founder of Laboratory 1718, Dr. Baker. It was the first life form created without using human body or soul. In order to gain the knowledge of her, other scientists in the lab went after Dr. Baker. Before taken away, Dr. Baker stuffed her into a flight capsule to escape.",
-    "image": "/images/angelaasp.jpg",
-    "download": [
-      {
-        "label": "Default",
-        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/1/13/Hero551-icon.png/revision/latest?cb=20250406000608",
-        "url": "https://sfile.mobi/4UkLVssmXud"
-      },
-      {
-        "label": "Basic",
-        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/9/94/Hero552-icon.png/revision/latest?cb=20220126141947",
-        "url": "https://sfile.mobi/44CLt5rcUgy"
-      },
-      {
-        "label": "Starlight",
-        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/b/b8/Hero553-icon.png/revision/latest?cb=20220126141949",
-        "url": "https://sfile.mobi/1dkJTo0wDoB"
-      },
-      {
-        "label": "VENOM",
-        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/5/56/Hero554-icon.png/revision/latest?cb=20220126141945",
-        "url": "https://sfile.mobi/1kIJXDLQkMW"
-      },
-      {
-        "label": "Halloween",
-        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/d/d4/Hero555-icon.png/revision/latest?cb=20220126141943",
-        "url": "https://sfile.mobi/2aqKqxxhksF"
-      },
-      {
-        "label": "Summer",
-        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/3/35/Hero556-icon.png/revision/latest?cb=20220527065319",
-        "url": "https://sfile.mobi/7i4Ng4U7e0E"
-      },
-      {
-        "label": "Collector",
-        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/f/fd/Hero557-icon.png/revision/latest?cb=20220126141936",
-        "url": "https://sfile.mobi/3PQLlZeDm0A"
-      },
-      {
-        "label": "Sanrio",
-        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/6/64/Hero558-icon.png/revision/latest?cb=20220218031013",
-        "url": "https://sfile.mobi/b6sPmVRyc87"
-      },
-      {
-        "label": "Annual Starlight",
-        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/e/e4/Hero105510-icon.png/revision/latest?cb=20240313082100",
-        "url": "https://sfile.mobi/4qMLGUdHTqE"
-      },
-      {
-        "label": "Kishin",
-        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/e/ec/Hero105511-icon.png/revision/latest?cb=20241013072638",
-        "url": "https://sfile.mobi/6smMOpxZ60K"
-      }
-    ]
-  },
-  {
-    "id": 24,
-    "video": "",
-    "title": "Layla Aspirants",
-    "category": "aspirants",
-    "slug": "layla-aspirants",
-    "date": "2025-05-19",
-    "shortStory": "In Eruditio—the City of Scholars, there's hardly anyone who doesn't know of Layla. She's the 'daughter of Eruditio', just like a bright star that shines over the streets of Eruditio in the darkness of night. Brave and selfless, she always had a bright and happy smile on her face while toting the gun handed to her by her grandfather, protecting Eruditio in her own way. As a child, Layla would always ask her grandfather about her parents, but his reluctance to tell her and his sad face told her it was something tragic. Because of that, Layla decided to never pain her grandfather anymore, so she stopped pursuing the matter. However, as secrets cannot be hidden forever, the truth of her birth eventually surfaced, and it turns out that her parents have always been watching her from the skies—well, in the literal sense.",
-    "image": "/images/laylaasp.jpg",
-    "download": [
-      {
-        "label": "Default",
-        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/0/02/Hero181-icon.png/revision/latest?cb=20241021145229",
-        "url": "https://sfile.mobi/3B3SWwKTuoa"
-      },
-      {
-        "label": "Basic",
-        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/7/70/Hero182-icon.png/revision/latest?cb=20220119131848",
-        "url": "https://sfile.mobi/1djRD8Is5AF"
-      },
-      {
-        "label": "OLD Starlight",
-        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/a/ae/Hero183-icon.png/revision/latest?cb=20220119131846",
-        "url": "https://sfile.mobi/a9lWzbdcZir"
-      },
-      {
-        "label": "Valentine",
-        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/2/2c/Hero184-icon.png/revision/latest?cb=20220119131851",
-        "url": "https://sfile.mobi/1djRDuxY3eg"
-      },
-      {
-        "label": "Blue Spectre",
-        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/a/ac/Hero185-icon.png/revision/latest?cb=20220119131844",
-        "url": "https://sfile.mobi/5gtTSkhLtCQ"
-      },
-      {
-        "label": "Classic",
-        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/6/6c/Hero186-icon.png/revision/latest?cb=20220119131819",
-        "url": "https://sfile.mobi/2pbSiCR5cAR"
-      },
-      {
-        "label": "SABER",
-        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/9/91/Breacher_Icon.png/revision/latest?cb=20220119131810",
-        "url": "https://sfile.mobi/2apSaE4IKkj"
-      },
-      {
-        "label": "Blazing",
-        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/6/67/Hero188-icon.png/revision/latest?cb=20250105154931",
-        "url": "https://sfile.mobi/8XtVVse9Gwd"
-      },
-      {
-        "label": "NEW Starlight",
-        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/d/d9/Hero101810-icon.png/revision/latest?cb=20250109162119",
-        "url": "https://sfile.mobi/7SZVkVvSc8r"
-      },
-      {
-        "label": "Collector",
-        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/5/56/Hero101811-icon.png/revision/latest?cb=20241013071715",
-        "url": "https://sfile.mobi/4MVTDfiPt6X"
-      }
-    ]
-  },
-  {
-    "id": 23,
-    "video": "",
-    "title": "Fanny Aspirants",
-    "category": "aspirants",
-    "slug": "fanny-aspirants",
-    "date": "2025-05-19",
-    "shortStory": "Fanny is the younger sister of Tigreal, who grew up under the protection of her family and her elder brother since she was a child. But Tigreal took the blame for a mistake in battle and left home. Disregarding obstructions from her family, Fanny joined the army, and through her own designed weapons, she successfully completed one task after another, becoming an outstanding fighter who can take care of herself.",
-    "image": "/images/fannyasp.jpg",
-    "download": [
-      {
-        "label": "Default",
-        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/7/78/Hero171-icon.png/revision/latest?cb=20241021145223",
-        "url": "https://sfile.mobi/1GQCIgeHGA6"
-      },
-      {
-        "label": "Elite",
-        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/e/e3/Hero172-icon.png/revision/latest?cb=20221022061356",
-        "url": "https://sfile.mobi/7SYG7Yuj6M3"
-      },
-      {
-        "label": "Season",
-        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/b/ba/Hero173-icon.png/revision/latest?cb=20220125063038",
-        "url": "https://sfile.mobi/aCSHCxzSMgo"
-      },
-      {
-        "label": "Luckybox",
-        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/8/85/Hero174-icon.png/revision/latest?cb=20220125063036",
-        "url": "https://sfile.mobi/6H6FsjqV1YR"
-      },
-      {
-        "label": "Starlight",
-        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/3/34/Hero175-icon.png/revision/latest?cb=20220125063027",
-        "url": "https://sfile.mobi/5K0EV9UajK9"
-      },
-      {
-        "label": "Summer",
-        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/b/b3/Hero176-icon.png/revision/latest?cb=20220125063025",
-        "url": "https://sfile.mobi/aZ2HOfnhZub"
-      },
-      {
-        "label": "Lightborn",
-        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/d/d2/Hero177-icon.png/revision/latest?cb=20220118094844",
-        "url": "https://sfile.mobi/2SIDml3gX6L"
-      },
-      {
-        "label": "Christmast",
-        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/a/a4/Hero178-icon.png/revision/latest?cb=20220126141727",
-        "url": "https://sfile.mobi/230CUFH8P65"
-      },
-      {
-        "label": "Imperial Warrior",
-        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/8/80/Hero179-icon.png/revision/latest?cb=20221030072143",
-        "url": "https://sfile.mobi/9jCGV5zMIwp"
-      },
-      {
-        "label": "Valentine",
-        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/a/a4/Hero101711-icon.png/revision/latest?cb=20230212040142",
-        "url": "https://sfile.mobi/7wOFTCXxba3"
       }
     ]
   },
