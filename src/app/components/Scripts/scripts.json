@@ -1,5 +1,356 @@
 [
   {
+    "id": 14,
+    "video": "https://youtu.be/-qruaKOQDNo",
+    "title": "Melissa Jujutsu Kaisen",
+    "category": "Jujutsu",
+    "slug": "melissa-jujutsu-kaisen",
+    "date": "2025-06-06",
+    "shortStory": "As an illegitimate child of a noble, Melissa grew up in the Lumina City, capital of the Moniyan Empire, where she runs a small tailor shop and down with black magic, she uses cursed needles to fight solving problems for her clients in unique ways.",
+    "image": "/images/melissajjk.jpg",
+    "download": [
+      {
+        "label": "Default",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/0/09/Hero1141-icon.png/revision/latest?cb=20241021153310",
+        "url": "https://sfile.mobi/4bZKdiIqUMv"
+      },
+      {
+        "label": "Basic",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/f/f6/Hero1142-icon.png/revision/latest?cb=20220218031006",
+        "url": "https://sfile.mobi/bdPO65Eeju7"
+      },
+      {
+        "label": "Starlight",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/6/60/Hero1144-icon.png/revision/latest?cb=20231210095129",
+        "url": "https://sfile.mobi/73hLNwTo8oP"
+      },
+      {
+        "label": "Sparkle",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/f/f4/Hero1145-icon.png/revision/latest?cb=20240402083422",
+        "url": "https://sfile.mobi/aKhNQ85vpYj"
+      },
+      {
+        "label": "Collector",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/8/81/Hero1146-icon.png/revision/latest?cb=20250301113854",
+        "url": "https://sfile.mobi/3tFJPIcRvqn"
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "video": "https://youtu.be/YsYCdtzm2Z0",
+    "title": "Xavier Jujutsu Kaisen",
+    "category": "Jujutsu",
+    "slug": "xavier-jujutsu-kaisen",
+    "date": "2025-06-06",
+    "shortStory": "Xavier was a member of the Knights of Light who was awarded the title 'Arbiter of Light'. After suppressing Terizla's Free Smiths' Guild, Xavier underwent a decade of inner struggle and despondency. And when he was ordered to capture the two 'heretics', Yin and Melissa, he was once again forced to choose between duty and conscience…",
+    "image": "/images/xavierjjk.jpg",
+    "download": [
+      {
+        "label": "Default",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/8/80/Hero1151-icon.png/revision/latest?cb=20241021153316",
+        "url": "https://sfile.mobi/9r1N0VO4aku"
+      },
+      {
+        "label": "Basic",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/3/34/Hero1152-icon.png/revision/latest?cb=20220401091159",
+        "url": "https://sfile.mobi/3eTJCh30CQJ"
+      },
+      {
+        "label": "Starlight",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/c/cf/Hero1154-icon.png/revision/latest?cb=20241013073226",
+        "url": "https://sfile.mobi/8f9MnJzhNSm"
+      },
+      {
+        "label": "BTC",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/b/bf/Hero1155-icon.png/revision/latest?cb=20230805044012",
+        "url": "https://sfile.mobi/94RMQspXOMM"
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "video": "https://youtu.be/SpyXaSOOh6c",
+    "title": "Yin Jujutsu Kaisen",
+    "category": "Jujutsu",
+    "slug": "yin-jujutsu-kaisen",
+    "date": "2025-06-06",
+    "shortStory": "Among the four renowned members of Forsaken Light, one young man from the East stands out. Known as Yin, this simple and righteous martial artist sometimes exudes a sinister aura, creating a stark contrast that leaves many wary of him. Few know that his wild and violent behavior stems from the Evil God, Lieh, dwelling within him. He is the reason Yin left his home in the Cadia Riverlands—to hone himself in the Land of Dawn and find a way to defeat Lieh. But Yin's struggles in this foreign land have had the opposite effect; as a being that thrives on chaos, the more Yin fights, the faster Lieh can recover his power. Thus, Lieh began to impart his power to Yin, watching him sink deeper into madness with each act of righteousness and chivalry, and leading him toward the self-destruction Lieh desires. However, even knowing the risks, Yin continues to wield this power—because for him, abandoning his code and ignoring the suffering of others would make him no better than Lieh. Yin never backs down from a challenge, god or no god.",
+    "image": "/images/yinjjk.jpg",
+    "download": [
+      {
+        "label": "Default",
+        "url": "https://sfile.mobi/b6rO4PrNiE7",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/b/b5/Hero1131-icon.png/revision/latest?cb=20241021153303"
+      },
+      {
+        "label": "Basic",
+        "url": "https://sfile.mobi/2DXJpsaNewf",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/9/91/Hero1132-icon.png/revision/latest?cb=20240619160922"
+      },
+      {
+        "label": "M World",
+        "url": "https://sfile.mobi/5vfKZvqZt6E",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/b/bc/Yin_%28M-World_Yin%29.png/revision/latest?cb=20220401091203"
+      },
+      {
+        "label": "Starlight",
+        "url": "https://sfile.mobi/4y9Kteu1G8k",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/0/08/Hero1135-icon.png/revision/latest?cb=20230623130955"
+      },
+      {
+        "label": "Attack on Titan",
+        "url": "https://sfile.mobi/7wPM7mAMDej",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/d/d1/Hero1136-icon.png/revision/latest?cb=20240301101156"
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "video": "https://youtu.be/f0luSdxuhLk",
+    "title": "Julian Jujutsu Kaisen",
+    "category": "Jujutsu",
+    "slug": "julian-jujutsu-kaisen",
+    "date": "2025-06-06",
+    "shortStory": "Julian was the son of Terizla, the leader of the Free Smiths' Guild. The guild was exterminated by the Church of Light on charges of heresy when Julian was at an early age. The poor child was then adopted by the archbishop, trained and molded to be an elite member of the Ravens, a secret force that listened only to the archbishop's orders. Later, on his mission to 'purify' Xavier, he caught a glimpse of the secret buried in time",
+    "image": "/images/julianjjk.jpg",
+    "download": [
+      {
+        "label": "Default",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/c/c2/Hero1161-icon.png/revision/latest?cb=20241021153321",
+        "url": "https://sfile.mobi/2LlJREranuL"
+      },
+      {
+        "label": "Basic",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/3/3a/Hero1162-icon.png/revision/latest?cb=20220525115601",
+        "url": "https://sfile.mobi/4UjL3eC0iAq"
+      },
+      {
+        "label": "Killua",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/9/94/Hero1167-icon.png/revision/latest?cb=20241201053537",
+        "url": "https://sfile.mobi/9NbNk23iBUS"
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "video": "https://youtu.be/1Pn2vtyH1T4",
+    "title": "Yu Zhong Exorcist",
+    "category": "exorcist",
+    "slug": "yuzhong-exorcist",
+    "date": "2025-06-06",
+    "shortStory": "Yu Zhong, the conqueror born from the Black Dragon's power, sought to break the seal on the Reverse Scale hidden within the Dragon Altar and forge a new future for the Cadia Riverlands. However, he was defeated by his senior brother, Baxia, and left to die in the mountains. After ten years of arduous training and travel, Yu Zhong found himself back at the Dragon Altar. He faced off against the Oriental Fighters, broke the seal to the Reverse Scale, and clashed in a final battle with the Evil God, Lieh, who caused the demise of the previous Black Dragon. Ultimately, with the help of his dear friend Wanwan, Yu Zhong regained his true self and emerged victorious. Now with the Black Dragon's Reverse Scale restored, Yu Zhong sets off on his path of conquest.",
+    "image": "/images/yzexo.jpg",
+    "download": [
+      {
+        "label": "Default",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/5/53/Hero951-icon.png/revision/latest?cb=20241021153123",
+        "url": "https://sfile.mobi/7EeQjftlzaC"
+      },
+      {
+        "label": "Basic",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/5/5e/Hero952-icon.png/revision/latest?cb=20220126142725",
+        "url": "https://sfile.mobi/44COl4XiYMR"
+      },
+      {
+        "label": "Starlight",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/4/45/Hero953-con.png/revision/latest?cb=20220126142707",
+        "url": "https://sfile.mobi/66cPsAhAbu3"
+      },
+      {
+        "label": "Collector",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/d/da/Hero954-icon.png/revision/latest?cb=20220126142711",
+        "url": "https://sfile.mobi/1kIMPDhWpeb"
+      },
+      {
+        "label": "M5",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/c/ca/Hero957-icon.png/revision/latest?cb=20240403043937",
+        "url": "https://sfile.mobi/9FORrhxTIkd"
+      },
+      {
+        "label": "Prime",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/0/04/Hero956-icon.png/revision/latest?cb=20250519024551",
+        "url": "https://sfile.mobi/3PQOdCVdtYR"
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "video": "https://youtu.be/ZbhKE8AnKrU",
+    "title": "Kagura Exorcist",
+    "category": "exorcist",
+    "slug": "kagura-exorcist",
+    "date": "2025-06-06",
+    "shortStory": "Though the Scarlet Shadow bestowed her a name and Hayabusa taught her of peace, the young Kagura remained uncertain of her true path. When she opened her umbrella in contemplation, she beheld not gentle rain but visions of calamity, eternities of regret, and a past seen through her umbrella. At last, Kagura understood: though born from lingering attachments, her path led toward freedom. She would carry both the regrets and hopes of those who had passed to experience the beauty of the mortal realm they were never able to, and embrace the future they were robbed of yet graciously bestowed upon her.",
+    "image": "/images/kaguraexo.jpg",
+    "download": [
+      {
+        "label": "Default",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/e/ef/Hero251-icon.png/revision/latest?cb=20241021145310",
+        "url": "https://sfile.mobi/4c23UAWZwsY"
+      },
+      {
+        "label": "Basic",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/8/89/Hero252-icon.png/revision/latest?cb=20220126042121",
+        "url": "https://sfile.mobi/2Lo39f15J6u"
+      },
+      {
+        "label": "Special",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/1/12/Hero253-icon.png/revision/latest?cb=20220126042123",
+        "url": "https://sfile.mobi/4jq41QhbTWU"
+      },
+      {
+        "label": "Summer",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/6/66/Hero254-icon.png/revision/latest?cb=20231214042642",
+        "url": "https://sfile.mobi/aZ67IoFj9eb"
+      },
+      {
+        "label": "Luckybox",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/3/37/Hero255-icon.png/revision/latest?cb=20220126042116",
+        "url": "https://sfile.mobi/7i65GkdsPYZ"
+      },
+      {
+        "label": "Starlight",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/a/a4/Hero256-icon.png/revision/latest?cb=20220126042114",
+        "url": "https://sfile.mobi/4FA4eXoEXKd"
+      },
+      {
+        "label": "Annual Starlight",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/c/c5/Hero257-icon.png/revision/latest?cb=20220126042110",
+        "url": "https://sfile.mobi/agM7mooyzY0"
+      },
+      {
+        "label": "BTC",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/f/fb/Hero259-icon.png/revision/latest?cb=20230805043931",
+        "url": "https://sfile.mobi/8Q86zYY6SAx"
+      },
+      {
+        "label": "Epic",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/a/a3/Hero102510-icon.png/revision/latest?cb=20241013072631",
+        "url": "https://sfile.mobi/7aI5FeVMM8u"
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "video": "https://youtu.be/NHQRffYrDlc",
+    "title": "Hayabusa Exorcist",
+    "category": "exorcist",
+    "slug": "hayabusa-exorcist",
+    "date": "2025-06-06",
+    "shortStory": "As the second heir to the Shadow Sect of the Scarlet Shadow, Hayabusa had always looked up to his brother, a figure who he saw as the moon itself. To preserve the delicate balance of power between the Shadow and Scarlet Sects, Hayabusa willingly took his brother's place to be a political pawn and hostage, to be raised within the rival Scarlet Sect. Every day spent in the Scarlet Sect, Hayabusa lived by his brother's principles. He mastered his unique Shadow Shuriken technique and forged an unbreakable bond with Hanabi, a kunoichi of the Scarlet Sect. But when Hanzo's betrayal and his brother's disappearance shattered their hopes for peace, Hayabusa realized that the moonlight that had always guided him was gone. Yet, he gripped his blade firmly, determined to forge ahead through the shadows, following his brother's nindo.",
+    "image": "/images/hayabusaexo.jpg",
+    "download": [
+      {
+        "label": "Default",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/c/cb/Hero211-icon.png/revision/latest?cb=20241021145247",
+        "url": "https://sfile.mobi/bONkTFV15u7"
+      },
+      {
+        "label": "Basic",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/8/86/Hero212-icon.png/revision/latest?cb=20220125063635",
+        "url": "https://sfile.mobi/1dlf2TnW5m5"
+      },
+      {
+        "label": "Elite",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/0/0e/Hero213-icon.png/revision/latest?cb=20220821082622",
+        "url": "https://sfile.mobi/5RrhCihi5qm"
+      },
+      {
+        "label": "Summer",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/9/92/Hero214-icon.png/revision/latest?cb=20220628173958",
+        "url": "https://sfile.mobi/7EfiBDUrRYi"
+      },
+      {
+        "label": "Annual Starlight",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/5/59/Hero215-icon.png/revision/latest?cb=20220118094852",
+        "url": "https://sfile.mobi/2pdfInwzck3"
+      },
+      {
+        "label": "Luckybox",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/2/2c/Hero216-icon.png/revision/latest?cb=20220126042048",
+        "url": "https://sfile.mobi/5nThmvDk9Gb"
+      },
+      {
+        "label": "Starlight",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/0/03/Hero217-icon.png/revision/latest?cb=20200724051025",
+        "url": "https://sfile.mobi/1Ohfol7hz6v"
+      },
+      {
+        "label": "11.11",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/3/3d/Hero218-icon.png/revision/latest?cb=20220126042042",
+        "url": "https://sfile.mobi/blfkELQQ487"
+      },
+      {
+        "label": "Elite (Top Up)",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/2/2b/Hero219-icon.png/revision/latest?cb=20221223124524",
+        "url": "https://sfile.mobi/8fbiWUJ2mWn"
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "video": "https://youtu.be/mGwiF-HSy-c",
+    "title": "Granger Exorcist",
+    "category": "exorcist",
+    "slug": "granger-exorcist",
+    "date": "2025-06-06",
+    "shortStory": "Granger, a demon hunter who walks the line between human and demon, always preferred to keep to himself. But if someone could enter his world, they would realize how terrifying it is—the incessant howls and shrill cries constantly deafening his ears and heart. When he draws his demon-devouring weapons and unleashes a hail of bullets, the agonizing howls of demons become a requiem playing in the depths of his soul. Only the intertwining of their death shrieks and the sound of gunfire can drown out the noise that torments him daily. Each shot fired by Granger is not only his performance against the Abyss, but also an expression of his lament.",
+    "image": "/images/grangerexo.jpg",
+    "download": [
+      {
+        "label": "Default",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/7/7c/Hero791-icon.png/revision/latest?cb=20241108062800",
+        "url": "https://sfile.mobi/9UBjOjmXOEP"
+      },
+      {
+        "label": "Basic",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/3/39/Hero792-icon.png/revision/latest?cb=20241201053527",
+        "url": "https://sfile.mobi/9chjq1cmu4L"
+      },
+      {
+        "label": "Elite",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/4/43/Hero793-icon.png/revision/latest?cb=20220126142649",
+        "url": "https://sfile.mobi/9UBjOFctMsa"
+      },
+      {
+        "label": "Starlight",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/3/3f/Hero794-icon.png/revision/latest?cb=20220126142719",
+        "url": "https://sfile.mobi/aZ5kpxKheon"
+      },
+      {
+        "label": "Lightborn",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/1/1d/Hero795-icon.png/revision/latest?cb=20220118094839",
+        "url": "https://sfile.mobi/3ItgoWWSlWQ"
+      },
+      {
+        "label": "Collector",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/f/fc/Hero796-icon.png/revision/latest?cb=20220126142802",
+        "url": "https://sfile.mobi/agLk1quqSAn"
+      },
+      {
+        "label": "Legend",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/0/08/Hero797-icon.png/revision/latest?cb=20220126142804",
+        "url": "https://sfile.mobi/2DZfOB9lQsP"
+      },
+      {
+        "label": "Transformers",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/3/3d/Hero798-icon.png/revision/latest?cb=20220126142813",
+        "url": "https://sfile.mobi/4ybgS1D4kwm"
+      },
+      {
+        "label": "Create",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/0/0b/Hero799-icon.png/revision/latest?cb=20220126142811",
+        "url": "https://sfile.mobi/5vhhoPkj4Wb"
+      },
+      {
+        "label": "Valentine",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/0/02/Hero107911-icon.png/revision/latest?cb=20240329062320",
+        "url": "https://sfile.mobi/2DZfP7TCMU4"
+      }
+    ]
+  },
+  {
     "id": 28,
     "video": "",
     "title": "Change Aspirants",
@@ -4494,224 +4845,6 @@
     ]
   },
   {
-    "id": 22,
-    "video": "https://youtu.be/W4RjSyE52Dc",
-    "title": "Yu Zhong Exorcist",
-    "category": "exorcist",
-    "slug": "yuzhong-exorcist",
-    "date": "2025-05-19",
-    "shortStory": "Yu Zhong, the conqueror born from the Black Dragon's power, sought to break the seal on the Reverse Scale hidden within the Dragon Altar and forge a new future for the Cadia Riverlands. However, he was defeated by his senior brother, Baxia, and left to die in the mountains. After ten years of arduous training and travel, Yu Zhong found himself back at the Dragon Altar. He faced off against the Oriental Fighters, broke the seal to the Reverse Scale, and clashed in a final battle with the Evil God, Lieh, who caused the demise of the previous Black Dragon. Ultimately, with the help of his dear friend Wanwan, Yu Zhong regained his true self and emerged victorious. Now with the Black Dragon's Reverse Scale restored, Yu Zhong sets off on his path of conquest.",
-    "image": "/images/yzexo.jpg",
-    "download": [
-      {
-        "label": "Default",
-        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/5/53/Hero951-icon.png/revision/latest?cb=20241021153123",
-        "url": "https://sfile.mobi/7EeQjftlzaC"
-      },
-      {
-        "label": "Basic",
-        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/5/5e/Hero952-icon.png/revision/latest?cb=20220126142725",
-        "url": "https://sfile.mobi/44COl4XiYMR"
-      },
-      {
-        "label": "Starlight",
-        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/4/45/Hero953-con.png/revision/latest?cb=20220126142707",
-        "url": "https://sfile.mobi/66cPsAhAbu3"
-      },
-      {
-        "label": "Collector",
-        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/d/da/Hero954-icon.png/revision/latest?cb=20220126142711",
-        "url": "https://sfile.mobi/1kIMPDhWpeb"
-      },
-      {
-        "label": "M5",
-        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/c/ca/Hero957-icon.png/revision/latest?cb=20240403043937",
-        "url": "https://sfile.mobi/9FORrhxTIkd"
-      },
-      {
-        "label": "Prime",
-        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/0/04/Hero956-icon.png/revision/latest?cb=20250519024551",
-        "url": "https://sfile.mobi/3PQOdCVdtYR"
-      }
-    ]
-  },
-  {
-    "id": 21,
-    "video": "https://youtu.be/SL_8bV9_q84",
-    "title": "Kagura Exorcist",
-    "category": "exorcist",
-    "slug": "kagura-exorcist",
-    "date": "2025-05-19",
-    "shortStory": "Though the Scarlet Shadow bestowed her a name and Hayabusa taught her of peace, the young Kagura remained uncertain of her true path. When she opened her umbrella in contemplation, she beheld not gentle rain but visions of calamity, eternities of regret, and a past seen through her umbrella. At last, Kagura understood: though born from lingering attachments, her path led toward freedom. She would carry both the regrets and hopes of those who had passed to experience the beauty of the mortal realm they were never able to, and embrace the future they were robbed of yet graciously bestowed upon her.",
-    "image": "/images/kaguraexo.jpg",
-    "download": [
-      {
-        "label": "Default",
-        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/e/ef/Hero251-icon.png/revision/latest?cb=20241021145310",
-        "url": "https://sfile.mobi/7EbqKKMyycF"
-      },
-      {
-        "label": "Basic",
-        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/8/89/Hero252-icon.png/revision/latest?cb=20220126042121",
-        "url": "https://sfile.mobi/8mvr92X9SMN"
-      },
-      {
-        "label": "Special",
-        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/1/12/Hero253-icon.png/revision/latest?cb=20220126042123",
-        "url": "https://sfile.mobi/5JZpH9o55mm"
-      },
-      {
-        "label": "Summer",
-        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/6/66/Hero254-icon.png/revision/latest?cb=20231214042642",
-        "url": "https://sfile.mobi/3eRoihb17yY"
-      },
-      {
-        "label": "Luckybox",
-        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/3/37/Hero255-icon.png/revision/latest?cb=20220126042116",
-        "url": "https://sfile.mobi/73fqqIngVU7"
-      },
-      {
-        "label": "Starlight",
-        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/a/a4/Hero256-icon.png/revision/latest?cb=20220126042114",
-        "url": "https://sfile.mobi/9N9rVsnBzaC"
-      },
-      {
-        "label": "Annual Starlight",
-        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/c/c5/Hero257-icon.png/revision/latest?cb=20220126042110",
-        "url": "https://sfile.mobi/9FLTfBWoMwB"
-      },
-      {
-        "label": "BTC",
-        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/f/fb/Hero259-icon.png/revision/latest?cb=20230805043931",
-        "url": "https://sfile.mobi/avtsjKycTKb"
-      },
-      {
-        "label": "Epic",
-        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/a/a3/Hero102510-icon.png/revision/latest?cb=20241013072631",
-        "url": "https://sfile.mobi/5JZpFz9gfSY"
-      }
-    ]
-  },
-  {
-    "id": 20,
-    "video": "https://youtu.be/V9KY1coVoZY",
-    "title": "Hayabusa Exorcist",
-    "category": "exorcist",
-    "slug": "hayabusa-exorcist",
-    "date": "2025-05-19",
-    "shortStory": "As the second heir to the Shadow Sect of the Scarlet Shadow, Hayabusa had always looked up to his brother, a figure who he saw as the moon itself. To preserve the delicate balance of power between the Shadow and Scarlet Sects, Hayabusa willingly took his brother's place to be a political pawn and hostage, to be raised within the rival Scarlet Sect. Every day spent in the Scarlet Sect, Hayabusa lived by his brother's principles. He mastered his unique Shadow Shuriken technique and forged an unbreakable bond with Hanabi, a kunoichi of the Scarlet Sect. But when Hanzo's betrayal and his brother's disappearance shattered their hopes for peace, Hayabusa realized that the moonlight that had always guided him was gone. Yet, he gripped his blade firmly, determined to forge ahead through the shadows, following his brother's nindo.",
-    "image": "/images/hayabusaexo.jpg",
-    "download": [
-      {
-        "label": "Default",
-        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/c/cb/Hero211-icon.png/revision/latest?cb=20241021145247",
-        "url": "https://sfile.mobi/bONkTFV15u7"
-      },
-      {
-        "label": "Basic",
-        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/8/86/Hero212-icon.png/revision/latest?cb=20220125063635",
-        "url": "https://sfile.mobi/1dlf2TnW5m5"
-      },
-      {
-        "label": "Elite",
-        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/0/0e/Hero213-icon.png/revision/latest?cb=20220821082622",
-        "url": "https://sfile.mobi/5RrhCihi5qm"
-      },
-      {
-        "label": "Summer",
-        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/9/92/Hero214-icon.png/revision/latest?cb=20220628173958",
-        "url": "https://sfile.mobi/7EfiBDUrRYi"
-      },
-      {
-        "label": "Annual Starlight",
-        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/5/59/Hero215-icon.png/revision/latest?cb=20220118094852",
-        "url": "https://sfile.mobi/2pdfInwzck3"
-      },
-      {
-        "label": "Luckybox",
-        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/2/2c/Hero216-icon.png/revision/latest?cb=20220126042048",
-        "url": "https://sfile.mobi/5nThmvDk9Gb"
-      },
-      {
-        "label": "Starlight",
-        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/0/03/Hero217-icon.png/revision/latest?cb=20200724051025",
-        "url": "https://sfile.mobi/1Ohfol7hz6v"
-      },
-      {
-        "label": "11.11",
-        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/3/3d/Hero218-icon.png/revision/latest?cb=20220126042042",
-        "url": "https://sfile.mobi/blfkELQQ487"
-      },
-      {
-        "label": "Elite (Top Up)",
-        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/2/2b/Hero219-icon.png/revision/latest?cb=20221223124524",
-        "url": "https://sfile.mobi/8fbiWUJ2mWn"
-      }
-    ]
-  },
-  {
-    "id": 19,
-    "video": "https://youtu.be/zhZZcpzoBUk",
-    "title": "Granger Exorcist",
-    "category": "exorcist",
-    "slug": "granger-exorcist",
-    "date": "2025-05-19",
-    "shortStory": "Granger, a demon hunter who walks the line between human and demon, always preferred to keep to himself. But if someone could enter his world, they would realize how terrifying it is—the incessant howls and shrill cries constantly deafening his ears and heart. When he draws his demon-devouring weapons and unleashes a hail of bullets, the agonizing howls of demons become a requiem playing in the depths of his soul. Only the intertwining of their death shrieks and the sound of gunfire can drown out the noise that torments him daily. Each shot fired by Granger is not only his performance against the Abyss, but also an expression of his lament.",
-    "image": "/images/grangerexo.jpg",
-    "download": [
-      {
-        "label": "Default",
-        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/7/7c/Hero791-icon.png/revision/latest?cb=20241108062800",
-        "url": "https://sfile.mobi/9UBjOjmXOEP"
-      },
-      {
-        "label": "Basic",
-        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/3/39/Hero792-icon.png/revision/latest?cb=20241201053527",
-        "url": "https://sfile.mobi/9chjq1cmu4L"
-      },
-      {
-        "label": "Elite",
-        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/4/43/Hero793-icon.png/revision/latest?cb=20220126142649",
-        "url": "https://sfile.mobi/9UBjOFctMsa"
-      },
-      {
-        "label": "Starlight",
-        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/3/3f/Hero794-icon.png/revision/latest?cb=20220126142719",
-        "url": "https://sfile.mobi/aZ5kpxKheon"
-      },
-      {
-        "label": "Lightborn",
-        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/1/1d/Hero795-icon.png/revision/latest?cb=20220118094839",
-        "url": "https://sfile.mobi/3ItgoWWSlWQ"
-      },
-      {
-        "label": "Collector",
-        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/f/fc/Hero796-icon.png/revision/latest?cb=20220126142802",
-        "url": "https://sfile.mobi/agLk1quqSAn"
-      },
-      {
-        "label": "Legend",
-        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/0/08/Hero797-icon.png/revision/latest?cb=20220126142804",
-        "url": "https://sfile.mobi/2DZfOB9lQsP"
-      },
-      {
-        "label": "Transformers",
-        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/3/3d/Hero798-icon.png/revision/latest?cb=20220126142813",
-        "url": "https://sfile.mobi/4ybgS1D4kwm"
-      },
-      {
-        "label": "Create",
-        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/0/0b/Hero799-icon.png/revision/latest?cb=20220126142811",
-        "url": "https://sfile.mobi/5vhhoPkj4Wb"
-      },
-      {
-        "label": "Valentine",
-        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/0/02/Hero107911-icon.png/revision/latest?cb=20240329062320",
-        "url": "https://sfile.mobi/2DZfP7TCMU4"
-      }
-    ]
-  },
-  {
     "id": 18,
     "video": "https://youtu.be/12FKpHKJXgo",
     "title": "Cecilion Hunter X Hunter",
@@ -4871,139 +5004,6 @@
         "label": "Christmast",
         "icon": "https://static.wikia.nocookie.net/mobile-legends/images/5/53/Hero738-icon.png/revision/latest?cb=20240326070323",
         "url": "https://sfile.mobi/37vUGRv9jq9"
-      }
-    ]
-  },
-  {
-    "id": 14,
-    "video": "",
-    "title": "Melissa Jujutsu Kaisen",
-    "category": "Jujutsu",
-    "slug": "melissa-jujutsu-kaisen",
-    "date": "2025-05-17",
-    "shortStory": "As an illegitimate child of a noble, Melissa grew up in the Lumina City, capital of the Moniyan Empire, where she runs a small tailor shop and down with black magic, she uses cursed needles to fight solving problems for her clients in unique ways.",
-    "image": "/images/melissajjk.jpg",
-    "download": [
-      {
-        "label": "Default",
-        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/0/09/Hero1141-icon.png/revision/latest?cb=20241021153310",
-        "url": "https://sfile.mobi/4bZKdiIqUMv"
-      },
-      {
-        "label": "Basic",
-        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/f/f6/Hero1142-icon.png/revision/latest?cb=20220218031006",
-        "url": "https://sfile.mobi/bdPO65Eeju7"
-      },
-      {
-        "label": "Starlight",
-        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/6/60/Hero1144-icon.png/revision/latest?cb=20231210095129",
-        "url": "https://sfile.mobi/73hLNwTo8oP"
-      },
-      {
-        "label": "Sparkle",
-        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/f/f4/Hero1145-icon.png/revision/latest?cb=20240402083422",
-        "url": "https://sfile.mobi/aKhNQ85vpYj"
-      },
-      {
-        "label": "Collector",
-        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/8/81/Hero1146-icon.png/revision/latest?cb=20250301113854",
-        "url": "https://sfile.mobi/3tFJPIcRvqn"
-      }
-    ]
-  },
-  {
-    "id": 13,
-    "video": "",
-    "title": "Xavier Jujutsu Kaisen",
-    "category": "Jujutsu",
-    "slug": "xavier-jujutsu-kaisen",
-    "date": "2025-05-17",
-    "shortStory": "Xavier was a member of the Knights of Light who was awarded the title 'Arbiter of Light'. After suppressing Terizla's Free Smiths' Guild, Xavier underwent a decade of inner struggle and despondency. And when he was ordered to capture the two 'heretics', Yin and Melissa, he was once again forced to choose between duty and conscience…",
-    "image": "/images/xavierjjk.jpg",
-    "download": [
-      {
-        "label": "Default",
-        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/8/80/Hero1151-icon.png/revision/latest?cb=20241021153316",
-        "url": "https://sfile.mobi/9r1N0VO4aku"
-      },
-      {
-        "label": "Basic",
-        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/3/34/Hero1152-icon.png/revision/latest?cb=20220401091159",
-        "url": "https://sfile.mobi/3eTJCh30CQJ"
-      },
-      {
-        "label": "Starlight",
-        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/c/cf/Hero1154-icon.png/revision/latest?cb=20241013073226",
-        "url": "https://sfile.mobi/8f9MnJzhNSm"
-      },
-      {
-        "label": "BTC",
-        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/b/bf/Hero1155-icon.png/revision/latest?cb=20230805044012",
-        "url": "https://sfile.mobi/94RMQspXOMM"
-      }
-    ]
-  },
-  {
-    "id": 12,
-    "video": "",
-    "title": "Yin Jujutsu Kaisen",
-    "category": "Jujutsu",
-    "slug": "yin-jujutsu-kaisen",
-    "date": "2025-05-17",
-    "shortStory": "Among the four renowned members of Forsaken Light, one young man from the East stands out. Known as Yin, this simple and righteous martial artist sometimes exudes a sinister aura, creating a stark contrast that leaves many wary of him. Few know that his wild and violent behavior stems from the Evil God, Lieh, dwelling within him. He is the reason Yin left his home in the Cadia Riverlands—to hone himself in the Land of Dawn and find a way to defeat Lieh. But Yin's struggles in this foreign land have had the opposite effect; as a being that thrives on chaos, the more Yin fights, the faster Lieh can recover his power. Thus, Lieh began to impart his power to Yin, watching him sink deeper into madness with each act of righteousness and chivalry, and leading him toward the self-destruction Lieh desires. However, even knowing the risks, Yin continues to wield this power—because for him, abandoning his code and ignoring the suffering of others would make him no better than Lieh. Yin never backs down from a challenge, god or no god.",
-    "image": "/images/yinjjk.jpg",
-    "download": [
-      {
-        "label": "Default",
-        "url": "https://sfile.mobi/b6rO4PrNiE7",
-        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/b/b5/Hero1131-icon.png/revision/latest?cb=20241021153303"
-      },
-      {
-        "label": "Basic",
-        "url": "https://sfile.mobi/2DXJpsaNewf",
-        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/9/91/Hero1132-icon.png/revision/latest?cb=20240619160922"
-      },
-      {
-        "label": "M World",
-        "url": "https://sfile.mobi/5vfKZvqZt6E",
-        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/b/bc/Yin_%28M-World_Yin%29.png/revision/latest?cb=20220401091203"
-      },
-      {
-        "label": "Starlight",
-        "url": "https://sfile.mobi/4y9Kteu1G8k",
-        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/0/08/Hero1135-icon.png/revision/latest?cb=20230623130955"
-      },
-      {
-        "label": "Attack on Titan",
-        "url": "https://sfile.mobi/7wPM7mAMDej",
-        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/d/d1/Hero1136-icon.png/revision/latest?cb=20240301101156"
-      }
-    ]
-  },
-  {
-    "id": 11,
-    "video": "",
-    "title": "Julian Jujutsu Kaisen",
-    "category": "Jujutsu",
-    "slug": "julian-jujutsu-kaisen",
-    "date": "2025-05-17",
-    "shortStory": "Julian was the son of Terizla, the leader of the Free Smiths' Guild. The guild was exterminated by the Church of Light on charges of heresy when Julian was at an early age. The poor child was then adopted by the archbishop, trained and molded to be an elite member of the Ravens, a secret force that listened only to the archbishop's orders. Later, on his mission to 'purify' Xavier, he caught a glimpse of the secret buried in time",
-    "image": "/images/julianjjk.jpg",
-    "download": [
-      {
-        "label": "Default",
-        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/c/c2/Hero1161-icon.png/revision/latest?cb=20241021153321",
-        "url": "https://sfile.mobi/2LlJREranuL"
-      },
-      {
-        "label": "Basic",
-        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/3/3a/Hero1162-icon.png/revision/latest?cb=20220525115601",
-        "url": "https://sfile.mobi/4UjL3eC0iAq"
-      },
-      {
-        "label": "Killua",
-        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/9/94/Hero1167-icon.png/revision/latest?cb=20241201053537",
-        "url": "https://sfile.mobi/9NbNk23iBUS"
       }
     ]
   },

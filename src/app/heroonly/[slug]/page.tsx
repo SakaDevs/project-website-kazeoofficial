@@ -34,9 +34,14 @@ const Page = async ({ params }: PageProps) => {
     <PageWrapper>
       <div className={`${poppins.className} p-6`}>
         <div className="outline p-4 gap-5">
-          <h1 className="text-xl font-bold mb-2 text-center">
-            {selectedScript.title}
-          </h1>
+          <div>
+            <h1 className="text-xl font-bold text-center">
+              {selectedScript.title}
+            </h1>
+            <h1 className="text-xs font-bold mb-2 text-center">
+              (Download Dibawah)
+            </h1>
+          </div>
           <p className="font-bold text-center underline">Short Story</p>
           <p className="mb-4 md:text-base text-xs text-center">
             {selectedScript.shortStory}
