@@ -20,7 +20,7 @@ const geistMono = Geist_Mono({
 export const metadata: Metadata = {
   title: "Kazeo Official",
   description: "Kazeo Official Website",
-  keywords: ["Kazeo Official", "Kazeo Official Script", "MLBB"],
+  keywords: ["Kazeo Official", "MLBB"],
   icons: {
     icon: "/profile.ico",
   },
