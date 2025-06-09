@@ -31,7 +31,7 @@ const Cardscript = () => {
                     src={script.image}
                     height={100}
                     width={300}
-                    alt=""
+                    alt="image belum tersedia"
                     className="rounded"
                   />{" "}
                   <div className="flex flex-col py-4 px-2">
