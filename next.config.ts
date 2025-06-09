@@ -7,6 +7,7 @@ const nextConfig: NextConfig = {
   reactStrictMode: true,
   swcMinify: true,
   images: {
+    unoptimized: true,
     domains: [
       "static.wikia.nocookie.net",
       "yt3.googleusercontent.com",
@@ -16,7 +17,8 @@ const nextConfig: NextConfig = {
       "static.vecteezy.com",
       "img.favpng.com",
       "i.pinimg.com",
-      'www.kazeoofficial.my.id'
+      "www.kazeoofficial.my.id",
+      "kazeoofficial.my.id",
     ],
   },
   theme: {
