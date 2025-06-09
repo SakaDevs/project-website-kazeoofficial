@@ -13,7 +13,7 @@ const Page = () => {
   return (
     <PageWrapper>
       <div className={`${poppins.className} p-6 `}>
-        <div className="grid md:grid-cols-2 grid-cols-1 gap-4 p-4 outline">
+        <div className="grid md:grid-cols-3 grid-cols-1 gap-4 p-4 outline">
           <div className="flex flex-col shadow md:shadow-2xl items-center text-center gap-4 hover:scale-102 duration-700 transition-all">
             <h3 className="font-bold text-lg md:text-lg">Main Channel</h3>
             <Image
@@ -95,7 +95,7 @@ const Page = () => {
               <h3>Join Now</h3>
             </Link>
           </div>
-          {/* <div className="flex flex-col shadow md:shadow-2xl items-center text-center gap-4 hover:scale-105 duration-700 transition-all">
+          <div className="flex flex-col shadow md:shadow-2xl items-center text-center gap-4 hover:scale-105 duration-700 transition-all">
           <h3 className="font-bold text-lg md:text-lg">Whatsapp Community</h3>
           <Image
             src="https://static.vecteezy.com/system/resources/previews/016/716/480/non_2x/whatsapp-icon-free-png.png"
@@ -121,7 +121,7 @@ const Page = () => {
           >
             <h3>Join Now</h3>
           </Link>
-        </div> */}
+        </div>
         </div>
       </div>
     </PageWrapper>

@@ -1,5 +1,294 @@
 [
   {
+    "id": 79,
+    "video": "",
+    "title": "Edith Beyond the Clouds",
+    "category": "BTC",
+    "slug": "edith-btc",
+    "date": "2025-06-09",
+    "shortStory": "Created by the Ancient Ones, Edith was the Primal Warden that watched over the sealed Evil Gods on the Sanctum Island. Awakened and injured in an earthquake, she lost her memories and was saved by her foster father who made a living by selling scraps and continued to raise her for ten years. When she once again helped her foster father enter the temple to search for scraps, the guardian of the ruins-Elemental Giant Uranus was prepared to destroy the invaders. It was then that Edith remembered everything, but her humanity overpowered her divine nature, and she fought Uranus to protect her foster father. Just then, the Celestial Palace fell and the sealed Evil Gods scattered. Edith parted with her foster father, drove her Mecha 'Phylax' and set out on a journey to hunt down fleeing Evil Gods.",
+    "image": "/images/edithbtc.jpg",
+    "download": [
+      {
+        "label": "Default",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/3/36/Hero1111-icon.png/revision/latest/scale-to-width-down/100?cb=20241021153252",
+        "url": "https://sfile.mobi/7EefKbfEasS"
+      },
+      {
+        "label": "Basic",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/d/d5/Hero1112-icon.png/revision/latest?cb=20220118095051",
+        "url": "https://sfile.mobi/6OwfhOeu76c"
+      },
+      {
+        "label": "Starlight",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/9/91/Hero1113-icon.png/revision/latest?cb=20230317102457",
+        "url": "https://sfile.mobi/94SgxtfSLYG"
+      },
+      {
+        "label": "MPL",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/b/b6/Hero1116-icon.png/revision/latest?cb=20250106155509",
+        "url": "https://sfile.mobi/5RqeLxhwkgO"
+      },
+      {
+        "label": "Collector",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/a/a3/Hero1114-icon.png/revision/latest?cb=20240405035246",
+        "url": "https://sfile.mobi/1s6ckOPyHKO"
+      }
+    ]
+  },
+  {
+    "id": 78,
+    "video": "",
+    "title": "Xavier Beyond the Clouds",
+    "category": "BTC",
+    "slug": "xavier-btc",
+    "date": "2025-06-09",
+    "shortStory": "Xavier was a member of the Knights of Light who was awarded the title 'Arbiter of Light'. After suppressing Terizla's Free Smiths' Guild, Xavier underwent a decade of inner struggle and despondency. And when he was ordered to capture the two 'heretics', Yin and Melissa, he was once again forced to choose between duty and conscience…",
+    "image": "/images/xavierbtc.jpg",
+    "download": [
+      {
+        "label": "Default",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/8/80/Hero1151-icon.png/revision/latest/scale-to-width-down/100?cb=20241021153316",
+        "url": "https://sfile.mobi/3tGdsv4AT6u"
+      },
+      {
+        "label": "Basic",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/3/34/Hero1152-icon.png/revision/latest?cb=20220401091159",
+        "url": "https://sfile.mobi/8Q6gqc8ydON"
+      },
+      {
+        "label": "Gojo Satoru",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/1/12/Hero1153-icon.png/revision/latest?cb=20230212040133",
+        "url": "https://sfile.mobi/5vgeAbjD4Ak"
+      },
+      {
+        "label": "Starlight",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/c/cf/Hero1154-icon.png/revision/latest?cb=20241013073226",
+        "url": "https://sfile.mobi/4Fye7Oit1mK"
+      }
+    ]
+  },
+  {
+    "id": 77,
+    "video": "",
+    "title": "Kagura Beyond the Clouds",
+    "category": "BTC",
+    "slug": "kagura-btc",
+    "date": "2025-06-09",
+    "shortStory": "Though the Scarlet Shadow bestowed her a name and Hayabusa taught her of peace, the young Kagura remained uncertain of her true path. When she opened her umbrella in contemplation, she beheld not gentle rain but visions of calamity, eternities of regret, and a past seen through her umbrella. At last, Kagura understood: though born from lingering attachments, her path led toward freedom. She would carry both the regrets and hopes of those who had passed to experience the beauty of the mortal realm they were never able to, and embrace the future they were robbed of yet graciously bestowed upon her.",
+    "image": "/images/kagurabtc.jpg",
+    "download": [
+      {
+        "label": "Default",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/e/ef/Hero251-icon.png/revision/latest?cb=20241021145310",
+        "url": "https://sfile.mobi/2SKbVOw1bqd"
+      },
+      {
+        "label": "Basic",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/8/89/Hero252-icon.png/revision/latest?cb=20220126042121",
+        "url": "https://sfile.mobi/8IIf9ZSYneI"
+      },
+      {
+        "label": "Special",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/1/12/Hero253-icon.png/revision/latest?cb=20220126042123",
+        "url": "https://sfile.mobi/87MePMyVLav"
+      },
+      {
+        "label": "Summer",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/6/66/Hero254-icon.png/revision/latest?cb=20231214042642",
+        "url": "https://sfile.mobi/6smdURBQGWp"
+      },
+      {
+        "label": "Luckybox",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/3/37/Hero255-icon.png/revision/latest?cb=20220126042116",
+        "url": "https://sfile.mobi/6dAeUBlyPmy"
+      },
+      {
+        "label": "Starlight",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/a/a4/Hero256-icon.png/revision/latest?cb=20220126042114",
+        "url": "https://sfile.mobi/3eUdhlOAM0z"
+      },
+      {
+        "label": "Annual Starlight",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/c/c5/Hero257-icon.png/revision/latest?cb=20220126042110",
+        "url": "https://sfile.mobi/9cggzC26GsB"
+      },
+      {
+        "label": "Exorcist",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/6/65/Hero258-icon.png/revision/latest?cb=20220915134946",
+        "url": "https://sfile.mobi/5K2eFwmCOIt"
+      },
+      {
+        "label": "Epic",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/a/a3/Hero102510-icon.png/revision/latest?cb=20241013072631",
+        "url": "https://sfile.mobi/3PQdCrIqick"
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "video": "https://youtu.be/12FKpHKJXgo",
+    "title": "Cecilion Hunter X Hunter",
+    "category": "HXH",
+    "slug": "cecilion-hxh",
+    "date": "2025-06-09",
+    "shortStory": "As a blood demon, Cecilion in love with human girl Carmilla, but cruel reality made Cecilion give up on their love. After Cecilion left, Carmilla chose to commit suicide which made Cecilion desperately sad. He used his abilities to turn Carmilla into Blood Demon. From then on, the two of them stayed away in the world together forever.",
+    "image": "/images/cecilionhxh.jpg",
+    "download": [
+      {
+        "label": "Default",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/8/85/Hero911-icon.png/revision/latest?cb=20241021153102",
+        "url": "https://sfile.mobi/4c1fldJZU4Z"
+      },
+      {
+        "label": "Basic",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/a/ac/Hero912-icon.png/revision/latest?cb=20220126142742",
+        "url": "https://sfile.mobi/b6tj9VPeAo7"
+      },
+      {
+        "label": "Elite",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/9/9a/Hero913-icon.png/revision/latest?cb=20220531093154",
+        "url": "https://sfile.mobi/4qNftJgDiM2"
+      },
+      {
+        "label": "Valentine",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/1/18/Hero914-icon.png/revision/latest?cb=20220126142801",
+        "url": ""
+      },
+      {
+        "label": "Starlight",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/1/1a/Hero915-icon.png/revision/latest?cb=20220119131818",
+        "url": "https://sfile.mobi/6VVgRxZ9nOv"
+      },
+      {
+        "label": "Collector",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/d/d1/Hero916-icon.png/revision/latest?cb=20220915135002",
+        "url": "https://sfile.mobi/b6tjaDugvu7"
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "video": "https://youtu.be/zqDs5JIDgDU",
+    "title": "Dyrroth Hunter X Hunter",
+    "category": "HXH",
+    "slug": "dyrroth-hxh",
+    "date": "2025-06-09",
+    "shortStory": "Twelve years ago, a prince was born in the Moniyan Empire. He was a symbol of salvation and justice for his people. It was believed that he would lead the Moniyan Empire in unifying the Land of Dawn. The Empire Nobles gave everything to the prince..",
+    "image": "/images/dyrrothhxh.jpg",
+    "download": [
+      {
+        "label": "Default",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/6/62/Hero851-icon.png/revision/latest?cb=20241021153026",
+        "url": "https://sfile.mobi/bONjwZAx3i7"
+      },
+      {
+        "label": "Basic",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/c/cf/Hero852-icon.png/revision/latest?cb=20220126142113",
+        "url": "https://sfile.mobi/66dgnpOpwcm"
+      },
+      {
+        "label": "KOF",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/8/86/Hero853-icon.png/revision/latest?cb=20220126142116",
+        "url": "https://sfile.mobi/8fbhyZZfri4"
+      },
+      {
+        "label": "Starlight",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/f/f9/Hero854-icon.png/revision/latest?cb=20220126142115",
+        "url": "https://sfile.mobi/a9niCqsXVmR"
+      },
+      {
+        "label": "VENOM",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/a/a7/Hero856-icon.png/revision/latest?cb=20220401091155",
+        "url": "https://sfile.mobi/4qNfsQGQoE4"
+      },
+      {
+        "label": "Collector",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/1/13/Hero857-icon.png/revision/latest?cb=20221217033854",
+        "url": "https://sfile.mobi/blfjhyM55Q7"
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "video": "https://youtu.be/_31fTXw-z8I",
+    "title": "Julian Hunter X Hunter",
+    "category": "HXH",
+    "slug": "julian-hxh",
+    "date": "2025-06-09",
+    "shortStory": "Julian was the son of Terizla, the leader of the Free Smiths' Guild. The guild was exterminated by the Church of Light on charges of heresy when Julian was at an early age. The poor child was then adopted by the archbishop, trained and molded to be an elite member of the Ravens, a secret force that listened only to the archbishop's orders. Later, on his mission to 'purify' Xavier, he caught a glimpse of the secret buried in time",
+    "image": "/images/julianhxh.jpg",
+    "download": [
+      {
+        "label": "Default",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/c/c2/Hero1161-icon.png/revision/latest?cb=20241021153321",
+        "url": "https://sfile.mobi/2LlUwURjUst"
+      },
+      {
+        "label": "Basic",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/3/3a/Hero1162-icon.png/revision/latest?cb=20220525115601",
+        "url": "https://sfile.mobi/9FNYlCWyAwW"
+      },
+      {
+        "label": "JJK",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/d/df/Hero1163-icon.png/revision/latest?cb=20230212040135",
+        "url": "https://sfile.mobi/4jnVohI7dC9"
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "video": "https://youtu.be/PwSKTe6kvGc",
+    "title": "Harith Hunter X Hunter",
+    "category": "HXH",
+    "slug": "harith-hxh",
+    "date": "2025-06-09",
+    "shortStory": "rom a young age, Harith surpassed his peers in talent and wisdom. He quickly became the strongest mage among the Leonins, perhaps as strong as other in the Land of Dawn. Although, the Leonins never step foot outside of the Enchanted Forest, living a peaceful and safe life on their own. The Leonins became so complacent with their blissful existence that they no longer pursed the magic arts, a hallmark of their people. Harith became very discontent with this trend and confidently set out of the Enchanted Forest to see the outside world at the young age of 15. Harith was driven by his and passion for the magic arts, aspiring to become his people's leader in magic",
+    "image": "/images/harithhxh.jpg",
+    "download": [
+      {
+        "label": "Default",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/5/5a/Hero731-icon.png/revision/latest?cb=20241021145748",
+        "url": "https://sfile.mobi/7wPX6wsz3UX"
+      },
+      {
+        "label": "Basic",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/d/d6/Hero732-icon.png/revision/latest?cb=20220126142656",
+        "url": "https://sfile.mobi/6VTWMj8wqQS"
+      },
+      {
+        "label": "Elite",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/6/69/Hero733-icon.png/revision/latest?cb=20220126142700",
+        "url": "https://sfile.mobi/3mhUO8CtQAj"
+      },
+      {
+        "label": "515",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/d/db/Hero734-icon.png/revision/latest?cb=20220126142713",
+        "url": "https://sfile.mobi/1OfTXivXtSc"
+      },
+      {
+        "label": "Lightborn",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/1/1f/Hero735-icon.png/revision/latest?cb=20220118094842",
+        "url": "https://sfile.mobi/80nXnxvPQA0"
+      },
+      {
+        "label": "Champion",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/9/96/Hero736-icon.png/revision/latest?cb=20220126142735",
+        "url": "https://sfile.mobi/9r1YaEBjsk6"
+      },
+      {
+        "label": "Collector",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/1/1e/Hero737-icon.png/revision/latest?cb=20240604141448",
+        "url": "https://sfile.mobi/6OvWJ6RKCIo"
+      },
+      {
+        "label": "Christmast",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/5/53/Hero738-icon.png/revision/latest?cb=20240326070323",
+        "url": "https://sfile.mobi/37vUGRv9jq9"
+      }
+    ]
+  },
+  {
     "id": 81,
     "video": "",
     "title": "Hanabi Soul Vessels",
@@ -78,7 +367,7 @@
       },
       {
         "label": "Elite",
-        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/a/ad/Hero1094-icon.png/revision/latest?cb=20221223124541",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/c/c0/Hero1093-icon.png/revision/latest?cb=20220628175618",
         "url": "https://sfile.mobi/aZ5IWuiAesg"
       },
       {
@@ -2696,132 +2985,6 @@
     ]
   },
   {
-    "id": 79,
-    "video": "",
-    "title": "Edith Beyond the Clouds",
-    "category": "BTC",
-    "slug": "edith-btc",
-    "date": "2025-05-26",
-    "shortStory": "Created by the Ancient Ones, Edith was the Primal Warden that watched over the sealed Evil Gods on the Sanctum Island. Awakened and injured in an earthquake, she lost her memories and was saved by her foster father who made a living by selling scraps and continued to raise her for ten years. When she once again helped her foster father enter the temple to search for scraps, the guardian of the ruins-Elemental Giant Uranus was prepared to destroy the invaders. It was then that Edith remembered everything, but her humanity overpowered her divine nature, and she fought Uranus to protect her foster father. Just then, the Celestial Palace fell and the sealed Evil Gods scattered. Edith parted with her foster father, drove her Mecha 'Phylax' and set out on a journey to hunt down fleeing Evil Gods.",
-    "image": "/images/edithbtc.jpg",
-    "download": [
-      {
-        "label": "Default",
-        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/3/36/Hero1111-icon.png/revision/latest/scale-to-width-down/100?cb=20241021153252",
-        "url": "https://sfile.mobi/7EefKbfEasS"
-      },
-      {
-        "label": "Basic",
-        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/d/d5/Hero1112-icon.png/revision/latest?cb=20220118095051",
-        "url": "https://sfile.mobi/6OwfhOeu76c"
-      },
-      {
-        "label": "Starlight",
-        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/9/91/Hero1113-icon.png/revision/latest?cb=20230317102457",
-        "url": "https://sfile.mobi/94SgxtfSLYG"
-      },
-      {
-        "label": "MPL",
-        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/b/b6/Hero1116-icon.png/revision/latest?cb=20250106155509",
-        "url": "https://sfile.mobi/5RqeLxhwkgO"
-      },
-      {
-        "label": "Collector",
-        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/a/a3/Hero1114-icon.png/revision/latest?cb=20240405035246",
-        "url": "https://sfile.mobi/1s6ckOPyHKO"
-      }
-    ]
-  },
-  {
-    "id": 78,
-    "video": "",
-    "title": "Xavier Beyond the Clouds",
-    "category": "BTC",
-    "slug": "xavier-btc",
-    "date": "2025-05-26",
-    "shortStory": "Xavier was a member of the Knights of Light who was awarded the title 'Arbiter of Light'. After suppressing Terizla's Free Smiths' Guild, Xavier underwent a decade of inner struggle and despondency. And when he was ordered to capture the two 'heretics', Yin and Melissa, he was once again forced to choose between duty and conscience…",
-    "image": "/images/xavierbtc.jpg",
-    "download": [
-      {
-        "label": "Default",
-        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/8/80/Hero1151-icon.png/revision/latest/scale-to-width-down/100?cb=20241021153316",
-        "url": "https://sfile.mobi/3tGdsv4AT6u"
-      },
-      {
-        "label": "Basic",
-        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/3/34/Hero1152-icon.png/revision/latest?cb=20220401091159",
-        "url": "https://sfile.mobi/8Q6gqc8ydON"
-      },
-      {
-        "label": "Gojo Satoru",
-        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/1/12/Hero1153-icon.png/revision/latest?cb=20230212040133",
-        "url": "https://sfile.mobi/5vgeAbjD4Ak"
-      },
-      {
-        "label": "Starlight",
-        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/c/cf/Hero1154-icon.png/revision/latest?cb=20241013073226",
-        "url": "https://sfile.mobi/4Fye7Oit1mK"
-      }
-    ]
-  },
-  {
-    "id": 77,
-    "video": "",
-    "title": "Kagura Beyond the Clouds",
-    "category": "BTC",
-    "slug": "kagura-btc",
-    "date": "2025-05-26",
-    "shortStory": "Though the Scarlet Shadow bestowed her a name and Hayabusa taught her of peace, the young Kagura remained uncertain of her true path. When she opened her umbrella in contemplation, she beheld not gentle rain but visions of calamity, eternities of regret, and a past seen through her umbrella. At last, Kagura understood: though born from lingering attachments, her path led toward freedom. She would carry both the regrets and hopes of those who had passed to experience the beauty of the mortal realm they were never able to, and embrace the future they were robbed of yet graciously bestowed upon her.",
-    "image": "/images/kagurabtc.jpg",
-    "download": [
-      {
-        "label": "Default",
-        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/e/ef/Hero251-icon.png/revision/latest?cb=20241021145310",
-        "url": "https://sfile.mobi/2SKbVOw1bqd"
-      },
-      {
-        "label": "Basic",
-        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/8/89/Hero252-icon.png/revision/latest?cb=20220126042121",
-        "url": "https://sfile.mobi/8IIf9ZSYneI"
-      },
-      {
-        "label": "Special",
-        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/1/12/Hero253-icon.png/revision/latest?cb=20220126042123",
-        "url": "https://sfile.mobi/87MePMyVLav"
-      },
-      {
-        "label": "Summer",
-        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/6/66/Hero254-icon.png/revision/latest?cb=20231214042642",
-        "url": "https://sfile.mobi/6smdURBQGWp"
-      },
-      {
-        "label": "Luckybox",
-        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/3/37/Hero255-icon.png/revision/latest?cb=20220126042116",
-        "url": "https://sfile.mobi/6dAeUBlyPmy"
-      },
-      {
-        "label": "Starlight",
-        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/a/a4/Hero256-icon.png/revision/latest?cb=20220126042114",
-        "url": "https://sfile.mobi/3eUdhlOAM0z"
-      },
-      {
-        "label": "Annual Starlight",
-        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/c/c5/Hero257-icon.png/revision/latest?cb=20220126042110",
-        "url": "https://sfile.mobi/9cggzC26GsB"
-      },
-      {
-        "label": "Exorcist",
-        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/6/65/Hero258-icon.png/revision/latest?cb=20220915134946",
-        "url": "https://sfile.mobi/5K2eFwmCOIt"
-      },
-      {
-        "label": "Epic",
-        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/a/a3/Hero102510-icon.png/revision/latest?cb=20241013072631",
-        "url": "https://sfile.mobi/3PQdCrIqick"
-      }
-    ]
-  },
-  {
     "id": 76,
     "video": "",
     "title": "Paquito KOF",
@@ -5119,169 +5282,6 @@
         "label": "Elite",
         "icon": "https://static.wikia.nocookie.net/mobile-legends/images/d/d2/Hero719-icon.png/revision/latest?cb=20241201053524",
         "url": "https://sfile.mobi/3tH0qKSXiED"
-      }
-    ]
-  },
-  {
-    "id": 18,
-    "video": "https://youtu.be/12FKpHKJXgo",
-    "title": "Cecilion Hunter X Hunter",
-    "category": "HXH",
-    "slug": "cecilion-hxh",
-    "date": "2025-05-18",
-    "shortStory": "As a blood demon, Cecilion in love with human girl Carmilla, but cruel reality made Cecilion give up on their love. After Cecilion left, Carmilla chose to commit suicide which made Cecilion desperately sad. He used his abilities to turn Carmilla into Blood Demon. From then on, the two of them stayed away in the world together forever.",
-    "image": "/images/cecilionhxh.jpg",
-    "download": [
-      {
-        "label": "Default",
-        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/8/85/Hero911-icon.png/revision/latest?cb=20241021153102",
-        "url": "https://sfile.mobi/4c1fldJZU4Z"
-      },
-      {
-        "label": "Basic",
-        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/a/ac/Hero912-icon.png/revision/latest?cb=20220126142742",
-        "url": "https://sfile.mobi/b6tj9VPeAo7"
-      },
-      {
-        "label": "Elite",
-        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/9/9a/Hero913-icon.png/revision/latest?cb=20220531093154",
-        "url": "https://sfile.mobi/4qNftJgDiM2"
-      },
-      {
-        "label": "Valentine",
-        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/1/18/Hero914-icon.png/revision/latest?cb=20220126142801",
-        "url": ""
-      },
-      {
-        "label": "Starlight",
-        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/1/1a/Hero915-icon.png/revision/latest?cb=20220119131818",
-        "url": "https://sfile.mobi/6VVgRxZ9nOv"
-      },
-      {
-        "label": "Collector",
-        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/d/d1/Hero916-icon.png/revision/latest?cb=20220915135002",
-        "url": "https://sfile.mobi/b6tjaDugvu7"
-      }
-    ]
-  },
-  {
-    "id": 17,
-    "video": "https://youtu.be/zqDs5JIDgDU",
-    "title": "Dyrroth Hunter X Hunter",
-    "category": "HXH",
-    "slug": "dyrroth-hxh",
-    "date": "2025-05-18",
-    "shortStory": "Twelve years ago, a prince was born in the Moniyan Empire. He was a symbol of salvation and justice for his people. It was believed that he would lead the Moniyan Empire in unifying the Land of Dawn. The Empire Nobles gave everything to the prince..",
-    "image": "/images/dyrrothhxh.jpg",
-    "download": [
-      {
-        "label": "Default",
-        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/6/62/Hero851-icon.png/revision/latest?cb=20241021153026",
-        "url": "https://sfile.mobi/bONjwZAx3i7"
-      },
-      {
-        "label": "Basic",
-        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/c/cf/Hero852-icon.png/revision/latest?cb=20220126142113",
-        "url": "https://sfile.mobi/66dgnpOpwcm"
-      },
-      {
-        "label": "KOF",
-        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/8/86/Hero853-icon.png/revision/latest?cb=20220126142116",
-        "url": "https://sfile.mobi/8fbhyZZfri4"
-      },
-      {
-        "label": "Starlight",
-        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/f/f9/Hero854-icon.png/revision/latest?cb=20220126142115",
-        "url": "https://sfile.mobi/a9niCqsXVmR"
-      },
-      {
-        "label": "VENOM",
-        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/a/a7/Hero856-icon.png/revision/latest?cb=20220401091155",
-        "url": "https://sfile.mobi/4qNfsQGQoE4"
-      },
-      {
-        "label": "Collector",
-        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/1/13/Hero857-icon.png/revision/latest?cb=20221217033854",
-        "url": "https://sfile.mobi/blfjhyM55Q7"
-      }
-    ]
-  },
-  {
-    "id": 16,
-    "video": "https://youtu.be/_31fTXw-z8I",
-    "title": "Julian Hunter X Hunter",
-    "category": "HXH",
-    "slug": "julian-hxh",
-    "date": "2025-05-18",
-    "shortStory": "Julian was the son of Terizla, the leader of the Free Smiths' Guild. The guild was exterminated by the Church of Light on charges of heresy when Julian was at an early age. The poor child was then adopted by the archbishop, trained and molded to be an elite member of the Ravens, a secret force that listened only to the archbishop's orders. Later, on his mission to 'purify' Xavier, he caught a glimpse of the secret buried in time",
-    "image": "/images/julianhxh.jpg",
-    "download": [
-      {
-        "label": "Default",
-        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/c/c2/Hero1161-icon.png/revision/latest?cb=20241021153321",
-        "url": "https://sfile.mobi/2LlUwURjUst"
-      },
-      {
-        "label": "Basic",
-        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/3/3a/Hero1162-icon.png/revision/latest?cb=20220525115601",
-        "url": "https://sfile.mobi/9FNYlCWyAwW"
-      },
-      {
-        "label": "JJK",
-        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/d/df/Hero1163-icon.png/revision/latest?cb=20230212040135",
-        "url": "https://sfile.mobi/4jnVohI7dC9"
-      }
-    ]
-  },
-  {
-    "id": 15,
-    "video": "https://youtu.be/PwSKTe6kvGc",
-    "title": "Harith Hunter X Hunter",
-    "category": "HXH",
-    "slug": "harith-hxh",
-    "date": "2025-05-18",
-    "shortStory": "rom a young age, Harith surpassed his peers in talent and wisdom. He quickly became the strongest mage among the Leonins, perhaps as strong as other in the Land of Dawn. Although, the Leonins never step foot outside of the Enchanted Forest, living a peaceful and safe life on their own. The Leonins became so complacent with their blissful existence that they no longer pursed the magic arts, a hallmark of their people. Harith became very discontent with this trend and confidently set out of the Enchanted Forest to see the outside world at the young age of 15. Harith was driven by his and passion for the magic arts, aspiring to become his people's leader in magic",
-    "image": "/images/harithhxh.jpg",
-    "download": [
-      {
-        "label": "Default",
-        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/5/5a/Hero731-icon.png/revision/latest?cb=20241021145748",
-        "url": "https://sfile.mobi/7wPX6wsz3UX"
-      },
-      {
-        "label": "Basic",
-        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/d/d6/Hero732-icon.png/revision/latest?cb=20220126142656",
-        "url": "https://sfile.mobi/6VTWMj8wqQS"
-      },
-      {
-        "label": "Elite",
-        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/6/69/Hero733-icon.png/revision/latest?cb=20220126142700",
-        "url": "https://sfile.mobi/3mhUO8CtQAj"
-      },
-      {
-        "label": "515",
-        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/d/db/Hero734-icon.png/revision/latest?cb=20220126142713",
-        "url": "https://sfile.mobi/1OfTXivXtSc"
-      },
-      {
-        "label": "Lightborn",
-        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/1/1f/Hero735-icon.png/revision/latest?cb=20220118094842",
-        "url": "https://sfile.mobi/80nXnxvPQA0"
-      },
-      {
-        "label": "Champion",
-        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/9/96/Hero736-icon.png/revision/latest?cb=20220126142735",
-        "url": "https://sfile.mobi/9r1YaEBjsk6"
-      },
-      {
-        "label": "Collector",
-        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/1/1e/Hero737-icon.png/revision/latest?cb=20240604141448",
-        "url": "https://sfile.mobi/6OvWJ6RKCIo"
-      },
-      {
-        "label": "Christmast",
-        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/5/53/Hero738-icon.png/revision/latest?cb=20240326070323",
-        "url": "https://sfile.mobi/37vUGRv9jq9"
       }
     ]
   },
