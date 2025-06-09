@@ -15,7 +15,8 @@ const nextConfig: NextConfig = {
       "pngimg.com",
       "static.vecteezy.com",
       "img.favpng.com",
-      "i.pinimg.com"
+      "i.pinimg.com",
+      'www.kazeoofficial.my.id'
     ],
   },
   theme: {
