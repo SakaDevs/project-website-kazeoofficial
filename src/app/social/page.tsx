@@ -96,32 +96,32 @@ const Page = () => {
             </Link>
           </div>
           <div className="flex flex-col shadow md:shadow-2xl items-center text-center gap-4 hover:scale-105 duration-700 transition-all">
-          <h3 className="font-bold text-lg md:text-lg">Whatsapp Community</h3>
-          <Image
-            src="https://static.vecteezy.com/system/resources/previews/016/716/480/non_2x/whatsapp-icon-free-png.png"
-            alt=""
-            height={400}
-            width={200}
-            className="items-center text-center"
-          />
-          <div className="flex flex-row gap-1 items-center text-center">
+            <h3 className="font-bold text-lg md:text-lg">Whatsapp Community</h3>
             <Image
-              src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/512px-WhatsApp.svg.png"
+              src="https://static.vecteezy.com/system/resources/previews/016/716/480/non_2x/whatsapp-icon-free-png.png"
               alt=""
-              width={30}
-              height={100}
-              className=""
+              height={400}
+              width={200}
+              className="items-center text-center"
             />
-            <h3>Kazeo Opsional Universe</h3>
-          </div>
+            <div className="flex flex-row gap-1 items-center text-center">
+              <Image
+                src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/512px-WhatsApp.svg.png"
+                alt=""
+                width={30}
+                height={100}
+                className=""
+              />
+              <h3>Kazeo Opsional Universe</h3>
+            </div>
 
-          <Link
-            href="https://chat.whatsapp.com/F3jUoAUdaAU6c0fmseGarZ"
-            className="mb-4 border px-4 py-2 border-blue-500 rounded hover:text-white hover:bg-blue-500 transition-all"
-          >
-            <h3>Join Now</h3>
-          </Link>
-        </div>
+            <Link
+              href="https://chat.whatsapp.com/F3jUoAUdaAU6c0fmseGarZ"
+              className="mb-4 border px-4 py-2 border-blue-500 rounded hover:text-white hover:bg-blue-500 transition-all"
+            >
+              <h3>Join Now</h3>
+            </Link>
+          </div>
         </div>
       </div>
     </PageWrapper>
