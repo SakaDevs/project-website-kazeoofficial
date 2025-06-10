@@ -7,7 +7,6 @@ const nextConfig: NextConfig = {
   reactStrictMode: true,
   swcMinify: true,
   images: {
-    unoptimized: true,
     domains: [
       "static.wikia.nocookie.net",
       "yt3.googleusercontent.com",
