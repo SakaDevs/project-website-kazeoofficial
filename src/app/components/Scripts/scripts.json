@@ -1,5 +1,114 @@
 [
   {
+    "id": 67,
+    "video": "",
+    "title": "Alucard Luckybox",
+    "category": "luckybox",
+    "slug": "alucard-luckybox",
+    "date": "2025-06-10",
+    "shortStory": "Alucard's father was a comrade-in-arms of Tigreal who disappeared in a battle with the Demons. Therefore, he hated darkness, joined the Monastery of Light, and swore to destory all Demons. But later he learned the hidden secrets of this battle, so he left the Monastery of Light in anger and fought the darkness in his own way.",
+    "image": "/images/alucardluckyboxnew.jpg",
+    "download": [
+      {
+        "label": "Default",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/c/c7/Hero071-icon.png/revision/latest/scale-to-width-down/100?cb=20241021145111",
+        "url": "https://sfile.mobi/8Q7BFrp6uI0"
+      },
+      {
+        "label": "Basic",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/e/e7/Hero072-icon.png/revision/latest?cb=20220920084827",
+        "url": "https://sfile.mobi/9r3C0mob28N"
+      },
+      {
+        "label": "Season",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/7/73/Hero073-icon.png/revision/latest?cb=20220920084843",
+        "url": "https://sfile.mobi/6snAmA6W2sb"
+      },
+      {
+        "label": "Starlight",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/b/bc/Hero075-icon.png/revision/latest?cb=20220920090058",
+        "url": "https://sfile.mobi/blfD48HptK7"
+      },
+      {
+        "label": "Legend",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/c/c4/Hero077-icon.png/revision/latest?cb=20220920085912",
+        "url": "https://sfile.mobi/9UBChymcOkN"
+      },
+      {
+        "label": "Valentine",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/6/64/Hero076-icon.png/revision/latest?cb=20220920090103",
+        "url": "https://sfile.mobi/9NdCdiAT72y"
+      },
+      {
+        "label": "Empire Agent",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/0/08/Hero078-icon.png/revision/latest?cb=20220920085915",
+        "url": "https://sfile.mobi/b6tCWvKyZM7"
+      },
+      {
+        "label": "Lightborn",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/9/91/Hero079-icon.png/revision/latest/scale-to-width-down/100?cb=20220922084844",
+        "url": "https://sfile.mobi/2pdy8YMrtSG"
+      },
+      {
+        "label": "Starwars",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/5/50/Hero100710-icon.png/revision/latest?cb=20220125055644",
+        "url": "https://sfile.mobi/2ary10051y7"
+      },
+      {
+        "label": "Special",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/7/78/Hero100711-icon.png/revision/latest?cb=20241201053544",
+        "url": "https://sfile.mobi/3mjyFXorc4Y"
+      }
+    ]
+  },
+  {
+    "id": 87,
+    "video": "https://youtu.be/Dh60nFrawQs",
+    "title": "Eudora Luckybox",
+    "category": "luckybox",
+    "slug": "eudora-luckybox",
+    "date": "2025-06-10",
+    "shortStory": "Eudora is a Light Elf who possesses a high level of magical talent, yet always loses control of her emotions because of her being discriminated against due to her Elf status. Later, she was discovered by the mentor of the Magic Academy, Theresa, who took her to the Magic Academy to study. Finally, she overcame the gloom in her heart and succeeded Theresa, becoming the dean of the Ulturia School.",
+    "image": "/images/eudoraluckyboxnew.jpg",
+    "download": [
+      {
+        "label": "Default",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/2/2a/Hero151-icon.png/revision/latest/scale-to-width-down/100?cb=20241021145210",
+        "url": "https://sfile.mobi/3XfLfFXsXST"
+      },
+      {
+        "label": "Basic",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/7/74/Hero152-icon.png/revision/latest?cb=20220125063100",
+        "url": "https://sfile.mobi/7T1Nsc0hu8M"
+      },
+      {
+        "label": "Christmast",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/3/3e/Hero153-icon.png/revision/latest?cb=20220125063101",
+        "url": "https://sfile.mobi/66dMtccDGoQ"
+      },
+      {
+        "label": "Vivo",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/f/f6/Hero155-icon.png/revision/latest?cb=20220125063058",
+        "url": "https://sfile.mobi/6OxMRQcKYM9"
+      },
+      {
+        "label": "Season",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/7/79/Hero156-icon.png/revision/latest?cb=20220125063057",
+        "url": "https://sfile.mobi/9UBOA3a4Ew9"
+      },
+      {
+        "label": "Starlight",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/0/07/Hero157-icon.png/revision/latest?cb=20220921122459",
+        "url": "https://sfile.mobi/73jN0lJonmb"
+      },
+      {
+        "label": "Atomic",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/e/e4/Hero158-icon.png/revision/latest?cb=20230317100341",
+        "url": "https://sfile.mobi/8BlNRxFqHCT"
+      }
+    ]
+  },
+  {
     "id": 79,
     "video": "",
     "title": "Edith Beyond the Clouds",
@@ -2673,53 +2782,6 @@
     ]
   },
   {
-    "id": 87,
-    "video": "https://youtu.be/Dh60nFrawQs",
-    "title": "Eudora Luckybox",
-    "category": "luckybox",
-    "slug": "eudora-luckybox",
-    "date": "2025-05-29",
-    "shortStory": "Eudora is a Light Elf who possesses a high level of magical talent, yet always loses control of her emotions because of her being discriminated against due to her Elf status. Later, she was discovered by the mentor of the Magic Academy, Theresa, who took her to the Magic Academy to study. Finally, she overcame the gloom in her heart and succeeded Theresa, becoming the dean of the Ulturia School.",
-    "image": "/images/eudoraluckybox.jpg",
-    "download": [
-      {
-        "label": "Default",
-        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/2/2a/Hero151-icon.png/revision/latest/scale-to-width-down/100?cb=20241021145210",
-        "url": "https://sfile.mobi/3XfLfFXsXST"
-      },
-      {
-        "label": "Basic",
-        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/7/74/Hero152-icon.png/revision/latest?cb=20220125063100",
-        "url": "https://sfile.mobi/7T1Nsc0hu8M"
-      },
-      {
-        "label": "Christmast",
-        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/3/3e/Hero153-icon.png/revision/latest?cb=20220125063101",
-        "url": "https://sfile.mobi/66dMtccDGoQ"
-      },
-      {
-        "label": "Vivo",
-        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/f/f6/Hero155-icon.png/revision/latest?cb=20220125063058",
-        "url": "https://sfile.mobi/6OxMRQcKYM9"
-      },
-      {
-        "label": "Season",
-        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/7/79/Hero156-icon.png/revision/latest?cb=20220125063057",
-        "url": "https://sfile.mobi/9UBOA3a4Ew9"
-      },
-      {
-        "label": "Starlight",
-        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/0/07/Hero157-icon.png/revision/latest?cb=20220921122459",
-        "url": "https://sfile.mobi/73jN0lJonmb"
-      },
-      {
-        "label": "Atomic",
-        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/e/e4/Hero158-icon.png/revision/latest?cb=20230317100341",
-        "url": "https://sfile.mobi/8BlNRxFqHCT"
-      }
-    ]
-  },
-  {
     "id": 86,
     "video": "https://youtu.be/A5jxo7HSZlc",
     "title": "Jawhead Allstar",
@@ -3464,68 +3526,6 @@
         "label": "Champion",
         "icon": "https://static.wikia.nocookie.net/mobile-legends/images/9/96/Hero102612-icon.png/revision/latest?cb=20230805044014",
         "url": "https://sfile.mobi/7LDDi3P7s4s"
-      }
-    ]
-  },
-  {
-    "id": 67,
-    "video": "",
-    "title": "Alucard Luckybox",
-    "category": "luckybox",
-    "slug": "alucard-luckybox",
-    "date": "2025-05-25",
-    "shortStory": "Alucard's father was a comrade-in-arms of Tigreal who disappeared in a battle with the Demons. Therefore, he hated darkness, joined the Monastery of Light, and swore to destory all Demons. But later he learned the hidden secrets of this battle, so he left the Monastery of Light in anger and fought the darkness in his own way.",
-    "image": "/images/alucardluckybox.jpg",
-    "download": [
-      {
-        "label": "Default",
-        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/c/c7/Hero071-icon.png/revision/latest/scale-to-width-down/100?cb=20241021145111",
-        "url": "https://sfile.mobi/8Q7BFrp6uI0"
-      },
-      {
-        "label": "Basic",
-        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/e/e7/Hero072-icon.png/revision/latest?cb=20220920084827",
-        "url": "https://sfile.mobi/9r3C0mob28N"
-      },
-      {
-        "label": "Season",
-        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/7/73/Hero073-icon.png/revision/latest?cb=20220920084843",
-        "url": "https://sfile.mobi/6snAmA6W2sb"
-      },
-      {
-        "label": "Starlight",
-        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/b/bc/Hero075-icon.png/revision/latest?cb=20220920090058",
-        "url": "https://sfile.mobi/blfD48HptK7"
-      },
-      {
-        "label": "Legend",
-        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/c/c4/Hero077-icon.png/revision/latest?cb=20220920085912",
-        "url": "https://sfile.mobi/9UBChymcOkN"
-      },
-      {
-        "label": "Valentine",
-        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/6/64/Hero076-icon.png/revision/latest?cb=20220920090103",
-        "url": "https://sfile.mobi/9NdCdiAT72y"
-      },
-      {
-        "label": "Empire Agent",
-        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/0/08/Hero078-icon.png/revision/latest?cb=20220920085915",
-        "url": "https://sfile.mobi/b6tCWvKyZM7"
-      },
-      {
-        "label": "Lightborn",
-        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/9/91/Hero079-icon.png/revision/latest/scale-to-width-down/100?cb=20220922084844",
-        "url": "https://sfile.mobi/2pdy8YMrtSG"
-      },
-      {
-        "label": "Starwars",
-        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/5/50/Hero100710-icon.png/revision/latest?cb=20220125055644",
-        "url": "https://sfile.mobi/2ary10051y7"
-      },
-      {
-        "label": "Special",
-        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/7/78/Hero100711-icon.png/revision/latest?cb=20241201053544",
-        "url": "https://sfile.mobi/3mjyFXorc4Y"
       }
     ]
   },
