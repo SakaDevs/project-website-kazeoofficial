@@ -22,7 +22,7 @@ export const metadata: Metadata = {
   description: "Kazeo Official Website",
   keywords: ["Kazeo Official", "MLBB"],
   icons: {
-    icon: "/favicon.ico",
+    icon: "/profile.ico",
   },
 };
 
