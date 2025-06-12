@@ -1,5 +1,364 @@
 [
   {
+    "id": 118,
+    "video": "https://youtu.be/yhqp0r2uiSc",
+    "title": "Wanwan Mworld",
+    "category": "MWORLD",
+    "slug": "wanwan-mworld",
+    "date": "2025-06-12",
+    "shortStory": "Wanwan grew up in a secluded mountain abode and lived a carefree childhood. It was only after encountering Yu Zhong, the reincarnation of the Black Dragon, Yin, the current vessel of the Evil God Lieh, and the other Oriental Fighters who guard the Dragon Altar that she realized she had long been chosen by the Agile Tiger of the Four Immortals. Wanwan would find herself involved in events that would affect the past and future of the Cadia Riverlands.",
+    "image": "/images/wanwanmworld.jpg",
+    "download": [
+      {
+        "label": "Default",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/2/24/Hero891-icon.png/revision/latest/scale-to-width-down/100?cb=20250118142135",
+        "url": "https://sfile.mobi/3B6jHQCLHqf"
+      },
+      {
+        "label": "Basic",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/d/db/Hero892-icon.png/revision/latest?cb=20220119085346",
+        "url": "https://sfile.mobi/bHqoblbBzq7"
+      },
+      {
+        "label": "Elite",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/5/50/Hero893-icon.png/revision/latest?cb=20220126142731",
+        "url": "https://sfile.mobi/598kzdtz0sw"
+      },
+      {
+        "label": "Starlight",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/8/82/Hero894-icon.png/revision/latest?cb=20200724051040",
+        "url": "https://sfile.mobi/73klCDXhuw1"
+      },
+      {
+        "label": "Collector",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/8/82/Hero895-icon.png/revision/latest?cb=20220126142809",
+        "url": "https://sfile.mobi/5RskY2orhCA"
+      },
+      {
+        "label": "MPL",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/f/f7/Hero896-icon.png/revision/latest?cb=20220216004045",
+        "url": "https://sfile.mobi/44EjZ2ANtK7"
+      },
+      {
+        "label": "11.11",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/b/b8/Hero897-icon.png/revision/latest?cb=20220401091200",
+        "url": "https://sfile.mobi/3XgjVjzKIMIL"
+      }
+    ]
+  },
+  {
+    "id": 117,
+    "video": "https://youtu.be/oJn894S-KnU",
+    "title": "Yin Mworld",
+    "category": "MWORLD",
+    "slug": "yin-mworld",
+    "date": "2025-06-12",
+    "shortStory": "Among the four renowned members of Forsaken Light, one young man from the East stands out. Known as Yin, this simple and righteous martial artist sometimes exudes a sinister aura, creating a stark contrast that leaves many wary of him. Few know that his wild and violent behavior stems from the Evil God, Lieh, dwelling within him. He is the reason Yin left his home in the Cadia Riverlands—to hone himself in the Land of Dawn and find a way to defeat Lieh. But Yin's struggles in this foreign land have had the opposite effect; as a being that thrives on chaos, the more Yin fights, the faster Lieh can recover his power. Thus, Lieh began to impart his power to Yin, watching him sink deeper into madness with each act of righteousness and chivalry, and leading him toward the self-destruction Lieh desires. However, even knowing the risks, Yin continues to wield this power—because for him, abandoning his code and ignoring the suffering of others would make him no better than Lieh. Yin never backs down from a challenge, god or no god.",
+    "image": "/images/yinmworld.jpg",
+    "download": [
+      {
+        "label": "Default",
+        "url": "https://sfile.mobi/1s8ivUCpOEM",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/b/b5/Hero1131-icon.png/revision/latest?cb=20241021153303"
+      },
+      {
+        "label": "Basic",
+        "url": "https://sfile.mobi/aKknDEUzVCi",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/9/91/Hero1132-icon.png/revision/latest?cb=20240619160922"
+      },
+      {
+        "label": "AOT",
+        "url": "https://sfile.mobi/4FAkinl3bGD",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/d/d1/Hero1136-icon.png/revision/latest?cb=20240301101156"
+      },
+      {
+        "label": "Starlight",
+        "url": "https://sfile.mobi/4jqk5XSC3e6",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/0/08/Hero1135-icon.png/revision/latest?cb=20230623130955"
+      },
+      {
+        "label": "Yuji Itadori",
+        "url": "https://sfile.mobi/6zMll69JKwv",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/c/c5/Hero1134-icon.png/revision/latest?cb=20230212040131"
+      }
+    ]
+  },
+  {
+    "id": 116,
+    "video": "https://youtu.be/Ou3-FuAbWJs",
+    "title": "Ling Mworld",
+    "category": "MWORLD",
+    "slug": "ling-mworld",
+    "date": "2025-06-12",
+    "shortStory": "Ling once belonged to the Finch Sect, a mysterious and feared order of assassins from the Cadia Riverlands. During a mission, he nearly lost his life but was saved by the Vermilion Bird; it was an encounter that would kindle his yearning for freedom. In a bargain to leave the Finch Sect, he undertook one last mission to infiltrate the Dragon Altar. It wasn't until he allied with Yu Zhong, the reincarnation of the Black Dragon, to break the seal of the Dragon Altar, that the spirit of the Vermilion Bird once again saved his life. Only then did he see the truth and understand the meaning of freedom. In this world, the Vermilion Bird had faded away, leaving only Ling, a young man with wings to soar freely among the clouds like the Cyan Finch.",
+    "image": "/images/lingmwrold.jpg",
+    "download": [
+      {
+        "label": "Default",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/c/ca/Hero841-icon.png/revision/latest?cb=20241021153020",
+        "url": "https://sfile.mobi/5gwkAEAL0QA"
+      },
+      {
+        "label": "Basic",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/c/cc/Hero842-icon.png/revision/latest?cb=20240619162207",
+        "url": "https://sfile.mobi/7pulMeLAWWj"
+      },
+      {
+        "label": "Starlight",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/5/56/Hero843-icon.png/revision/latest?cb=20220126142724",
+        "url": "https://sfile.mobi/5nUkF5gPHUC"
+      },
+      {
+        "label": "Dragon Tamer",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/d/de/Hero844-icon.png/revision/latest?cb=20220119085344",
+        "url": "https://sfile.mobi/8fcmf8x1VC2"
+      },
+      {
+        "label": "Special",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/d/da/Hero845-icon.png/revision/latest?cb=20220126142312",
+        "url": "https://sfile.mobi/5RskVKuAx2r"
+      },
+      {
+        "label": "Collector",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/b/bf/Hero846-icon.png/revision/latest?cb=20220126142634",
+        "url": "https://sfile.mobi/4c2k0PxvrGw"
+      },
+      {
+        "label": "Neobeast",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/4/49/Hero108410-icon.png/revision/latest?cb=20250301113846",
+        "url": "https://sfile.mobi/agMnnaBA4Mj"
+      },
+      {
+        "label": "KungFu Panda",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/c/c3/Hero848-icon.png/revision/latest?cb=20220805125358",
+        "url": "https://sfile.mobi/7EglVh2vh69"
+      }
+    ]
+  },
+  {
+    "id": 115,
+    "video": "https://youtu.be/OhqEbnYerpc",
+    "title": "Floryn Sanrio",
+    "category": "sanrio",
+    "slug": "floryn-sanrio",
+    "date": "2025-06-12",
+    "shortStory": "Belerick stumbled upon the decline of Agelta Drylands during a meander of his many ago.The despair and sorrow almost consumed him, when a blooming little flower suddenly broke into his sight. There's still life! Moved by such tenacious vitality, the treant decided to create what was later known as the Oasis at the place. While creating the Oasis, Belerick unintentionally poured more power into the little flower, and the overflowing energy condensed into a glowing seed. The little flower, however, underwent an even more peculiar transition. It turned into a life form that had never appeared on the Land of Dawn–Floryn.",
+    "image": "/images/florynsanrio.jpg",
+    "download": [
+      {
+        "label": "Default",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/2/20/Hero1121-icon.png/revision/latest/scale-to-width-down/100?cb=20241021153258",
+        "url": "https://sfile.mobi/5CGjQrcRs4k"
+      },
+      {
+        "label": "Basic",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/b/bb/Hero1122-icon.png/revision/latest?cb=20220119131929",
+        "url": "https://sfile.mobi/3B6iJhI6daC"
+      },
+      {
+        "label": "Elite",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/e/e6/Hero1124-icon.png/revision/latest?cb=20230212040130",
+        "url": "https://sfile.mobi/7wSkU2BkVax"
+      },
+      {
+        "label": "Summer",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/5/54/Hero1125-icon.png/revision/latest?cb=20241013071704",
+        "url": "https://sfile.mobi/3eWixoZW126"
+      },
+      {
+        "label": "Collector",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/3/3f/Hero1126-icon.png/revision/latest?cb=20250106155510",
+        "url": "https://sfile.mobi/1zwhCu2QVOf"
+      }
+    ]
+  },
+  {
+    "id": 114,
+    "video": "https://youtu.be/HSs9TKNfHPE",
+    "title": "Change Sanrio",
+    "category": "sanrio",
+    "slug": "change-sanrio",
+    "date": "2025-06-12",
+    "shortStory": "The Great Dragon's youngest disciple. Because she was mischievous, the Great Dragon handed her over to Zilong for discipline. After Zilong took on the huge responsibility of protecting the Cadia Riverlands and left the Dragon Altar, Chang'e regained her willful nature. the Great Dragon was unable to bear it and drove her out of the Dragon Altar and ask her to help Zilong to make up for her mistake.",
+    "image": "/images/changesanrio.jpg",
+    "download": [
+      {
+        "label": "Default",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/5/5c/Hero611-icon.png/revision/latest?cb=20241021145640",
+        "url": "https://sfile.mobi/9cilN1u5d6O"
+      },
+      {
+        "label": "Basic",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/d/d2/Hero612-icon.png/revision/latest?cb=20220126141811",
+        "url": "https://sfile.mobi/94UlJ7yhtmP"
+      },
+      {
+        "label": "Elite",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/6/61/Hero613-icon.png/revision/latest?cb=20220126141813",
+        "url": "https://sfile.mobi/1GUhErUjSwz"
+      },
+      {
+        "label": "Special",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/8/8f/Hero614-icon.png/revision/latest?cb=20220126141809",
+        "url": "https://sfile.mobi/bHqnbc27gO7"
+      },
+      {
+        "label": "Luckybox",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/5/5b/Hero615-icon.png/revision/latest?cb=20220118094845",
+        "url": "https://sfile.mobi/9FQm42xm0w1"
+      },
+      {
+        "label": "Starlight",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/d/d9/Hero616-icon.png/revision/latest?cb=20220126141808",
+        "url": "https://sfile.mobi/1OihJ3v9xCr"
+      },
+      {
+        "label": "Epic",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/9/9c/Hero617-icon.png/revision/latest?cb=20220126141756",
+        "url": "https://sfile.mobi/9jGlSGzsKQT"
+      },
+      {
+        "label": "Aspirants",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/1/11/Hero106110-icon.png/revision/latest?cb=20240322091900 ",
+        "url": "https://sfile.mobi/aoamt2mZgsc"
+      },
+      {
+        "label": "Lunar Fest",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/3/35/Hero619-icon.png/revision/latest?cb=20221217033853",
+        "url": "https://sfile.mobi/aKkmFrPqpME"
+      }
+    ]
+  },
+  {
+    "id": 113,
+    "video": "https://youtu.be/zdrkcM8M82k",
+    "title": "Angela Sanrio",
+    "category": "sanrio",
+    "slug": "angela-sanrio",
+    "date": "2025-06-12",
+    "shortStory": "An android created by the founder of Laboratory 1718, Dr. Baker. It was the first life form created without using human body or soul. In order to gain the knowledge of her, other scientists in the lab went after Dr. Baker. Before taken away, Dr. Baker stuffed her into a flight capsule to escape.",
+    "image": "/images/angelasanrio.jpg",
+    "download": [
+      {
+        "label": "Default",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/1/13/Hero551-icon.png/revision/latest?cb=20250406000608",
+        "url": "https://sfile.mobi/5gtX9uIdQQ1"
+      },
+      {
+        "label": "Basic",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/9/94/Hero552-icon.png/revision/latest?cb=20220126141947",
+        "url": "https://sfile.mobi/37vVYgmTTiK"
+      },
+      {
+        "label": "Starlight",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/b/b8/Hero553-icon.png/revision/latest?cb=20220126141949",
+        "url": "https://sfile.mobi/6kXXKyaMhy1"
+      },
+      {
+        "label": "VENOM",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/5/56/Hero554-icon.png/revision/latest?cb=20220126141945",
+        "url": "https://sfile.mobi/a1XZN9mTy8K"
+      },
+      {
+        "label": "Halloween",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/d/d4/Hero555-icon.png/revision/latest?cb=20220126141943",
+        "url": "https://sfile.mobi/595X67wH3qm"
+      },
+      {
+        "label": "Summer",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/3/35/Hero556-icon.png/revision/latest?cb=20220527065319",
+        "url": "https://sfile.mobi/avw03OAEogE"
+      },
+      {
+        "label": "Collector",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/f/fd/Hero557-icon.png/revision/latest?cb=20220126141936",
+        "url": "https://sfile.mobi/5vfXiHTTaMI"
+      },
+      {
+        "label": "Aspirants",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/2/2b/Hero559-icon.png/revision/latest?cb=20221103135301",
+        "url": "https://sfile.mobi/6zJXTLmrBKB"
+      },
+      {
+        "label": "Annual Starlight",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/e/e4/Hero105510-icon.png/revision/latest?cb=20240313082100",
+        "url": "https://sfile.mobi/2pbVBcBBqkY"
+      },
+      {
+        "label": "Kishin",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/e/ec/Hero105511-icon.png/revision/latest?cb=20241013072638",
+        "url": "https://sfile.mobi/3mhW8bdB8Ad"
+      }
+    ]
+  },
+  {
+    "id": 112,
+    "video": "https://youtu.be/q-FsmWcTJcE",
+    "title": "Claude Sanrio",
+    "category": "sanrio",
+    "slug": "lylia-neobeast",
+    "date": "2025-06-12",
+    "shortStory": "Claude grew up living in Los Pecados. The circumstances in his life forced him into becoming an incredible thief. But he was used by Kane and went to prison and chains. In prison, he met Merlin, the god of thieves, and inherited his mantle, successfully escaping from prison. After completing an agreement with Merlin, Claude returned to Los Pecados with his new partner Dexter, ready to take revenge on Kane.",
+    "image": "/images/claudesanrio.jpg",
+    "download": [
+      {
+        "label": "Default",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/2/29/Hero651-icon.png/revision/latest/scale-to-width-down/100?cb=20241021145701",
+        "url": "https://sfile.mobi/598jBbjasEM"
+      },
+      {
+        "label": "Basic",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/8/8e/Hero652-icon.png/revision/latest?cb=20220126142219",
+        "url": "https://sfile.mobi/598jB0optSb"
+      },
+      {
+        "label": "Starlight",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/3/39/Hero653-icon.png/revision/latest?cb=20220715125639",
+        "url": "https://sfile.mobi/80qlbezmHmh"
+      },
+      {
+        "label": "Luckybox",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/1/10/Hero654-icon.png/revision/latest?cb=20240314064144",
+        "url": "https://sfile.mobi/9UCmeF35bqP"
+      },
+      {
+        "label": "Summer",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/9/96/Hero655-icon.png/revision/latest?cb=20220126142213",
+        "url": "https://sfile.mobi/6l0kgux2BU7"
+      },
+      {
+        "label": "Christmast",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/d/d0/Hero656-icon.png/revision/latest?cb=20220126142211",
+        "url": "https://sfile.mobi/4FAjlzzXvGd"
+      },
+      {
+        "label": "MSC",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/d/d0/Hero656-icon.png/revision/latest?cb=20220126142211",
+        "url": "https://sfile.mobi/1s8hzDBB52m"
+      },
+      {
+        "label": "Valentine",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/9/92/Hero106510-icon.png/revision/latest?cb=20230212040143",
+        "url": "https://sfile.mobi/2hQi2msh5Ss"
+      },
+      {
+        "label": "Blazing",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/d/dc/Hero658-icon.png/revision/latest?cb=20250105154934",
+        "url": "https://sfile.mobi/8tYlsBs9sAX"
+      },
+      {
+        "label": "M6",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/3/33/Hero106511-icon.png/revision/latest?cb=20240905080719",
+        "url": "https://sfile.mobi/3tIiHuLofeX"
+      },
+      {
+        "label": "Prime",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/1/1d/Hero106512-icon.png/revision/latest?cb=20240905080719",
+        "url": "https://sfile.mobi/agMms804dUC"
+      }
+    ]
+  },
+  {
     "id": 5,
     "video": "https://youtu.be/mWrDPqAcukU",
     "title": "Lylia Neobeast",
