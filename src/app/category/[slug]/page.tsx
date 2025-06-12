@@ -55,8 +55,9 @@ export default function Page({ params }: PageProps) {
                       src={script.image}
                       height={100}
                       width={300}
-                      alt=""
+                      alt="image error"
                       className="rounded"
+                      unoptimized={true}
                     />
 
                     <div className="flex flex-col py-4 px-2">
