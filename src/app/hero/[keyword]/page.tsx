@@ -63,6 +63,7 @@ const SearchPage = ({ params }: SearchPageProps) => {
                       width={600}
                       alt={script.title}
                       className="round"
+                      unoptimized={true}
                     />
                     <div className="flex flex-col py-4 px-2">
                       <span className="text-xs font-thin">{script.date}</span>
