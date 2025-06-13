@@ -1,5 +1,371 @@
 [
   {
+    "id": 40,
+    "video": "https://youtu.be/KDEXzGoc0eY",
+    "title": "Ling Collector",
+    "category": "collector",
+    "slug": "ling-collector",
+    "date": "2025-06-13",
+    "shortStory": "Ling once belonged to the Finch Sect, a mysterious and feared order of assassins from the Cadia Riverlands. During a mission, he nearly lost his life but was saved by the Vermilion Bird; it was an encounter that would kindle his yearning for freedom. In a bargain to leave the Finch Sect, he undertook one last mission to infiltrate the Dragon Altar. It wasn't until he allied with Yu Zhong, the reincarnation of the Black Dragon, to break the seal of the Dragon Altar, that the spirit of the Vermilion Bird once again saved his life. Only then did he see the truth and understand the meaning of freedom. In this world, the Vermilion Bird had faded away, leaving only Ling, a young man with wings to soar freely among the clouds like the Cyan Finch.",
+    "image": "/images/lingcol.jpg",
+    "download": [
+      {
+        "label": "Default",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/c/ca/Hero841-icon.png/revision/latest?cb=20241021153020",
+        "url": "https://sfile.mobi/bsAglcvdN67"
+      },
+      {
+        "label": "Basic",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/c/cc/Hero842-icon.png/revision/latest?cb=20240619162207",
+        "url": "https://sfile.mobi/1zsaST3v6kq"
+      },
+      {
+        "label": "Starlight",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/5/56/Hero843-icon.png/revision/latest?cb=20220126142724",
+        "url": "https://sfile.mobi/4qKcrSP9rWu"
+      },
+      {
+        "label": "Dragon Tamer",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/d/de/Hero844-icon.png/revision/latest?cb=20220119085344",
+        "url": "https://sfile.mobi/5ved37csRGL"
+      },
+      {
+        "label": "Special",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/d/da/Hero845-icon.png/revision/latest?cb=20220126142312",
+        "url": "https://sfile.mobi/7EceelxMPeI"
+      },
+      {
+        "label": "M World",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/a/a9/Hero847-icon.png/revision/latest?cb=20220401091145",
+        "url": "https://sfile.mobi/6H837yF6nKf"
+      },
+      {
+        "label": "KungFu Panda",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/c/c3/Hero848-icon.png/revision/latest?cb=20220805125358",
+        "url": "https://sfile.mobi/7T03Mw3sysb"
+      },
+      {
+        "label": "Neobeast",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/4/49/Hero108410-icon.png/revision/latest?cb=20250301113846",
+        "url": "https://sfile.mobi/87M3UQFkYg4"
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "video": "https://youtu.be/M8scJz0PnbM",
+    "title": "Granger Collector",
+    "category": "collector",
+    "slug": "granger-collector",
+    "date": "2025-06-13",
+    "shortStory": "Granger, a demon hunter who walks the line between human and demon, always preferred to keep to himself. But if someone could enter his world, they would realize how terrifying it is—the incessant howls and shrill cries constantly deafening his ears and heart. When he draws his demon-devouring weapons and unleashes a hail of bullets, the agonizing howls of demons become a requiem playing in the depths of his soul. Only the intertwining of their death shrieks and the sound of gunfire can drown out the noise that torments him daily. Each shot fired by Granger is not only his performance against the Abyss, but also an expression of his lament.",
+    "image": "/images/grangercol.jpg",
+    "download": [
+      {
+        "label": "Default",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/7/7c/Hero791-icon.png/revision/latest?cb=20241108062800",
+        "url": "https://sfile.mobi/4qNmZ2NoNGP"
+      },
+      {
+        "label": "Basic",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/3/39/Hero792-icon.png/revision/latest?cb=20241201053527",
+        "url": "https://sfile.mobi/4c1mR412lqf"
+      },
+      {
+        "label": "Elite",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/4/43/Hero793-icon.png/revision/latest?cb=20220126142649",
+        "url": "https://sfile.mobi/7T1oTFd9C0Y"
+      },
+      {
+        "label": "Starlight",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/3/3f/Hero794-icon.png/revision/latest?cb=20220126142719",
+        "url": "https://sfile.mobi/8tXpeemIbCJ"
+      },
+      {
+        "label": "Lightborn",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/1/1d/Hero795-icon.png/revision/latest?cb=20220118094839",
+        "url": "https://sfile.mobi/2pdlSq2Uveg"
+      },
+      {
+        "label": "Legend",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/0/08/Hero797-icon.png/revision/latest?cb=20220126142804",
+        "url": "https://sfile.mobi/5vhnAD0ebYZ"
+      },
+      {
+        "label": "Transformers",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/3/3d/Hero798-icon.png/revision/latest?cb=20220126142813",
+        "url": "https://sfile.mobi/blfqOOnbmo7"
+      },
+      {
+        "label": "Create",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/0/0b/Hero799-icon.png/revision/latest?cb=20220126142811",
+        "url": "https://sfile.mobi/5RrnNoibh6U"
+      },
+      {
+        "label": "Exorcist",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/4/41/Hero107910-icon.png/revision/latest?cb=20240520065855",
+        "url": "https://sfile.mobi/1zvlqKGMnix"
+      },
+      {
+        "label": "Valentine",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/0/02/Hero107911-icon.png/revision/latest?cb=20240329062320",
+        "url": "https://sfile.mobi/309mdRMfZYx"
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "video": "https://youtu.be/Vecgnzltums",
+    "title": "Harley Collector",
+    "category": "collector",
+    "slug": "harley-collector",
+    "date": "2025-06-13",
+    "shortStory": "Heir to Castle Grandrock, Harley was of average talent and not considered with any importance by the Duke of Vance, his father. Yet he was always very close with his sister Lesley. To get his father's attention, he practiced conjuring to make it seem like he had magical abilities. Yet this had the unexpected result of getting him kidnapped. Lesley rushed to his rescue, and in the midst of his crisis his mighty magical powers were awakened. The two of them then proceeding to fight their way out. Ultimately, Leslie sent Harley to live and study at the Academy of Magic.",
+    "image": "/images/harleycol.jpg",
+    "download": [
+      {
+        "label": "Default",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/9/92/Hero421-icon.png/revision/latest?cb=20241021145449",
+        "url": "https://sfile.mobi/9FPpOMS7Pau"
+      },
+      {
+        "label": "Basic",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/4/4b/Hero422-icon.png/revision/latest?cb=20221022074922",
+        "url": "https://sfile.mobi/1GTlpIZmDC3"
+      },
+      {
+        "label": "Starlight",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/8/85/Hero423-icon.png/revision/latest?cb=20220126141856",
+        "url": "https://sfile.mobi/6dBnUS7oWc8"
+      },
+      {
+        "label": "Special (Referee)",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/c/c1/Hero424-icon.png/revision/latest?cb=20220126141852",
+        "url": "https://sfile.mobi/2SLm4RitN6O"
+      },
+      {
+        "label": "Epic",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/f/ff/Hero425-icon.png/revision/latest?cb=20220126141850",
+        "url": "https://sfile.mobi/aCVqm7jDvas"
+      },
+      {
+        "label": "VENOM",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/0/02/Octopus_Icon.png/revision/latest?cb=20220118094854",
+        "url": "https://sfile.mobi/7wRoEgbPNYm"
+      },
+      {
+        "label": "Special (Pulsar)",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/9/96/Hero428-icon.png/revision/latest?cb=20220915134947",
+        "url": "https://sfile.mobi/aKjqqxZIbuB"
+      },
+      {
+        "label": "Elite",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/b/b0/Hero429-icon.png/revision/latest?cb=20240323055631",
+        "url": "https://sfile.mobi/6sno3Uojhmp"
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "video": "https://youtu.be/eafuqki7jaY",
+    "title": "Benedetta Collector",
+    "category": "collector",
+    "slug": "benedetta-collector",
+    "date": "2025-06-13",
+    "shortStory": "After the Abyss returned, our land becomes plagued and the entire southern part of the Land of Dawn turns into a barren place. Though the high Rantha Mountains blocks the corruption of the Abyss, Mother Nature in the southern realm continues to wither away. This once prosperous land is now nothing but a silent place filled with death, and people call it the “Despair Place”. The only passage that connects the Moniyan Empire is broken, separating the trapped refugees and the exiled wanderers from the rest of the world. They now live in fear and despair, haunted by monsters, yet still struggling to survive.",
+    "image": "/images/benedcol.jpg",
+    "download": [
+      {
+        "label": "Default",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/4/47/Hero971-icon.png/revision/latest?cb=20241021153134",
+        "url": "https://sfile.mobi/7LCF3oqI5Ui"
+      },
+      {
+        "label": "Basic",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/a/af/Hero972-icon.png/revision/latest?cb=20240314070055",
+        "url": "https://sfile.mobi/agKGqRjIcgz"
+      },
+      {
+        "label": "Starlight",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/b/b9/Hero973-icon.png/revision/latest?cb=20220126142249",
+        "url": "https://sfile.mobi/8Q6FEgYvwQy"
+      },
+      {
+        "label": "Special",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/a/a1/Hero975-icon.png/revision/latest?cb=20220401091157",
+        "url": "https://sfile.mobi/51IDy7G6ucf"
+      },
+      {
+        "label": "MPL",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/e/e0/Hero977-icon.png/revision/latest?cb=20240314065725",
+        "url": "https://sfile.mobi/bHoHeG4dJC7"
+      },
+      {
+        "label": "Covenant",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/4/4b/Hero978-icon.png/revision/latest?cb=20250301113847",
+        "url": "https://sfile.mobi/4c0D66usoE2"
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "video": "https://youtu.be/7jK0CeOIL5M",
+    "title": "Yi Sun Shin Collector",
+    "category": "collector",
+    "slug": "yss-collector",
+    "date": "2025-06-13",
+    "shortStory": "Yi Sun-shin is the leader of the City of the Dragon fleet and he is dedicated to his duties. But the ruler of the City of the Dragon believes the false accusations and demoted Yi Sun-shin to a commoner. The fleet, without a leader, was hit hard by pirates. At this moment of crisis, Yi Sun-shin stepped forward and lead the reformed fleet to defend this area of the sea and successfully defeated the strong pirates with remaining naval force.",
+    "image": "/images/ysscol.jpg",
+    "download": [
+      {
+        "label": "Default",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Hero301-icon.png/revision/latest?cb=20241021145338",
+        "url": "https://sfile.mobi/5CE2eTELQsb"
+      },
+      {
+        "label": "Basic",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/a/ad/Hero302-icon.png/revision/latest?cb=20220126042021",
+        "url": "https://sfile.mobi/4c01sjjzb26"
+      },
+      {
+        "label": "Elite (Agent)",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/4/44/Hero303-icon.png/revision/latest?cb=20240309054114",
+        "url": "https://sfile.mobi/2SK0JYJGdap"
+      },
+      {
+        "label": "Elite (Ranger)",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/6/63/Hero304-icon.png/revision/latest?cb=20220126042011",
+        "url": "https://sfile.mobi/4Uk1Ru3XpKx"
+      },
+      {
+        "label": "Starlight",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/0/02/Hero306-icon.png/revision/latest?cb=20220126042007",
+        "url": "https://sfile.mobi/6zK2MVLjryp"
+      },
+      {
+        "label": "Epic",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/5/5b/Hero307-icon.png/revision/latest?cb=20220628175058",
+        "url": "https://sfile.mobi/80o3A2QN3it"
+      },
+      {
+        "label": "Season",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/c/ce/Hero308-icon.png/revision/latest?cb=20240228064838",
+        "url": "https://sfile.mobi/4c01tTyo0gb"
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "video": "https://youtu.be/GNK0oyICPak",
+    "title": "Sun Collector",
+    "category": "collector",
+    "slug": "sun-collector",
+    "date": "2025-06-13",
+    "shortStory": "Sun, the immortal mountain spirit born from a magical stone, roamed freely between heaven and earth until one day, when the cries of a group of pandas caught his attention. It was from them that he learned the existence of death. While confused by this sudden revelation, he was mistaken by the pandas for the deity of the mountain. In particular, a small panda named Li Li became infatuated with Sun and devoted his days to picking peaches for the Monkey King. But when a flash flood struck the panda village one day, Li Li was lost to the torrents while looking for peaches. Sun arrived too late, and despite the pleas of the other pandas, he did not have the ability to bring his friend back from the dead. It was then that Sun experienced loss for the first time. Unable to comprehend his grief, he fell into a deep slumber. Millennia passed, and many more would have passed by had Sun not been awakened by a battle between dragons. After slaying the Black Dragon and unknowingly saving the Cadia Riverlands, he asked the Silver Dragon about immortality and finding one's purpose. Instead of the answer he sought, the dragon gave him the name Sun and the task of being the guardian of the land. But what does that entail? Sun was once again lost in though",
+    "image": "/images/suncol.jpg",
+    "download": [
+      {
+        "label": "Default",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/f/fe/Hero271-icon.png/revision/latest?cb=20241021145321",
+        "url": "https://sfile.mobi/44CtuPzkFOj"
+      },
+      {
+        "label": "Elite",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/c/cb/Hero272-icon.png/revision/latest?cb=20241201053019",
+        "url": "https://sfile.mobi/bOMxM5AunC7"
+      },
+      {
+        "label": "Special (Rock Star)",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/b/b9/Hero273-icon.png/revision/latest?cb=20220126042051",
+        "url": "https://sfile.mobi/6H8uX4XVrUT"
+      },
+      {
+        "label": "Special (Street Legend)",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/e/e8/Hero274-icon.png/revision/latest?cb=20220126042050",
+        "url": "https://sfile.mobi/3IstjiGGrmi"
+      },
+      {
+        "label": "Starlight",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/e/e3/Hero275-icon.png/revision/latest?cb=20220126042048",
+        "url": "https://sfile.mobi/4c0tzXUrhee"
+      },
+      {
+        "label": "TOP UP",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/a/a6/Hero276-icon.png/revision/latest?cb=20241011011841",
+        "url": "https://sfile.mobi/37wsZrc9NYD"
+      },
+      {
+        "label": "Lunar Fest",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/c/c1/Hero277-icon.png/revision/latest?cb=20220126042042",
+        "url": "https://sfile.mobi/7LCvyFaKOc8"
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "video": "https://youtu.be/9U5HcEOZwlo",
+    "title": "Natan Collector",
+    "category": "collector",
+    "slug": "natan-collector",
+    "date": "2025-06-13",
+    "shortStory": "A thousand years after falling into a deep slumber, the Lord of the Abyss and the Lord of Light awoke, and so the Endless War raged once more. Natan stood as Eruditio's leader, guiding the people in their search for hope in this world. Yet having faced numerous defeats he decided instead to cast his gaze not to the future, but to the pastâ€”by inventing a time machine. As the world teetered on the brink of destruction, his time machine finally reached completion as it absorbed the combined power of the Twilight Orbs: Natan stepped within, and started searching the past for a chance to save the world.",
+    "image": "/images/natancol.jpg",
+    "download": [
+      {
+        "label": "Default",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/2/25/Hero1071-icon.png/revision/latest?cb=20241021153231",
+        "url": "https://sfile.mobi/73ifuxJj3Or"
+      },
+      {
+        "label": "Basic",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/0/0b/Hero1072-icon.png/revision/latest?cb=20220118095052",
+        "url": "https://sfile.mobi/2aqcNvT6z6W"
+      },
+      {
+        "label": "Elite",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/1/18/Hero1073-icon.png/revision/latest?cb=20220119131927",
+        "url": "https://sfile.mobi/3B4dAYO68od"
+      },
+      {
+        "label": "Starlight",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/d/d6/Hero1074-icon.png/revision/latest?cb=20220618111017",
+        "url": "https://sfile.mobi/1VEcG3R13el"
+      },
+      {
+        "label": "Special",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/4/4a/Hero1076-icon.png/revision/latest?cb=20240404022237",
+        "url": "https://sfile.mobi/4jodZYDJokT"
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "video": "https://youtu.be/d0m06Pmpyyo",
+    "title": "Novaria Collector",
+    "category": "collector",
+    "slug": "novaria-collector",
+    "date": "2025-06-13",
+    "shortStory": "Novaria woke up in the silence of the night. She found herself in the vast, empty darkness once again, floating among the remains of the Star Atlas. But unlike the countless times before, an exceptionally bright star could be seen this night. As Novaria gazed upon it, her hands reached out as if by instinct, until it was stopped by an invisible cage. Of course they wouldn't allow it. Novaria knew that all too well. This night, and every night, the stars held her prisoner. She could only watch the tiny glimmers overhead and ruminate the story of her life over and over again.",
+    "image": "/images/novariacol.jpg",
+    "download": [
+      {
+        "label": "Default",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/a/a1/Hero1191-icon.png/revision/latest?cb=20241021153339",
+        "url": "https://sfile.mobi/b6s86cgMaO7"
+      },
+      {
+        "label": "Basic",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/9/96/Hero1192-icon.png/revision/latest?cb=20230623131005",
+        "url": "https://sfile.mobi/5964O6Y1dS7"
+      },
+      {
+        "label": "Starlight",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/f/fc/Hero1193-icon.png/revision/latest?cb=20240411082626",
+        "url": "https://sfile.mobi/73i5S4c0Egt"
+      }
+    ]
+  },
+  {
     "id": 118,
     "video": "https://youtu.be/yhqp0r2uiSc",
     "title": "Wanwan Mworld",
@@ -5307,372 +5673,6 @@
         "label": "Abyss",
         "icon": "https://static.wikia.nocookie.net/mobile-legends/images/a/aa/Hero639-icon.png/revision/latest?cb=20220126142237",
         "url": "https://sfile.mobi/9r3qcuS9YAd"
-      }
-    ]
-  },
-  {
-    "id": 40,
-    "video": "https://youtu.be/KDEXzGoc0eY",
-    "title": "Ling Collector",
-    "category": "collector",
-    "slug": "ling-collector",
-    "date": "2025-05-21",
-    "shortStory": "Ling once belonged to the Finch Sect, a mysterious and feared order of assassins from the Cadia Riverlands. During a mission, he nearly lost his life but was saved by the Vermilion Bird; it was an encounter that would kindle his yearning for freedom. In a bargain to leave the Finch Sect, he undertook one last mission to infiltrate the Dragon Altar. It wasn't until he allied with Yu Zhong, the reincarnation of the Black Dragon, to break the seal of the Dragon Altar, that the spirit of the Vermilion Bird once again saved his life. Only then did he see the truth and understand the meaning of freedom. In this world, the Vermilion Bird had faded away, leaving only Ling, a young man with wings to soar freely among the clouds like the Cyan Finch.",
-    "image": "/images/lingcol.jpg",
-    "download": [
-      {
-        "label": "Default",
-        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/c/ca/Hero841-icon.png/revision/latest?cb=20241021153020",
-        "url": "https://sfile.mobi/bsAglcvdN67"
-      },
-      {
-        "label": "Basic",
-        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/c/cc/Hero842-icon.png/revision/latest?cb=20240619162207",
-        "url": "https://sfile.mobi/1zsaST3v6kq"
-      },
-      {
-        "label": "Starlight",
-        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/5/56/Hero843-icon.png/revision/latest?cb=20220126142724",
-        "url": "https://sfile.mobi/4qKcrSP9rWu"
-      },
-      {
-        "label": "Dragon Tamer",
-        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/d/de/Hero844-icon.png/revision/latest?cb=20220119085344",
-        "url": "https://sfile.mobi/5ved37csRGL"
-      },
-      {
-        "label": "Special",
-        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/d/da/Hero845-icon.png/revision/latest?cb=20220126142312",
-        "url": "https://sfile.mobi/7EceelxMPeI"
-      },
-      {
-        "label": "M World",
-        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/a/a9/Hero847-icon.png/revision/latest?cb=20220401091145",
-        "url": "https://sfile.mobi/6H837yF6nKf"
-      },
-      {
-        "label": "KungFu Panda",
-        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/c/c3/Hero848-icon.png/revision/latest?cb=20220805125358",
-        "url": "https://sfile.mobi/7T03Mw3sysb"
-      },
-      {
-        "label": "Neobeast",
-        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/4/49/Hero108410-icon.png/revision/latest?cb=20250301113846",
-        "url": "https://sfile.mobi/87M3UQFkYg4"
-      }
-    ]
-  },
-  {
-    "id": 39,
-    "video": "https://youtu.be/M8scJz0PnbM",
-    "title": "Granger Collector",
-    "category": "collector",
-    "slug": "granger-collector",
-    "date": "2025-05-21",
-    "shortStory": "Granger, a demon hunter who walks the line between human and demon, always preferred to keep to himself. But if someone could enter his world, they would realize how terrifying it is—the incessant howls and shrill cries constantly deafening his ears and heart. When he draws his demon-devouring weapons and unleashes a hail of bullets, the agonizing howls of demons become a requiem playing in the depths of his soul. Only the intertwining of their death shrieks and the sound of gunfire can drown out the noise that torments him daily. Each shot fired by Granger is not only his performance against the Abyss, but also an expression of his lament.",
-    "image": "/images/grangercol.jpg",
-    "download": [
-      {
-        "label": "Default",
-        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/7/7c/Hero791-icon.png/revision/latest?cb=20241108062800",
-        "url": "https://sfile.mobi/4qNmZ2NoNGP"
-      },
-      {
-        "label": "Basic",
-        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/3/39/Hero792-icon.png/revision/latest?cb=20241201053527",
-        "url": "https://sfile.mobi/4c1mR412lqf"
-      },
-      {
-        "label": "Elite",
-        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/4/43/Hero793-icon.png/revision/latest?cb=20220126142649",
-        "url": "https://sfile.mobi/7T1oTFd9C0Y"
-      },
-      {
-        "label": "Starlight",
-        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/3/3f/Hero794-icon.png/revision/latest?cb=20220126142719",
-        "url": "https://sfile.mobi/8tXpeemIbCJ"
-      },
-      {
-        "label": "Lightborn",
-        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/1/1d/Hero795-icon.png/revision/latest?cb=20220118094839",
-        "url": "https://sfile.mobi/2pdlSq2Uveg"
-      },
-      {
-        "label": "Legend",
-        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/0/08/Hero797-icon.png/revision/latest?cb=20220126142804",
-        "url": "https://sfile.mobi/5vhnAD0ebYZ"
-      },
-      {
-        "label": "Transformers",
-        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/3/3d/Hero798-icon.png/revision/latest?cb=20220126142813",
-        "url": "https://sfile.mobi/blfqOOnbmo7"
-      },
-      {
-        "label": "Create",
-        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/0/0b/Hero799-icon.png/revision/latest?cb=20220126142811",
-        "url": "https://sfile.mobi/5RrnNoibh6U"
-      },
-      {
-        "label": "Exorcist",
-        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/4/41/Hero107910-icon.png/revision/latest?cb=20240520065855",
-        "url": "https://sfile.mobi/1zvlqKGMnix"
-      },
-      {
-        "label": "Valentine",
-        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/0/02/Hero107911-icon.png/revision/latest?cb=20240329062320",
-        "url": "https://sfile.mobi/309mdRMfZYx"
-      }
-    ]
-  },
-  {
-    "id": 38,
-    "video": "https://youtu.be/Vecgnzltums",
-    "title": "Harley Collector",
-    "category": "collector",
-    "slug": "harley-collector",
-    "date": "2025-05-21",
-    "shortStory": "Heir to Castle Grandrock, Harley was of average talent and not considered with any importance by the Duke of Vance, his father. Yet he was always very close with his sister Lesley. To get his father's attention, he practiced conjuring to make it seem like he had magical abilities. Yet this had the unexpected result of getting him kidnapped. Lesley rushed to his rescue, and in the midst of his crisis his mighty magical powers were awakened. The two of them then proceeding to fight their way out. Ultimately, Leslie sent Harley to live and study at the Academy of Magic.",
-    "image": "/images/harleycol.jpg",
-    "download": [
-      {
-        "label": "Default",
-        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/9/92/Hero421-icon.png/revision/latest?cb=20241021145449",
-        "url": "https://sfile.mobi/9FPpOMS7Pau"
-      },
-      {
-        "label": "Basic",
-        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/4/4b/Hero422-icon.png/revision/latest?cb=20221022074922",
-        "url": "https://sfile.mobi/1GTlpIZmDC3"
-      },
-      {
-        "label": "Starlight",
-        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/8/85/Hero423-icon.png/revision/latest?cb=20220126141856",
-        "url": "https://sfile.mobi/6dBnUS7oWc8"
-      },
-      {
-        "label": "Special (Referee)",
-        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/c/c1/Hero424-icon.png/revision/latest?cb=20220126141852",
-        "url": "https://sfile.mobi/2SLm4RitN6O"
-      },
-      {
-        "label": "Epic",
-        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/f/ff/Hero425-icon.png/revision/latest?cb=20220126141850",
-        "url": "https://sfile.mobi/aCVqm7jDvas"
-      },
-      {
-        "label": "VENOM",
-        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/0/02/Octopus_Icon.png/revision/latest?cb=20220118094854",
-        "url": "https://sfile.mobi/7wRoEgbPNYm"
-      },
-      {
-        "label": "Special (Pulsar)",
-        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/9/96/Hero428-icon.png/revision/latest?cb=20220915134947",
-        "url": "https://sfile.mobi/aKjqqxZIbuB"
-      },
-      {
-        "label": "Elite",
-        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/b/b0/Hero429-icon.png/revision/latest?cb=20240323055631",
-        "url": "https://sfile.mobi/6sno3Uojhmp"
-      }
-    ]
-  },
-  {
-    "id": 37,
-    "video": "https://youtu.be/eafuqki7jaY",
-    "title": "Benedetta Collector",
-    "category": "collector",
-    "slug": "benedetta-collector",
-    "date": "2025-05-21",
-    "shortStory": "After the Abyss returned, our land becomes plagued and the entire southern part of the Land of Dawn turns into a barren place. Though the high Rantha Mountains blocks the corruption of the Abyss, Mother Nature in the southern realm continues to wither away. This once prosperous land is now nothing but a silent place filled with death, and people call it the “Despair Place”. The only passage that connects the Moniyan Empire is broken, separating the trapped refugees and the exiled wanderers from the rest of the world. They now live in fear and despair, haunted by monsters, yet still struggling to survive.",
-    "image": "/images/benedcol.jpg",
-    "download": [
-      {
-        "label": "Default",
-        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/4/47/Hero971-icon.png/revision/latest?cb=20241021153134",
-        "url": "https://sfile.mobi/7LCF3oqI5Ui"
-      },
-      {
-        "label": "Basic",
-        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/a/af/Hero972-icon.png/revision/latest?cb=20240314070055",
-        "url": "https://sfile.mobi/agKGqRjIcgz"
-      },
-      {
-        "label": "Starlight",
-        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/b/b9/Hero973-icon.png/revision/latest?cb=20220126142249",
-        "url": "https://sfile.mobi/8Q6FEgYvwQy"
-      },
-      {
-        "label": "Special",
-        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/a/a1/Hero975-icon.png/revision/latest?cb=20220401091157",
-        "url": "https://sfile.mobi/51IDy7G6ucf"
-      },
-      {
-        "label": "MPL",
-        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/e/e0/Hero977-icon.png/revision/latest?cb=20240314065725",
-        "url": "https://sfile.mobi/bHoHeG4dJC7"
-      },
-      {
-        "label": "Covenant",
-        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/4/4b/Hero978-icon.png/revision/latest?cb=20250301113847",
-        "url": "https://sfile.mobi/4c0D66usoE2"
-      }
-    ]
-  },
-  {
-    "id": 36,
-    "video": "https://youtu.be/7jK0CeOIL5M",
-    "title": "Yi Sun Shin Collector",
-    "category": "collector",
-    "slug": "yss-collector",
-    "date": "2025-05-21",
-    "shortStory": "Yi Sun-shin is the leader of the City of the Dragon fleet and he is dedicated to his duties. But the ruler of the City of the Dragon believes the false accusations and demoted Yi Sun-shin to a commoner. The fleet, without a leader, was hit hard by pirates. At this moment of crisis, Yi Sun-shin stepped forward and lead the reformed fleet to defend this area of the sea and successfully defeated the strong pirates with remaining naval force.",
-    "image": "/images/ysscol.jpg",
-    "download": [
-      {
-        "label": "Default",
-        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Hero301-icon.png/revision/latest?cb=20241021145338",
-        "url": "https://sfile.mobi/5CE2eTELQsb"
-      },
-      {
-        "label": "Basic",
-        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/a/ad/Hero302-icon.png/revision/latest?cb=20220126042021",
-        "url": "https://sfile.mobi/4c01sjjzb26"
-      },
-      {
-        "label": "Elite (Agent)",
-        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/4/44/Hero303-icon.png/revision/latest?cb=20240309054114",
-        "url": "https://sfile.mobi/2SK0JYJGdap"
-      },
-      {
-        "label": "Elite (Ranger)",
-        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/6/63/Hero304-icon.png/revision/latest?cb=20220126042011",
-        "url": "https://sfile.mobi/4Uk1Ru3XpKx"
-      },
-      {
-        "label": "Starlight",
-        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/0/02/Hero306-icon.png/revision/latest?cb=20220126042007",
-        "url": "https://sfile.mobi/6zK2MVLjryp"
-      },
-      {
-        "label": "Epic",
-        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/5/5b/Hero307-icon.png/revision/latest?cb=20220628175058",
-        "url": "https://sfile.mobi/80o3A2QN3it"
-      },
-      {
-        "label": "Season",
-        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/c/ce/Hero308-icon.png/revision/latest?cb=20240228064838",
-        "url": "https://sfile.mobi/4c01tTyo0gb"
-      }
-    ]
-  },
-  {
-    "id": 35,
-    "video": "https://youtu.be/GNK0oyICPak",
-    "title": "Sun Collector",
-    "category": "collector",
-    "slug": "sun-collector",
-    "date": "2025-05-21",
-    "shortStory": "Sun, the immortal mountain spirit born from a magical stone, roamed freely between heaven and earth until one day, when the cries of a group of pandas caught his attention. It was from them that he learned the existence of death. While confused by this sudden revelation, he was mistaken by the pandas for the deity of the mountain. In particular, a small panda named Li Li became infatuated with Sun and devoted his days to picking peaches for the Monkey King. But when a flash flood struck the panda village one day, Li Li was lost to the torrents while looking for peaches. Sun arrived too late, and despite the pleas of the other pandas, he did not have the ability to bring his friend back from the dead. It was then that Sun experienced loss for the first time. Unable to comprehend his grief, he fell into a deep slumber. Millennia passed, and many more would have passed by had Sun not been awakened by a battle between dragons. After slaying the Black Dragon and unknowingly saving the Cadia Riverlands, he asked the Silver Dragon about immortality and finding one's purpose. Instead of the answer he sought, the dragon gave him the name Sun and the task of being the guardian of the land. But what does that entail? Sun was once again lost in though",
-    "image": "/images/suncol.jpg",
-    "download": [
-      {
-        "label": "Default",
-        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/f/fe/Hero271-icon.png/revision/latest?cb=20241021145321",
-        "url": "https://sfile.mobi/44CtuPzkFOj"
-      },
-      {
-        "label": "Elite",
-        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/c/cb/Hero272-icon.png/revision/latest?cb=20241201053019",
-        "url": "https://sfile.mobi/bOMxM5AunC7"
-      },
-      {
-        "label": "Special (Rock Star)",
-        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/b/b9/Hero273-icon.png/revision/latest?cb=20220126042051",
-        "url": "https://sfile.mobi/6H8uX4XVrUT"
-      },
-      {
-        "label": "Special (Street Legend)",
-        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/e/e8/Hero274-icon.png/revision/latest?cb=20220126042050",
-        "url": "https://sfile.mobi/3IstjiGGrmi"
-      },
-      {
-        "label": "Starlight",
-        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/e/e3/Hero275-icon.png/revision/latest?cb=20220126042048",
-        "url": "https://sfile.mobi/4c0tzXUrhee"
-      },
-      {
-        "label": "TOP UP",
-        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/a/a6/Hero276-icon.png/revision/latest?cb=20241011011841",
-        "url": "https://sfile.mobi/37wsZrc9NYD"
-      },
-      {
-        "label": "Lunar Fest",
-        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/c/c1/Hero277-icon.png/revision/latest?cb=20220126042042",
-        "url": "https://sfile.mobi/7LCvyFaKOc8"
-      }
-    ]
-  },
-  {
-    "id": 34,
-    "video": "https://youtu.be/9U5HcEOZwlo",
-    "title": "Natan Collector",
-    "category": "collector",
-    "slug": "natan-collector",
-    "date": "2025-05-21",
-    "shortStory": "A thousand years after falling into a deep slumber, the Lord of the Abyss and the Lord of Light awoke, and so the Endless War raged once more. Natan stood as Eruditio's leader, guiding the people in their search for hope in this world. Yet having faced numerous defeats he decided instead to cast his gaze not to the future, but to the pastâ€”by inventing a time machine. As the world teetered on the brink of destruction, his time machine finally reached completion as it absorbed the combined power of the Twilight Orbs: Natan stepped within, and started searching the past for a chance to save the world.",
-    "image": "/images/natancol.jpg",
-    "download": [
-      {
-        "label": "Default",
-        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/2/25/Hero1071-icon.png/revision/latest?cb=20241021153231",
-        "url": "https://sfile.mobi/73ifuxJj3Or"
-      },
-      {
-        "label": "Basic",
-        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/0/0b/Hero1072-icon.png/revision/latest?cb=20220118095052",
-        "url": "https://sfile.mobi/2aqcNvT6z6W"
-      },
-      {
-        "label": "Elite",
-        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/1/18/Hero1073-icon.png/revision/latest?cb=20220119131927",
-        "url": "https://sfile.mobi/3B4dAYO68od"
-      },
-      {
-        "label": "Starlight",
-        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/d/d6/Hero1074-icon.png/revision/latest?cb=20220618111017",
-        "url": "https://sfile.mobi/1VEcG3R13el"
-      },
-      {
-        "label": "Special",
-        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/4/4a/Hero1076-icon.png/revision/latest?cb=20240404022237",
-        "url": "https://sfile.mobi/4jodZYDJokT"
-      }
-    ]
-  },
-  {
-    "id": 33,
-    "video": "https://youtu.be/d0m06Pmpyyo",
-    "title": "Novaria Collector",
-    "category": "collector",
-    "slug": "novaria-collector",
-    "date": "2025-05-21",
-    "shortStory": "Novaria woke up in the silence of the night. She found herself in the vast, empty darkness once again, floating among the remains of the Star Atlas. But unlike the countless times before, an exceptionally bright star could be seen this night. As Novaria gazed upon it, her hands reached out as if by instinct, until it was stopped by an invisible cage. Of course they wouldn't allow it. Novaria knew that all too well. This night, and every night, the stars held her prisoner. She could only watch the tiny glimmers overhead and ruminate the story of her life over and over again.",
-    "image": "/images/novariacol.jpg",
-    "download": [
-      {
-        "label": "Default",
-        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/a/a1/Hero1191-icon.png/revision/latest?cb=20241021153339",
-        "url": "https://sfile.mobi/b6s86cgMaO7"
-      },
-      {
-        "label": "Basic",
-        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/9/96/Hero1192-icon.png/revision/latest?cb=20230623131005",
-        "url": "https://sfile.mobi/5964O6Y1dS7"
-      },
-      {
-        "label": "Starlight",
-        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/f/fc/Hero1193-icon.png/revision/latest?cb=20240411082626",
-        "url": "https://sfile.mobi/73i5S4c0Egt"
       }
     ]
   },
