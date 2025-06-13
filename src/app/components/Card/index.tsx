@@ -33,6 +33,7 @@ const Cardscript = () => {
                     width={300}
                     alt="image belum tersedia"
                     className="rounded"
+                    unoptimized={true}
                   />{" "}
                   <div className="flex flex-col py-4 px-2">
                     <span className="text-xs font-thin">{script.date}</span>
