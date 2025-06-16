@@ -1,5 +1,79 @@
 [
   {
+    "id": 5,
+    "video": "https://youtu.be/n4G8s0BwRNI",
+    "title": "Lylia Neobeast",
+    "category": "neobeast",
+    "slug": "lylia-neobeast",
+    "date": "2025-06-16",
+    "shortStory": "Hundreds of years ago, when Magic reigned high, in the Land of Dawn, Dark Mages were important precursors of the creation of the Magic Academy. However, there had always been a big gap between them and White Magic. They had completely different opinions on magic ideas.",
+    "image": "/images/lylianeo.jpg",
+    "download": [
+      {
+        "label": "Default",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/a/a4/Hero861-icon.png/revision/latest?cb=20241021153033",
+        "url": "https://sfile.mobi/2pet3ubwHGR"
+      },
+      {
+        "label": "Basic",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/3/3a/Hero862-icon.png/revision/latest?cb=20220126142729",
+        "url": "https://sfile.mobi/51Kuv1V5xuF"
+      },
+      {
+        "label": "Elite",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/e/ee/Hero863-icon.png/revision/latest?cb=20220126142727",
+        "url": "https://sfile.mobi/5nUuHCihFYP"
+      },
+      {
+        "label": "Special",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/d/df/Hero864-icon.png/revision/latest?cb=20220125050126",
+        "url": "https://sfile.mobi/3PStQX6wh24"
+      },
+      {
+        "label": "Halloween",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/0/0a/Hero865-icon.png/revision/latest?cb=20220126142322",
+        "url": "https://sfile.mobi/5CGuPWUa4ME"
+      },
+      {
+        "label": "Starlight",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/8/80/Hero867-icon.png/revision/latest?cb=20250106155541",
+        "url": "https://sfile.mobi/8XwwGutmak4"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "video": "https://youtu.be/ttB0SStHh58",
+    "title": "Fredrinn Neobeast",
+    "category": "neobeast",
+    "slug": "fredrinn-neobeast",
+    "date": "2025-06-16",
+    "shortStory": "Born the son of Duke Vance, Fredrinn grew up into a gifted adventurer, but also the notorious 'money-grubber' in Los Pecados. The crystal in his chest had long merged with his heart. The terrifying scar would never fade, and Fredrinn never bothered to conceal it. All he had in mind was his search for his lost friend..",
+    "image": "/images/fredneo.jpg",
+    "download": [
+      {
+        "label": "Default",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/f/f4/Hero1171-icon.png/revision/latest?cb=20241021153327",
+        "url": "https://sfile.mobi/5YQv0fnvryR"
+      },
+      {
+        "label": "Basic",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Hero1172-icon.png/revision/latest?cb=20220805125404",
+        "url": "https://sfile.mobi/4jqu5kqqmkT"
+      },
+      {
+        "label": "Elite",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/3/3b/Hero1173-icon.png/revision/latest?cb=20221217033858",
+        "url": "https://sfile.mobi/a9oxjvNny0j"
+      },
+      {
+        "label": "Sparkle",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/3/33/Hero1175-icon.png/revision/latest?cb=20240411075701",
+        "url": "https://sfile.mobi/bOOyeMzYBi7"
+      }
+    ]
+  },
+  {
     "id": 40,
     "video": "https://youtu.be/KDEXzGoc0eY",
     "title": "Ling Collector",
@@ -721,80 +795,6 @@
         "label": "Prime",
         "icon": "https://static.wikia.nocookie.net/mobile-legends/images/1/1d/Hero106512-icon.png/revision/latest?cb=20240905080719",
         "url": "https://sfile.mobi/agMms804dUC"
-      }
-    ]
-  },
-  {
-    "id": 5,
-    "video": "https://youtu.be/mWrDPqAcukU",
-    "title": "Lylia Neobeast",
-    "category": "neobeast",
-    "slug": "lylia-neobeast",
-    "date": "2025-06-11",
-    "shortStory": "Hundreds of years ago, when Magic reigned high, in the Land of Dawn, Dark Mages were important precursors of the creation of the Magic Academy. However, there had always been a big gap between them and White Magic. They had completely different opinions on magic ideas.",
-    "image": "/images/lylianeo.jpg",
-    "download": [
-      {
-        "label": "Default",
-        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/a/a4/Hero861-icon.png/revision/latest?cb=20241021153033",
-        "url": "https://sfile.mobi/6kZamLouru4"
-      },
-      {
-        "label": "Basic",
-        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/3/3a/Hero862-icon.png/revision/latest?cb=20220126142729",
-        "url": "https://sfile.mobi/23380iHQwAh"
-      },
-      {
-        "label": "Elite",
-        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/e/ee/Hero863-icon.png/revision/latest?cb=20220126142727",
-        "url": "https://sfile.mobi/2wB8gN0QnGt"
-      },
-      {
-        "label": "Special",
-        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/d/df/Hero864-icon.png/revision/latest?cb=20220125050126",
-        "url": "https://sfile.mobi/5CF9YZYa3u8"
-      },
-      {
-        "label": "Halloween",
-        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/0/0a/Hero865-icon.png/revision/latest?cb=20220126142322",
-        "url": "https://sfile.mobi/2Ln8pixtMs5"
-      },
-      {
-        "label": "Starlight",
-        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/8/80/Hero867-icon.png/revision/latest?cb=20250106155541",
-        "url": "https://sfile.mobi/73jaMhYoE0S"
-      }
-    ]
-  },
-  {
-    "id": 4,
-    "video": "https://youtu.be/N_e4XhVkNUM",
-    "title": "Fredrinn Neobeast",
-    "category": "neobeast",
-    "slug": "fredrinn-neobeast",
-    "date": "2025-06-11",
-    "shortStory": "Born the son of Duke Vance, Fredrinn grew up into a gifted adventurer, but also the notorious 'money-grubber' in Los Pecados. The crystal in his chest had long merged with his heart. The terrifying scar would never fade, and Fredrinn never bothered to conceal it. All he had in mind was his search for his lost friend..",
-    "image": "/images/fredneo.jpg",
-    "download": [
-      {
-        "label": "Default",
-        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/f/f4/Hero1171-icon.png/revision/latest?cb=20241021153327",
-        "url": "https://sfile.mobi/4Ul9yWDYUEA"
-      },
-      {
-        "label": "Basic",
-        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Hero1172-icon.png/revision/latest?cb=20220805125404",
-        "url": "https://sfile.mobi/94TbS2962ko"
-      },
-      {
-        "label": "Elite",
-        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/3/3b/Hero1173-icon.png/revision/latest?cb=20221217033858",
-        "url": "https://sfile.mobi/8Q7bJHxdCgv"
-      },
-      {
-        "label": "Sparkle",
-        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/3/33/Hero1175-icon.png/revision/latest?cb=20240411075701",
-        "url": "https://sfile.mobi/4qN9ja00YMd"
       }
     ]
   },
