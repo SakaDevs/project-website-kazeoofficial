@@ -18,6 +18,7 @@ const nextConfig: NextConfig = {
       "i.pinimg.com",
       "www.kazeoofficial.my.id",
       "kazeoofficial.my.id",
+      "res.cloudinary.com",
     ],
   },
   theme: {
