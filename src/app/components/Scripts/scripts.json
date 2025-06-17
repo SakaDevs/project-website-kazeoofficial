@@ -1,5 +1,421 @@
 [
   {
+    "id": 126,
+    "video": "https://youtu.be/naF0TqfuNfg",
+    "title": "Angela Collector",
+    "category": "collector",
+    "slug": "angela-collector",
+    "date": "2025-06-17",
+    "shortStory": "An android created by the founder of Laboratory 1718, Dr. Baker. It was the first life form created without using human body or soul. In order to gain the knowledge of her, other scientists in the lab went after Dr. Baker. Before taken away, Dr. Baker stuffed her into a flight capsule to escape.",
+    "image": "/images/angelacol.jpg",
+    "download": [
+      {
+        "label": "Default",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/1/13/Hero551-icon.png/revision/latest?cb=20250406000608",
+        "url": "https://sfile.mobi/9FQz54WWiW8"
+      },
+      {
+        "label": "Basic",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/9/94/Hero552-icon.png/revision/latest?cb=20220126141947",
+        "url": "https://sfile.mobi/2LovgIHdzyb"
+      },
+      {
+        "label": "Starlight",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/b/b8/Hero553-icon.png/revision/latest?cb=20220126141949",
+        "url": "https://sfile.mobi/8mAymzsiliL"
+      },
+      {
+        "label": "VENOM",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/5/56/Hero554-icon.png/revision/latest?cb=20220126141945",
+        "url": "https://sfile.mobi/8fcyiFwuByO"
+      },
+      {
+        "label": "Halloween",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/d/d4/Hero555-icon.png/revision/latest?cb=20220126141943",
+        "url": "https://sfile.mobi/5K4wVcDuusK"
+      },
+      {
+        "label": "Summer",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/3/35/Hero556-icon.png/revision/latest?cb=20220527065319",
+        "url": "https://sfile.mobi/44Ew0hGpp6P"
+      },
+      {
+        "label": "Sanrio",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/6/64/Hero558-icon.png/revision/latest?cb=20220218031013",
+        "url": "https://sfile.mobi/3B6vKk7GusF"
+      },
+      {
+        "label": "Aspirants",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/2/2b/Hero559-icon.png/revision/latest?cb=20221103135301",
+        "url": "https://sfile.mobi/6dCxcdGLhSS"
+      },
+      {
+        "label": "Annual Starlight",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/e/e4/Hero105510-icon.png/revision/latest?cb=20240313082100",
+        "url": "https://sfile.mobi/2Lovi81hq8M"
+      },
+      {
+        "label": "Kishin",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/e/ec/Hero105511-icon.png/revision/latest?cb=20241013072638",
+        "url": "https://sfile.mobi/94UyMrRIvmW"
+      }
+    ]
+  },
+  {
+    "id": 125,
+    "video": "https://youtu.be/h366lDKYLZU",
+    "title": "Wanwan Collector",
+    "category": "collector",
+    "slug": "wanwan-collector",
+    "date": "2025-06-17",
+    "shortStory": "Wanwan grew up in a secluded mountain abode and lived a carefree childhood. It was only after encountering Yu Zhong, the reincarnation of the Black Dragon, Yin, the current vessel of the Evil God Lieh, and the other Oriental Fighters who guard the Dragon Altar that she realized she had long been chosen by the Agile Tiger of the Four Immortals. Wanwan would find herself involved in events that would affect the past and future of the Cadia Riverlands.",
+    "image": "/images/wanwancol.jpg",
+    "download": [
+      {
+        "label": "Default",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/2/24/Hero891-icon.png/revision/latest/scale-to-width-down/100?cb=20250118142135",
+        "url": "https://sfile.mobi/bA0xBt4Lde7"
+      },
+      {
+        "label": "Basic",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/d/db/Hero892-icon.png/revision/latest?cb=20220119085346",
+        "url": "https://sfile.mobi/73iv691XVKP"
+      },
+      {
+        "label": "Elite",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/5/50/Hero893-icon.png/revision/latest?cb=20220126142731",
+        "url": "https://sfile.mobi/9UAwGJ2r6MD"
+      },
+      {
+        "label": "Starlight",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/8/82/Hero894-icon.png/revision/latest?cb=20200724051040",
+        "url": "https://sfile.mobi/80ovDEoeAwB"
+      },
+      {
+        "label": "M World",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/b/b8/Hero897-icon.png/revision/latest?cb=20220401091200",
+        "url": "https://sfile.mobi/3tGt920tegH"
+      },
+      {
+        "label": "MPL",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/f/f7/Hero896-icon.png/revision/latest?cb=20220216004045",
+        "url": "https://sfile.mobi/bA0xCaJN8k7"
+      },
+      {
+        "label": "11.11",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/6/6c/Hero898-icon.png/revision/latest?cb=20240403042129",
+        "url": "https://sfile.mobi/avwx2Hw3x6X"
+      }
+    ]
+  },
+  {
+    "id": 124,
+    "video": "https://youtu.be/gPDwaQHyzj4",
+    "title": "Silvanna Collector",
+    "category": "collector",
+    "slug": "silvanna-collector",
+    "date": "2025-06-17",
+    "shortStory": "The princess of the Moniyan Empire. After her younger brother disappeared, she took up the burden of the country and joined the Empire Chevaliers, becoming the best female knight of the Empire Chevaliers.",
+    "image": "/images/silvannacol.jpg",
+    "download": [
+      {
+        "label": "Default",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/4/40/Hero901-icon.png/revision/latest/scale-to-width-down/100?cb=20241021153056",
+        "url": "https://sfile.mobi/9ysyTMzjlCY"
+      },
+      {
+        "label": "Basic",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/3/37/Hero902-icon.png/revision/latest?cb=20220126142729",
+        "url": "https://sfile.mobi/8Q8yvFjsZyC"
+      },
+      {
+        "label": "Elite",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/1/1b/Hero903-icon.png/revision/latest?cb=20220126142738",
+        "url": "https://sfile.mobi/1dmuiPYnXE1"
+      },
+      {
+        "label": "Elite (Cop)",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Hero906-icon.png/revision/latest?cb=20220126142656",
+        "url": "https://sfile.mobi/3IuvH0wq08s"
+      },
+      {
+        "label": "Starlight",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/e/e8/Hero904-icon.png/revision/latest?cb=20220126142632",
+        "url": "https://sfile.mobi/1dmuj0T8WuM"
+      },
+      {
+        "label": "Elite (Lancer)",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/e/e6/Hero907-icon.png/revision/latest?cb=20230623130948",
+        "url": "https://sfile.mobi/7LExVuqHtYH"
+      },
+      {
+        "label": "Valentine",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/f/f9/Hero908-icon.png/revision/latest?cb=20240403042344",
+        "url": "https://sfile.mobi/2wCv2oXzNec"
+      },
+      {
+        "label": "Special",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/2/20/Hero909-icon.png/revision/latest?cb=20241013071646",
+        "url": "https://sfile.mobi/7T2y061x84t"
+      }
+    ]
+  },
+  {
+    "id": 123,
+    "video": "https://youtu.be/EyjGBoeFXZI",
+    "title": "Pharsa Collector",
+    "category": "collector",
+    "slug": "pharsa-collector",
+    "date": "2025-06-17",
+    "shortStory": "As princess of the Crow Clan of Askati Forest, she was born with mutated blood. The mutation could gain her amazing abilities if she is awakened. When Alice invaded Askati Forest, the awakened Pharsa drove Alice away and lost her eyesight. After that, her lover turned himself into a crow to replace her eyes.",
+    "image": "/images/pharsacol.jpg",
+    "download": [
+      {
+        "label": "Default",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/e/ef/Hero521-icon.png/revision/latest?cb=20241021145546",
+        "url": "https://sfile.mobi/9jGyEpl7Gga"
+      },
+      {
+        "label": "Basic",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/9/93/Hero522-icon.png/revision/latest?cb=20220126141719",
+        "url": "https://sfile.mobi/5K4wGeP560q"
+      },
+      {
+        "label": "Elite",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/1/1c/Hero523-icon.png/revision/latest?cb=20220126141721",
+        "url": "https://sfile.mobi/bsEzQaqIAE7"
+      },
+      {
+        "label": "Indigo",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/1/13/Hero524-icon.png/revision/latest?cb=20220126141708",
+        "url": "https://sfile.mobi/bdSzImz77a7"
+      },
+      {
+        "label": "Season",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/1/1c/Hero525-icon.png/revision/latest?cb=20220126141723",
+        "url": "https://sfile.mobi/1kKug37oq4m"
+      },
+      {
+        "label": "Special",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/9/93/Hero527-icon.png/revision/latest?cb=20220126141714",
+        "url": "https://sfile.mobi/8XwytehZpSg"
+      },
+      {
+        "label": "Starlight",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/f/fb/Hero528-icon.png/revision/latest?cb=20220126141706",
+        "url": "https://sfile.mobi/94Uyxu3j7aE"
+      },
+      {
+        "label": "MSC",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/c/ce/Hero529-icon.png/revision/latest?cb=20221022073024",
+        "url": "https://sfile.mobi/7LExOYyFawP"
+      },
+      {
+        "label": "Epic",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Hero105210-icon.png/revision/latest?cb=20240124011345",
+        "url": "https://sfile.mobi/6Haxg25cvCA"
+      },
+      {
+        "label": "Neobeast",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/0/08/Hero105211-icon.png/revision/latest?cb=20250301113857",
+        "url": "https://sfile.mobi/aKkzyo89y0r"
+      }
+    ]
+  },
+  {
+    "id": 122,
+    "video": "https://youtu.be/WsL8LWfAkvw",
+    "title": "Miya Collector",
+    "category": "collector",
+    "slug": "miya-collector",
+    "date": "2025-06-17",
+    "shortStory": "Born at the end of the Era of Strife, Miya bore witness to the unspeakable tragedies that befell the elves during the Endless War. She saw how the Abyss defiled the Shadow Swamp and corrupted many of her people into Dark Elves. It was not until the Moon Goddess created the Lunar Aegis over Azrya that the Moon Elves were able to thrive again under its protection. Miya became the Priestess of the Moon, and for thousands of years she served faithfully in the Lunar Temple, diligently watching over her people. However, with the continued expansion of the Abyss and its dark legions, the Land of Dawn is once again shrouded by the fog of war. From the Moonlit Forest, a call to war that has not been heard in thousands of years sounded again. Miya took up her silver bow and swore by the light of the moon to fight for her people.",
+    "image": "/images/miyacol.jpg",
+    "download": [
+      {
+        "label": "Default",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/8/8c/Hero011-icon.png/revision/latest/scale-to-width-down/100?cb=20241021145035",
+        "url": "https://sfile.mobi/5nS55BbiEwO"
+      },
+      {
+        "label": "Elite",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/9/9e/Hero012-icon.png/revision/latest?cb=20220119131843",
+        "url": "https://sfile.mobi/3eU3UmPYH6p"
+      },
+      {
+        "label": "Luckybox",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/6/60/Hero013-icon.png/revision/latest?cb=20220119131821",
+        "url": "https://sfile.mobi/9Nc7wQnxdKO"
+      },
+      {
+        "label": "OLD Starlight",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/d/de/Hero014-icon.png/revision/latest?cb=20220119131834",
+        "url": "https://sfile.mobi/3Is4b23JxYE"
+      },
+      {
+        "label": "Limited",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/6/65/Hero015-icon.png/revision/latest?cb=20220119131840",
+        "url": "https://sfile.mobi/8Q670zqzqEG"
+      },
+      {
+        "label": "Valentine",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/1/17/Hero017-icon.png/revision/latest?cb=20220119131857",
+        "url": "https://sfile.mobi/9yq7pdqGJ25"
+      },
+      {
+        "label": "Special",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/4/43/Hero018-icon.png/revision/latest?cb=20220119131852",
+        "url": "https://sfile.mobi/aRG88fFBCgy"
+      },
+      {
+        "label": "TOP UP",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/b/b3/Hero019-icon.png/revision/latest?cb=20220119085347",
+        "url": "https://sfile.mobi/5Rq5n8YQoMC"
+      },
+      {
+        "label": "Anniversary",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/6/6f/Hero100110-icon.png/revision/latest?cb=20220119131908",
+        "url": "https://sfile.mobi/aRG88Bv7AOe"
+      },
+      {
+        "label": "Legend",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/4/43/Hero016-icon.png/revision/latest?cb=20220119131825",
+        "url": "https://sfile.mobi/231MiSY3jqX"
+      },
+      {
+        "label": "Atomic",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/e/e8/Hero100112-icon.png/revision/latest?cb=20230317100416",
+        "url": "https://sfile.mobi/2pc3tee7vCt"
+      },
+      {
+        "label": "NEW Starlight",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/7/73/Hero100114-icon.png/revision/latest?cb=20250403144506",
+        "url": "https://sfile.mobi/5vixhkoHNSP"
+      }
+    ]
+  },
+  {
+    "id": 121,
+    "video": "https://youtu.be/caPW7Qzs0zs",
+    "title": "Atlas Collector",
+    "category": "collector",
+    "slug": "atlas-collector",
+    "date": "2025-06-17",
+    "shortStory": "Atlas is one of the ancient Abysmal Sea creature, sealed in the deep sea by the Ancient Ones. Atlas found the Mecha built by Iceland Golems in the Abysmal Sea in the past. By integrating with the Mecha, Atlas escaped the Abysmal Sea and came to the seas around the world to absorb knowledge. It looks forward to the day when it is able to break the prohibition, so that is own kind can be free.",
+    "image": "/images/atlascol.jpg",
+    "download": [
+      {
+        "label": "Default",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/6/6e/Hero931-icon.png/revision/latest/scale-to-width-down/100?cb=20241021153111",
+        "url": "https://sfile.mobi/aoazr5dGRGB"
+      },
+      {
+        "label": "Basic",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/8/82/Hero932-icon.png/revision/latest?cb=20220118094848",
+        "url": "https://sfile.mobi/bsEA1XLujm7"
+      },
+      {
+        "label": "Elite",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/f/fe/Hero933-icon.png/revision/latest?cb=20221022085452",
+        "url": "https://sfile.mobi/6Haxp0LQxGO"
+      },
+      {
+        "label": "Special",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/7/76/Hero934-icon.png/revision/latest?cb=20220805125401",
+        "url": "https://sfile.mobi/7puxNPGIOAV"
+      },
+      {
+        "label": "MSC",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/2/28/Hero935-icon.png/revision/latest?cb=20230623130949",
+        "url": "https://sfile.mobi/avyzvGOwxMg"
+      }
+    ]
+  },
+  {
+    "id": 120,
+    "video": "https://youtu.be/W1CIfP_bVLg",
+    "title": "Lapu Lapu Collector",
+    "category": "collector",
+    "slug": "lapu-lapu-collector",
+    "date": "2025-06-17",
+    "shortStory": "Lapu-Lapu lives with other Doricans on the Vonetis Islands, living a life outside of worldly strife. But the arrival of a warlord who had defected from the Moniyan Empire broke this silence brought about endless killing. Lapu-Lapu gathered all the tribes together to fight back against the warlord's invasion and finally won, turning the Vonetis Islands into a paradise of freedom again.",
+    "image": "/images/lapucol.jpg",
+    "download": [
+      {
+        "label": "Default",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/e/ee/Hero371-icon.png/revision/latest/scale-to-width-down/100?cb=20241021145417",
+        "url": "https://sfile.mobi/7EgxSDZrC8v"
+      },
+      {
+        "label": "Basic",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/f/f5/Hero372-icon.png/revision/latest?cb=20240311080653",
+        "url": "https://sfile.mobi/4MYwiWyLlep"
+      },
+      {
+        "label": "Elite",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/7/75/Hero373-icon.png/revision/latest?cb=20220126041801",
+        "url": "https://sfile.mobi/9ysyWqiG3Kg"
+      },
+      {
+        "label": "Special",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/f/fc/Hero374-icon.png/revision/latest?cb=20220126041759",
+        "url": "https://sfile.mobi/3eWvsshKWcy"
+      },
+      {
+        "label": "Starlight",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/5/5f/Hero375-icon.png/revision/latest?cb=20220126041757",
+        "url": "https://sfile.mobi/1s8utsu78s1"
+      },
+      {
+        "label": "Season",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/0/02/Hero376-icon.png/revision/latest?cb=20230317102454",
+        "url": "https://sfile.mobi/5viwIidUyIs"
+      }
+    ]
+  },
+  {
+    "id": 119,
+    "video": "https://youtu.be/YvnsAsTQ_fM",
+    "title": "Aurora Collector",
+    "category": "collector",
+    "slug": "aurora-collector",
+    "date": "2025-06-17",
+    "shortStory": "Aurora, the Maiden of the Glacier, commanding the unwavering faith of innumerable mortals in the North, bestows eternity upon the world. In her youth, she endured the torment of her innate prowess for Frost Magic until the disciples of the Light brought her to Queen's Peak, whereupon she received an infusion of light which granted her immortality. Tearfully, her mother bade her farewell as she succumbed to the cold embrace of blizzard. Aurora slumbered for a thousand years atop the peak. Upon her awakening, the truth dawned on her: genuine eternity lay in fleeting emotions, such as her mother's final comforting smile. Thus, Aurora resolved to bestow this eternity upon the world. It was at that moment that a legend was born in the North. The legend spoke of people close to death who would climb Queen's Peak, seeking the frigid embrace of the goddess there. If granted, all of the one's memories, longings, and emotions would be left tot he goddess, who would cherish them until the end of time. And thus, they would live on the eternity.",
+    "image": "/images/auroracol.jpg",
+    "download": [
+      {
+        "label": "Default",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/2/2c/Hero361-icon.png/revision/latest/scale-to-width-down/100?cb=20241021145411",
+        "url": "https://sfile.mobi/4c2vZMJgC4r"
+      },
+      {
+        "label": "Basic",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/1/1e/Hero362-icon.png/revision/latest?cb=20241201053032",
+        "url": "https://sfile.mobi/1s8uua993G7"
+      },
+      {
+        "label": "Starlight",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/a/a5/Hero363-icon.png/revision/latest?cb=20220118094819",
+        "url": "https://sfile.mobi/aKkzCrbA76A"
+      },
+      {
+        "label": "Lunar Fest",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/a/ad/Hero364-icon.png/revision/latest?cb=20220119131812",
+        "url": "https://sfile.mobi/aKkzCC6l68h"
+      },
+      {
+        "label": "KOF",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/b/bf/Hero366-icon.png/revision/latest?cb=20220126041811",
+        "url": "https://sfile.mobi/4FAwgYHiowl"
+      },
+      {
+        "label": "Zodiac",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/4/49/Hero365-icon.png/revision/latest?cb=20221217033850",
+        "url": "https://sfile.mobi/4c2w0uoixii"
+      }
+    ]
+  },
+  {
     "id": 5,
     "video": "https://youtu.be/n4G8s0BwRNI",
     "title": "Lylia Neobeast",
