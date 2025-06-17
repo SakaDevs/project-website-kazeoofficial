@@ -76,14 +76,6 @@ const Footer = () => {
               </li>
               <li>
                 <Link
-                  href="/youtube"
-                  className="text-gray-600 hover:text-blue-600 transition-all"
-                >
-                  Youtube
-                </Link>
-              </li>
-              <li>
-                <Link
                   href="/social"
                   className="text-gray-600 hover:text-blue-600 transition-all"
                 >

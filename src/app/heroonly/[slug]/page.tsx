@@ -1,6 +1,5 @@
 import React from "react";
 import scripts from "@/app/components/Scripts/scripts.json";
-import Image from "next/image";
 import { Poppins } from "next/font/google";
 import VideoPlayer from "@/app/components/VideoPlayer/page";
 import Link from "next/link";
@@ -117,44 +116,32 @@ const Page = async ({ params }: PageProps) => {
               <span className="underline">{selectedScript.date}</span>
             </h4>
 
-            {/* Full-width table */}
+            {/* Full-width table with symmetric columns */}
             <div className="w-full">
               <div className="overflow-x-auto">
-                <table className="w-full border-collapse text-sm">
-                  <thead>
-                    <tr className="border-b border-gray-700">
-                      <th className="py-2 px-3 text-center whitespace-nowrap w-1/3">
+                <table className="w-full border border-gray-300 text-sm rounded-lg overflow-hidden table-fixed">
+                  <thead className="bg-gray-100">
+                    <tr>
+                      <th className="w-1/2 py-3 px-4 text-center border-b border-gray-300">
                         Replace
                       </th>
-                      <th className="py-2 px-3 text-center whitespace-nowrap w-1/3">
-                        Icon
-                      </th>
-                      <th className="py-2 px-3 text-center whitespace-nowrap w-1/3">
+                      <th className="w-1/2 py-3 px-4 text-center border-b border-gray-300">
                         Download
                       </th>
                     </tr>
                   </thead>
                   <tbody>
                     {selectedScript.download.map((item, index) => (
-                      <tr key={index} className="border-b border-gray-700">
-                        <td className="py-2 px-3 text-center">{item.label}</td>
-                        <td className="py-2 px-3">
-                          <div className="flex justify-center">
-                            <Image
-                              src={item.icon}
-                              alt={item.label}
-                              width={32}
-                              height={32}
-                              className="rounded-full"
-                            />
-                          </div>
+                      <tr key={index} className="hover:bg-gray-50 transition">
+                        <td className="w-1/2 py-3 px-4 text-center border-b border-gray-200">
+                          {item.label}
                         </td>
-                        <td className="py-2 px-3 text-center">
+                        <td className="w-1/2 py-3 px-4 text-center border-b border-gray-200">
                           <a
                             href={item.url}
                             target="_blank"
                             rel="noopener noreferrer"
-                            className="inline-flex items-center gap-1 px-2 py-1 border border-blue-500 rounded-full text-blue-600 hover:bg-blue-600 hover:text-white transition whitespace-nowrap"
+                            className="inline-flex items-center gap-1 px-3 py-1 border border-blue-500 rounded-full text-blue-600 hover:bg-blue-600 hover:text-white transition whitespace-nowrap"
                           >
                             <svg
                               xmlns="http://www.w3.org/2000/svg"
@@ -178,12 +165,14 @@ const Page = async ({ params }: PageProps) => {
                   </tbody>
                 </table>
               </div>
-              <div className="text-left">
+
+              <div className="text-left mt-2">
                 <h4 className="italic text-xs">
-                  🗣️Pilih sesuai dengan yang dibutuhkan.
+                  🗣️ Pilih sesuai dengan yang dibutuhkan.
                 </h4>
                 <h4 className="italic text-xs">
-                  ❌Jika download malah balik kesini, berarti filenya belum ada.
+                  ❌ Jika download malah balik kesini, berarti filenya belum
+                  ada.
                 </h4>
               </div>
             </div>
