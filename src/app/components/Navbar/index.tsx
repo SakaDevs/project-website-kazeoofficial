@@ -61,13 +61,6 @@ const Navbar = () => {
               >
                 Category
               </Link>
-
-              <Link
-                href="/youtube"
-                className="hover:text-blue-600 transition-all"
-              >
-                Youtube
-              </Link>
               <Link
                 href="/social"
                 className="hover:text-blue-600 transition-all"
@@ -99,7 +92,6 @@ const Navbar = () => {
             >
               <Link href="/">Home</Link>
               <Link href="/category">Category</Link>
-              <Link href="/youtube">Youtube</Link>
               <Link href="/social">Social</Link>
               <InputSearch />
             </motion.div>
