@@ -1,5 +1,45 @@
 [
   {
+    "id": 127,
+    "video": "https://youtu.be/pvOcTEvStBc",
+    "title": "Luo Yi Create",
+    "category": "create",
+    "slug": "luo-yi-create",
+    "date": "2025-06-18",
+    "shortStory": "Seeking to revive an ancient past, she is the sole being who has mastered the secrets of Yin and Yang. Luo Yi was the only person in all of the Cadia Riverlands to truly comprehend the concept of Yin and Yang.Harmonizing Yin and Yang was not just her talent but also her vision for the world. She became the successor of the Grand Sorceress of Zhu'an when she was just a child after accidentally following a spirit to the Cliff of Endless Lights. There, she witnessed a vision of a utopia in the ancient past when the Ancient Ones lived among the pure energies of Yin and Yang. It was then that she discovered her true identity as a descendant of the ancient Cadians.",
+    "image": "/images/luoyicreate.jpg",
+    "download": [
+      {
+        "label": "Default",
+        "url": "https://sfile.mobi/51KzTbrk0E7"
+      },
+      {
+        "label": "Basic",
+        "url": "https://sfile.mobi/4c2zqOq9Xq1"
+      },
+      {
+        "label": "Elite",
+        "url": "https://sfile.mobi/5YQAqkY4HCi"
+      },
+      {
+        "label": "Lunar Fest",
+        "url": "https://sfile.mobi/3B6z6WVDj2T"
+      },
+      {
+        "label": "Starlight",
+        "url": "https://sfile.mobi/7LEBpRvZsW2"
+      },
+      {
+        "label": "Collector",
+        "url": "https://sfile.mobi/5K4AiI1edUg"
+      },
+      {
+        "label": "Epic",
+        "url": "https://sfile.mobi/b6uDgp5bxK7"
+      }
+    ]
+  },
+  {
     "id": 126,
     "video": "https://youtu.be/naF0TqfuNfg",
     "title": "Angela Collector",
