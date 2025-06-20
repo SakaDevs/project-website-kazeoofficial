@@ -1,5 +1,277 @@
 [
   {
+    "id": 141,
+    "video": "https://youtu.be/ECwt5Jedknk",
+    "title": "Lesley Fatcat",
+    "category": "fatcat",
+    "slug": "lesley-fatcat",
+    "date": "2025-06-20",
+    "shortStory": "Lesley grew up in the Vance household, where her father presided over the noble family's security. During an unexpected attack by a rival family, Lesley's father was killed. As the assailants approached the Vance household, Lesley took up her father's black long rifle and fulfilled her late father's mission. Tears rolled down Lesley's cheeks as she fired shot after shot, surprisingly, each one taking down an assassin. The final tear came as the final shot took down the last of the rival family's men.",
+    "image": "/images/lesleyfatcat.jpg",
+    "download": [
+      {
+        "label": "Default",
+        "url": "https://sfile.mobi/5viEzglSN2N"
+      },
+      {
+        "label": "Basic",
+        "url": "https://sfile.mobi/5RsELFOjVCj"
+      },
+      {
+        "label": "Elite",
+        "url": "https://sfile.mobi/9ysGOh0rccY"
+      },
+      {
+        "label": "Special",
+        "url": "https://sfile.mobi/3mkDonQ4NaO"
+      },
+      {
+        "label": "Luckybox",
+        "url": "https://sfile.mobi/blgHNNylW07"
+      },
+      {
+        "label": "Valentine",
+        "url": "https://sfile.mobi/6VWFng19jUb"
+      },
+      {
+        "label": "Legend",
+        "url": "https://sfile.mobi/4c2DRDr1KoT"
+      },
+      {
+        "label": "Starlight",
+        "url": "https://sfile.mobi/6HaFfs9xPaO"
+      },
+      {
+        "label": "Collector",
+        "url": "https://sfile.mobi/3PSDFKIRygH"
+      },
+      {
+        "label": "Annual Starlight",
+        "url": "https://sfile.mobi/2peCSZsTUcX"
+      },
+      {
+        "label": "Aspirants",
+        "url": "https://sfile.mobi/bA2HXbEMfe7"
+      },
+      {
+        "label": "Covenant",
+        "url": "https://sfile.mobi/3IuDCcCzMcb"
+      }
+    ]
+  },
+  {
+    "id": 140,
+    "video": "https://youtu.be/CWwaZIlD9k4",
+    "title": "Julian Fatcat",
+    "category": "fatcat",
+    "slug": "julian-fatcat",
+    "date": "2025-06-20",
+    "shortStory": "Julian was the son of Terizla, the leader of the Free Smiths' Guild. The guild was exterminated by the Church of Light on charges of heresy when Julian was at an early age. The poor child was then adopted by the archbishop, trained and molded to be an elite member of the Ravens, a secret force that listened only to the archbishop's orders. Later, on his mission to 'purify' Xavier, he caught a glimpse of the secret buried in time",
+    "image": "/images/julianfatcat.jpg",
+    "download": [
+      {
+        "label": "Default",
+        "url": "https://sfile.mobi/7aIFsfeD5e3"
+      },
+      {
+        "label": "Basic",
+        "url": "https://sfile.mobi/1GUCqP9CZuu"
+      },
+      {
+        "label": "JJK",
+        "url": "https://sfile.mobi/5YQEOlkONGz"
+      },
+      {
+        "label": "HXH",
+        "url": "https://sfile.mobi/3XgDHbQ3yES"
+      }
+    ]
+  },
+  {
+    "id": 48,
+    "video": "https://youtu.be/GRak5FIG95Y",
+    "title": "Silvanna Fatcat",
+    "category": "fatcat",
+    "slug": "silvanna-fatcat",
+    "date": "2025-06-20",
+    "shortStory": "The princess of the Moniyan Empire. After her younger brother disappeared, she took up the burden of the country and joined the Empire Chevaliers, becoming the best female knight of the Empire Chevaliers.",
+    "image": "/images/silvannafatcat.jpg",
+    "download": [
+      {
+        "label": "Default",
+        "url": "https://sfile.mobi/3XfrvJLvawA"
+      },
+      {
+        "label": "Basic",
+        "url": "https://sfile.mobi/8Blu4XK6bud"
+      },
+      {
+        "label": "Elite",
+        "url": "https://sfile.mobi/3eVr7CvEOIf"
+      },
+      {
+        "label": "Collector",
+        "url": "https://sfile.mobi/6kZsQbius0e"
+      },
+      {
+        "label": "Elite (Cop)",
+        "url": "https://sfile.mobi/a9nuWRlar6J"
+      },
+      {
+        "label": "Starlight",
+        "url": "https://sfile.mobi/8mztY2shC8P"
+      },
+      {
+        "label": "Elite (Lancer)",
+        "url": "https://sfile.mobi/3mjrcVLwoUL"
+      },
+      {
+        "label": "Valentine",
+        "url": "https://sfile.mobi/5nTskr5NBuN"
+      },
+      {
+        "label": "Special",
+        "url": "https://sfile.mobi/1OhqmgzL160"
+      }
+    ]
+  },
+  {
+    "id": 139,
+    "video": "https://youtu.be/XlPRvoxIj8I",
+    "title": "Rafaela Lunar Fest",
+    "category": "Lunar",
+    "slug": "rafaela-lunar-fest",
+    "date": "2025-06-20",
+    "shortStory": "Rafaela and her elder brother Argus are both angels, but Argus was treated differently because of his status as a male target. All praise was given to Rafaela, and all criticism was left to Argus. After a series of events that were left to ferment, rifts appeared in the relationship between the two siblings. Argus finally fell into the Abyss, but was helpless to do anything about. She is an angel whom people admire, but her elder brother continues to perish in pain.",
+    "image": "/images/rafaelalunar.jpg",
+    "download": [
+      {
+        "label": "Default",
+        "url": "https://sfile.mobi/30aDkfpfLOh"
+      },
+      {
+        "label": "Elite",
+        "url": "https://sfile.mobi/bA2I43mkvK7"
+      },
+      {
+        "label": "Epic",
+        "url": "https://sfile.mobi/5gwEA5lpokE"
+      },
+      {
+        "label": "MPL",
+        "url": "https://sfile.mobi/aCWHxMpmJaR"
+      },
+      {
+        "label": "SABER",
+        "url": "https://sfile.mobi/bA2I4A6BtQ7"
+      },
+      {
+        "label": "Season",
+        "url": "https://sfile.mobi/2E0D8Trmwci"
+      },
+      {
+        "label": "Chrismast",
+        "url": "https://sfile.mobi/2wCD4ZvyMsh"
+      },
+      {
+        "label": "Allstar",
+        "url": "https://sfile.mobi/1VGCKX6h9ax"
+      }
+    ]
+  },
+  {
+    "id": 138,
+    "video": "https://youtu.be/zBL8N18ynO0",
+    "title": "Sun Lunar Fest",
+    "category": "Lunar",
+    "slug": "sun-lunar-fest",
+    "date": "2025-06-20",
+    "shortStory": "Sun, the immortal mountain spirit born from a magical stone, roamed freely between heaven and earth until one day, when the cries of a group of pandas caught his attention. It was from them that he learned the existence of death. While confused by this sudden revelation, he was mistaken by the pandas for the deity of the mountain. In particular, a small panda named Li Li became infatuated with Sun and devoted his days to picking peaches for the Monkey King. But when a flash flood struck the panda village one day, Li Li was lost to the torrents while looking for peaches. Sun arrived too late, and despite the pleas of the other pandas, he did not have the ability to bring his friend back from the dead. It was then that Sun experienced loss for the first time. Unable to comprehend his grief, he fell into a deep slumber. Millennia passed, and many more would have passed by had Sun not been awakened by a battle between dragons. After slaying the Black Dragon and unknowingly saving the Cadia Riverlands, he asked the Silver Dragon about immortality and finding one's purpose. Instead of the answer he sought, the dragon gave him the name Sun and the task of being the guardian of the land. But what does that entail? Sun was once again lost in though",
+    "image": "/images/sunlunar.jpg",
+    "download": [
+      {
+        "label": "Default",
+        "url": "https://sfile.mobi/agMHntW1mog"
+      },
+      {
+        "label": "Elite",
+        "url": "https://sfile.mobi/37yDqXZbcQq"
+      },
+      {
+        "label": "Special (Rock Star)",
+        "url": "https://sfile.mobi/9ciGN88uQMu"
+      },
+      {
+        "label": "Special (Street Legend)",
+        "url": "https://sfile.mobi/1VGCMxl5YAR"
+      },
+      {
+        "label": "Starlight",
+        "url": "https://sfile.mobi/94UGJp7s64l"
+      },
+      {
+        "label": "TOP UP",
+        "url": "https://sfile.mobi/3tIDDUbThKh"
+      },
+      {
+        "label": "Collector",
+        "url": "https://sfile.mobi/bOOIfyrQBM7"
+      }
+    ]
+  },
+  {
+    "id": 137,
+    "video": "https://youtu.be/wKulP0xT8xU",
+    "title": "Moskov Allstar",
+    "category": "allstar",
+    "slug": "moskov-allstar",
+    "date": "2025-06-20",
+    "shortStory": "Once a valiant and fearless desert warrior, Moskov met his end on the battlefield against his rival Khaleed. But in death, his soul encountered a great vortex of darkness buried beneath the sand by the desert tyrant Khufra. For centuries, the Vortex incited discord among the desert tribes and harvested the dark energy borne from their bloodshed. Though the Vortex's insidious influence trapped the desert in a cycle of strife and anguish, the Vortex itself sought to be freed. Tempted with the promise of revenge, Moskov extracted the core of the vortex, the Spear of Quiescence, and was reborn in the power of the darkness. Now he roams the sands, seeking revenge upon Khufra in the name of the desert.",
+    "image": "/images/moskovallstar.jpg",
+    "download": [
+      {
+        "label": "Default",
+        "url": "https://sfile.mobi/8BmGtCtua4x"
+      },
+      {
+        "label": "Basic",
+        "url": "https://sfile.mobi/44EDYPaXP2X"
+      },
+      {
+        "label": "OLD Starlight",
+        "url": "https://sfile.mobi/3B6DIGHtVCh"
+      },
+      {
+        "label": "Season",
+        "url": "https://sfile.mobi/3IuDMWsND2z"
+      },
+      {
+        "label": "Special",
+        "url": "https://sfile.mobi/9ysH0WUZQ4j"
+      },
+      {
+        "label": "Elite",
+        "url": "https://sfile.mobi/7LEG1X7m24Z"
+      },
+      {
+        "label": "Epic",
+        "url": "https://sfile.mobi/3IuDNtd4zuM"
+      },
+      {
+        "label": "Luckybox",
+        "url": "https://sfile.mobi/6zMFnwtgOW8"
+      },
+      {
+        "label": "Abyss",
+        "url": "https://sfile.mobi/6l0FfxGUlGx"
+      },
+      {
+        "label": "NEW Starlight",
+        "url": "https://sfile.mobi/5K4EVkmRJC5"
+      }
+    ]
+  },
+  {
     "id": 136,
     "video": "https://youtu.be/yF6IiY50aEU",
     "title": "Aldous Transformers",
