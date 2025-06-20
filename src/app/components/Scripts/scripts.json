@@ -5724,54 +5724,6 @@
     ]
   },
   {
-    "id": 48,
-    "video": "https://youtu.be/KVEOUKFSaMk",
-    "title": "Silvanna Fatcat",
-    "category": "fatcat",
-    "slug": "silvanna-fatcat",
-    "date": "2025-05-22",
-    "shortStory": "The princess of the Moniyan Empire. After her younger brother disappeared, she took up the burden of the country and joined the Empire Chevaliers, becoming the best female knight of the Empire Chevaliers.",
-    "image": "/images/silvannafatcat.jpg",
-    "download": [
-      {
-        "label": "Default",
-        "url": "https://sfile.mobi/3XfrvJLvawA"
-      },
-      {
-        "label": "Basic",
-        "url": "https://sfile.mobi/8Blu4XK6bud"
-      },
-      {
-        "label": "Elite",
-        "url": "https://sfile.mobi/3eVr7CvEOIf"
-      },
-      {
-        "label": "Collector",
-        "url": "https://sfile.mobi/6kZsQbius0e"
-      },
-      {
-        "label": "Elite (Cop)",
-        "url": "https://sfile.mobi/a9nuWRlar6J"
-      },
-      {
-        "label": "Starlight",
-        "url": "https://sfile.mobi/8mztY2shC8P"
-      },
-      {
-        "label": "Elite (Lancer)",
-        "url": "https://sfile.mobi/3mjrcVLwoUL"
-      },
-      {
-        "label": "Valentine",
-        "url": "https://sfile.mobi/5nTskr5NBuN"
-      },
-      {
-        "label": "Special",
-        "url": "https://sfile.mobi/1OhqmgzL160"
-      }
-    ]
-  },
-  {
     "id": 42,
     "video": "https://youtu.be/u_xNef8s9YQ",
     "title": "Vexana Zenith",
