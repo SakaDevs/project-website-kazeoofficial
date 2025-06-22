@@ -1,5 +1,277 @@
 [
   {
+    "id": 147,
+    "video": "https://youtu.be/x_rpU7eWfvM",
+    "title": "Eudora Atomic",
+    "category": "atomic",
+    "slug": "eudora-atomic",
+    "date": "2025-06-22",
+    "shortStory": "Eudora is a Light Elf who possesses a high level of magical talent, yet always loses control of her emotions because of her being discriminated against due to her Elf status. Later, she was discovered by the mentor of the Magic Academy, Theresa, who took her to the Magic Academy to study. Finally, she overcame the gloom in her heart and succeeded Theresa, becoming the dean of the Ulturia School.",
+    "image": "/images/eudoraatomic.jpg",
+    "download": [
+      {
+        "label": "Default",
+        "url": "https://sfile.mobi/4qOJhXwCkwN"
+      },
+      {
+        "label": "Basic",
+        "url": "https://sfile.mobi/3XgJ1P38r60"
+      },
+      {
+        "label": "Christmast",
+        "url": "https://sfile.mobi/2wCIfeHVLO0"
+      },
+      {
+        "label": "Luckybox",
+        "url": "https://sfile.mobi/7aIKODBhLOe"
+      },
+      {
+        "label": "Vivo",
+        "url": "https://sfile.mobi/9ciLW8VyYok"
+      },
+      {
+        "label": "Season",
+        "url": "https://sfile.mobi/7puKX97VaEO"
+      },
+      {
+        "label": "Starlight",
+        "url": "https://sfile.mobi/8IKLGbmQ3SG"
+      }
+    ]
+  },
+  {
+    "id": 146,
+    "video": "https://youtu.be/WuuhOeldcNI",
+    "title": "Miya Atomic",
+    "category": "atomic",
+    "slug": "miya-atomic",
+    "date": "2025-06-22",
+    "shortStory": "Born at the end of the Era of Strife, Miya bore witness to the unspeakable tragedies that befell the elves during the Endless War. She saw how the Abyss defiled the Shadow Swamp and corrupted many of her people into Dark Elves. It was not until the Moon Goddess created the Lunar Aegis over Azrya that the Moon Elves were able to thrive again under its protection. Miya became the Priestess of the Moon, and for thousands of years she served faithfully in the Lunar Temple, diligently watching over her people. However, with the continued expansion of the Abyss and its dark legions, the Land of Dawn is once again shrouded by the fog of war. From the Moonlit Forest, a call to war that has not been heard in thousands of years sounded again. Miya took up her silver bow and swore by the light of the moon to fight for her people.",
+    "image": "/images/miyaatomic.jpg",
+    "download": [
+      {
+        "label": "Default",
+        "url": "https://sfile.mobi/8IKLGxcm1qf"
+      },
+      {
+        "label": "Elite",
+        "url": "https://sfile.mobi/a9oMtisjFmX"
+      },
+      {
+        "label": "Luckybox",
+        "url": "https://sfile.mobi/6soKre0tlmg"
+      },
+      {
+        "label": "OLD Starlight",
+        "url": "https://sfile.mobi/1VGHWqHX0oF"
+      },
+      {
+        "label": "Limited",
+        "url": "https://sfile.mobi/94ULTiuj7y5"
+      },
+      {
+        "label": "Valentine",
+        "url": "https://sfile.mobi/6HaKA5mCHKg"
+      },
+      {
+        "label": "Special",
+        "url": "https://sfile.mobi/598JJfg6la0"
+      },
+      {
+        "label": "TOP UP",
+        "url": "https://sfile.mobi/8IKLHLBET67"
+      },
+      {
+        "label": "Anniversary",
+        "url": "https://sfile.mobi/1OiHTplWaIh"
+      },
+      {
+        "label": "Legend",
+        "url": "https://sfile.mobi/9jGM1D6bxC2"
+      },
+      {
+        "label": "Collector",
+        "url": "https://sfile.mobi/2asI5OOnjeQ"
+      },
+      {
+        "label": "NEW Starlight",
+        "url": "https://sfile.mobi/1VGHXQ20QUi"
+      }
+    ]
+  },
+  {
+    "id": 145,
+    "video": "https://youtu.be/pd8XopDUaus",
+    "title": "Claude Prime",
+    "category": "prime",
+    "slug": "claude-prime",
+    "date": "2025-06-22",
+    "shortStory": "Claude grew up living in Los Pecados. The circumstances in his life forced him into becoming an incredible thief. But he was used by Kane and went to prison and chains. In prison, he met Merlin, the god of thieves, and inherited his mantle, successfully escaping from prison. After completing an agreement with Merlin, Claude returned to Los Pecados with his new partner Dexter, ready to take revenge on Kane.",
+    "image": "/images/claudeprime.jpg",
+    "download": [
+      {
+        "label": "Default",
+        "url": "https://sfile.mobi/1s8Gjg4t5OU"
+      },
+      {
+        "label": "Basic",
+        "url": "https://sfile.mobi/bHqLY9TnUW7"
+      },
+      {
+        "label": "Starlight",
+        "url": "https://sfile.mobi/73kJphKiQwf"
+      },
+      {
+        "label": "Luckybox",
+        "url": "https://sfile.mobi/aCWLnO5RoAw"
+      },
+      {
+        "label": "Summer",
+        "url": "https://sfile.mobi/7wSJG7SOFa3"
+      },
+      {
+        "label": "Christmast",
+        "url": "https://sfile.mobi/1s8Gkjz0YIH"
+      },
+      {
+        "label": "MSC",
+        "url": "https://sfile.mobi/2E0GZgXn9eJ"
+      },
+      {
+        "label": "Sanrio",
+        "url": "https://sfile.mobi/6OyJixnfgWu"
+      },
+      {
+        "label": "Valentine",
+        "url": "https://sfile.mobi/598InCqaaAO"
+      },
+      {
+        "label": "Blazing",
+        "url": "https://sfile.mobi/7EgJKJtEkgl"
+      },
+      {
+        "label": "M6",
+        "url": "https://sfile.mobi/2E0H0krV28o"
+      }
+    ]
+  },
+  {
+    "id": 144,
+    "video": "https://youtu.be/1PIaoutGKX4",
+    "title": "Yu Zhong Prime",
+    "category": "prime",
+    "slug": "yuzhong-prime",
+    "date": "2025-06-22",
+    "shortStory": "Yu Zhong, the conqueror born from the Black Dragon's power, sought to break the seal on the Reverse Scale hidden within the Dragon Altar and forge a new future for the Cadia Riverlands. However, he was defeated by his senior brother, Baxia, and left to die in the mountains. After ten years of arduous training and travel, Yu Zhong found himself back at the Dragon Altar. He faced off against the Oriental Fighters, broke the seal to the Reverse Scale, and clashed in a final battle with the Evil God, Lieh, who caused the demise of the previous Black Dragon. Ultimately, with the help of his dear friend Wanwan, Yu Zhong regained his true self and emerged victorious. Now with the Black Dragon's Reverse Scale restored, Yu Zhong sets off on his path of conquest.",
+    "image": "/images/yuzhongprime.jpg",
+    "download": [
+      {
+        "label": "Default",
+        "url": "https://sfile.mobi/1s8GcV7bLGf"
+      },
+      {
+        "label": "Basic",
+        "url": "https://sfile.mobi/1OiGpkzCUcJ"
+      },
+      {
+        "label": "Starlight",
+        "url": "https://sfile.mobi/1zwGhlNgrSf"
+      },
+      {
+        "label": "Collector",
+        "url": "https://sfile.mobi/234GxQ6gj2s"
+      },
+      {
+        "label": "M5",
+        "url": "https://sfile.mobi/7LEJHWCEMg9"
+      },
+      {
+        "label": "Exorcist",
+        "url": "https://sfile.mobi/a9oL1kF6aQK"
+      }
+    ]
+  },
+  {
+    "id": 143,
+    "video": "https://youtu.be/jk3QRMN4SS0",
+    "title": "Beatrix Prime",
+    "category": "Prime",
+    "slug": "beatrix-prime",
+    "date": "2025-06-22",
+    "shortStory": "A year and a half ago, the Scholars' Union of Eruditio welcomed a new student into their ranks. Unlike the other newcomers, this young girl named Beatrix seemed to possess profound knowledge of and astonishing talent for science. Before long she stood head and shoulders above her peers, becoming one of the most promising scholars of the entire Scholars' Union. Even Dr. Rooney, who was watching her quietly from afar, was impressed by her progress. He believed that, if she were to apply herself to her studies, Beatrix could one day become the greatest scientist Eruditio had ever seen.",
+    "image": "/images/beatrixprime.jpg",
+    "download": [
+      {
+        "label": "Default",
+        "url": "https://sfile.mobi/4Fyb6FaXYI4"
+      },
+      {
+        "label": "Basic",
+        "url": "https://sfile.mobi/8fad5bwwww4"
+      },
+      {
+        "label": "Elite",
+        "url": "https://sfile.mobi/9r2dK8USHe3"
+      },
+      {
+        "label": "Starlight",
+        "url": "https://sfile.mobi/9jEdGpTPWgF"
+      },
+      {
+        "label": "M4",
+        "url": "https://sfile.mobi/1GS9tAyKUk4"
+      },
+      {
+        "label": "Create",
+        "url": "https://sfile.mobi/37wagHEew8e"
+      }
+    ]
+  },
+  {
+    "id": 142,
+    "video": "https://youtu.be/mqkS1fOhalc",
+    "title": "Roger Prime",
+    "category": "Prime",
+    "slug": "roger-prime",
+    "date": "2025-06-22",
+    "shortStory": "Ignoring the villagers' warnings, Roger decided to settle right by the edge of the Black Forest, a mere few miles east of the Megalith Wastelands. His countless years in the imperial army had made him a man of strong resolve... and perhaps too stubborn for his own good. Regardless, now that his days as a soldier had passed, he was determined to hunt in the dark woodlands and live off of its bounty.",
+    "image": "/images/rogerprime.jpg",
+    "download": [
+      {
+        "label": "Default",
+        "url": "https://sfile.mobi/30aH0AK4tyq"
+      },
+      {
+        "label": "Basic",
+        "url": "https://sfile.mobi/2asGyoDFpa7"
+      },
+      {
+        "label": "Luckybox",
+        "url": "https://sfile.mobi/3IuHpAzHJmG"
+      },
+      {
+        "label": "Starlight",
+        "url": "https://sfile.mobi/3B6HlRyEYwm"
+      },
+      {
+        "label": "Epic (Phantom)",
+        "url": "https://sfile.mobi/bA2LLhgW8S7"
+      },
+      {
+        "label": "Epic (Cyborg)",
+        "url": "https://sfile.mobi/7T2JJcP5NCA"
+      },
+      {
+        "label": "M3",
+        "url": "https://sfile.mobi/blgLDEk5DU7"
+      },
+      {
+        "label": "Transformers",
+        "url": "https://sfile.mobi/1kKG7g1OdGd"
+      }
+    ]
+  },
+  {
     "id": 141,
     "video": "https://youtu.be/ECwt5Jedknk",
     "title": "Lesley Fatcat",
@@ -352,7 +624,7 @@
     "video": "https://youtu.be/mZ4jsiWw_hE",
     "title": "Roger Transformers",
     "category": "transformers",
-    "slug": "Roger-transformers",
+    "slug": "roger-transformers",
     "date": "2025-06-19",
     "shortStory": "Ignoring the villagers' warnings, Roger decided to settle right by the edge of the Black Forest, a mere few miles east of the Megalith Wastelands. His countless years in the imperial army had made him a man of strong resolve... and perhaps too stubborn for his own good. Regardless, now that his days as a soldier had passed, he was determined to hunt in the dark woodlands and live off of its bounty.",
     "image": "/images/rogertransformers.jpg",
