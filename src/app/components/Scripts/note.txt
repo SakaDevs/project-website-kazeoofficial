@@ -1,1 +1,186 @@
 last id : 118
+
+{
+    "id": 152,
+    "video": "https://youtu.be/KTp9eFWk81o",
+    "title": "Leomord Abyss",
+    "category": "abyss",
+    "slug": "leomord-abyss",
+    "date": "2025-06-23",
+    "shortStory": "Once a sworn knight of Ridgeburg, Leomord was forced to shatter the oath he made with his own sword in an unfortunate turn of events. Since then, he had borne the curse of the Mist and guarded the land abandoned even by death. The light had faded, yet his watch had just begun…",
+    "image": "/images/leomordabyss.jpg",
+    "download": [
+      {
+        "label": "Default",
+        "url": "https://sfile.mobi/a9oOQEGz2EN"
+      },
+      {
+        "label": "Basic",
+        "url": "https://sfile.mobi/bsEPzGVtVC7"
+      },
+      {
+        "label": "Starlight",
+        "url": "https://sfile.mobi/1dmJV8W55gh"
+      },
+      {
+        "label": "MSC",
+        "url": "https://sfile.mobi/3mkL6J6V0sW"
+      },
+      {
+        "label": "Halloween",
+        "url": "https://sfile.mobi/7puNlJLtpCb"
+      },
+      {
+        "label": "Luckybox",
+        "url": "https://sfile.mobi/598M6qzAJqd"
+      },
+      {
+        "label": "Ducati",
+        "url": "https://sfile.mobi/3B6LfAt4mQT"
+      },
+      {
+        "label": "Epic",
+        "url": "https://sfile.mobi/1dmJWcqCY8k"
+      }
+    ]
+  },
+  {
+    "id": 151,
+    "video": "https://youtu.be/9974aem9II0",
+    "title": "Alpha Abyss",
+    "category": "abyss",
+    "slug": "alpha-abyss",
+    "date": "2025-06-23",
+    "shortStory": "A pure cyborg made by Laboratory 1718. Tasked with hunting down and slaying Saber by its creator, Alpha's burning hatred for Saber makes him a candidate for the role.",
+    "image": "/images/alphaabyss.jpg",
+    "download": [
+      {
+        "label": "Default",
+        "url": "https://sfile.mobi/231FOX05bCV"
+      },
+      {
+        "label": "Basic",
+        "url": "https://sfile.mobi/ao7KqMaNtmh"
+      },
+      {
+        "label": "Luckybox",
+        "url": "https://sfile.mobi/bdPKT9bXws7"
+      },
+      {
+        "label": "Season",
+        "url": "https://sfile.mobi/6dzI8dpXi0B"
+      },
+      {
+        "label": "Special",
+        "url": "https://sfile.mobi/37vGqmi9A4j"
+      },
+      {
+        "label": "Starlight",
+        "url": "https://sfile.mobi/1ztFzwbDdqe"
+      },
+      {
+        "label": "Collector",
+        "url": "https://sfile.mobi/8IHJwnXZkIK"
+      }
+    ]
+  },
+  {
+    "id": 150,
+    "video": "https://youtu.be/K9tZtdf2zR4  ",
+    "title": "Moskov Abyss",
+    "category": "abyss",
+    "slug": "moskov-abyss",
+    "date": "2025-06-23",
+    "shortStory": "Once a valiant and fearless desert warrior, Moskov met his end on the battlefield against his rival Khaleed. But in death, his soul encountered a great vortex of darkness buried beneath the sand by the desert tyrant Khufra. For centuries, the Vortex incited discord among the desert tribes and harvested the dark energy borne from their bloodshed. Though the Vortex's insidious influence trapped the desert in a cycle of strife and anguish, the Vortex itself sought to be freed. Tempted with the promise of revenge, Moskov extracted the core of the vortex, the Spear of Quiescence, and was reborn in the power of the darkness. Now he roams the sands, seeking revenge upon Khufra in the name of the desert.",
+    "image": "/images/moskovabyss.jpg",
+    "download": [
+      {
+        "label": "Default",
+        "url": "https://sfile.mobi/a9oOOTwZeEJ"
+      },
+      {
+        "label": "Basic",
+        "url": "https://sfile.mobi/1VGKhQRRAsM"
+      },
+      {
+        "label": "OLD Starlight",
+        "url": "https://sfile.mobi/2wCKC4bUcwe"
+      },
+      {
+        "label": "Season",
+        "url": "https://sfile.mobi/avyP1EOWlMz"
+      },
+      {
+        "label": "Special",
+        "url": "https://sfile.mobi/blgPuyAnkc7"
+      },
+      {
+        "label": "Elite",
+        "url": "https://sfile.mobi/3tIL9zyaRiR"
+      },
+      {
+        "label": "Epic",
+        "url": "https://sfile.mobi/5YQMxogGWcr"
+      },
+      {
+        "label": "Luckybox",
+        "url": "https://sfile.mobi/5CGMkCYJQ4d"
+      },
+      {
+        "label": "Allstar",
+        "url": "https://sfile.mobi/9FQOAanzby0"
+      },
+      {
+        "label": "NEW Starlight",
+        "url": "https://sfile.mobi/1VGKiUmptmi"
+      }
+    ]
+  },
+  {
+    "id": 149,
+    "video": "https://youtu.be/fSHeZOO6Pxc",
+    "title": "Selena Abyss",
+    "category": "abyss",
+    "slug": "selena-abyss",
+    "date": "2025-06-23",
+    "shortStory": "The Dark Elf Selena had been dependent on her sister Karina since childhood. Selena maintained her innocent nature under the protection of her sister, until she discovered the dirty things her sister Karina had done for her. She thought that she had become a burden for her sister. In order to gain more power, she dedicated herself to the Abyss, but did not want to be completely controlled by the Abyss and ultimately became a horrifying demon.",
+    "image": "/images/selenaabyss.jpg",
+    "download": [
+      {
+        "label": "Default",
+        "url": "https://sfile.mobi/aZ6PerU1AkA"
+      },
+      {
+        "label": "Basic",
+        "url": "https://sfile.mobi/3PSLi6RWpqw"
+      },
+      {
+        "label": "Virus",
+        "url": "https://sfile.mobi/3tIL7hEk6AA"
+      },
+      {
+        "label": "Starlight",
+        "url": "https://sfile.mobi/9r4Op17z4kN"
+      },
+      {
+        "label": "Luckybox",
+        "url": "https://sfile.mobi/5nUMaI82Aw1"
+      },
+      {
+        "label": "Elite",
+        "url": "https://sfile.mobi/7T2NywQyFay"
+      },
+      {
+        "label": "Zodiac",
+        "url": "https://sfile.mobi/6HaMT2HVyoV"
+      },
+      {
+        "label": "STUN",
+        "url": "https://sfile.mobi/6VWN24YPTym"
+      },
+      {
+        "label": "Zenith",
+        "url": "https://sfile.mobi/2peKxhGjyAK"
+      }
+    ]
+  },

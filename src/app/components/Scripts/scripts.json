@@ -1,5 +1,105 @@
 [
   {
+    "id": 105,
+    "video": "https://youtu.be/ovI5FBv7wwI",
+    "title": "Lancelot Dawning",
+    "category": "dawning",
+    "slug": "lancelot-dawning",
+    "date": "2025-06-03",
+    "shortStory": "As the eldest son of Duke Baroque, Lancelot was born rebellious. Dead set on resisting the political marriage arranged for him by his father, he traveled the country and led a licentious life instead. After being wounded at a drunken brawl in a tavern, Lancelot was rescued by Odette and finally came to realize what his heart truly yearned for. The prodigal son made a repentant return and thus began his adventure across the Land of Dawn.",
+    "image": "/images/lancelotdawning.jpg",
+    "download": [
+      {
+        "label": "Default",
+        "url": "https://sfile.mobi/8fcNOZmqmQo"
+      },
+      {
+        "label": "Basic",
+        "url": "https://sfile.mobi/aoaP0zxgiW2"
+      },
+      {
+        "label": "Christmast",
+        "url": "https://sfile.mobi/aZ6PljBzQkj"
+      },
+      {
+        "label": "Luckybox",
+        "url": "https://sfile.mobi/5viMjTwzKMM"
+      },
+      {
+        "label": "Starlight",
+        "url": "https://sfile.mobi/6OyN2VLuE0a"
+      },
+      {
+        "label": "Epic",
+        "url": "https://sfile.mobi/9ysOz55T9YI"
+      },
+      {
+        "label": "Zodiac",
+        "url": "https://sfile.mobi/3eWL4Lfs3Cx"
+      },
+      {
+        "label": "Champion",
+        "url": "https://sfile.mobi/aoaP1NWz9CF"
+      },
+      {
+        "label": "Dragon Tamer",
+        "url": "https://sfile.mobi/6dCMJfbIYwZ"
+      },
+      {
+        "label": "Elite (Top Up)",
+        "url": "https://sfile.mobi/3B6LhHsa8Ej"
+      },
+      {
+        "label": "Kishin",
+        "url": "https://sfile.mobi/66eMFwaGdy0"
+      }
+    ]
+  },
+  {
+    "id": 148,
+    "video": "https://youtu.be/2_GnQa_K880",
+    "title": "Rafaela Christmast",
+    "category": "christmast",
+    "slug": "rafaela-christmast",
+    "date": "2025-06-20",
+    "shortStory": "Rafaela and her elder brother Argus are both angels, but Argus was treated differently because of his status as a male target. All praise was given to Rafaela, and all criticism was left to Argus. After a series of events that were left to ferment, rifts appeared in the relationship between the two siblings. Argus finally fell into the Abyss, but was helpless to do anything about. She is an angel whom people admire, but her elder brother continues to perish in pain.",
+    "image": "/images/rafaelachristmast.jpg",
+    "download": [
+      {
+        "label": "Default",
+        "url": "https://sfile.mobi/2hQKzbXwc0q"
+      },
+      {
+        "label": "Elite",
+        "url": "https://sfile.mobi/3B6Liecr56O"
+      },
+      {
+        "label": "Epic",
+        "url": "https://sfile.mobi/6OyN4w0jtu0"
+      },
+      {
+        "label": "MPL",
+        "url": "https://sfile.mobi/aoaP3dgD0kH"
+      },
+      {
+        "label": "SABER",
+        "url": "https://sfile.mobi/a20OR9DHPiu"
+      },
+      {
+        "label": "Season",
+        "url": "https://sfile.mobi/9UCONqCF4km"
+      },
+      {
+        "label": "Lunar Fest",
+        "url": "https://sfile.mobi/6l0MPr1nsQh"
+      },
+      {
+        "label": "Allstar",
+        "url": "https://sfile.mobi/4FALUaeMpW2"
+      }
+    ]
+  },
+  {
     "id": 147,
     "video": "https://youtu.be/x_rpU7eWfvM",
     "title": "Eudora Atomic",
@@ -3748,62 +3848,6 @@
       {
         "label": "Champion",
         "url": "https://sfile.mobi/1zvUKbcjx6V"
-      }
-    ]
-  },
-  {
-    "id": 105,
-    "video": "https://youtu.be/Ip-NIgH7VuI",
-    "title": "Lancelot Dawning",
-    "category": "dawning",
-    "slug": "lancelot-dawning",
-    "date": "2025-06-03",
-    "shortStory": "As the eldest son of Duke Baroque, Lancelot was born rebellious. Dead set on resisting the political marriage arranged for him by his father, he traveled the country and led a licentious life instead. After being wounded at a drunken brawl in a tavern, Lancelot was rescued by Odette and finally came to realize what his heart truly yearned for. The prodigal son made a repentant return and thus began his adventure across the Land of Dawn.",
-    "image": "/images/lancelotdawning.jpg",
-    "download": [
-      {
-        "label": "Default",
-        "url": "http://sfile.mobi/7EfY2E7IA0f"
-      },
-      {
-        "label": "Basic",
-        "url": "https://sfile.mobi/b6tZWJNcru7"
-      },
-      {
-        "label": "Christmast",
-        "url": "https://sfile.mobi/bA20dp0XhC7"
-      },
-      {
-        "label": "Luckybox",
-        "url": "https://sfile.mobi/51JWBhiUJ29"
-      },
-      {
-        "label": "Starlight",
-        "url": "https://sfile.mobi/7ptXV1aS5i7"
-      },
-      {
-        "label": "Epic",
-        "url": "https://sfile.mobi/8fbYnUWj5YJ"
-      },
-      {
-        "label": "Zodiac",
-        "url": "https://sfile.mobi/73jXIXxWUgY"
-      },
-      {
-        "label": "Champion",
-        "url": "https://sfile.mobi/9yrZ6XbdYcd"
-      },
-      {
-        "label": "Dragon Tamer",
-        "url": "https://sfile.mobi/73jXJuidQQh"
-      },
-      {
-        "label": "Elite (Top Up)",
-        "url": "https://sfile.mobi/9r3Z3eabdep"
-      },
-      {
-        "label": "Kishin",
-        "url": "https://sfile.mobi/9chYVfnOKIQ"
       }
     ]
   },
