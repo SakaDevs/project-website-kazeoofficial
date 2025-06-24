@@ -1,5 +1,341 @@
 [
   {
+    "id": 162,
+    "video": "",
+    "title": "Badang Collector",
+    "category": "collector",
+    "slug": "badang-collector",
+    "date": "2025-06-24",
+    "shortStory": "Born in the Vonetis Islands off the southern part of the mainland. Originally just an ordinary villager, after defeating the water monster that was harassing the village, he gained huge power from the water monster. After that, Badang set out to the mountains of the southern Moniyan Empire where the Abyss was entrenched, hoping to completely solve the problem of the water source being contaminated by the Abyss.",
+    "image": "/images/badangcollector.jpg",
+    "download": [
+      {
+        "label": "Default",
+        "url": "https://sfile.mobi/6OyQR1nEv6n"
+      },
+      {
+        "label": "Basic",
+        "url": "https://sfile.mobi/2asOiFYQnSO"
+      },
+      {
+        "label": "Special",
+        "url": "https://sfile.mobi/9UCSA6UL5Yx"
+      },
+      {
+        "label": "Zodiac",
+        "url": "https://sfile.mobi/aKkT2PLr5CI"
+      },
+      {
+        "label": "Pegasus Saiya",
+        "url": "https://sfile.mobi/bdSTjk4qWI7"
+      },
+      {
+        "label": "Sagittarius Saiya",
+        "url": "https://sfile.mobi/51KPTqU4xOh"
+      }
+    ]
+  },
+  {
+    "id": 161,
+    "video": "https://youtu.be/C7oI0w8jDD0",
+    "title": "Cecilion Collector",
+    "category": "collector",
+    "slug": "cecilion-collector",
+    "date": "2025-06-24",
+    "shortStory": "As a blood demon, Cecilion in love with human girl Carmilla, but cruel reality made Cecilion give up on their love. After Cecilion left, Carmilla chose to commit suicide which made Cecilion desperately sad. He used his abilities to turn Carmilla into Blood Demon. From then on, the two of them stayed away in the world together forever.",
+    "image": "/images/cecilioncollector.jpg",
+    "download": [
+      {
+        "label": "Default",
+        "url": "https://sfile.mobi/b6rKLy2fbG7"
+      },
+      {
+        "label": "Basic",
+        "url": "https://sfile.mobi/5nRHBYg7EQB"
+      },
+      {
+        "label": "Elite",
+        "url": "https://sfile.mobi/3tGXsfuOXCI"
+      },
+      {
+        "label": "Valentine",
+        "url": "https://sfile.mobi/9NbK3dsmdON"
+      },
+      {
+        "label": "Starlight",
+        "url": "https://sfile.mobi/6H7IlmkyvCG"
+      },
+      {
+        "label": "Hisoka",
+        "url": "https://sfile.mobi/4jnH1Yi7729"
+      }
+    ]
+  },
+  {
+    "id": 160,
+    "video": "https://youtu.be/GAS0mzzaGYI",
+    "title": "Layla Collector",
+    "category": "collector",
+    "slug": "layla-collector",
+    "date": "2025-06-24",
+    "shortStory": "In Eruditio—the City of Scholars, there's hardly anyone who doesn't know of Layla. She's the 'daughter of Eruditio', just like a bright star that shines over the streets of Eruditio in the darkness of night. Brave and selfless, she always had a bright and happy smile on her face while toting the gun handed to her by her grandfather, protecting Eruditio in her own way. As a child, Layla would always ask her grandfather about her parents, but his reluctance to tell her and his sad face told her it was something tragic. Because of that, Layla decided to never pain her grandfather anymore, so she stopped pursuing the matter. However, as secrets cannot be hidden forever, the truth of her birth eventually surfaced, and it turns out that her parents have always been watching her from the skies—well, in the literal sense.",
+    "image": "/images/laylacollector.jpg",
+    "download": [
+      {
+        "label": "Default",
+        "url": "https://sfile.mobi/1djEDkIaTI4"
+      },
+      {
+        "label": "Basic",
+        "url": "https://sfile.mobi/8f9Iw7DYisU"
+      },
+      {
+        "label": "OLD Starlight",
+        "url": "https://sfile.mobi/9r1Jb52ktUv"
+      },
+      {
+        "label": "Valentine",
+        "url": "https://sfile.mobi/8XtIUWyQzCj"
+      },
+      {
+        "label": "Blue Spectre",
+        "url": "https://sfile.mobi/8XtIViomxqp"
+      },
+      {
+        "label": "Classic",
+        "url": "https://sfile.mobi/4FxGyEMXDiz"
+      },
+      {
+        "label": "SABER",
+        "url": "https://sfile.mobi/1ztEQNF9ViG"
+      },
+      {
+        "label": "Blazing",
+        "url": "https://sfile.mobi/3PPG6sGyzY4"
+      },
+      {
+        "label": "NEW Starlight",
+        "url": "https://sfile.mobi/a1XJx3vWTue"
+      },
+      {
+        "label": "Aspirants",
+        "url": "https://sfile.mobi/87LItD2epqA"
+      }
+    ]
+  },
+  {
+    "id": 159,
+    "video": "https://youtu.be/2V9hqm3h4nQ",
+    "title": "Dyrroth Collector",
+    "category": "collector",
+    "slug": "dyrroth-collector",
+    "date": "2025-06-24",
+    "shortStory": "Twelve years ago, a prince was born in the Moniyan Empire. He was a symbol of salvation and justice for his people. It was believed that he would lead the Moniyan Empire in unifying the Land of Dawn. The Empire Nobles gave everything to the prince..",
+    "image": "/images/dyrrothcollector.jpg",
+    "download": [
+      {
+        "label": "Default",
+        "url": "https://sfile.mobi/bHp1N8ZEUo7"
+      },
+      {
+        "label": "Basic",
+        "url": "https://sfile.mobi/blf1AJxdM47"
+      },
+      {
+        "label": "KOF",
+        "url": "https://sfile.mobi/7T0ZGZHfRCK"
+      },
+      {
+        "label": "Starlight",
+        "url": "https://sfile.mobi/6VUZaxPx60v"
+      },
+      {
+        "label": "VENOM",
+        "url": "https://sfile.mobi/3PQXsGHJnOg"
+      },
+      {
+        "label": "GON",
+        "url": "https://sfile.mobi/bON1ShkLwO7"
+      }
+    ]
+  },
+  {
+    "id": 158,
+    "video": "https://youtu.be/Fo7ueOm1R94",
+    "title": "Cyclops Collector",
+    "category": "collector",
+    "slug": "cyclops-collector",
+    "date": "2025-06-24",
+    "shortStory": "To the far east of the Land of Dawn, lies the unexplored Land of the Giants, home to Cyclops, a one-eyed dwarf-giant, with a surprisingly tiny frame. As Cyclops grew up, he turned out to be much different from other Giants, not only was he small in proportion, but also was he unique. As such, unlike the other Giants, he couldn't really rely on brute force.",
+    "image": "/images/cyclopscollector.jpg",
+    "download": [
+      {
+        "label": "Default",
+        "url": "https://sfile.mobi/80qQIGrPUst"
+      },
+      {
+        "label": "Basic",
+        "url": "https://sfile.mobi/3tIOdT9jzqR"
+      },
+      {
+        "label": "Elite",
+        "url": "https://sfile.mobi/5viPlotAM8W"
+      },
+      {
+        "label": "SABER",
+        "url": "https://sfile.mobi/2asNvnEFCIv"
+      },
+      {
+        "label": "Starlight",
+        "url": "https://sfile.mobi/8IKR7Rce9aU"
+      },
+      {
+        "label": "Season",
+        "url": "https://sfile.mobi/7wSQtfDnWgw"
+      },
+      {
+        "label": "Halloween",
+        "url": "https://sfile.mobi/6HaQ13wYSWE"
+      },
+      {
+        "label": "Starwars",
+        "url": "https://sfile.mobi/5nUPi1i3YId"
+      }
+    ]
+  },
+  {
+    "id": 157,
+    "video": "https://youtu.be/X4G14qaJCEM",
+    "title": "Aldous Collector",
+    "category": "collector",
+    "slug": "aldous-collector",
+    "date": "2025-06-24",
+    "shortStory": "Legends from the Land of Dawn say that the Western Desert's Minoan Kingdom possesses a mysterious labyrinth. In the maze is a statue of giant minotaur, which the people consider to be the mecca of the Minoan Kingdom. Some say that there is a group of mercenaries who guard the entire maze. The Kingdom produced a lot of precious jade, which brought the Minoan people great wealth. Very quickly, the entire kingdom was lost in the intoxicating allure of gems. Even many mercenaries, tasked with guarding the sacred maze become corrupted, abandoning their duty. Only one stayed―Aldous, who had never forgotten his duty and guard the Minoan Labyrinth.",
+    "image": "/images/aldouscollector.jpg",
+    "download": [
+      {
+        "label": "Default",
+        "url": "https://sfile.mobi/9jGE062KpGS"
+      },
+      {
+        "label": "Basic",
+        "url": "https://sfile.mobi/7T2Dezc5DaT"
+      },
+      {
+        "label": "Starlight",
+        "url": "https://sfile.mobi/8XwDO2pPeEE"
+      },
+      {
+        "label": "Elite",
+        "url": "https://sfile.mobi/2peAbnXvJuE"
+      },
+      {
+        "label": "M1",
+        "url": "https://sfile.mobi/8tYDxTWll6R"
+      },
+      {
+        "label": "Blazing",
+        "url": "https://sfile.mobi/8XwDOoflcc3"
+      },
+      {
+        "label": "Collector",
+        "url": "https://sfile.mobi/9UCElbWzVCF"
+      },
+      {
+        "label": "Mistbenders",
+        "url": "https://sfile.mobi/4jqBfH117Gx"
+      }
+    ]
+  },
+  {
+    "id": 156,
+    "video": "https://youtu.be/IK8g3oJ10nk",
+    "title": "Floryn Collector",
+    "category": "collector",
+    "slug": "floryn-collector",
+    "date": "2025-06-24",
+    "shortStory": "Belerick stumbled upon the decline of Agelta Drylands during a meander of his many ago.The despair and sorrow almost consumed him, when a blooming little flower suddenly broke into his sight. There's still life! Moved by such tenacious vitality, the treant decided to create what was later known as the Oasis at the place. While creating the Oasis, Belerick unintentionally poured more power into the little flower, and the overflowing energy condensed into a glowing seed. The little flower, however, underwent an even more peculiar transition. It turned into a life form that had never appeared on the Land of Dawn–Floryn.",
+    "image": "/images/floryncollector.jpg",
+    "download": [
+      {
+        "label": "Default",
+        "url": "https://sfile.mobi/3PSOfyLwS4Y"
+      },
+      {
+        "label": "Basic",
+        "url": "https://sfile.mobi/6soPHskBFu6"
+      },
+      {
+        "label": "Elite",
+        "url": "https://sfile.mobi/87OQD4WIG4H"
+      },
+      {
+        "label": "Summer",
+        "url": "https://sfile.mobi/94UR9SDXpug"
+      },
+      {
+        "label": "Sanrio",
+        "url": "https://sfile.mobi/2asNkOJcLyO"
+      }
+    ]
+  },
+  {
+    "id": 155,
+    "video": "https://youtu.be/yKraUpN_SiE",
+    "title": "Gusion Collector",
+    "category": "collector",
+    "slug": "gusion-collector",
+    "date": "2025-06-24",
+    "shortStory": "Although he was born into the most powerful magic family on the continent, Gusion is not interested in magic. He is keen to draw inspiration from the holy light to develop new fighting skills. In the end, Gusion left the family.",
+    "image": "/images/gusioncollector.jpg",
+    "download": [
+      {
+        "label": "Default",
+        "url": "https://sfile.mobi/8tWs5wkNHiv"
+      },
+      {
+        "label": "Basic",
+        "url": "https://sfile.mobi/5nSqnFcZZ6f"
+      },
+      {
+        "label": "Elite",
+        "url": "https://sfile.mobi/1OgopuGXoIx"
+      },
+      {
+        "label": "OLD Starlight",
+        "url": "https://sfile.mobi/2DYoSdxDpyA"
+      },
+      {
+        "label": "Valentine",
+        "url": "https://sfile.mobi/ao8t9tyN7Gd"
+      },
+      {
+        "label": "VENOM",
+        "url": "https://sfile.mobi/4yapVOW6SsQ"
+      },
+      {
+        "label": "KOF",
+        "url": "https://sfile.mobi/3miphdngFys"
+      },
+      {
+        "label": "Legend",
+        "url": "https://sfile.mobi/2wAoOQm6CcQ"
+      },
+      {
+        "label": "11.11",
+        "url": "https://sfile.mobi/1GSomEfHxO2"
+      },
+      {
+        "label": "Epic",
+        "url": "https://sfile.mobi/8Q6sjacxHy3"
+      },
+      {
+        "label": "NEW Starlight",
+        "url": "https://sfile.mobi/6VUrggt6a4I"
+      }
+    ]
+  },
+  {
     "id": 154,
     "video": "https://youtu.be/IlYErJN8070",
     "title": "Yu Zhong Collector",
