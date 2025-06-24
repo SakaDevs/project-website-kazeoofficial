@@ -1,5 +1,97 @@
 [
   {
+    "id": 154,
+    "video": "https://youtu.be/IlYErJN8070",
+    "title": "Yu Zhong Collector",
+    "category": "collector",
+    "slug": "yuzhong-collector",
+    "date": "2025-06-24",
+    "shortStory": "Yu Zhong, the conqueror born from the Black Dragon's power, sought to break the seal on the Reverse Scale hidden within the Dragon Altar and forge a new future for the Cadia Riverlands. However, he was defeated by his senior brother, Baxia, and left to die in the mountains. After ten years of arduous training and travel, Yu Zhong found himself back at the Dragon Altar. He faced off against the Oriental Fighters, broke the seal to the Reverse Scale, and clashed in a final battle with the Evil God, Lieh, who caused the demise of the previous Black Dragon. Ultimately, with the help of his dear friend Wanwan, Yu Zhong regained his true self and emerged victorious. Now with the Black Dragon's Reverse Scale restored, Yu Zhong sets off on his path of conquest.",
+    "image": "/images/yuzhongcollector.jpg",
+    "download": [
+      {
+        "label": "Default",
+        "url": "https://sfile.mobi/9NeRBwcXnyT"
+      },
+      {
+        "label": "Basic",
+        "url": "https://sfile.mobi/bOOSJ1xeA87"
+      },
+      {
+        "label": "Starlight",
+        "url": "https://sfile.mobi/1VGNgT0gS8p"
+      },
+      {
+        "label": "M5",
+        "url": "https://sfile.mobi/7i6QeVTKak3"
+      },
+      {
+        "label": "Prime",
+        "url": "https://sfile.mobi/234NlFvRw0O"
+      },
+      {
+        "label": "Exorcist",
+        "url": "https://sfile.mobi/3PSOkjtZm8Y"
+      }
+    ]
+  },
+  {
+    "id": 153,
+    "video": "https://youtu.be/-wP4nRR7r7Q",
+    "title": "Zilong Collector",
+    "category": "collector",
+    "slug": "zilong-collector",
+    "date": "2025-06-24",
+    "shortStory": "Zilong was taken in by the Tianyin Swordmaster Sect when he was just a child. Although the Sect was famous for their mastery of the 'jian' Zilong chose to take up the spear. Without a teacher, he practiced the basics of the spear day in and day out with unwavering determination. After leaving the Sect, he became a disciple of the Great Dragon under the guidance of Baxia, the Mystic Tortoise, and trained at the Dragon Altar. But with the changing of the times, the spirit of the Cloud Dragon appeared on the tip of his spear one day to the surprise of his peers. That was when everyone, including Zilong, realized he had become one with the Cloud Dragon of the Oriental Fighters and inherited the Great Dragon Spear.",
+    "image": "/images/zilongcollector.jpg",
+    "download": [
+      {
+        "label": "Default",
+        "url": "https://sfile.mobi/2wA0LEvRz2I"
+      },
+      {
+        "label": "Elite",
+        "url": "https://sfile.mobi/2DY0PUhbgs0"
+      },
+      {
+        "label": "Starlight",
+        "url": "https://sfile.mobi/7i43pjaxgsx"
+      },
+      {
+        "label": "Epic",
+        "url": "https://sfile.mobi/7ps3td6l0cq"
+      },
+      {
+        "label": "Elite (Lancer)",
+        "url": "https://sfile.mobi/4qM1PBJQZqH"
+      },
+      {
+        "label": "Luckybox",
+        "url": "https://sfile.mobi/agK53N6ObeZ"
+      },
+      {
+        "label": "Christmast",
+        "url": "https://sfile.mobi/4Fy1Yibfn2T"
+      },
+      {
+        "label": "TOP UP",
+        "url": "https://sfile.mobi/5nS2nsVDBS6"
+      },
+      {
+        "label": "Summer",
+        "url": "https://sfile.mobi/9Nc4Oxd7bOw"
+      },
+      {
+        "label": "515",
+        "url": "https://sfile.mobi/9cg4ujT4zKf"
+      },
+      {
+        "label": "Lunar Fest",
+        "url": "https://sfile.mobi/9FO4KOc4qQo"
+      }
+    ]
+  },
+  {
     "id": 152,
     "video": "https://youtu.be/KTp9eFWk81o",
     "title": "Leomord Abyss",
