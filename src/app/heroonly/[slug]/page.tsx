@@ -17,16 +17,11 @@ type PageProps = {
 
 const Page = async ({ params }: PageProps) => {
   const slug = await params?.slug;
-  const getVideoIdFromUrl = (url: string) => {
-    const match = url.match(/(?:\?v=|\/embed\/|\.be\/)([a-zA-Z0-9_-]{11})/);
-    return match ? match[1] : null;
-  };
   const selectedScript = scripts.find((script) => script.slug === slug);
 
   if (!selectedScript) {
     return <div className="p-4 text-red-500">Tidak ditemukan.</div>;
   }
-  const videoId = getVideoIdFromUrl(selectedScript.video);
 
   return (
     <PageWrapper>
