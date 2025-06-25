@@ -22,18 +22,29 @@ const nextConfig: NextConfig = {
       "img.youtube.com",
     ],
   },
-  theme: {
-    extend: {
-      animation: {
-        marquee: "marquee 10s linear infinite",
+  async headers() {
+    return [
+      {
+        // Untuk semua file statis
+        source: "/(.*)\\.(jpg|jpeg|png|svg|ico|woff2?)$",
+        headers: [
+          {
+            key: "Cache-Control",
+            value: "public, max-age=31536000, immutable", // 1 tahun
+          },
+        ],
       },
-      keyframes: {
-        marquee: {
-          "0%": { transform: "translateX(100%)" },
-          "100%": { transform: "translateX(-100%)" },
-        },
+      {
+        // Untuk favicon secara spesifik
+        source: "/favicon.ico",
+        headers: [
+          {
+            key: "Cache-Control",
+            value: "public, max-age=86400", // 1 hari
+          },
+        ],
       },
-    },
+    ];
   },
 };
 
