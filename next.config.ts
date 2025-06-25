@@ -19,6 +19,7 @@ const nextConfig: NextConfig = {
       "www.kazeoofficial.my.id",
       "kazeoofficial.my.id",
       "res.cloudinary.com",
+      "img.youtube.com",
     ],
   },
   theme: {
