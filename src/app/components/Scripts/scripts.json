@@ -1,5 +1,693 @@
 [
   {
+    "id": 63,
+    "video": "",
+    "title": "Alpha Legend",
+    "category": "legend",
+    "slug": "alpha-legend",
+    "date": "2025-06-27",
+    "shortStory": "A pure cyborg made by Laboratory 1718. Tasked with hunting down and slaying Saber by its creator, Alpha's burning hatred for Saber makes him a candidate for the role.",
+    "image": "https://res.cloudinary.com/dhwrdfmdt/image/upload/v1750812821/alphaleg_wgvgg9.jpg",
+    "download": [
+      {
+        "label": "Default",
+        "url": "https://sfile.mobi/37xvizlcbmx"
+      },
+      {
+        "label": "Basic",
+        "url": "https://sfile.mobi/bdRzM3U23e7"
+      },
+      {
+        "label": "Luckybox",
+        "url": "https://sfile.mobi/9jFyIZfPxYI"
+      },
+      {
+        "label": "Season",
+        "url": "https://sfile.mobi/6VVxpBdo88d"
+      },
+      {
+        "label": "Special",
+        "url": "https://sfile.mobi/9yryRuMsVOA"
+      },
+      {
+        "label": "Abyss",
+        "url": "https://sfile.mobi/4c1vU9y1yEJ"
+      },
+      {
+        "label": "Starlight",
+        "url": "https://sfile.mobi/bA1zZb1v7a7"
+      },
+      {
+        "label": "Collector",
+        "url": "https://sfile.mobi/7aHxyszxuMu"
+      }
+    ]
+  },
+  {
+    "id": 62,
+    "video": "",
+    "title": "Johnson Legend",
+    "category": "legend",
+    "slug": "johnson-legend",
+    "date": "2025-06-27",
+    "shortStory": "Johnson was originally from a planet called Varis, where he worked as a delivery driver. On his world, auto racing was the most illustrious sport, but the major races were almost entirely monopolized by the rich and elite. One day, while on a routine delivery, Johnson became mixed up in a race and even managed to win first place March, to the dismay of the wealthy patrons. To punish this upstart, they plotted for him to have an accident. While driving home a speeding truck sidelined Johnson's car, mangling his body with the twisted steel of the wreck. Miraculously, he survived, and chose to be integrated with his car to create a cyborg body. After a successful operation, he had a roaring engine as his new heart, and began racing to satiate his need for speed. As Johnson raced to his heart's content, he kept going faster and faster until he triggered the slip-space device secretly built into his chassis and crossed into the Land of Dawn.",
+    "image": "https://res.cloudinary.com/dhwrdfmdt/image/upload/v1750812792/johnsonleg_su80g0.jpg",
+    "download": [
+      {
+        "label": "Default",
+        "url": "https://sfile.mobi/blfzOnB0XK7"
+      },
+      {
+        "label": "Basic",
+        "url": "https://sfile.mobi/5vhwAIYkIoo"
+      },
+      {
+        "label": "SABER",
+        "url": "https://sfile.mobi/3eVvlpMs2kq"
+      },
+      {
+        "label": "Elite",
+        "url": "https://sfile.mobi/8Blyj6QpnUH"
+      },
+      {
+        "label": "Luckybox",
+        "url": "https://sfile.mobi/3ItvC50cScl"
+      },
+      {
+        "label": "Special",
+        "url": "https://sfile.mobi/8Q7yrCn2LKq"
+      },
+      {
+        "label": "Transformers",
+        "url": "https://sfile.mobi/blfzPr5yQo7"
+      },
+      {
+        "label": "Anniversary",
+        "url": "https://sfile.mobi/6zLxcu5V4s9"
+      }
+    ]
+  },
+  {
+    "id": 61,
+    "video": "",
+    "title": "Freya Legend",
+    "category": "legend",
+    "slug": "freya-legend",
+    "date": "2025-06-27",
+    "shortStory": "Freya's sister Skuld was an excellent Valkyrie, but because of an accident caused by Freya, Skuld plunged into the Twilight Orb and disappeared with it. Freya has since taken over as a Valkyrie and assumed the responsibility of protecting the Northern Vale.",
+    "image": "https://res.cloudinary.com/dhwrdfmdt/image/upload/v1750813147/freyaleg_gu8jys.jpg",
+    "download": [
+      {
+        "label": "Default",
+        "url": "https://sfile.mobi/4MWSc9YnoAC"
+      },
+      {
+        "label": "Basic",
+        "url": "https://sfile.mobi/aCUVpOB3EW2"
+      },
+      {
+        "label": "Starlight",
+        "url": "https://sfile.mobi/6zKTbvBxa8s"
+      },
+      {
+        "label": "Summer",
+        "url": "https://sfile.mobi/5RqSNdqVPyf"
+      },
+      {
+        "label": "Luckybox",
+        "url": "https://sfile.mobi/232QHf3hLqB"
+      },
+      {
+        "label": "Elite",
+        "url": "https://sfile.mobi/1dkQeS27IiW"
+      },
+      {
+        "label": "Christmast",
+        "url": "https://sfile.mobi/66cSWfHQaIV"
+      },
+      {
+        "label": "Epic",
+        "url": "https://sfile.mobi/1dkQfdRDFUw"
+      },
+      {
+        "label": "SABER",
+        "url": "https://sfile.mobi/5guSu3Br6gZ"
+      }
+    ]
+  },
+  {
+    "id": 60,
+    "video": "",
+    "title": "Lunox Legend",
+    "category": "legend",
+    "slug": "lunox-legend",
+    "date": "2025-06-27",
+    "shortStory": "Lunox was born with magical powers, and her dreamworld reflects and changes the real world. With this power, she uses her dreamworld to temporarily maintain the balance of energy between order and chaos. But as the power of order and the power of chaos rushed into her dreams, Lunox fell into a long sleep and turned into one of the Twilight Orbs.",
+    "image": "https://res.cloudinary.com/dhwrdfmdt/image/upload/v1750812907/lunoxleg_lnndwx.jpg",
+    "download": [
+      {
+        "label": "Default",
+        "url": "https://sfile.mobi/66cSXjco3Cp"
+      },
+      {
+        "label": "Basic",
+        "url": "https://sfile.mobi/5K2SKTJWV2Y"
+      },
+      {
+        "label": "Elite",
+        "url": "https://sfile.mobi/1GSQwAKqrin"
+      },
+      {
+        "label": "Starlight",
+        "url": "https://sfile.mobi/7aGTymEWukn"
+      },
+      {
+        "label": "Zodiac",
+        "url": "https://sfile.mobi/3XeRMqGA3SF"
+      },
+      {
+        "label": "Luckybox",
+        "url": "https://sfile.mobi/7EeTP1SHksA"
+      },
+      {
+        "label": "Epic (Eyes)",
+        "url": "https://sfile.mobi/7wQTL7WTAIE"
+      },
+      {
+        "label": "Epic (Dawn)",
+        "url": "https://sfile.mobi/4joRZbYxa03"
+      },
+      {
+        "label": "Elite (Top Up)",
+        "url": "https://sfile.mobi/1OgQBJ5x2IS"
+      }
+    ]
+  },
+  {
+    "id": 59,
+    "video": "",
+    "title": "Franco Legend",
+    "category": "legend",
+    "slug": "franco-legend",
+    "date": "2025-06-27",
+    "shortStory": "Franco is the only warrior on the Frozen Ocean who can lead people in the fighter against Bane. In one battle, Franco saw through Bane's tricks and finally defeated him. Life was brought back to the Northern Vale under his leadership.",
+    "image": "https://res.cloudinary.com/dhwrdfmdt/image/upload/v1750812720/francoleg_aeojyp.jpg",
+    "download": [
+      {
+        "label": "Default",
+        "url": "https://sfile.mobi/5gvwq6sBxCH"
+      },
+      {
+        "label": "Special",
+        "url": "https://sfile.mobi/73jxps5Ljiw"
+      },
+      {
+        "label": "Starlight",
+        "url": "https://sfile.mobi/7EfxK1fjTUd"
+      },
+      {
+        "label": "Season",
+        "url": "https://sfile.mobi/8mzy8FfrbiN"
+      },
+      {
+        "label": "Halloween",
+        "url": "https://sfile.mobi/2aruIM54M4w"
+      },
+      {
+        "label": "Luckybox",
+        "url": "https://sfile.mobi/3eVvjECSe4Y"
+      },
+      {
+        "label": "TOP UP",
+        "url": "https://sfile.mobi/ao9zgHjZkca"
+      },
+      {
+        "label": "MPL",
+        "url": "https://sfile.mobi/3PRvEzBWLu4"
+      },
+      {
+        "label": "Blazing",
+        "url": "https://sfile.mobi/7i5xzmWsyAr"
+      }
+    ]
+  },
+  {
+    "id": 58,
+    "video": "",
+    "title": "Guinevere Legend",
+    "category": "legend",
+    "slug": "guinevere-legend",
+    "date": "2025-06-27",
+    "shortStory": "As the youngest daughter of one of the few noble households in the Land of Dawn, House Baroque, she studied at the Magic Academy since she was a child, and is extremely talented in magic. The household wanted her to marry into another household with a higher status. Unwilling to be used as a political bargaining chip, Guinevere decided to seek help from her elder brother Lancelot.",
+    "image": "https://res.cloudinary.com/dhwrdfmdt/image/upload/v1750812736/guinevereleg_czbhqh.jpg",
+    "download": [
+      {
+        "label": "Default",
+        "url": "https://sfile.mobi/1Ohuu4IMSQr"
+      },
+      {
+        "label": "Basic",
+        "url": "https://sfile.mobi/80pxUjIFfGU"
+      },
+      {
+        "label": "KOF",
+        "url": "https://sfile.mobi/3eVvhmJ1tm8"
+      },
+      {
+        "label": "Starlight",
+        "url": "https://sfile.mobi/6H9xbOe1j2S"
+      },
+      {
+        "label": "Special (Amethyst)",
+        "url": "https://sfile.mobi/bHpzXgKity7"
+      },
+      {
+        "label": "Luckybox",
+        "url": "https://sfile.mobi/4MXw95pkK4W"
+      },
+      {
+        "label": "Special (Sakura)",
+        "url": "https://sfile.mobi/4MXw95pkK4W"
+      },
+      {
+        "label": "Summer",
+        "url": "https://sfile.mobi/3ItvyyH3fO4"
+      },
+      {
+        "label": "Elite (Top Up)",
+        "url": "https://sfile.mobi/7T1xREcanCS"
+      }
+    ]
+  },
+  {
+    "id": 57,
+    "video": "",
+    "title": "Valir Legend",
+    "category": "legend",
+    "slug": "valir-legend",
+    "date": "2025-06-27",
+    "shortStory": "In his hometown of Agelta, he showed an amazing talent for arcane energy manipulation when he first arrived at the Magic Academy, so he was valued by his mentor Gord. But Gord got very angry when he discovered that he had incorporated the spells of his hometown into the arcane, thinking that he had defiled the arcane. After a battle between the master and the disciple, Valir left the Magic Academy.",
+    "image": "https://res.cloudinary.com/dhwrdfmdt/image/upload/v1750812987/valirleg_zkh3mo.jpg",
+    "download": [
+      {
+        "label": "Default",
+        "url": "https://sfile.mobi/5nSVfdd720W"
+      },
+      {
+        "label": "Basic",
+        "url": "https://sfile.mobi/2wATFvMqLaP"
+      },
+      {
+        "label": "Special",
+        "url": "https://sfile.mobi/5vgVjONWH6u"
+      },
+      {
+        "label": "Starlight",
+        "url": "https://sfile.mobi/1s6T5kTFesh"
+      },
+      {
+        "label": "Dragon Tamer",
+        "url": "https://sfile.mobi/bdQYtVklag7"
+      },
+      {
+        "label": "Collector",
+        "url": "https://sfile.mobi/5vgVklydDGz"
+      },
+      {
+        "label": "Phoenix Ikki",
+        "url": "https://sfile.mobi/2wATGKbJCQF"
+      },
+      {
+        "label": "Leo Ikki",
+        "url": "https://sfile.mobi/8Q6Xb42aIgV"
+      },
+      {
+        "label": "Elite (Top Up)",
+        "url": "https://sfile.mobi/6kYVNB9aBUL"
+      },
+      {
+        "label": "KOF",
+        "url": "https://sfile.mobi/5nSVh9hrP2H"
+      }
+    ]
+  },
+  {
+    "id": 56,
+    "video": "",
+    "title": "Granger Legend",
+    "category": "legend",
+    "slug": "granger-legend",
+    "date": "2025-06-27",
+    "shortStory": "Granger, a demon hunter who walks the line between human and demon, always preferred to keep to himself. But if someone could enter his world, they would realize how terrifying it is—the incessant howls and shrill cries constantly deafening his ears and heart. When he draws his demon-devouring weapons and unleashes a hail of bullets, the agonizing howls of demons become a requiem playing in the depths of his soul. Only the intertwining of their death shrieks and the sound of gunfire can drown out the noise that torments him daily. Each shot fired by Granger is not only his performance against the Abyss, but also an expression of his lament.",
+    "image": "https://res.cloudinary.com/dhwrdfmdt/image/upload/v1750812727/grangerleg_nba5fu.jpg",
+    "download": [
+      {
+        "label": "Default",
+        "url": "https://sfile.mobi/6H9x9auEAoF"
+      },
+      {
+        "label": "Basic",
+        "url": "https://sfile.mobi/7wRxBTlkBiO"
+      },
+      {
+        "label": "Elite",
+        "url": "https://sfile.mobi/87NxWsuTbUx"
+      },
+      {
+        "label": "Starlight",
+        "url": "https://sfile.mobi/73jxlVMBGMM"
+      },
+      {
+        "label": "Lightborn",
+        "url": "https://sfile.mobi/7ptxylf2P6j"
+      },
+      {
+        "label": "Collector",
+        "url": "https://sfile.mobi/2aruFfLV9Cy"
+      },
+      {
+        "label": "Transformers",
+        "url": "https://sfile.mobi/ao9zctlNMkf"
+      },
+      {
+        "label": "Create",
+        "url": "https://sfile.mobi/bdRzFn7eMg7"
+      },
+      {
+        "label": "Exorcist",
+        "url": "https://sfile.mobi/2pduNWdjxeR"
+      },
+      {
+        "label": "Valentine",
+        "url": "https://sfile.mobi/7aHxqTcXjqJ"
+      }
+    ]
+  },
+  {
+    "id": 55,
+    "video": "",
+    "title": "Gusion Legend",
+    "category": "legend",
+    "slug": "gusion-legend",
+    "date": "2025-06-27",
+    "shortStory": "Although he was born into the most powerful magic family on the continent, Gusion is not interested in magic. He is keen to draw inspiration from the holy light to develop new fighting skills. In the end, Gusion left the family.",
+    "image": "https://res.cloudinary.com/dhwrdfmdt/image/upload/v1750812760/gusionleg_lvn2lm.jpg",
+    "download": [
+      {
+        "label": "Default",
+        "url": "https://sfile.mobi/51IV8r2Vi01"
+      },
+      {
+        "label": "Basic",
+        "url": "https://sfile.mobi/b6sYh2HToI7"
+      },
+      {
+        "label": "Elite",
+        "url": "https://sfile.mobi/3miU08wfDOj"
+      },
+      {
+        "label": "OLD Starlight",
+        "url": "https://sfile.mobi/1dkSOUaVGmU"
+      },
+      {
+        "label": "Valentine",
+        "url": "https://sfile.mobi/2pcTtRzhQYJ"
+      },
+      {
+        "label": "VENOM",
+        "url": "https://sfile.mobi/2pcTu2u2POv"
+      },
+      {
+        "label": "KOF",
+        "url": "https://sfile.mobi/a9mXLivcyW0"
+      },
+      {
+        "label": "Collector",
+        "url": "https://sfile.mobi/5nSV8Hl4JiL"
+      },
+      {
+        "label": "Epic",
+        "url": "https://sfile.mobi/8tWWQny7sIi"
+      },
+      {
+        "label": "11.11",
+        "url": "https://sfile.mobi/3PQUhvp2p27"
+      },
+      {
+        "label": "NEW Starlight",
+        "url": "https://sfile.mobi/bleYqMDPFY7"
+      }
+    ]
+  },
+  {
+    "id": 54,
+    "video": "",
+    "title": "Lesley Legend",
+    "category": "legend",
+    "slug": "lesley-legend",
+    "date": "2025-06-27",
+    "shortStory": "Lesley grew up in the Vance household, where her father presided over the noble family's security. During an unexpected attack by a rival family, Lesley's father was killed. As the assailants approached the Vance household, Lesley took up her father's black long rifle and fulfilled her late father's mission. Tears rolled down Lesley's cheeks as she fired shot after shot, surprisingly, each one taking down an assassin. The final tear came as the final shot took down the last of the rival family's men.",
+    "image": "https://res.cloudinary.com/dhwrdfmdt/image/upload/v1750812854/lesleyleg_olar8w.jpg",
+    "download": [
+      {
+        "label": "Default",
+        "url": "https://sfile.mobi/6H8VS5pvAkd"
+      },
+      {
+        "label": "Basic",
+        "url": "https://sfile.mobi/a9mXMwUvpCB"
+      },
+      {
+        "label": "Elite",
+        "url": "https://sfile.mobi/8tWWRBXqko4"
+      },
+      {
+        "label": "Special",
+        "url": "https://sfile.mobi/80oWBttWr6i"
+      },
+      {
+        "label": "Luckybox",
+        "url": "https://sfile.mobi/4c0Uv9gMpqq"
+      },
+      {
+        "label": "Valentine",
+        "url": "https://sfile.mobi/232TjUVsrW6"
+      },
+      {
+        "label": "Starlight",
+        "url": "https://sfile.mobi/4joUzzWR5CA"
+      },
+      {
+        "label": "Collector",
+        "url": "https://sfile.mobi/9UAXFqHVRu2"
+      },
+      {
+        "label": "Annual Starlight",
+        "url": "https://sfile.mobi/8tWWSFrYdir"
+      },
+      {
+        "label": "Aspirants",
+        "url": "https://sfile.mobi/6smVLvXcYwM"
+      },
+      {
+        "label": "Covenant",
+        "url": "https://sfile.mobi/4joUAhBT0Qp"
+      }
+    ]
+  },
+  {
+    "id": 53,
+    "video": "",
+    "title": "Alucard Legend",
+    "category": "legend",
+    "slug": "alucard-legend",
+    "date": "2025-06-27",
+    "shortStory": "Alucard's father was a comrade-in-arms of Tigreal who disappeared in a battle with the Demons. Therefore, he hated darkness, joined the Monastery of Light, and swore to destory all Demons. But later he learned the hidden secrets of this battle, so he left the Monastery of Light in anger and fought the darkness in his own way.",
+    "image": "https://res.cloudinary.com/dhwrdfmdt/image/upload/v1750812817/alucardleg_vjhcr5.jpg",
+    "download": [
+      {
+        "label": "Default",
+        "url": "https://sfile.mobi/6dASUlqDx6c"
+      },
+      {
+        "label": "Basic",
+        "url": "https://sfile.mobi/7EeTH6GBb2X"
+      },
+      {
+        "label": "Season",
+        "url": "https://sfile.mobi/4yaRZBojqw2"
+      },
+      {
+        "label": "Luckybox",
+        "url": "https://sfile.mobi/66cSQNklLUH"
+      },
+      {
+        "label": "Starlight",
+        "url": "https://sfile.mobi/bsCVOuoj5u7"
+      },
+      {
+        "label": "Valentine",
+        "url": "https://sfile.mobi/596SkHi8WIT"
+      },
+      {
+        "label": "Empire Agent",
+        "url": "https://sfile.mobi/6zKT7OnCyAU"
+      },
+      {
+        "label": "Lightborn",
+        "url": "https://sfile.mobi/9r2UHRDON2l"
+      },
+      {
+        "label": "Starwars",
+        "url": "https://sfile.mobi/7T0TR1xiqkh"
+      },
+      {
+        "label": "Special",
+        "url": "https://sfile.mobi/73iToPqTm0R"
+      }
+    ]
+  },
+  {
+    "id": 52,
+    "video": "",
+    "title": "Gord Legend",
+    "category": "legend",
+    "slug": "gord-legend",
+    "date": "2025-06-27",
+    "shortStory": "One of the best students of the Magic Academy, but he mixed ancient sorcery into the process of practicing arcane arts, which led to him being possessed by the Demons. It was lucky that Elward acted in a timely manner, helping Gord control the energy running away in his body. After that, Gord had no hope of reaching the peak of arcane magic in his life, eventually becoming a mentor of the Magic Academy.",
+    "image": "https://res.cloudinary.com/dhwrdfmdt/image/upload/v1750812722/gordleg_fvky7i.jpg",
+    "download": [
+      {
+        "label": "Default",
+        "url": "https://sfile.mobi/a1YXKo8hu8A"
+      },
+      {
+        "label": "Basic",
+        "url": "https://sfile.mobi/bOMYJnVViS7"
+      },
+      {
+        "label": "Christmast",
+        "url": "https://sfile.mobi/94SXdWgyIgh"
+      },
+      {
+        "label": "Annual Starlight",
+        "url": "https://sfile.mobi/aCUY58cB2wQ"
+      },
+      {
+        "label": "Season",
+        "url": "https://sfile.mobi/9jEXmrNc76I"
+      },
+      {
+        "label": "Epic",
+        "url": "https://sfile.mobi/6OwVYYUbZKA"
+      }
+    ]
+  },
+  {
+    "id": 51,
+    "video": "",
+    "title": "Miya Legend",
+    "category": "legend",
+    "slug": "miya-legend",
+    "date": "2025-06-27",
+    "shortStory": "Born at the end of the Era of Strife, Miya bore witness to the unspeakable tragedies that befell the elves during the Endless War. She saw how the Abyss defiled the Shadow Swamp and corrupted many of her people into Dark Elves. It was not until the Moon Goddess created the Lunar Aegis over Azrya that the Moon Elves were able to thrive again under its protection. Miya became the Priestess of the Moon, and for thousands of years she served faithfully in the Lunar Temple, diligently watching over her people. However, with the continued expansion of the Abyss and its dark legions, the Land of Dawn is once again shrouded by the fog of war. From the Moonlit Forest, a call to war that has not been heard in thousands of years sounded again. Miya took up her silver bow and swore by the light of the moon to fight for her people.",
+    "image": "https://res.cloudinary.com/dhwrdfmdt/image/upload/v1750812890/miyaleg_bhyp6m.jpg",
+    "download": [
+      {
+        "label": "Default",
+        "url": "https://sfile.mobi/9FNQu84jw40"
+      },
+      {
+        "label": "Elite",
+        "url": "https://sfile.mobi/6dzOA2oPE4h"
+      },
+      {
+        "label": "Luckybox",
+        "url": "https://sfile.mobi/6VTOYGoWWsN"
+      },
+      {
+        "label": "OLD Starlight",
+        "url": "https://sfile.mobi/1VDMdzIbJai"
+      },
+      {
+        "label": "Limited",
+        "url": "https://sfile.mobi/66bOwFdiRU6"
+      },
+      {
+        "label": "Valentine",
+        "url": "https://sfile.mobi/8BjPUtVOVOJ"
+      },
+      {
+        "label": "Special",
+        "url": "https://sfile.mobi/66bOx12OOst"
+      },
+      {
+        "label": "TOP UP",
+        "url": "https://sfile.mobi/8mxPMG4ds4U"
+      },
+      {
+        "label": "Anniversary",
+        "url": "https://sfile.mobi/aZ3RezDifub"
+      },
+      {
+        "label": "Collector",
+        "url": "https://sfile.mobi/231MiSY3jqX"
+      },
+      {
+        "label": "Atomic",
+        "url": "https://sfile.mobi/1djLQvWTggn"
+      },
+      {
+        "label": "NEW Starlight",
+        "url": "https://sfile.mobi/1dlu4KQLOuL"
+      }
+    ]
+  },
+  {
+    "id": 50,
+    "video": "",
+    "title": "Saber Legend",
+    "category": "legend",
+    "slug": "saber-legend",
+    "date": "2025-06-27",
+    "shortStory": "Once called Duan Meng and obsessed with kendo, Saber came to Laboratory 1718 to transform himself in order to pursue perfection, but his memory was erased and he was turned into a killing machine. The torture of his memories drove him to finally destroy the laboratory and set off searching for the past.",
+    "image": "https://res.cloudinary.com/dhwrdfmdt/image/upload/v1750812937/saberlegend_utqbfp.jpg",
+    "download": [
+      {
+        "label": "Default",
+        "url": "https://sfile.mobi/94SXjKtz5Si"
+      },
+      {
+        "label": "Basic",
+        "url": "https://sfile.mobi/9FOXEuxSEgB"
+      },
+      {
+        "label": "OLD Starlight",
+        "url": "https://sfile.mobi/232TrFcNCk3"
+      },
+      {
+        "label": "Elite",
+        "url": "https://sfile.mobi/3tGUeMihe03"
+      },
+      {
+        "label": "SABER",
+        "url": "https://sfile.mobi/3miUaSmtugb"
+      },
+      {
+        "label": "Luckybox",
+        "url": "https://sfile.mobi/bdQYwdebUA7"
+      },
+      {
+        "label": "TOP UP",
+        "url": "https://sfile.mobi/9NcXJrYehUc"
+      },
+      {
+        "label": "NEW Starlight",
+        "url": "https://sfile.mobi/9yqXBtbROEz"
+      }
+    ]
+  },
+  {
     "id": 170,
     "video": "https://youtu.be/PwSKTe6kvGc",
     "title": "Harith Collector",
@@ -6284,694 +6972,6 @@
       {
         "label": "Elite (Top Up)",
         "url": "https://sfile.mobi/8tXAMX9yRUn"
-      }
-    ]
-  },
-  {
-    "id": 63,
-    "video": "",
-    "title": "Alpha Legend",
-    "category": "legend",
-    "slug": "alpha-legend",
-    "date": "2025-05-24",
-    "shortStory": "A pure cyborg made by Laboratory 1718. Tasked with hunting down and slaying Saber by its creator, Alpha's burning hatred for Saber makes him a candidate for the role.",
-    "image": "https://res.cloudinary.com/dhwrdfmdt/image/upload/v1750812821/alphaleg_wgvgg9.jpg",
-    "download": [
-      {
-        "label": "Default",
-        "url": "https://sfile.mobi/37xvizlcbmx"
-      },
-      {
-        "label": "Basic",
-        "url": "https://sfile.mobi/bdRzM3U23e7"
-      },
-      {
-        "label": "Luckybox",
-        "url": "https://sfile.mobi/9jFyIZfPxYI"
-      },
-      {
-        "label": "Season",
-        "url": "https://sfile.mobi/6VVxpBdo88d"
-      },
-      {
-        "label": "Special",
-        "url": "https://sfile.mobi/9yryRuMsVOA"
-      },
-      {
-        "label": "Abyss",
-        "url": "https://sfile.mobi/4c1vU9y1yEJ"
-      },
-      {
-        "label": "Starlight",
-        "url": "https://sfile.mobi/bA1zZb1v7a7"
-      },
-      {
-        "label": "Collector",
-        "url": "https://sfile.mobi/7aHxyszxuMu"
-      }
-    ]
-  },
-  {
-    "id": 62,
-    "video": "",
-    "title": "Johnson Legend",
-    "category": "legend",
-    "slug": "johnson-legend",
-    "date": "2025-05-24",
-    "shortStory": "Johnson was originally from a planet called Varis, where he worked as a delivery driver. On his world, auto racing was the most illustrious sport, but the major races were almost entirely monopolized by the rich and elite. One day, while on a routine delivery, Johnson became mixed up in a race and even managed to win first place March, to the dismay of the wealthy patrons. To punish this upstart, they plotted for him to have an accident. While driving home a speeding truck sidelined Johnson's car, mangling his body with the twisted steel of the wreck. Miraculously, he survived, and chose to be integrated with his car to create a cyborg body. After a successful operation, he had a roaring engine as his new heart, and began racing to satiate his need for speed. As Johnson raced to his heart's content, he kept going faster and faster until he triggered the slip-space device secretly built into his chassis and crossed into the Land of Dawn.",
-    "image": "https://res.cloudinary.com/dhwrdfmdt/image/upload/v1750812792/johnsonleg_su80g0.jpg",
-    "download": [
-      {
-        "label": "Default",
-        "url": "https://sfile.mobi/blfzOnB0XK7"
-      },
-      {
-        "label": "Basic",
-        "url": "https://sfile.mobi/5vhwAIYkIoo"
-      },
-      {
-        "label": "SABER",
-        "url": "https://sfile.mobi/3eVvlpMs2kq"
-      },
-      {
-        "label": "Elite",
-        "url": "https://sfile.mobi/8Blyj6QpnUH"
-      },
-      {
-        "label": "Luckybox",
-        "url": "https://sfile.mobi/3ItvC50cScl"
-      },
-      {
-        "label": "Special",
-        "url": "https://sfile.mobi/8Q7yrCn2LKq"
-      },
-      {
-        "label": "Transformers",
-        "url": "https://sfile.mobi/blfzPr5yQo7"
-      },
-      {
-        "label": "Anniversary",
-        "url": "https://sfile.mobi/6zLxcu5V4s9"
-      }
-    ]
-  },
-  {
-    "id": 61,
-    "video": "",
-    "title": "Freya Legend",
-    "category": "legend",
-    "slug": "freya-legend",
-    "date": "2025-05-24",
-    "shortStory": "Freya's sister Skuld was an excellent Valkyrie, but because of an accident caused by Freya, Skuld plunged into the Twilight Orb and disappeared with it. Freya has since taken over as a Valkyrie and assumed the responsibility of protecting the Northern Vale.",
-    "image": "https://res.cloudinary.com/dhwrdfmdt/image/upload/v1750813147/freyaleg_gu8jys.jpg",
-    "download": [
-      {
-        "label": "Default",
-        "url": "https://sfile.mobi/4MWSc9YnoAC"
-      },
-      {
-        "label": "Basic",
-        "url": "https://sfile.mobi/aCUVpOB3EW2"
-      },
-      {
-        "label": "Starlight",
-        "url": "https://sfile.mobi/6zKTbvBxa8s"
-      },
-      {
-        "label": "Summer",
-        "url": "https://sfile.mobi/5RqSNdqVPyf"
-      },
-      {
-        "label": "Luckybox",
-        "url": "https://sfile.mobi/232QHf3hLqB"
-      },
-      {
-        "label": "Elite",
-        "url": "https://sfile.mobi/1dkQeS27IiW"
-      },
-      {
-        "label": "Christmast",
-        "url": "https://sfile.mobi/66cSWfHQaIV"
-      },
-      {
-        "label": "Epic",
-        "url": "https://sfile.mobi/1dkQfdRDFUw"
-      },
-      {
-        "label": "SABER",
-        "url": "https://sfile.mobi/5guSu3Br6gZ"
-      }
-    ]
-  },
-  {
-    "id": 60,
-    "video": "",
-    "title": "Lunox Legend",
-    "category": "legend",
-    "slug": "lunox-legend",
-    "date": "2025-05-24",
-    "shortStory": "Lunox was born with magical powers, and her dreamworld reflects and changes the real world. With this power, she uses her dreamworld to temporarily maintain the balance of energy between order and chaos. But as the power of order and the power of chaos rushed into her dreams, Lunox fell into a long sleep and turned into one of the Twilight Orbs.",
-    "image": "https://res.cloudinary.com/dhwrdfmdt/image/upload/v1750812907/lunoxleg_lnndwx.jpg",
-    "download": [
-      {
-        "label": "Default",
-        "url": "https://sfile.mobi/66cSXjco3Cp"
-      },
-      {
-        "label": "Basic",
-        "url": "https://sfile.mobi/5K2SKTJWV2Y"
-      },
-      {
-        "label": "Elite",
-        "url": "https://sfile.mobi/1GSQwAKqrin"
-      },
-      {
-        "label": "Starlight",
-        "url": "https://sfile.mobi/7aGTymEWukn"
-      },
-      {
-        "label": "Zodiac",
-        "url": "https://sfile.mobi/3XeRMqGA3SF"
-      },
-      {
-        "label": "Luckybox",
-        "url": "https://sfile.mobi/7EeTP1SHksA"
-      },
-      {
-        "label": "Epic (Eyes)",
-        "url": "https://sfile.mobi/7wQTL7WTAIE"
-      },
-      {
-        "label": "Epic (Dawn)",
-        "url": "https://sfile.mobi/4joRZbYxa03"
-      },
-      {
-        "label": "Elite (Top Up)",
-        "url": "https://sfile.mobi/1OgQBJ5x2IS"
-      }
-    ]
-  },
-  {
-    "id": 59,
-    "video": "",
-    "title": "Franco Legend",
-    "category": "legend",
-    "slug": "franco-legend",
-    "date": "2025-05-24",
-    "shortStory": "Franco is the only warrior on the Frozen Ocean who can lead people in the fighter against Bane. In one battle, Franco saw through Bane's tricks and finally defeated him. Life was brought back to the Northern Vale under his leadership.",
-    "image": "https://res.cloudinary.com/dhwrdfmdt/image/upload/v1750812720/francoleg_aeojyp.jpg",
-    "download": [
-      {
-        "label": "Default",
-        "url": "https://sfile.mobi/5gvwq6sBxCH"
-      },
-      {
-        "label": "Special",
-        "url": "https://sfile.mobi/73jxps5Ljiw"
-      },
-      {
-        "label": "Starlight",
-        "url": "https://sfile.mobi/7EfxK1fjTUd"
-      },
-      {
-        "label": "Season",
-        "url": "https://sfile.mobi/8mzy8FfrbiN"
-      },
-      {
-        "label": "Halloween",
-        "url": "https://sfile.mobi/2aruIM54M4w"
-      },
-      {
-        "label": "Luckybox",
-        "url": "https://sfile.mobi/3eVvjECSe4Y"
-      },
-      {
-        "label": "TOP UP",
-        "url": "https://sfile.mobi/ao9zgHjZkca"
-      },
-      {
-        "label": "MPL",
-        "url": "https://sfile.mobi/3PRvEzBWLu4"
-      },
-      {
-        "label": "Blazing",
-        "url": "https://sfile.mobi/7i5xzmWsyAr"
-      }
-    ]
-  },
-  {
-    "id": 58,
-    "video": "",
-    "title": "Guinevere Legend",
-    "category": "legend",
-    "slug": "guinevere-legend",
-    "date": "2025-05-24",
-    "shortStory": "As the youngest daughter of one of the few noble households in the Land of Dawn, House Baroque, she studied at the Magic Academy since she was a child, and is extremely talented in magic. The household wanted her to marry into another household with a higher status. Unwilling to be used as a political bargaining chip, Guinevere decided to seek help from her elder brother Lancelot.",
-    "image": "https://res.cloudinary.com/dhwrdfmdt/image/upload/v1750812736/guinevereleg_czbhqh.jpg",
-    "download": [
-      {
-        "label": "Default",
-        "url": "https://sfile.mobi/1Ohuu4IMSQr"
-      },
-      {
-        "label": "Basic",
-        "url": "https://sfile.mobi/80pxUjIFfGU"
-      },
-      {
-        "label": "KOF",
-        "url": "https://sfile.mobi/3eVvhmJ1tm8"
-      },
-      {
-        "label": "Starlight",
-        "url": "https://sfile.mobi/6H9xbOe1j2S"
-      },
-      {
-        "label": "Special (Amethyst)",
-        "url": "https://sfile.mobi/bHpzXgKity7"
-      },
-      {
-        "label": "Luckybox",
-        "url": "https://sfile.mobi/4MXw95pkK4W"
-      },
-      {
-        "label": "Special (Sakura)",
-        "url": "https://sfile.mobi/4MXw95pkK4W"
-      },
-      {
-        "label": "Summer",
-        "url": "https://sfile.mobi/3ItvyyH3fO4"
-      },
-      {
-        "label": "Elite (Top Up)",
-        "url": "https://sfile.mobi/7T1xREcanCS"
-      }
-    ]
-  },
-  {
-    "id": 57,
-    "video": "",
-    "title": "Valir Legend",
-    "category": "legend",
-    "slug": "valir-legend",
-    "date": "2025-05-24",
-    "shortStory": "In his hometown of Agelta, he showed an amazing talent for arcane energy manipulation when he first arrived at the Magic Academy, so he was valued by his mentor Gord. But Gord got very angry when he discovered that he had incorporated the spells of his hometown into the arcane, thinking that he had defiled the arcane. After a battle between the master and the disciple, Valir left the Magic Academy.",
-    "image": "https://res.cloudinary.com/dhwrdfmdt/image/upload/v1750812987/valirleg_zkh3mo.jpg",
-    "download": [
-      {
-        "label": "Default",
-        "url": "https://sfile.mobi/5nSVfdd720W"
-      },
-      {
-        "label": "Basic",
-        "url": "https://sfile.mobi/2wATFvMqLaP"
-      },
-      {
-        "label": "Special",
-        "url": "https://sfile.mobi/5vgVjONWH6u"
-      },
-      {
-        "label": "Starlight",
-        "url": "https://sfile.mobi/1s6T5kTFesh"
-      },
-      {
-        "label": "Dragon Tamer",
-        "url": "https://sfile.mobi/bdQYtVklag7"
-      },
-      {
-        "label": "Collector",
-        "url": "https://sfile.mobi/5vgVklydDGz"
-      },
-      {
-        "label": "Phoenix Ikki",
-        "url": "https://sfile.mobi/2wATGKbJCQF"
-      },
-      {
-        "label": "Leo Ikki",
-        "url": "https://sfile.mobi/8Q6Xb42aIgV"
-      },
-      {
-        "label": "Elite (Top Up)",
-        "url": "https://sfile.mobi/6kYVNB9aBUL"
-      },
-      {
-        "label": "KOF",
-        "url": "https://sfile.mobi/5nSVh9hrP2H"
-      }
-    ]
-  },
-  {
-    "id": 56,
-    "video": "",
-    "title": "Granger Legend",
-    "category": "legend",
-    "slug": "granger-legend",
-    "date": "2025-05-24",
-    "shortStory": "Granger, a demon hunter who walks the line between human and demon, always preferred to keep to himself. But if someone could enter his world, they would realize how terrifying it is—the incessant howls and shrill cries constantly deafening his ears and heart. When he draws his demon-devouring weapons and unleashes a hail of bullets, the agonizing howls of demons become a requiem playing in the depths of his soul. Only the intertwining of their death shrieks and the sound of gunfire can drown out the noise that torments him daily. Each shot fired by Granger is not only his performance against the Abyss, but also an expression of his lament.",
-    "image": "https://res.cloudinary.com/dhwrdfmdt/image/upload/v1750812727/grangerleg_nba5fu.jpg",
-    "download": [
-      {
-        "label": "Default",
-        "url": "https://sfile.mobi/6H9x9auEAoF"
-      },
-      {
-        "label": "Basic",
-        "url": "https://sfile.mobi/7wRxBTlkBiO"
-      },
-      {
-        "label": "Elite",
-        "url": "https://sfile.mobi/87NxWsuTbUx"
-      },
-      {
-        "label": "Starlight",
-        "url": "https://sfile.mobi/73jxlVMBGMM"
-      },
-      {
-        "label": "Lightborn",
-        "url": "https://sfile.mobi/7ptxylf2P6j"
-      },
-      {
-        "label": "Collector",
-        "url": "https://sfile.mobi/2aruFfLV9Cy"
-      },
-      {
-        "label": "Transformers",
-        "url": "https://sfile.mobi/ao9zctlNMkf"
-      },
-      {
-        "label": "Create",
-        "url": "https://sfile.mobi/bdRzFn7eMg7"
-      },
-      {
-        "label": "Exorcist",
-        "url": "https://sfile.mobi/2pduNWdjxeR"
-      },
-      {
-        "label": "Valentine",
-        "url": "https://sfile.mobi/7aHxqTcXjqJ"
-      }
-    ]
-  },
-  {
-    "id": 55,
-    "video": "",
-    "title": "Gusion Legend",
-    "category": "legend",
-    "slug": "gusion-legend",
-    "date": "2025-05-24",
-    "shortStory": "Although he was born into the most powerful magic family on the continent, Gusion is not interested in magic. He is keen to draw inspiration from the holy light to develop new fighting skills. In the end, Gusion left the family.",
-    "image": "https://res.cloudinary.com/dhwrdfmdt/image/upload/v1750812760/gusionleg_lvn2lm.jpg",
-    "download": [
-      {
-        "label": "Default",
-        "url": "https://sfile.mobi/51IV8r2Vi01"
-      },
-      {
-        "label": "Basic",
-        "url": "https://sfile.mobi/b6sYh2HToI7"
-      },
-      {
-        "label": "Elite",
-        "url": "https://sfile.mobi/3miU08wfDOj"
-      },
-      {
-        "label": "OLD Starlight",
-        "url": "https://sfile.mobi/1dkSOUaVGmU"
-      },
-      {
-        "label": "Valentine",
-        "url": "https://sfile.mobi/2pcTtRzhQYJ"
-      },
-      {
-        "label": "VENOM",
-        "url": "https://sfile.mobi/2pcTu2u2POv"
-      },
-      {
-        "label": "KOF",
-        "url": "https://sfile.mobi/a9mXLivcyW0"
-      },
-      {
-        "label": "Collector",
-        "url": "https://sfile.mobi/5nSV8Hl4JiL"
-      },
-      {
-        "label": "Epic",
-        "url": "https://sfile.mobi/8tWWQny7sIi"
-      },
-      {
-        "label": "11.11",
-        "url": "https://sfile.mobi/3PQUhvp2p27"
-      },
-      {
-        "label": "NEW Starlight",
-        "url": "https://sfile.mobi/bleYqMDPFY7"
-      }
-    ]
-  },
-  {
-    "id": 54,
-    "video": "",
-    "title": "Lesley Legend",
-    "category": "legend",
-    "slug": "lesley-legend",
-    "date": "2025-05-24",
-    "shortStory": "Lesley grew up in the Vance household, where her father presided over the noble family's security. During an unexpected attack by a rival family, Lesley's father was killed. As the assailants approached the Vance household, Lesley took up her father's black long rifle and fulfilled her late father's mission. Tears rolled down Lesley's cheeks as she fired shot after shot, surprisingly, each one taking down an assassin. The final tear came as the final shot took down the last of the rival family's men.",
-    "image": "https://res.cloudinary.com/dhwrdfmdt/image/upload/v1750812854/lesleyleg_olar8w.jpg",
-    "download": [
-      {
-        "label": "Default",
-        "url": "https://sfile.mobi/6H8VS5pvAkd"
-      },
-      {
-        "label": "Basic",
-        "url": "https://sfile.mobi/a9mXMwUvpCB"
-      },
-      {
-        "label": "Elite",
-        "url": "https://sfile.mobi/8tWWRBXqko4"
-      },
-      {
-        "label": "Special",
-        "url": "https://sfile.mobi/80oWBttWr6i"
-      },
-      {
-        "label": "Luckybox",
-        "url": "https://sfile.mobi/4c0Uv9gMpqq"
-      },
-      {
-        "label": "Valentine",
-        "url": "https://sfile.mobi/232TjUVsrW6"
-      },
-      {
-        "label": "Starlight",
-        "url": "https://sfile.mobi/4joUzzWR5CA"
-      },
-      {
-        "label": "Collector",
-        "url": "https://sfile.mobi/9UAXFqHVRu2"
-      },
-      {
-        "label": "Annual Starlight",
-        "url": "https://sfile.mobi/8tWWSFrYdir"
-      },
-      {
-        "label": "Aspirants",
-        "url": "https://sfile.mobi/6smVLvXcYwM"
-      },
-      {
-        "label": "Covenant",
-        "url": "https://sfile.mobi/4joUAhBT0Qp"
-      }
-    ]
-  },
-  {
-    "id": 53,
-    "video": "",
-    "title": "Alucard Legend",
-    "category": "legend",
-    "slug": "alucard-legend",
-    "date": "2025-05-24",
-    "shortStory": "Alucard's father was a comrade-in-arms of Tigreal who disappeared in a battle with the Demons. Therefore, he hated darkness, joined the Monastery of Light, and swore to destory all Demons. But later he learned the hidden secrets of this battle, so he left the Monastery of Light in anger and fought the darkness in his own way.",
-    "image": "https://res.cloudinary.com/dhwrdfmdt/image/upload/v1750812817/alucardleg_vjhcr5.jpg",
-    "download": [
-      {
-        "label": "Default",
-        "url": "https://sfile.mobi/6dASUlqDx6c"
-      },
-      {
-        "label": "Basic",
-        "url": "https://sfile.mobi/7EeTH6GBb2X"
-      },
-      {
-        "label": "Season",
-        "url": "https://sfile.mobi/4yaRZBojqw2"
-      },
-      {
-        "label": "Luckybox",
-        "url": "https://sfile.mobi/66cSQNklLUH"
-      },
-      {
-        "label": "Starlight",
-        "url": "https://sfile.mobi/bsCVOuoj5u7"
-      },
-      {
-        "label": "Valentine",
-        "url": "https://sfile.mobi/596SkHi8WIT"
-      },
-      {
-        "label": "Empire Agent",
-        "url": "https://sfile.mobi/6zKT7OnCyAU"
-      },
-      {
-        "label": "Lightborn",
-        "url": "https://sfile.mobi/9r2UHRDON2l"
-      },
-      {
-        "label": "Starwars",
-        "url": "https://sfile.mobi/7T0TR1xiqkh"
-      },
-      {
-        "label": "Special",
-        "url": "https://sfile.mobi/73iToPqTm0R"
-      }
-    ]
-  },
-  {
-    "id": 52,
-    "video": "",
-    "title": "Gord Legend",
-    "category": "legend",
-    "slug": "gord-legend",
-    "date": "2025-05-24",
-    "shortStory": "One of the best students of the Magic Academy, but he mixed ancient sorcery into the process of practicing arcane arts, which led to him being possessed by the Demons. It was lucky that Elward acted in a timely manner, helping Gord control the energy running away in his body. After that, Gord had no hope of reaching the peak of arcane magic in his life, eventually becoming a mentor of the Magic Academy.",
-    "image": "https://res.cloudinary.com/dhwrdfmdt/image/upload/v1750812722/gordleg_fvky7i.jpg",
-    "download": [
-      {
-        "label": "Default",
-        "url": "https://sfile.mobi/a1YXKo8hu8A"
-      },
-      {
-        "label": "Basic",
-        "url": "https://sfile.mobi/bOMYJnVViS7"
-      },
-      {
-        "label": "Christmast",
-        "url": "https://sfile.mobi/94SXdWgyIgh"
-      },
-      {
-        "label": "Annual Starlight",
-        "url": "https://sfile.mobi/aCUY58cB2wQ"
-      },
-      {
-        "label": "Season",
-        "url": "https://sfile.mobi/9jEXmrNc76I"
-      },
-      {
-        "label": "Epic",
-        "url": "https://sfile.mobi/6OwVYYUbZKA"
-      }
-    ]
-  },
-  {
-    "id": 51,
-    "video": "",
-    "title": "Miya Legend",
-    "category": "legend",
-    "slug": "miya-legend",
-    "date": "2025-05-24",
-    "shortStory": "Born at the end of the Era of Strife, Miya bore witness to the unspeakable tragedies that befell the elves during the Endless War. She saw how the Abyss defiled the Shadow Swamp and corrupted many of her people into Dark Elves. It was not until the Moon Goddess created the Lunar Aegis over Azrya that the Moon Elves were able to thrive again under its protection. Miya became the Priestess of the Moon, and for thousands of years she served faithfully in the Lunar Temple, diligently watching over her people. However, with the continued expansion of the Abyss and its dark legions, the Land of Dawn is once again shrouded by the fog of war. From the Moonlit Forest, a call to war that has not been heard in thousands of years sounded again. Miya took up her silver bow and swore by the light of the moon to fight for her people.",
-    "image": "https://res.cloudinary.com/dhwrdfmdt/image/upload/v1750812890/miyaleg_bhyp6m.jpg",
-    "download": [
-      {
-        "label": "Default",
-        "url": "https://sfile.mobi/9FNQu84jw40"
-      },
-      {
-        "label": "Elite",
-        "url": "https://sfile.mobi/6dzOA2oPE4h"
-      },
-      {
-        "label": "Luckybox",
-        "url": "https://sfile.mobi/6VTOYGoWWsN"
-      },
-      {
-        "label": "OLD Starlight",
-        "url": "https://sfile.mobi/1VDMdzIbJai"
-      },
-      {
-        "label": "Limited",
-        "url": "https://sfile.mobi/66bOwFdiRU6"
-      },
-      {
-        "label": "Valentine",
-        "url": "https://sfile.mobi/8BjPUtVOVOJ"
-      },
-      {
-        "label": "Special",
-        "url": "https://sfile.mobi/66bOx12OOst"
-      },
-      {
-        "label": "TOP UP",
-        "url": "https://sfile.mobi/8mxPMG4ds4U"
-      },
-      {
-        "label": "Anniversary",
-        "url": "https://sfile.mobi/aZ3RezDifub"
-      },
-      {
-        "label": "Collector",
-        "url": "https://sfile.mobi/231MiSY3jqX"
-      },
-      {
-        "label": "Atomic",
-        "url": "https://sfile.mobi/1djLQvWTggn"
-      },
-      {
-        "label": "NEW Starlight",
-        "url": "https://sfile.mobi/1dlu4KQLOuL"
-      }
-    ]
-  },
-  {
-    "id": 50,
-    "video": "",
-    "title": "Saber Legend",
-    "category": "legend",
-    "slug": "saber-legend",
-    "date": "2025-05-24",
-    "shortStory": "Once called Duan Meng and obsessed with kendo, Saber came to Laboratory 1718 to transform himself in order to pursue perfection, but his memory was erased and he was turned into a killing machine. The torture of his memories drove him to finally destroy the laboratory and set off searching for the past.",
-    "image": "https://res.cloudinary.com/dhwrdfmdt/image/upload/v1750812937/saberlegend_utqbfp.jpg",
-    "download": [
-      {
-        "label": "Default",
-        "url": "https://sfile.mobi/94SXjKtz5Si"
-      },
-      {
-        "label": "Basic",
-        "url": "https://sfile.mobi/9FOXEuxSEgB"
-      },
-      {
-        "label": "OLD Starlight",
-        "url": "https://sfile.mobi/232TrFcNCk3"
-      },
-      {
-        "label": "Elite",
-        "url": "https://sfile.mobi/3tGUeMihe03"
-      },
-      {
-        "label": "SABER",
-        "url": "https://sfile.mobi/3miUaSmtugb"
-      },
-      {
-        "label": "Luckybox",
-        "url": "https://sfile.mobi/bdQYwdebUA7"
-      },
-      {
-        "label": "TOP UP",
-        "url": "https://sfile.mobi/9NcXJrYehUc"
-      },
-      {
-        "label": "NEW Starlight",
-        "url": "https://sfile.mobi/9yqXBtbROEz"
       }
     ]
   },
