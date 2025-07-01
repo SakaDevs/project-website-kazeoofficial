@@ -10,7 +10,7 @@ interface AutoPopUpProps {
 
 const AutoPopUp: React.FC<AutoPopUpProps> = ({ text, popupId }) => {
   const [isVisible, setIsVisible] = useState(false); // Awalnya sembunyikan
-  const [doNotShowToday, setDoNotShowToday] = useState(false);
+  const [doNotShowToday] = useState(false);
 
   useEffect(() => {
     // Jalankan ini hanya di sisi klien
@@ -48,9 +48,6 @@ const AutoPopUp: React.FC<AutoPopUpProps> = ({ text, popupId }) => {
     }
   };
 
-  const handleDoNotShowAgainChange = (e: React.ChangeEvent<HTMLInputElement>) => {
-    setDoNotShowToday(e.target.checked);
-  };
 
   if (!isVisible) return null; // Jika tidak terlihat, jangan render apa-apa
 
