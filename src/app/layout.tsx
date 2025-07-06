@@ -7,7 +7,6 @@ import Footer from "./components/Footer";
 import { Analytics } from "@vercel/analytics/next";
 import RunningText from "./components/Announcement/page";
 import PageWrapper from "./components/PageAnimation/page";
-import AutoPopUp from "./components/PopUp/index"; // Import komponen AutoPopUp
 
 const geistSans = Geist({
   variable: "--font-geist-sans",
@@ -43,12 +42,6 @@ export default function RootLayout({
         <PageWrapper>{children}</PageWrapper>
         <Footer />
         <Analytics />
-
-        {/* Cukup panggil AutoPopUp di sini */}
-        <AutoPopUp
-          popupId="welcomePopup" // Berikan ID unik untuk pop-up ini
-          text="(males banget direupload mulu jirr, thumbnail diambil, script diambil, hehe sehat selalu bang semoga rejekinya nambah terus ya!)"
-        />
       </body>
     </html>
   );
