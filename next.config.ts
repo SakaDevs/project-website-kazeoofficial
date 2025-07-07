@@ -20,6 +20,7 @@ const nextConfig: NextConfig = {
       "kazeoofficial.my.id",
       "res.cloudinary.com",
       "img.youtube.com",
+      "www.dearplayers.com",
     ],
   },
   async headers() {
