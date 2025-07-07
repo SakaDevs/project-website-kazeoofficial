@@ -1,5 +1,48 @@
 [
   {
+    "id": 182,
+    "title": "Wanwan Summer",
+    "category": "summer",
+    "slug": "wanwan-summer",
+    "date": "2025-06-17",
+    "shortStory": "Wanwan grew up in a secluded mountain abode and lived a carefree childhood. It was only after encountering Yu Zhong, the reincarnation of the Black Dragon, Yin, the current vessel of the Evil God Lieh, and the other Oriental Fighters who guard the Dragon Altar that she realized she had long been chosen by the Agile Tiger of the Four Immortals. Wanwan would find herself involved in events that would affect the past and future of the Cadia Riverlands.",
+    "image": "https://res.cloudinary.com/dhwrdfmdt/image/upload/v1751770315/adsfasdf.webp",
+    "download": [
+      {
+        "label": "Default",
+        "url": "https://sfile.mobi/1dno0loEGuV"
+      },
+      {
+        "label": "Basic",
+        "url": "https://sfile.mobi/7wTruFf5M4x"
+      },
+      {
+        "label": "Elite",
+        "url": "https://sfile.mobi/5nVqjqTLOgc"
+      },
+      {
+        "label": "Starlight",
+        "url": "https://sfile.mobi/5nVqjBOwN2U"
+      },
+      {
+        "label": "M World",
+        "url": "https://sfile.mobi/8XxsitZBjUi"
+      },
+      {
+        "label": "MPL",
+        "url": "https://sfile.mobi/4MZpZzpf9S7"
+      },
+      {
+        "label": "11.11",
+        "url": "https://sfile.mobi/avzt9FVDDaZ"
+      },
+      {
+        "label": "Collector",
+        "url": "https://sfile.mobi/87PrPAeajeD"
+      }
+    ]
+  },
+  {
     "id": 181,
     "title": "Hanzo Collector",
     "category": "collector",
