@@ -1,44 +1,5 @@
 last id : 171
- {
-    "id": 185,
-    "video": "https://youtu.be/eafuqki7jaY",
-    "title": "Benedetta Ducati",
-    "category": "ducati",
-    "slug": "benedetta-ducati",
-    "date": "2025-07-08",
-    "shortStory": "After the Abyss returned, our land becomes plagued and the entire southern part of the Land of Dawn turns into a barren place. Though the high Rantha Mountains blocks the corruption of the Abyss, Mother Nature in the southern realm continues to wither away. This once prosperous land is now nothing but a silent place filled with death, and people call it the “Despair Place”. The only passage that connects the Moniyan Empire is broken, separating the trapped refugees and the exiled wanderers from the rest of the world. They now live in fear and despair, haunted by monsters, yet still struggling to survive.",
-    "image": "https://res.cloudinary.com/dhwrdfmdt/image/upload/v1750813052/benedettacollector_ci5bzb.jpg",
-    "download": [
-      {
-        "label": "Default",
-        "url": "https://sfile.mobi/3eXpHpE05Gj"
-      },
-      {
-        "label": "Basic",
-        "url": "https://sfile.mobi/7pvs0kemeQB"
-      },
-      {
-        "label": "Starlight",
-        "url": "https://sfile.mobi/7pvs0v97dCt"
-      },
-      {
-        "label": "Collector",
-        "url": "https://sfile.mobi/66frhOJIiWF"
-      },
-      {
-        "label": "Special",
-        "url": "https://sfile.mobi/6VXrKxAoiQO"
-      },
-      {
-        "label": "MPL",
-        "url": "https://sfile.mobi/bA3ujLyZkk7"
-      },
-      {
-        "label": "Covenant",
-        "url": "https://sfile.mobi/bHruocf4087"
-      }
-    ]
-  },
+ 
 {
     "id": 184,
     "video": "",
