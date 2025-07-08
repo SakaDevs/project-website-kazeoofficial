@@ -1,5 +1,45 @@
 [
   {
+    "id": 183,
+    "video": "",
+    "title": "Irithel Ducati",
+    "category": "ducati",
+    "slug": "irithel-ducati",
+    "date": "2025-07-08",
+    "shortStory": "A jungle orphan raised by a smilodon, was rescued by Leonin Nana when she was almost caught by a human slave trader. With the help of Nana, she learned the human language and fighting skills, but she still didn't trust humans and only trusted her friend, a little tiger named Leo.",
+    "image": "https://res.cloudinary.com/dhwrdfmdt/image/upload/v1751968073/irithelducati_vm2h9j.png",
+    "download": [
+      {
+        "label": "Default",
+        "url": "https://sfile.mobi/8fdsothkK4S"
+      },
+      {
+        "label": "Basic",
+        "url": "https://sfile.mobi/1kLoA71C1yb"
+      },
+      {
+        "label": "Epic",
+        "url": "https://sfile.mobi/4qPqiuTGGcE"
+      },
+      {
+        "label": "OLD Starlight",
+        "url": "https://sfile.mobi/bsFubsKf3q7"
+      },
+      {
+        "label": "NEW Starlight",
+        "url": "https://sfile.mobi/3mlpIFQr72B"
+      },
+      {
+        "label": "Zodiac",
+        "url": "https://sfile.mobi/6sprqm3tQs5"
+      },
+      {
+        "label": "Luckybox",
+        "url": "https://sfile.mobi/66freiqyFq0"
+      }
+    ]
+  },
+  {
     "id": 182,
     "title": "Wanwan Summer",
     "category": "summer",
