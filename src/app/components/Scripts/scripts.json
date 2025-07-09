@@ -1,6 +1,94 @@
 [
   {
-    "id": 106,
+    "id": 189,
+    "video": "",
+    "title": "Valir Phoenix Ikki",
+    "category": "saint-seiya",
+    "slug": "valir-saint-seiya",
+    "date": "2025-07-9",
+    "shortStory": "In his hometown of Agelta, he showed an amazing talent for arcane energy manipulation when he first arrived at the Magic Academy, so he was valued by his mentor Gord. But Gord got very angry when he discovered that he had incorporated the spells of his hometown into the arcane, thinking that he had defiled the arcane. After a battle between the master and the disciple, Valir left the Magic Academy.",
+    "image": "https://res.cloudinary.com/dhwrdfmdt/image/upload/v1752057693/latest_ogyis1.jpg",
+    "download": [
+      {
+        "label": "Default",
+        "url": "https://sfile.mobi/1s9pHvviMMm"
+      },
+      {
+        "label": "Basic",
+        "url": "https://sfile.mobi/6zNsvhIyS4t"
+      },
+      {
+        "label": "Special",
+        "url": "https://sfile.mobi/599rK6Hq3u7"
+      },
+      {
+        "label": "Starlight",
+        "url": "https://sfile.mobi/4FBrtYdW9Wm"
+      },
+      {
+        "label": "Dragon Tamer",
+        "url": "https://sfile.mobi/8XxtQXER1u7"
+      },
+      {
+        "label": "Collector",
+        "url": "https://sfile.mobi/66fshgeaKAo"
+      },
+      {
+        "label": "Legend",
+        "url": "https://sfile.mobi/30bqzp6n2o9"
+      },
+      {
+        "label": "Leo Ikki",
+        "url": "https://sfile.mobi/3mlqLZtz9Ki"
+      },
+      {
+        "label": "Elite (Top Up)",
+        "url": "https://sfile.mobi/1OjpV9n2N23"
+      },
+      {
+        "label": "KOF",
+        "url": "https://sfile.mobi/2atq7yPtVyF"
+      }
+    ]
+  },
+  {
+    "id": 188,
+    "video": "",
+    "title": "Badang Sagittarius Seiya",
+    "category": "saint-seiya",
+    "slug": "badang-saint-seiya",
+    "date": "2025-07-09",
+    "shortStory": "Born in the Vonetis Islands off the southern part of the mainland. Originally just an ordinary villager, after defeating the water monster that was harassing the village, he gained huge power from the water monster. After that, Badang set out to the mountains of the southern Moniyan Empire where the Abyss was entrenched, hoping to completely solve the problem of the water source being contaminated by the Abyss.",
+    "image": "https://res.cloudinary.com/dhwrdfmdt/image/upload/v1752057585/latest_uyplfs.jpg",
+    "download": [
+      {
+        "label": "Default",
+        "url": "https://sfile.mobi/1kLpFmJ4Re2"
+      },
+      {
+        "label": "Basic",
+        "url": "https://sfile.mobi/66fsiFyeB2b"
+      },
+      {
+        "label": "Special",
+        "url": "https://sfile.mobi/1s9pJNp9xqa"
+      },
+      {
+        "label": "Zodiac",
+        "url": "https://sfile.mobi/2LpqsPE4qAw"
+      },
+      {
+        "label": "Collector",
+        "url": "https://sfile.mobi/1VHq0sCUnmU"
+      },
+      {
+        "label": "Sagittarius Saiya",
+        "url": "https://sfile.mobi/3eXqJuRPgst"
+      }
+    ]
+  },
+  {
+    "id": 187,
     "video": "https://youtu.be/6MeGpmaNwYI",
     "title": "Chou Dragon Shiryu",
     "category": "saint-seiya",
