@@ -1,5 +1,61 @@
 [
   {
+    "id": 106,
+    "video": "https://youtu.be/6MeGpmaNwYI",
+    "title": "Chou Dragon Shiryu",
+    "category": "saint-seiya",
+    "slug": "chou-dragon-shiryu",
+    "date": "2025-07-09",
+    "shortStory": "Chou was born in a secluded slum deep in the hearts of poverty, living the lowest quality of life. Despite the dreadful conditions, Chou kept his heart of kindness, as day in and day out he continued to look after the old and the young there with passion. During this time, there was great turmoil and unrest in the Land of the Dawn; mayhem spread throughout the land and eventually started to affect this small remote area.",
+    "image": "https://res.cloudinary.com/dhwrdfmdt/image/upload/v1752057320/latest_lcsn1u.jpg",
+    "download": [
+      {
+        "label": "Default",
+        "url": "https://sfile.mobi/9ytudOIglG2"
+      },
+      {
+        "label": "Basic",
+        "url": "https://sfile.mobi/a9puynROVyH"
+      },
+      {
+        "label": "Luckybox",
+        "url": "https://sfile.mobi/4FBrxux5Mkf"
+      },
+      {
+        "label": "Elite",
+        "url": "https://sfile.mobi/5gxrRm1CqIp"
+      },
+      {
+        "label": "Special",
+        "url": "https://sfile.mobi/bA3vlFS3wO7"
+      },
+      {
+        "label": "KOF",
+        "url": "https://sfile.mobi/6l1sspuaRye"
+      },
+      {
+        "label": "Starlight",
+        "url": "https://sfile.mobi/8mBtA5Jd3UW"
+      },
+      {
+        "label": "STUN",
+        "url": "https://sfile.mobi/bHrvqDip8I7"
+      },
+      {
+        "label": "Dawning",
+        "url": "https://sfile.mobi/8BntIql5tYS"
+      },
+      {
+        "label": "Libra Shiryu",
+        "url": "https://sfile.mobi/73lsRL9k52i"
+      },
+      {
+        "label": "Champion",
+        "url": "https://sfile.mobi/aZ7v2w2yMEm"
+      }
+    ]
+  },
+  {
     "id": 186,
     "video": "",
     "title": "Mathilda Epic",
