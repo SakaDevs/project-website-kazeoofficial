@@ -1,5 +1,61 @@
 [
   {
+    "id": 64,
+    "video": "",
+    "title": "Lancelot Kishin Densetsu",
+    "category": "kishin",
+    "slug": "lancelot-kishin-densetsu",
+    "date": "2025-05-25",
+    "shortStory": "As the eldest son of Duke Baroque, Lancelot was born rebellious. Dead set on resisting the political marriage arranged for him by his father, he traveled the country and led a licentious life instead. After being wounded at a drunken brawl in a tavern, Lancelot was rescued by Odette and finally came to realize what his heart truly yearned for. The prodigal son made a repentant return and thus began his adventure across the Land of Dawn.",
+    "image": "https://res.cloudinary.com/dhwrdfmdt/image/upload/v1750812825/lancelotkishin_ejmobe.jpg",
+    "download": [
+      {
+        "label": "Default",
+        "url": "https://sfile.mobi/avzQU1OOasI"
+      },
+      {
+        "label": "Basic",
+        "url": "https://sfile.mobi/6OzOSPWKKkM"
+      },
+      {
+        "label": "Christmast",
+        "url": "https://sfile.mobi/7i7Pa1UMwwM"
+      },
+      {
+        "label": "Luckybox",
+        "url": "https://sfile.mobi/5vjObd1THyn"
+      },
+      {
+        "label": "Starlight",
+        "url": "https://sfile.mobi/a9pQKBVfHOx"
+      },
+      {
+        "label": "Zodiac",
+        "url": "https://sfile.mobi/7LFProNzhKy"
+      },
+      {
+        "label": "Epic",
+        "url": "https://sfile.mobi/7wTPjq1cPuM"
+      },
+      {
+        "label": "Dawning",
+        "url": "https://sfile.mobi/9NfQz52BtCY"
+      },
+      {
+        "label": "Champion",
+        "url": "https://sfile.mobi/94VQaMS08Mz"
+      },
+      {
+        "label": "Dragon Tamer",
+        "url": "https://sfile.mobi/4qPNBUIV56J"
+      },
+      {
+        "label": "Elite (Top Up)",
+        "url": "https://sfile.mobi/51LNWPHZCwp"
+      }
+    ]
+  },
+  {
     "id": 127,
     "video": "https://youtu.be/pvOcTEvStBc",
     "title": "Luo Yi Create",
