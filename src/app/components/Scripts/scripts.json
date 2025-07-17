@@ -1,5 +1,117 @@
 [
   {
+    "id": 9,
+    "video": "",
+    "title": "Hayabusa Kakashi",
+    "category": "naruto",
+    "slug": "hayabusa-kakashi",
+    "date": "2025-07-17",
+    "shortStory": "As the second heir to the Shadow Sect of the Scarlet Shadow, Hayabusa had always looked up to his brother, a figure who he saw as the moon itself. To preserve the delicate balance of power between the Shadow and Scarlet Sects, Hayabusa willingly took his brother's place to be a political pawn and hostage, to be raised within the rival Scarlet Sect. Every day spent in the Scarlet Sect, Hayabusa lived by his brother's principles. He mastered his unique Shadow Shuriken technique and forged an unbreakable bond with Hanabi, a kunoichi of the Scarlet Sect. But when Hanzo's betrayal and his brother's disappearance shattered their hopes for peace, Hayabusa realized that the moonlight that had always guided him was gone. Yet, he gripped his blade firmly, determined to forge ahead through the shadows, following his brother's nindo.",
+    "image": "https://res.cloudinary.com/dhwrdfmdt/image/upload/v1750812759/hayabusakakashiupd_iasviq.jpg",
+    "download": [
+      {
+        "label": "Default",
+        "url": "https://sfile.mobi/aoa9qLy69a5"
+      },
+      {
+        "label": "Basic",
+        "url": "https://sfile.mobi/6zM7krkW7C7"
+      },
+      {
+        "label": "Elite",
+        "url": "https://sfile.mobi/44E5XkhrY4D"
+      },
+      {
+        "label": "Summer",
+        "url": "https://sfile.mobi/3Xg5STBnhKC"
+      },
+      {
+        "label": "Annual Starlight",
+        "url": "https://sfile.mobi/5nU6G0GQTuL"
+      },
+      {
+        "label": "Luckybox",
+        "url": "https://sfile.mobi/4MY6lYhzgk1"
+      },
+      {
+        "label": "Starlight",
+        "url": "https://sfile.mobi/5nU6Gxr7Q4O"
+      },
+      {
+        "label": "11.11",
+        "url": "https://sfile.mobi/3B65HxDu2cr"
+      },
+      {
+        "label": "Elite (Top Up)",
+        "url": "https://sfile.mobi/1zw4Ao8INeF"
+      },
+      {
+        "label": "Exorcist",
+        "url": "https://sfile.mobi/bOOafhXDBm7"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "video": "",
+    "title": "Kalea Sakura",
+    "category": "naruto",
+    "slug": "kalea-sakura",
+    "date": "2025-07-17",
+    "shortStory": "The descendant of the legendary Great Serpent, Kalea once had trouble accepting her human-like body. But after discovering who she was, she learned to fight with her fists and powerful serpent tail while healing allies with the power of the Great Serpent surging inside her. Always full of energy, she is the proud protector of the Vonetis Sea. However, when faced with gratitude from others, she tends to put on a facade of arrogance to hide her shyness after all, she has to live up to her reputation as the descendant of the Great Serpent!",
+    "image": "https://res.cloudinary.com/dhwrdfmdt/image/upload/v1750812838/kaleasakuraupd_kb1moa.jpg",
+    "download": [
+      {
+        "label": "Default",
+        "url": "https://sfile.mobi/8fc8fbnge4t"
+      },
+      {
+        "label": "Basic",
+        "url": "https://sfile.mobi/a209ebaU1O3"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "video": "",
+    "title": "Suyou Sasuke",
+    "category": "naruto",
+    "slug": "suyou-sasuke",
+    "date": "2025-07-17",
+    "shortStory": "As the last descendant of the Exorcists of Nuo, Suyou carried the power of the immortal deity within his body, using it to guide the people toward enlightenment. He walked the mortal plane, like a wandering swordsman, charming and uninhibited, but never forgetting that the of Nuo comes from the faith of the people. And so, he went about purging evil from the hearts of men and safeguarding their hopes for the future..",
+    "image": "https://res.cloudinary.com/dhwrdfmdt/image/upload/v1750812979/suyousasukeupd_gjqrt7.jpg",
+    "download": [
+      {
+        "label": "Default",
+        "url": "https://sfile.mobi/bOOad03MR27"
+      },
+      {
+        "label": "Basic",
+        "url": "https://sfile.mobi/5986wNvbziJ"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "video": "",
+    "title": "Lukas Naruto",
+    "category": "naruto",
+    "slug": "lukas-naruto",
+    "date": "2025-07-17",
+    "shortStory": "Lukas is a recently revived from inside the Imperial Sanctuary. Endowed with a special bloodline that allows him to take human form, he was once befriended by Emperor Gaius and fought alongside him to create the glorious Moniyan Empire. After a millennium-long slumber, he was awakened by Silvanna and vowed to herald a new era for the Empire at her side. Beneath his brazen and rambunctious appearance lies a pure and earnest heart. For Lukas, fighting is not only his duty but the instinctive expression of his spirit. He firmly believes he will create something as brilliant as the dawning sun to illuminate every corner of the Moniyan Empire and rewrite the legend of the Beast of Light.",
+    "image": "https://res.cloudinary.com/dhwrdfmdt/image/upload/v1750812877/lukasnarutoupd_ks4ued.jpg",
+    "download": [
+      {
+        "label": "Default",
+        "url": "https://sfile.mobi/66e72TxonCU"
+      },
+      {
+        "label": "Basic",
+        "url": "https://sfile.mobi/aRI9Gcmy7m5"
+      }
+    ]
+  },
+  {
     "id": 64,
     "video": "",
     "title": "Lancelot Kishin Densetsu",
