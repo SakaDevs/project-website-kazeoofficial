@@ -1,5 +1,33 @@
 [
   {
+    "id": 80,
+    "video": "",
+    "title": "Aamon Soul Vessels",
+    "category": "vessels",
+    "slug": "aamon-soul-vessels",
+    "date": "2025-06-08",
+    "shortStory": "Aamon is the head of House Paxley and the current Duke of Castle Aberleen. Despite his cool and distant facade, he puts his kin above everything and will do anything for them.",
+    "image": "https://res.cloudinary.com/dhwrdfmdt/image/upload/v1750812734/aamonsoul_qokhky.jpg",
+    "download": [
+      {
+        "label": "Default",
+        "url": "https://sfile.mobi/8mzHupOKswp"
+      },
+      {
+        "label": "Basic",
+        "url": "https://sfile.mobi/7LDHacuHQsY"
+      },
+      {
+        "label": "Elite",
+        "url": "https://sfile.mobi/aZ5IWuiAesg"
+      },
+      {
+        "label": "Starlight",
+        "url": "https://sfile.mobi/309ExBkA1OD"
+      }
+    ]
+  },
+  {
     "id": 128,
     "video": "https://youtu.be/UWMVncwgtZk",
     "title": "Natan MSC",
