@@ -21,6 +21,7 @@ const nextConfig: NextConfig = {
       "res.cloudinary.com",
       "img.youtube.com",
       "www.dearplayers.com",
+      "news.argamingshop.com",
     ],
   },
   async headers() {
