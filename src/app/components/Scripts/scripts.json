@@ -1,5 +1,28 @@
 [
   {
+    "id": 172,
+    "title": "Yve Starlight",
+    "category": "starlight",
+    "slug": "yve-starlight",
+    "date": "2025-08-22",
+    "shortStory": "Aurora was the first person to discover Yve. This was the first time such a mysterious, cold, and emotionless creature had appeared in the Land of Dawn. Massive energy fluctuations came from the time rift. Aurora thought that Zhask had returned and that she would finally have the chance to avenge her beloved. But as it turned out, she saw someone who seemed to be even more powerful. Yve came down from the sky above the Frozen Ocean. She considered everything and everyone beneath her notice and was only interested in finding Zhask. Her instincts told her that her old nemesis had once appeared here. Yve simply glanced at Aurora with indifference, then turned and left. Just as Aurora was hesitating about whether to chase down this mysterious visitor, Yve released an explosion of tremendous energy, closing the time rift temporarily. She then turned and left.",
+    "image": "https://res.cloudinary.com/dhwrdfmdt/image/upload/v1755836385/yve-starlight-this-yearrrrr-v0-1jzcoih8nyif1_alf0pr.png",
+    "download": [
+      {
+        "label": "Default",
+        "url": "https://sfile.mobi/2wFakflrZiE"
+      },
+      {
+        "label": "Basic",
+        "url": "https://sfile.mobi/8QbdOV1p28L"
+      },
+      {
+        "label": "Starlight",
+        "url": "https://sfile.mobi/1zz9NNtJdyB"
+      }
+    ]
+  },
+  {
     "id": 3,
     "video": "https://youtu.be/IsGLta853NY",
     "title": "Pharsa Neobeast",
