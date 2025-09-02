@@ -31,7 +31,7 @@ const Page = async ({ params }: PageProps) => {
             <h1 className="text-xl font-bold text-center">
               {selectedScript.title}
             </h1>
-            <a href="#download" className="text-xl text-blue-500 italic font-bold mb-2 text-center items-center">
+            <a href="#download" className="text-lg text-blue-500 italic font-bold mb-2 text-center items-center">
               Download
             </a>
           </div>
