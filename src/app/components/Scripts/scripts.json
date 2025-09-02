@@ -1,5 +1,44 @@
 [
   {
+    "id": 173,
+    "title": "Vexana Aspirants",
+    "category": "aspirant",
+    "slug": "vexana-aspirant",
+    "date": "2025-09-02",
+    "shortStory": "Vexana was the majestic ruler of Necrokeep, the gentle mother of the undead. She was also the only glimmer of light that pierced through the Mist, bringing hope to a land forsaken by both life and death.",
+    "image": "https://res.cloudinary.com/dhwrdfmdt/image/upload/v1756796654/vexana_mcmaej.png",
+    "download": [
+      {
+        "label": "Default",
+        "url": "https://sfile.mobi/1GXwhtXkdC2"
+      },
+      {
+        "label": "Basic",
+        "url": "https://sfile.mobi/1dpw2KNUaGi"
+      },
+      {
+        "label": "Epic",
+        "url": "https://sfile.mobi/2SPwYnq1baa"
+      },
+      {
+        "label": "Season",
+        "url": "https://sfile.mobi/2wFwN1s7VyW"
+      },
+      {
+        "label": "Starlight",
+        "url": "https://sfile.mobi/44HxEV3cb6D"
+      },
+      {
+        "label": "Zenith",
+        "url": "https://sfile.mobi/6zPz3rqKbep"
+      },
+      {
+        "label": "Collector",
+        "url": "https://sfile.mobi/3PVxySlavKK"
+      }
+    ]
+  },
+  {
     "id": 172,
     "title": "Yve Starlight",
     "category": "starlight",
