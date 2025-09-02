@@ -27,13 +27,13 @@ const Page = async ({ params }: PageProps) => {
     <PageWrapper>
       <div className={`${poppins.className} p-6`}>
         <div className="outline p-4 gap-5">
-          <div>
+          <div className="items-center text-center">
             <h1 className="text-xl font-bold text-center">
               {selectedScript.title}
             </h1>
-            <h1 className="text-xs font-bold mb-2 text-center">
-              (Download Dibawah)
-            </h1>
+            <a href="#download" className="text-xl text-blue-500 italic font-bold mb-2 text-center items-center">
+              Download
+            </a>
           </div>
           <p className="font-bold text-center underline">Short Story</p>
           <p className="mb-4 md:text-base text-xs text-center">
@@ -108,7 +108,7 @@ const Page = async ({ params }: PageProps) => {
           </h4>
 
           {/* Full-width table with symmetric columns */}
-          <div className="w-full">
+          <div className="w-full" id="download">
             <div className="overflow-x-auto">
               <table className="w-full border border-gray-300 text-sm rounded-lg overflow-hidden table-fixed">
                 <thead className="bg-gray-100">

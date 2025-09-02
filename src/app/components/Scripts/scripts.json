@@ -1,5 +1,57 @@
 [
   {
+    "id": 174,
+    "video": "",
+    "title": "Guinevere Aspirants",
+    "category": "aspirant",
+    "slug": "guinevere-aspirant",
+    "date": "2025-09-02",
+    "shortStory": "As the youngest daughter of one of the few noble households in the Land of Dawn, House Baroque, she studied at the Magic Academy since she was a child, and is extremely talented in magic. The household wanted her to marry into another household with a higher status. Unwilling to be used as a political bargaining chip, Guinevere decided to seek help from her elder brother Lancelot.",
+    "image": "https://res.cloudinary.com/dhwrdfmdt/image/upload/v1756796659/guin_ssqkyc.png",
+    "download": [
+      {
+        "label": "Default",
+        "url": "https://sfile.mobi/9clAxCTFJux"
+      },
+      {
+        "label": "Basic",
+        "url": "https://sfile.mobi/7wVzDeGRAQD"
+      },
+      {
+        "label": "KOF",
+        "url": "https://sfile.mobi/3B9xtmnpN6f"
+      },
+      {
+        "label": "Starlight",
+        "url": "https://sfile.mobi/4c5xNzHspa2"
+      },
+      {
+        "label": "Special (Amethyst)",
+        "url": "https://sfile.mobi/2wFwSPF8iMH"
+      },
+      {
+        "label": "Luckybox",
+        "url": "https://sfile.mobi/1sbwitRBNeR"
+      },
+      {
+        "label": "Special (Sakura)",
+        "url": "https://sfile.mobi/a23B2hOGxq0"
+      },
+      {
+        "label": "Summer",
+        "url": "https://sfile.mobi/5YTyNNUp4Al"
+      },
+      {
+        "label": "Legend",
+        "url": "https://sfile.mobi/agPBaNljWgn"
+      },
+      {
+        "label": "Elite (Top Up)",
+        "url": "https://sfile.mobi/7wVzFlFXmEU"
+      }
+    ]
+  },
+  {
     "id": 173,
     "title": "Vexana Aspirants",
     "category": "aspirant",
