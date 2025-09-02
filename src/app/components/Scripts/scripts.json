@@ -1,5 +1,71 @@
 [
   {
+    "id": 176,
+    "title": "Beatrix FMVP",
+    "category": "FMVP",
+    "slug": "beatrix-fmvp",
+    "date": "2025-09-02",
+    "shortStory": "A year and a half ago, the Scholars' Union of Eruditio welcomed a new student into their ranks. Unlike the other newcomers, this young girl named Beatrix seemed to possess profound knowledge of and astonishing talent for science. Before long she stood head and shoulders above her peers, becoming one of the most promising scholars of the entire Scholars' Union. Even Dr. Rooney, who was watching her quietly from afar, was impressed by her progress. He believed that, if she were to apply herself to her studies, Beatrix could one day become the greatest scientist Eruditio had ever seen.",
+    "image": "https://res.cloudinary.com/dhwrdfmdt/image/upload/v1756796606/534579860_1216670433806061_3777391711520632510_n_t2fybv.jpg",
+    "download": [
+      {
+        "label": "Default",
+        "url": "https://sfile.mobi/37BwzXKX5ux"
+      },
+      {
+        "label": "Basic",
+        "url": "https://sfile.mobi/1dpvwT6Kz8s"
+      },
+      {
+        "label": "Elite",
+        "url": "https://sfile.mobi/avBAFa9bCEA"
+      },
+      {
+        "label": "Starlight",
+        "url": "https://sfile.mobi/3Xjx32r944j"
+      },
+      {
+        "label": "M4",
+        "url": "https://sfile.mobi/bdVB3Z43UO7"
+      },
+      {
+        "label": "Prime",
+        "url": "https://sfile.mobi/87Rzm7WgbS7"
+      },
+      {
+        "label": "Create",
+        "url": "https://sfile.mobi/3eZwF663H2C"
+      }
+    ]
+  },
+  {
+    "id": 175,
+    "title": "Joy Champion",
+    "category": "champion",
+    "slug": "joy-champion",
+    "date": "2025-09-02",
+    "shortStory": "Agile and cunning, known as the most infamous 'petty thief' in Lumina City, Joy had longed to have her stomach filled and her heart warmed. In a fortunate turn of events, Joy returned to the Leonins' land, her wandering heart healed by the simple and unconditional love of her kin. She no longer feared losing love again and vowed to protect those around her, to turn into a golden flash resonating with home...",
+    "image": "https://res.cloudinary.com/dhwrdfmdt/image/upload/v1756796651/joy_sb5eo9.png",
+    "download": [
+      {
+        "label": "Default",
+        "url": "https://sfile.mobi/3tLwLuDBjW1"
+      },
+      {
+        "label": "Basic",
+        "url": "https://sfile.mobi/6OByBRi2qIr"
+      },
+      {
+        "label": "Elite",
+        "url": "https://sfile.mobi/59bxGWkXlCf"
+      },
+      {
+        "label": "Starlight",
+        "url": "https://sfile.mobi/bljB7bkPIs7"
+      }
+    ]
+  },
+  {
     "id": 174,
     "video": "",
     "title": "Guinevere Aspirants",
