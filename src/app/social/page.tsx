@@ -17,7 +17,7 @@ const Page = () => {
           <div className="flex flex-col shadow md:shadow-2xl items-center text-center gap-4 hover:scale-102 duration-700 transition-all">
             <h3 className="font-bold text-lg md:text-lg">Main Channel</h3>
             <Image
-              src="https://yt3.googleusercontent.com/b6WjkWqyoXOwf0j2iOnpJfaMoDgvgHidMPajLTWoHpoNEXg-SjDl9ChdrU_leZ0O3Urq_GxT=s160-c-k-c0x00ffffff-no-rj"
+              src="https://yt3.googleusercontent.com/wBJ9XzewKrY0kuh4DcSLQBGdv-63DXilloAh8SH-Kp4i7nuCCw5A4VmOMXCKvyiZpzf5riAMSg=s160-c-k-c0x00ffffff-no-rj"
               alt=""
               height={400}
               width={200}
@@ -35,7 +35,7 @@ const Page = () => {
             </div>
 
             <Link
-              href="https://www.youtube.com/channel/UCInWujvjdt8MDmtOxy_As1Q/"
+              href="https://www.youtube.com/@kazeoofficialcihuy"
               className="mb-4 border px-4 py-2 border-blue-500 rounded hover:text-white hover:bg-blue-500 transition-all"
             >
               <h3>Subscribe Now</h3>
