@@ -40,7 +40,7 @@ const Footer = () => {
             </p>
             <div className="flex gap-4">
               <Link
-                href="https://www.youtube.com/channel/UCInWujvjdt8MDmtOxy_As1Q/"
+                href="https://www.youtube.com/@kazeoofficialcihuy"
                 className="text-gray-600 hover:text-blue-600 transition-all"
               >
                 <YoutubeLogo size={24} />

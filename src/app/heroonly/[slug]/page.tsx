@@ -18,10 +18,13 @@ type PageProps = {
 const Page = async ({ params }: PageProps) => {
   const slug = await params?.slug;
   const selectedScript = scripts.find((script) => script.slug === slug);
-
   if (!selectedScript) {
     return <div className="p-4 text-red-500">Tidak ditemukan.</div>;
   }
+  const message = `Halo min, mau lapor script ${selectedScript.title}, ada yang rusak/bug`;
+  const whatsappUri = `https://wa.me/6282124043617?text=${encodeURIComponent(
+    message
+  )}`;
 
   return (
     <PageWrapper>
@@ -31,7 +34,10 @@ const Page = async ({ params }: PageProps) => {
             <h1 className="text-xl font-bold text-center">
               {selectedScript.title}
             </h1>
-            <a href="#download" className="text-lg text-blue-500 italic font-bold mb-2 text-center items-center">
+            <a
+              href="#download"
+              className="text-lg text-blue-500 italic font-bold mb-2 text-center items-center"
+            >
               Download
             </a>
           </div>
@@ -44,7 +50,9 @@ const Page = async ({ params }: PageProps) => {
           </div>
         </div>
 
-        <h2 className="font-bold md:text-xl text-lg text-center mt-5">Featured</h2>
+        <h2 className="font-bold md:text-xl text-lg text-center mt-5">
+          Featured
+        </h2>
         <div className="md:text-base text-xs flex flex-row justify-around gap-10 mb-3">
           <div>
             <p className="md:text-left">Support Voice</p>
@@ -88,7 +96,7 @@ const Page = async ({ params }: PageProps) => {
               Jika ada kerusakan/bug seperti tidak ada suara, tidak ada efek
               skill dan lain lain, silahkan lapor ke admin{" "}
               <Link
-                href="https://t.me/kazeoofficial"
+                href={whatsappUri}
                 className="underline font-bold cursor-pointer text-red-900"
               >
                 disini
