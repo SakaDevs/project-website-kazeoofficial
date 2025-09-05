@@ -1,5 +1,405 @@
 [
   {
+    "id": 53,
+    "video": "",
+    "title": "Alucard Legend",
+    "category": "legend",
+    "slug": "alucard-legend",
+    "date": "2025-09-05",
+    "shortStory": "Alucard's father was a comrade-in-arms of Tigreal who disappeared in a battle with the Demons. Therefore, he hated darkness, joined the Monastery of Light, and swore to destory all Demons. But later he learned the hidden secrets of this battle, so he left the Monastery of Light in anger and fought the darkness in his own way.",
+    "image": "https://res.cloudinary.com/dhwrdfmdt/image/upload/v1750812817/alucardleg_vjhcr5.jpg",
+    "download": [
+      {
+        "label": "Default",
+        "url": "https://sfile.mobi/6dASUlqDx6c"
+      },
+      {
+        "label": "Basic",
+        "url": "https://sfile.mobi/7EeTH6GBb2X"
+      },
+      {
+        "label": "Season",
+        "url": "https://sfile.mobi/4yaRZBojqw2"
+      },
+      {
+        "label": "Luckybox",
+        "url": "https://sfile.mobi/66cSQNklLUH"
+      },
+      {
+        "label": "Starlight",
+        "url": "https://sfile.mobi/bsCVOuoj5u7"
+      },
+      {
+        "label": "Valentine",
+        "url": "https://sfile.mobi/596SkHi8WIT"
+      },
+      {
+        "label": "Empire Agent",
+        "url": "https://sfile.mobi/6zKT7OnCyAU"
+      },
+      {
+        "label": "Lightborn",
+        "url": "https://sfile.mobi/9r2UHRDON2l"
+      },
+      {
+        "label": "Starwars",
+        "url": "https://sfile.mobi/7T0TR1xiqkh"
+      },
+      {
+        "label": "Special",
+        "url": "https://sfile.mobi/73iToPqTm0R"
+      }
+    ]
+  },
+  {
+    "id": 56,
+    "video": "",
+    "title": "Granger Legend",
+    "category": "legend",
+    "slug": "granger-legend",
+    "date": "2025-09-05",
+    "shortStory": "Granger, a demon hunter who walks the line between human and demon, always preferred to keep to himself. But if someone could enter his world, they would realize how terrifying it is—the incessant howls and shrill cries constantly deafening his ears and heart. When he draws his demon-devouring weapons and unleashes a hail of bullets, the agonizing howls of demons become a requiem playing in the depths of his soul. Only the intertwining of their death shrieks and the sound of gunfire can drown out the noise that torments him daily. Each shot fired by Granger is not only his performance against the Abyss, but also an expression of his lament.",
+    "image": "https://res.cloudinary.com/dhwrdfmdt/image/upload/v1750812727/grangerleg_nba5fu.jpg",
+    "download": [
+      {
+        "label": "Default",
+        "url": "https://sfile.mobi/6H9x9auEAoF"
+      },
+      {
+        "label": "Basic",
+        "url": "https://sfile.mobi/7wRxBTlkBiO"
+      },
+      {
+        "label": "Elite",
+        "url": "https://sfile.mobi/87NxWsuTbUx"
+      },
+      {
+        "label": "Starlight",
+        "url": "https://sfile.mobi/73jxlVMBGMM"
+      },
+      {
+        "label": "Lightborn",
+        "url": "https://sfile.mobi/7ptxylf2P6j"
+      },
+      {
+        "label": "Collector",
+        "url": "https://sfile.mobi/2aruFfLV9Cy"
+      },
+      {
+        "label": "Transformers",
+        "url": "https://sfile.mobi/ao9zctlNMkf"
+      },
+      {
+        "label": "Create",
+        "url": "https://sfile.mobi/bdRzFn7eMg7"
+      },
+      {
+        "label": "Exorcist",
+        "url": "https://sfile.mobi/2pduNWdjxeR"
+      },
+      {
+        "label": "Valentine",
+        "url": "https://sfile.mobi/7aHxqTcXjqJ"
+      }
+    ]
+  },
+  {
+    "id": 55,
+    "video": "",
+    "title": "Gusion Legend",
+    "category": "legend",
+    "slug": "gusion-legend",
+    "date": "2025-09-05",
+    "shortStory": "Although he was born into the most powerful magic family on the continent, Gusion is not interested in magic. He is keen to draw inspiration from the holy light to develop new fighting skills. In the end, Gusion left the family.",
+    "image": "https://res.cloudinary.com/dhwrdfmdt/image/upload/v1750812760/gusionleg_lvn2lm.jpg",
+    "download": [
+      {
+        "label": "Default",
+        "url": "https://sfile.mobi/51IV8r2Vi01"
+      },
+      {
+        "label": "Basic",
+        "url": "https://sfile.mobi/b6sYh2HToI7"
+      },
+      {
+        "label": "Elite",
+        "url": "https://sfile.mobi/3miU08wfDOj"
+      },
+      {
+        "label": "OLD Starlight",
+        "url": "https://sfile.mobi/1dkSOUaVGmU"
+      },
+      {
+        "label": "Valentine",
+        "url": "https://sfile.mobi/2pcTtRzhQYJ"
+      },
+      {
+        "label": "VENOM",
+        "url": "https://sfile.mobi/2pcTu2u2POv"
+      },
+      {
+        "label": "KOF",
+        "url": "https://sfile.mobi/a9mXLivcyW0"
+      },
+      {
+        "label": "Collector",
+        "url": "https://sfile.mobi/5nSV8Hl4JiL"
+      },
+      {
+        "label": "Epic",
+        "url": "https://sfile.mobi/8tWWQny7sIi"
+      },
+      {
+        "label": "11.11",
+        "url": "https://sfile.mobi/3PQUhvp2p27"
+      },
+      {
+        "label": "NEW Starlight",
+        "url": "https://sfile.mobi/bleYqMDPFY7"
+      }
+    ]
+  },
+  {
+    "id": 59,
+    "video": "",
+    "title": "Franco Legend",
+    "category": "legend",
+    "slug": "franco-legend",
+    "date": "2025-09-05",
+    "shortStory": "Franco is the only warrior on the Frozen Ocean who can lead people in the fighter against Bane. In one battle, Franco saw through Bane's tricks and finally defeated him. Life was brought back to the Northern Vale under his leadership.",
+    "image": "https://res.cloudinary.com/dhwrdfmdt/image/upload/v1750812720/francoleg_aeojyp.jpg",
+    "download": [
+      {
+        "label": "Default",
+        "url": "https://sfile.mobi/5gvwq6sBxCH"
+      },
+      {
+        "label": "Special",
+        "url": "https://sfile.mobi/73jxps5Ljiw"
+      },
+      {
+        "label": "Starlight",
+        "url": "https://sfile.mobi/7EfxK1fjTUd"
+      },
+      {
+        "label": "Season",
+        "url": "https://sfile.mobi/8mzy8FfrbiN"
+      },
+      {
+        "label": "Halloween",
+        "url": "https://sfile.mobi/2aruIM54M4w"
+      },
+      {
+        "label": "Luckybox",
+        "url": "https://sfile.mobi/3eVvjECSe4Y"
+      },
+      {
+        "label": "TOP UP",
+        "url": "https://sfile.mobi/ao9zgHjZkca"
+      },
+      {
+        "label": "MPL",
+        "url": "https://sfile.mobi/3PRvEzBWLu4"
+      },
+      {
+        "label": "Blazing",
+        "url": "https://sfile.mobi/7i5xzmWsyAr"
+      }
+    ]
+  },
+  {
+    "id": 61,
+    "video": "",
+    "title": "Freya Legend",
+    "category": "legend",
+    "slug": "freya-legend",
+    "date": "2025-09-05",
+    "shortStory": "Freya's sister Skuld was an excellent Valkyrie, but because of an accident caused by Freya, Skuld plunged into the Twilight Orb and disappeared with it. Freya has since taken over as a Valkyrie and assumed the responsibility of protecting the Northern Vale.",
+    "image": "https://res.cloudinary.com/dhwrdfmdt/image/upload/v1750813147/freyaleg_gu8jys.jpg",
+    "download": [
+      {
+        "label": "Default",
+        "url": "https://sfile.mobi/4MWSc9YnoAC"
+      },
+      {
+        "label": "Basic",
+        "url": "https://sfile.mobi/aCUVpOB3EW2"
+      },
+      {
+        "label": "Starlight",
+        "url": "https://sfile.mobi/6zKTbvBxa8s"
+      },
+      {
+        "label": "Summer",
+        "url": "https://sfile.mobi/5RqSNdqVPyf"
+      },
+      {
+        "label": "Luckybox",
+        "url": "https://sfile.mobi/232QHf3hLqB"
+      },
+      {
+        "label": "Elite",
+        "url": "https://sfile.mobi/1dkQeS27IiW"
+      },
+      {
+        "label": "Christmast",
+        "url": "https://sfile.mobi/66cSWfHQaIV"
+      },
+      {
+        "label": "Epic",
+        "url": "https://sfile.mobi/1dkQfdRDFUw"
+      },
+      {
+        "label": "SABER",
+        "url": "https://sfile.mobi/5guSu3Br6gZ"
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "video": "https://youtu.be/12FKpHKJXgo",
+    "title": "Cecilion Hunter X Hunter",
+    "category": "HXH",
+    "slug": "cecilion-hxh",
+    "date": "2025-09-05",
+    "shortStory": "As a blood demon, Cecilion in love with human girl Carmilla, but cruel reality made Cecilion give up on their love. After Cecilion left, Carmilla chose to commit suicide which made Cecilion desperately sad. He used his abilities to turn Carmilla into Blood Demon. From then on, the two of them stayed away in the world together forever.",
+    "image": "https://res.cloudinary.com/dhwrdfmdt/image/upload/v1750813062/cecilionhxhnew_mzaa7s.jpg",
+    "download": [
+      {
+        "label": "Default",
+        "url": "https://sfile.mobi/4c1fldJZU4Z"
+      },
+      {
+        "label": "Basic",
+        "url": "https://sfile.mobi/b6tj9VPeAo7"
+      },
+      {
+        "label": "Elite",
+        "url": "https://sfile.mobi/4qNftJgDiM2"
+      },
+      {
+        "label": "Valentine",
+        "url": "https://sfile.mobi/6VVgRxZ9nOv"
+      },
+      {
+        "label": "Starlight",
+        "url": "https://sfile.mobi/6VVgRxZ9nOv"
+      },
+      {
+        "label": "Collector",
+        "url": "https://sfile.mobi/b6tjaDugvu7"
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "video": "https://youtu.be/zqDs5JIDgDU",
+    "title": "Dyrroth Hunter X Hunter",
+    "category": "HXH",
+    "slug": "dyrroth-hxh",
+    "date": "2025-09-05",
+    "shortStory": "Twelve years ago, a prince was born in the Moniyan Empire. He was a symbol of salvation and justice for his people. It was believed that he would lead the Moniyan Empire in unifying the Land of Dawn. The Empire Nobles gave everything to the prince..",
+    "image": "https://res.cloudinary.com/dhwrdfmdt/image/upload/v1750813151/dyrrothhxhnew_kixbjr.jpg",
+    "download": [
+      {
+        "label": "Default",
+        "url": "https://sfile.mobi/bONjwZAx3i7"
+      },
+      {
+        "label": "Basic",
+        "url": "https://sfile.mobi/66dgnpOpwcm"
+      },
+      {
+        "label": "KOF",
+        "url": "https://sfile.mobi/8fbhyZZfri4"
+      },
+      {
+        "label": "Starlight",
+        "url": "https://sfile.mobi/a9niCqsXVmR"
+      },
+      {
+        "label": "VENOM",
+        "url": "https://sfile.mobi/4qNfsQGQoE4"
+      },
+      {
+        "label": "Collector",
+        "url": "https://sfile.mobi/blfjhyM55Q7"
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "video": "https://youtu.be/_31fTXw-z8I",
+    "title": "Julian Hunter X Hunter",
+    "category": "HXH",
+    "slug": "julian-hxh",
+    "date": "2025-09-05",
+    "shortStory": "Julian was the son of Terizla, the leader of the Free Smiths' Guild. The guild was exterminated by the Church of Light on charges of heresy when Julian was at an early age. The poor child was then adopted by the archbishop, trained and molded to be an elite member of the Ravens, a secret force that listened only to the archbishop's orders. Later, on his mission to 'purify' Xavier, he caught a glimpse of the secret buried in time",
+    "image": "https://res.cloudinary.com/dhwrdfmdt/image/upload/v1750812787/julianhxhnew_dtssvw.jpg",
+    "download": [
+      {
+        "label": "Default",
+        "url": "https://sfile.mobi/2LlUwURjUst"
+      },
+      {
+        "label": "Basic",
+        "url": "https://sfile.mobi/9FNYlCWyAwW"
+      },
+      {
+        "label": "JJK",
+        "url": "https://sfile.mobi/4jnVohI7dC9"
+      },
+      {
+        "label": "Meowskin",
+        "url": "https://sfile.mobi/2avBM5BmVqJ"
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "video": "https://youtu.be/PwSKTe6kvGc",
+    "title": "Harith Hunter X Hunter",
+    "category": "HXH",
+    "slug": "harith-hxh",
+    "date": "2025-09-05",
+    "shortStory": "rom a young age, Harith surpassed his peers in talent and wisdom. He quickly became the strongest mage among the Leonins, perhaps as strong as other in the Land of Dawn. Although, the Leonins never step foot outside of the Enchanted Forest, living a peaceful and safe life on their own. The Leonins became so complacent with their blissful existence that they no longer pursed the magic arts, a hallmark of their people. Harith became very discontent with this trend and confidently set out of the Enchanted Forest to see the outside world at the young age of 15. Harith was driven by his and passion for the magic arts, aspiring to become his people's leader in magic",
+    "image": "https://res.cloudinary.com/dhwrdfmdt/image/upload/v1750812765/harithhxhnew_wwzwoa.jpg",
+    "download": [
+      {
+        "label": "Default",
+        "url": "https://sfile.mobi/7wPX6wsz3UX"
+      },
+      {
+        "label": "Basic",
+        "url": "https://sfile.mobi/6VTWMj8wqQS"
+      },
+      {
+        "label": "Elite",
+        "url": "https://sfile.mobi/3mhUO8CtQAj"
+      },
+      {
+        "label": "515",
+        "url": "https://sfile.mobi/1OfTXivXtSc"
+      },
+      {
+        "label": "Lightborn",
+        "url": "https://sfile.mobi/80nXnxvPQA0"
+      },
+      {
+        "label": "Champion",
+        "url": "https://sfile.mobi/9r1YaEBjsk6"
+      },
+      {
+        "label": "Collector",
+        "url": "https://sfile.mobi/6OvWJ6RKCIo"
+      },
+      {
+        "label": "Christmast",
+        "url": "https://sfile.mobi/37vUGRv9jq9"
+      }
+    ]
+  },
+  {
     "id": 33,
     "video": "https://youtu.be/d0m06Pmpyyo",
     "title": "Novaria Collector",
@@ -2454,54 +2854,6 @@
     ]
   },
   {
-    "id": 61,
-    "video": "",
-    "title": "Freya Legend",
-    "category": "legend",
-    "slug": "freya-legend",
-    "date": "2025-06-27",
-    "shortStory": "Freya's sister Skuld was an excellent Valkyrie, but because of an accident caused by Freya, Skuld plunged into the Twilight Orb and disappeared with it. Freya has since taken over as a Valkyrie and assumed the responsibility of protecting the Northern Vale.",
-    "image": "https://res.cloudinary.com/dhwrdfmdt/image/upload/v1750813147/freyaleg_gu8jys.jpg",
-    "download": [
-      {
-        "label": "Default",
-        "url": "https://sfile.mobi/4MWSc9YnoAC"
-      },
-      {
-        "label": "Basic",
-        "url": "https://sfile.mobi/aCUVpOB3EW2"
-      },
-      {
-        "label": "Starlight",
-        "url": "https://sfile.mobi/6zKTbvBxa8s"
-      },
-      {
-        "label": "Summer",
-        "url": "https://sfile.mobi/5RqSNdqVPyf"
-      },
-      {
-        "label": "Luckybox",
-        "url": "https://sfile.mobi/232QHf3hLqB"
-      },
-      {
-        "label": "Elite",
-        "url": "https://sfile.mobi/1dkQeS27IiW"
-      },
-      {
-        "label": "Christmast",
-        "url": "https://sfile.mobi/66cSWfHQaIV"
-      },
-      {
-        "label": "Epic",
-        "url": "https://sfile.mobi/1dkQfdRDFUw"
-      },
-      {
-        "label": "SABER",
-        "url": "https://sfile.mobi/5guSu3Br6gZ"
-      }
-    ]
-  },
-  {
     "id": 60,
     "video": "",
     "title": "Lunox Legend",
@@ -2549,54 +2901,7 @@
       }
     ]
   },
-  {
-    "id": 59,
-    "video": "",
-    "title": "Franco Legend",
-    "category": "legend",
-    "slug": "franco-legend",
-    "date": "2025-06-27",
-    "shortStory": "Franco is the only warrior on the Frozen Ocean who can lead people in the fighter against Bane. In one battle, Franco saw through Bane's tricks and finally defeated him. Life was brought back to the Northern Vale under his leadership.",
-    "image": "https://res.cloudinary.com/dhwrdfmdt/image/upload/v1750812720/francoleg_aeojyp.jpg",
-    "download": [
-      {
-        "label": "Default",
-        "url": "https://sfile.mobi/5gvwq6sBxCH"
-      },
-      {
-        "label": "Special",
-        "url": "https://sfile.mobi/73jxps5Ljiw"
-      },
-      {
-        "label": "Starlight",
-        "url": "https://sfile.mobi/7EfxK1fjTUd"
-      },
-      {
-        "label": "Season",
-        "url": "https://sfile.mobi/8mzy8FfrbiN"
-      },
-      {
-        "label": "Halloween",
-        "url": "https://sfile.mobi/2aruIM54M4w"
-      },
-      {
-        "label": "Luckybox",
-        "url": "https://sfile.mobi/3eVvjECSe4Y"
-      },
-      {
-        "label": "TOP UP",
-        "url": "https://sfile.mobi/ao9zgHjZkca"
-      },
-      {
-        "label": "MPL",
-        "url": "https://sfile.mobi/3PRvEzBWLu4"
-      },
-      {
-        "label": "Blazing",
-        "url": "https://sfile.mobi/7i5xzmWsyAr"
-      }
-    ]
-  },
+
   {
     "id": 58,
     "video": "",
@@ -2697,114 +3002,7 @@
       }
     ]
   },
-  {
-    "id": 56,
-    "video": "",
-    "title": "Granger Legend",
-    "category": "legend",
-    "slug": "granger-legend",
-    "date": "2025-06-27",
-    "shortStory": "Granger, a demon hunter who walks the line between human and demon, always preferred to keep to himself. But if someone could enter his world, they would realize how terrifying it is—the incessant howls and shrill cries constantly deafening his ears and heart. When he draws his demon-devouring weapons and unleashes a hail of bullets, the agonizing howls of demons become a requiem playing in the depths of his soul. Only the intertwining of their death shrieks and the sound of gunfire can drown out the noise that torments him daily. Each shot fired by Granger is not only his performance against the Abyss, but also an expression of his lament.",
-    "image": "https://res.cloudinary.com/dhwrdfmdt/image/upload/v1750812727/grangerleg_nba5fu.jpg",
-    "download": [
-      {
-        "label": "Default",
-        "url": "https://sfile.mobi/6H9x9auEAoF"
-      },
-      {
-        "label": "Basic",
-        "url": "https://sfile.mobi/7wRxBTlkBiO"
-      },
-      {
-        "label": "Elite",
-        "url": "https://sfile.mobi/87NxWsuTbUx"
-      },
-      {
-        "label": "Starlight",
-        "url": "https://sfile.mobi/73jxlVMBGMM"
-      },
-      {
-        "label": "Lightborn",
-        "url": "https://sfile.mobi/7ptxylf2P6j"
-      },
-      {
-        "label": "Collector",
-        "url": "https://sfile.mobi/2aruFfLV9Cy"
-      },
-      {
-        "label": "Transformers",
-        "url": "https://sfile.mobi/ao9zctlNMkf"
-      },
-      {
-        "label": "Create",
-        "url": "https://sfile.mobi/bdRzFn7eMg7"
-      },
-      {
-        "label": "Exorcist",
-        "url": "https://sfile.mobi/2pduNWdjxeR"
-      },
-      {
-        "label": "Valentine",
-        "url": "https://sfile.mobi/7aHxqTcXjqJ"
-      }
-    ]
-  },
-  {
-    "id": 55,
-    "video": "",
-    "title": "Gusion Legend",
-    "category": "legend",
-    "slug": "gusion-legend",
-    "date": "2025-06-27",
-    "shortStory": "Although he was born into the most powerful magic family on the continent, Gusion is not interested in magic. He is keen to draw inspiration from the holy light to develop new fighting skills. In the end, Gusion left the family.",
-    "image": "https://res.cloudinary.com/dhwrdfmdt/image/upload/v1750812760/gusionleg_lvn2lm.jpg",
-    "download": [
-      {
-        "label": "Default",
-        "url": "https://sfile.mobi/51IV8r2Vi01"
-      },
-      {
-        "label": "Basic",
-        "url": "https://sfile.mobi/b6sYh2HToI7"
-      },
-      {
-        "label": "Elite",
-        "url": "https://sfile.mobi/3miU08wfDOj"
-      },
-      {
-        "label": "OLD Starlight",
-        "url": "https://sfile.mobi/1dkSOUaVGmU"
-      },
-      {
-        "label": "Valentine",
-        "url": "https://sfile.mobi/2pcTtRzhQYJ"
-      },
-      {
-        "label": "VENOM",
-        "url": "https://sfile.mobi/2pcTu2u2POv"
-      },
-      {
-        "label": "KOF",
-        "url": "https://sfile.mobi/a9mXLivcyW0"
-      },
-      {
-        "label": "Collector",
-        "url": "https://sfile.mobi/5nSV8Hl4JiL"
-      },
-      {
-        "label": "Epic",
-        "url": "https://sfile.mobi/8tWWQny7sIi"
-      },
-      {
-        "label": "11.11",
-        "url": "https://sfile.mobi/3PQUhvp2p27"
-      },
-      {
-        "label": "NEW Starlight",
-        "url": "https://sfile.mobi/bleYqMDPFY7"
-      }
-    ]
-  },
+
   {
     "id": 54,
     "video": "",
@@ -2861,58 +3059,7 @@
       }
     ]
   },
-  {
-    "id": 53,
-    "video": "",
-    "title": "Alucard Legend",
-    "category": "legend",
-    "slug": "alucard-legend",
-    "date": "2025-06-27",
-    "shortStory": "Alucard's father was a comrade-in-arms of Tigreal who disappeared in a battle with the Demons. Therefore, he hated darkness, joined the Monastery of Light, and swore to destory all Demons. But later he learned the hidden secrets of this battle, so he left the Monastery of Light in anger and fought the darkness in his own way.",
-    "image": "https://res.cloudinary.com/dhwrdfmdt/image/upload/v1750812817/alucardleg_vjhcr5.jpg",
-    "download": [
-      {
-        "label": "Default",
-        "url": "https://sfile.mobi/6dASUlqDx6c"
-      },
-      {
-        "label": "Basic",
-        "url": "https://sfile.mobi/7EeTH6GBb2X"
-      },
-      {
-        "label": "Season",
-        "url": "https://sfile.mobi/4yaRZBojqw2"
-      },
-      {
-        "label": "Luckybox",
-        "url": "https://sfile.mobi/66cSQNklLUH"
-      },
-      {
-        "label": "Starlight",
-        "url": "https://sfile.mobi/bsCVOuoj5u7"
-      },
-      {
-        "label": "Valentine",
-        "url": "https://sfile.mobi/596SkHi8WIT"
-      },
-      {
-        "label": "Empire Agent",
-        "url": "https://sfile.mobi/6zKT7OnCyAU"
-      },
-      {
-        "label": "Lightborn",
-        "url": "https://sfile.mobi/9r2UHRDON2l"
-      },
-      {
-        "label": "Starwars",
-        "url": "https://sfile.mobi/7T0TR1xiqkh"
-      },
-      {
-        "label": "Special",
-        "url": "https://sfile.mobi/73iToPqTm0R"
-      }
-    ]
-  },
+
   {
     "id": 52,
     "video": "",
@@ -6014,146 +6161,7 @@
       }
     ]
   },
-  {
-    "id": 18,
-    "video": "https://youtu.be/12FKpHKJXgo",
-    "title": "Cecilion Hunter X Hunter",
-    "category": "HXH",
-    "slug": "cecilion-hxh",
-    "date": "2025-06-09",
-    "shortStory": "As a blood demon, Cecilion in love with human girl Carmilla, but cruel reality made Cecilion give up on their love. After Cecilion left, Carmilla chose to commit suicide which made Cecilion desperately sad. He used his abilities to turn Carmilla into Blood Demon. From then on, the two of them stayed away in the world together forever.",
-    "image": "https://res.cloudinary.com/dhwrdfmdt/image/upload/v1750813062/cecilionhxhnew_mzaa7s.jpg",
-    "download": [
-      {
-        "label": "Default",
-        "url": "https://sfile.mobi/4c1fldJZU4Z"
-      },
-      {
-        "label": "Basic",
-        "url": "https://sfile.mobi/b6tj9VPeAo7"
-      },
-      {
-        "label": "Elite",
-        "url": "https://sfile.mobi/4qNftJgDiM2"
-      },
-      {
-        "label": "Valentine",
-        "url": ""
-      },
-      {
-        "label": "Starlight",
-        "url": "https://sfile.mobi/6VVgRxZ9nOv"
-      },
-      {
-        "label": "Collector",
-        "url": "https://sfile.mobi/b6tjaDugvu7"
-      }
-    ]
-  },
-  {
-    "id": 17,
-    "video": "https://youtu.be/zqDs5JIDgDU",
-    "title": "Dyrroth Hunter X Hunter",
-    "category": "HXH",
-    "slug": "dyrroth-hxh",
-    "date": "2025-06-09",
-    "shortStory": "Twelve years ago, a prince was born in the Moniyan Empire. He was a symbol of salvation and justice for his people. It was believed that he would lead the Moniyan Empire in unifying the Land of Dawn. The Empire Nobles gave everything to the prince..",
-    "image": "https://res.cloudinary.com/dhwrdfmdt/image/upload/v1750813151/dyrrothhxhnew_kixbjr.jpg",
-    "download": [
-      {
-        "label": "Default",
-        "url": "https://sfile.mobi/bONjwZAx3i7"
-      },
-      {
-        "label": "Basic",
-        "url": "https://sfile.mobi/66dgnpOpwcm"
-      },
-      {
-        "label": "KOF",
-        "url": "https://sfile.mobi/8fbhyZZfri4"
-      },
-      {
-        "label": "Starlight",
-        "url": "https://sfile.mobi/a9niCqsXVmR"
-      },
-      {
-        "label": "VENOM",
-        "url": "https://sfile.mobi/4qNfsQGQoE4"
-      },
-      {
-        "label": "Collector",
-        "url": "https://sfile.mobi/blfjhyM55Q7"
-      }
-    ]
-  },
-  {
-    "id": 16,
-    "video": "https://youtu.be/_31fTXw-z8I",
-    "title": "Julian Hunter X Hunter",
-    "category": "HXH",
-    "slug": "julian-hxh",
-    "date": "2025-06-09",
-    "shortStory": "Julian was the son of Terizla, the leader of the Free Smiths' Guild. The guild was exterminated by the Church of Light on charges of heresy when Julian was at an early age. The poor child was then adopted by the archbishop, trained and molded to be an elite member of the Ravens, a secret force that listened only to the archbishop's orders. Later, on his mission to 'purify' Xavier, he caught a glimpse of the secret buried in time",
-    "image": "https://res.cloudinary.com/dhwrdfmdt/image/upload/v1750812787/julianhxhnew_dtssvw.jpg",
-    "download": [
-      {
-        "label": "Default",
-        "url": "https://sfile.mobi/2LlUwURjUst"
-      },
-      {
-        "label": "Basic",
-        "url": "https://sfile.mobi/9FNYlCWyAwW"
-      },
-      {
-        "label": "JJK",
-        "url": "https://sfile.mobi/4jnVohI7dC9"
-      }
-    ]
-  },
-  {
-    "id": 15,
-    "video": "https://youtu.be/PwSKTe6kvGc",
-    "title": "Harith Hunter X Hunter",
-    "category": "HXH",
-    "slug": "harith-hxh",
-    "date": "2025-06-09",
-    "shortStory": "rom a young age, Harith surpassed his peers in talent and wisdom. He quickly became the strongest mage among the Leonins, perhaps as strong as other in the Land of Dawn. Although, the Leonins never step foot outside of the Enchanted Forest, living a peaceful and safe life on their own. The Leonins became so complacent with their blissful existence that they no longer pursed the magic arts, a hallmark of their people. Harith became very discontent with this trend and confidently set out of the Enchanted Forest to see the outside world at the young age of 15. Harith was driven by his and passion for the magic arts, aspiring to become his people's leader in magic",
-    "image": "https://res.cloudinary.com/dhwrdfmdt/image/upload/v1750812765/harithhxhnew_wwzwoa.jpg",
-    "download": [
-      {
-        "label": "Default",
-        "url": "https://sfile.mobi/7wPX6wsz3UX"
-      },
-      {
-        "label": "Basic",
-        "url": "https://sfile.mobi/6VTWMj8wqQS"
-      },
-      {
-        "label": "Elite",
-        "url": "https://sfile.mobi/3mhUO8CtQAj"
-      },
-      {
-        "label": "515",
-        "url": "https://sfile.mobi/1OfTXivXtSc"
-      },
-      {
-        "label": "Lightborn",
-        "url": "https://sfile.mobi/80nXnxvPQA0"
-      },
-      {
-        "label": "Champion",
-        "url": "https://sfile.mobi/9r1YaEBjsk6"
-      },
-      {
-        "label": "Collector",
-        "url": "https://sfile.mobi/6OvWJ6RKCIo"
-      },
-      {
-        "label": "Christmast",
-        "url": "https://sfile.mobi/37vUGRv9jq9"
-      }
-    ]
-  },
+
   {
     "id": 81,
     "video": "",
