@@ -1,5 +1,309 @@
 [
   {
+    "id": 115,
+    "video": "https://youtu.be/OhqEbnYerpc",
+    "title": "Floryn Sanrio",
+    "category": "sanrio",
+    "slug": "floryn-sanrio",
+    "date": "2025-09-06",
+    "shortStory": "Belerick stumbled upon the decline of Agelta Drylands during a meander of his many ago.The despair and sorrow almost consumed him, when a blooming little flower suddenly broke into his sight. There's still life! Moved by such tenacious vitality, the treant decided to create what was later known as the Oasis at the place. While creating the Oasis, Belerick unintentionally poured more power into the little flower, and the overflowing energy condensed into a glowing seed. The little flower, however, underwent an even more peculiar transition. It turned into a life form that had never appeared on the Land of Dawn–Floryn.",
+    "image": "https://res.cloudinary.com/dhwrdfmdt/image/upload/v1750812755/florynsanrio_i8jsuc.jpg",
+    "download": [
+      {
+        "label": "Default",
+        "url": "https://sfile.mobi/5CGjQrcRs4k"
+      },
+      {
+        "label": "Basic",
+        "url": "https://sfile.mobi/3B6iJhI6daC"
+      },
+      {
+        "label": "Elite",
+        "url": "https://sfile.mobi/7wSkU2BkVax"
+      },
+      {
+        "label": "Summer",
+        "url": "https://sfile.mobi/3eWixoZW126"
+      },
+      {
+        "label": "Collector",
+        "url": "https://sfile.mobi/1zwhCu2QVOf"
+      }
+    ]
+  },
+  {
+    "id": 114,
+    "video": "https://youtu.be/HSs9TKNfHPE",
+    "title": "Change Sanrio",
+    "category": "sanrio",
+    "slug": "change-sanrio",
+    "date": "2025-09-06",
+    "shortStory": "The Great Dragon's youngest disciple. Because she was mischievous, the Great Dragon handed her over to Zilong for discipline. After Zilong took on the huge responsibility of protecting the Cadia Riverlands and left the Dragon Altar, Chang'e regained her willful nature. the Great Dragon was unable to bear it and drove her out of the Dragon Altar and ask her to help Zilong to make up for her mistake.",
+    "image": "https://res.cloudinary.com/dhwrdfmdt/image/upload/v1750813089/changesanrio_ew19vt.jpg",
+    "download": [
+      {
+        "label": "Default",
+        "url": "https://sfile.mobi/9cilN1u5d6O"
+      },
+      {
+        "label": "Basic",
+        "url": "https://sfile.mobi/94UlJ7yhtmP"
+      },
+      {
+        "label": "Elite",
+        "url": "https://sfile.mobi/1GUhErUjSwz"
+      },
+      {
+        "label": "Special",
+        "url": "https://sfile.mobi/bHqnbc27gO7"
+      },
+      {
+        "label": "Luckybox",
+        "url": "https://sfile.mobi/9FQm42xm0w1"
+      },
+      {
+        "label": "Starlight",
+        "url": "https://sfile.mobi/1OihJ3v9xCr"
+      },
+      {
+        "label": "Epic",
+        "url": "https://sfile.mobi/9jGlSGzsKQT"
+      },
+      {
+        "label": "Aspirants",
+        "url": "https://sfile.mobi/aoamt2mZgsc"
+      },
+      {
+        "label": "Lunar Fest",
+        "url": "https://sfile.mobi/aKkmFrPqpME"
+      }
+    ]
+  },
+  {
+    "id": 113,
+    "video": "https://youtu.be/zdrkcM8M82k",
+    "title": "Angela Sanrio",
+    "category": "sanrio",
+    "slug": "angela-sanrio",
+    "date": "2025-09-06",
+    "shortStory": "An android created by the founder of Laboratory 1718, Dr. Baker. It was the first life form created without using human body or soul. In order to gain the knowledge of her, other scientists in the lab went after Dr. Baker. Before taken away, Dr. Baker stuffed her into a flight capsule to escape.",
+    "image": "https://res.cloudinary.com/dhwrdfmdt/image/upload/v1750813009/angelsanrio_lsh8m5.jpg",
+    "download": [
+      {
+        "label": "Default",
+        "url": "https://sfile.mobi/5gtX9uIdQQ1"
+      },
+      {
+        "label": "Basic",
+        "url": "https://sfile.mobi/37vVYgmTTiK"
+      },
+      {
+        "label": "Starlight",
+        "url": "https://sfile.mobi/6kXXKyaMhy1"
+      },
+      {
+        "label": "VENOM",
+        "url": "https://sfile.mobi/a1XZN9mTy8K"
+      },
+      {
+        "label": "Halloween",
+        "url": "https://sfile.mobi/595X67wH3qm"
+      },
+      {
+        "label": "Summer",
+        "url": "https://sfile.mobi/avw03OAEogE"
+      },
+      {
+        "label": "Collector",
+        "url": "https://sfile.mobi/5vfXiHTTaMI"
+      },
+      {
+        "label": "Aspirants",
+        "url": "https://sfile.mobi/6zJXTLmrBKB"
+      },
+      {
+        "label": "Annual Starlight",
+        "url": "https://sfile.mobi/2pbVBcBBqkY"
+      },
+      {
+        "label": "Kishin",
+        "url": "https://sfile.mobi/3mhW8bdB8Ad"
+      }
+    ]
+  },
+  {
+    "id": 112,
+    "video": "https://youtu.be/q-FsmWcTJcE",
+    "title": "Claude Sanrio",
+    "category": "sanrio",
+    "slug": "claude-sanrio",
+    "date": "2025-09-06",
+    "shortStory": "Claude grew up living in Los Pecados. The circumstances in his life forced him into becoming an incredible thief. But he was used by Kane and went to prison and chains. In prison, he met Merlin, the god of thieves, and inherited his mantle, successfully escaping from prison. After completing an agreement with Merlin, Claude returned to Los Pecados with his new partner Dexter, ready to take revenge on Kane.",
+    "image": "https://res.cloudinary.com/dhwrdfmdt/image/upload/v1750813089/claudesanrio_lsvlxb.jpg",
+    "download": [
+      {
+        "label": "Default",
+        "url": "https://sfile.mobi/598jBbjasEM"
+      },
+      {
+        "label": "Basic",
+        "url": "https://sfile.mobi/598jB0optSb"
+      },
+      {
+        "label": "Starlight",
+        "url": "https://sfile.mobi/80qlbezmHmh"
+      },
+      {
+        "label": "Luckybox",
+        "url": "https://sfile.mobi/9UCmeF35bqP"
+      },
+      {
+        "label": "Summer",
+        "url": "https://sfile.mobi/6l0kgux2BU7"
+      },
+      {
+        "label": "Christmast",
+        "url": "https://sfile.mobi/4FAjlzzXvGd"
+      },
+      {
+        "label": "MSC",
+        "url": "https://sfile.mobi/1s8hzDBB52m"
+      },
+      {
+        "label": "Valentine",
+        "url": "https://sfile.mobi/2hQi2msh5Ss"
+      },
+      {
+        "label": "Blazing",
+        "url": "https://sfile.mobi/8tYlsBs9sAX"
+      },
+      {
+        "label": "M6",
+        "url": "https://sfile.mobi/3tIiHuLofeX"
+      },
+      {
+        "label": "Prime",
+        "url": "https://sfile.mobi/agMms804dUC"
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "video": "https://youtu.be/-qruaKOQDNo",
+    "title": "Melissa Jujutsu Kaisen",
+    "category": "Jujutsu",
+    "slug": "melissa-jujutsu-kaisen",
+    "date": "2025-06-06",
+    "shortStory": "As an illegitimate child of a noble, Melissa grew up in the Lumina City, capital of the Moniyan Empire, where she runs a small tailor shop and down with black magic, she uses cursed needles to fight solving problems for her clients in unique ways.",
+    "image": "https://res.cloudinary.com/dhwrdfmdt/image/upload/v1750812892/melissajjk_ow0wce.jpg",
+    "download": [
+      {
+        "label": "Default",
+        "url": "https://sfile.mobi/4bZKdiIqUMv"
+      },
+      {
+        "label": "Basic",
+        "url": "https://sfile.mobi/bdPO65Eeju7"
+      },
+      {
+        "label": "Starlight",
+        "url": "https://sfile.mobi/73hLNwTo8oP"
+      },
+      {
+        "label": "Sparkle",
+        "url": "https://sfile.mobi/aKhNQ85vpYj"
+      },
+      {
+        "label": "Collector",
+        "url": "https://sfile.mobi/3tFJPIcRvqn"
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "video": "https://youtu.be/YsYCdtzm2Z0",
+    "title": "Xavier Jujutsu Kaisen",
+    "category": "Jujutsu",
+    "slug": "xavier-jujutsu-kaisen",
+    "date": "2025-06-06",
+    "shortStory": "Xavier was a member of the Knights of Light who was awarded the title 'Arbiter of Light'. After suppressing Terizla's Free Smiths' Guild, Xavier underwent a decade of inner struggle and despondency. And when he was ordered to capture the two 'heretics', Yin and Melissa, he was once again forced to choose between duty and conscience…",
+    "image": "https://res.cloudinary.com/dhwrdfmdt/image/upload/v1750813003/xavierjjk_yhugbj.jpg",
+    "download": [
+      {
+        "label": "Default",
+        "url": "https://sfile.mobi/9r1N0VO4aku"
+      },
+      {
+        "label": "Basic",
+        "url": "https://sfile.mobi/3eTJCh30CQJ"
+      },
+      {
+        "label": "Starlight",
+        "url": "https://sfile.mobi/8f9MnJzhNSm"
+      },
+      {
+        "label": "BTC",
+        "url": "https://sfile.mobi/94RMQspXOMM"
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "video": "https://youtu.be/SpyXaSOOh6c",
+    "title": "Yin Jujutsu Kaisen",
+    "category": "Jujutsu",
+    "slug": "yin-jujutsu-kaisen",
+    "date": "2025-06-06",
+    "shortStory": "Among the four renowned members of Forsaken Light, one young man from the East stands out. Known as Yin, this simple and righteous martial artist sometimes exudes a sinister aura, creating a stark contrast that leaves many wary of him. Few know that his wild and violent behavior stems from the Evil God, Lieh, dwelling within him. He is the reason Yin left his home in the Cadia Riverlands—to hone himself in the Land of Dawn and find a way to defeat Lieh. But Yin's struggles in this foreign land have had the opposite effect; as a being that thrives on chaos, the more Yin fights, the faster Lieh can recover his power. Thus, Lieh began to impart his power to Yin, watching him sink deeper into madness with each act of righteousness and chivalry, and leading him toward the self-destruction Lieh desires. However, even knowing the risks, Yin continues to wield this power—because for him, abandoning his code and ignoring the suffering of others would make him no better than Lieh. Yin never backs down from a challenge, god or no god.",
+    "image": "https://res.cloudinary.com/dhwrdfmdt/image/upload/v1750813039/yinjjk_nkir26.jpg",
+    "download": [
+      {
+        "label": "Default",
+        "url": "https://sfile.mobi/b6rO4PrNiE7"
+      },
+      {
+        "label": "Basic",
+        "url": "https://sfile.mobi/2DXJpsaNewf"
+      },
+      {
+        "label": "M World",
+        "url": "https://sfile.mobi/5vfKZvqZt6E"
+      },
+      {
+        "label": "Starlight",
+        "url": "https://sfile.mobi/4y9Kteu1G8k"
+      },
+      {
+        "label": "Attack on Titan",
+        "url": "https://sfile.mobi/7wPM7mAMDej"
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "video": "https://youtu.be/f0luSdxuhLk",
+    "title": "Julian Jujutsu Kaisen",
+    "category": "Jujutsu",
+    "slug": "julian-jujutsu-kaisen",
+    "date": "2025-06-06",
+    "shortStory": "Julian was the son of Terizla, the leader of the Free Smiths' Guild. The guild was exterminated by the Church of Light on charges of heresy when Julian was at an early age. The poor child was then adopted by the archbishop, trained and molded to be an elite member of the Ravens, a secret force that listened only to the archbishop's orders. Later, on his mission to 'purify' Xavier, he caught a glimpse of the secret buried in time",
+    "image": "https://res.cloudinary.com/dhwrdfmdt/image/upload/v1750812791/julianjjk_p9vb4z.jpg",
+    "download": [
+      {
+        "label": "Default",
+        "url": "https://sfile.mobi/2LlJREranuL"
+      },
+      {
+        "label": "Basic",
+        "url": "https://sfile.mobi/4UjL3eC0iAq"
+      },
+      {
+        "label": "Kurapika",
+        "url": "https://sfile.mobi/9NbNk23iBUS"
+      }
+    ]
+  },
+  {
     "id": 53,
     "video": "",
     "title": "Alucard Legend",
@@ -5773,195 +6077,6 @@
     ]
   },
   {
-    "id": 115,
-    "video": "https://youtu.be/OhqEbnYerpc",
-    "title": "Floryn Sanrio",
-    "category": "sanrio",
-    "slug": "floryn-sanrio",
-    "date": "2025-06-12",
-    "shortStory": "Belerick stumbled upon the decline of Agelta Drylands during a meander of his many ago.The despair and sorrow almost consumed him, when a blooming little flower suddenly broke into his sight. There's still life! Moved by such tenacious vitality, the treant decided to create what was later known as the Oasis at the place. While creating the Oasis, Belerick unintentionally poured more power into the little flower, and the overflowing energy condensed into a glowing seed. The little flower, however, underwent an even more peculiar transition. It turned into a life form that had never appeared on the Land of Dawn–Floryn.",
-    "image": "https://res.cloudinary.com/dhwrdfmdt/image/upload/v1750812755/florynsanrio_i8jsuc.jpg",
-    "download": [
-      {
-        "label": "Default",
-        "url": "https://sfile.mobi/5CGjQrcRs4k"
-      },
-      {
-        "label": "Basic",
-        "url": "https://sfile.mobi/3B6iJhI6daC"
-      },
-      {
-        "label": "Elite",
-        "url": "https://sfile.mobi/7wSkU2BkVax"
-      },
-      {
-        "label": "Summer",
-        "url": "https://sfile.mobi/3eWixoZW126"
-      },
-      {
-        "label": "Collector",
-        "url": "https://sfile.mobi/1zwhCu2QVOf"
-      }
-    ]
-  },
-  {
-    "id": 114,
-    "video": "https://youtu.be/HSs9TKNfHPE",
-    "title": "Change Sanrio",
-    "category": "sanrio",
-    "slug": "change-sanrio",
-    "date": "2025-06-12",
-    "shortStory": "The Great Dragon's youngest disciple. Because she was mischievous, the Great Dragon handed her over to Zilong for discipline. After Zilong took on the huge responsibility of protecting the Cadia Riverlands and left the Dragon Altar, Chang'e regained her willful nature. the Great Dragon was unable to bear it and drove her out of the Dragon Altar and ask her to help Zilong to make up for her mistake.",
-    "image": "https://res.cloudinary.com/dhwrdfmdt/image/upload/v1750813089/changesanrio_ew19vt.jpg",
-    "download": [
-      {
-        "label": "Default",
-        "url": "https://sfile.mobi/9cilN1u5d6O"
-      },
-      {
-        "label": "Basic",
-        "url": "https://sfile.mobi/94UlJ7yhtmP"
-      },
-      {
-        "label": "Elite",
-        "url": "https://sfile.mobi/1GUhErUjSwz"
-      },
-      {
-        "label": "Special",
-        "url": "https://sfile.mobi/bHqnbc27gO7"
-      },
-      {
-        "label": "Luckybox",
-        "url": "https://sfile.mobi/9FQm42xm0w1"
-      },
-      {
-        "label": "Starlight",
-        "url": "https://sfile.mobi/1OihJ3v9xCr"
-      },
-      {
-        "label": "Epic",
-        "url": "https://sfile.mobi/9jGlSGzsKQT"
-      },
-      {
-        "label": "Aspirants",
-        "url": "https://sfile.mobi/aoamt2mZgsc"
-      },
-      {
-        "label": "Lunar Fest",
-        "url": "https://sfile.mobi/aKkmFrPqpME"
-      }
-    ]
-  },
-  {
-    "id": 113,
-    "video": "https://youtu.be/zdrkcM8M82k",
-    "title": "Angela Sanrio",
-    "category": "sanrio",
-    "slug": "angela-sanrio",
-    "date": "2025-06-12",
-    "shortStory": "An android created by the founder of Laboratory 1718, Dr. Baker. It was the first life form created without using human body or soul. In order to gain the knowledge of her, other scientists in the lab went after Dr. Baker. Before taken away, Dr. Baker stuffed her into a flight capsule to escape.",
-    "image": "https://res.cloudinary.com/dhwrdfmdt/image/upload/v1750813009/angelsanrio_lsh8m5.jpg",
-    "download": [
-      {
-        "label": "Default",
-        "url": "https://sfile.mobi/5gtX9uIdQQ1"
-      },
-      {
-        "label": "Basic",
-        "url": "https://sfile.mobi/37vVYgmTTiK"
-      },
-      {
-        "label": "Starlight",
-        "url": "https://sfile.mobi/6kXXKyaMhy1"
-      },
-      {
-        "label": "VENOM",
-        "url": "https://sfile.mobi/a1XZN9mTy8K"
-      },
-      {
-        "label": "Halloween",
-        "url": "https://sfile.mobi/595X67wH3qm"
-      },
-      {
-        "label": "Summer",
-        "url": "https://sfile.mobi/avw03OAEogE"
-      },
-      {
-        "label": "Collector",
-        "url": "https://sfile.mobi/5vfXiHTTaMI"
-      },
-      {
-        "label": "Aspirants",
-        "url": "https://sfile.mobi/6zJXTLmrBKB"
-      },
-      {
-        "label": "Annual Starlight",
-        "url": "https://sfile.mobi/2pbVBcBBqkY"
-      },
-      {
-        "label": "Kishin",
-        "url": "https://sfile.mobi/3mhW8bdB8Ad"
-      }
-    ]
-  },
-  {
-    "id": 112,
-    "video": "https://youtu.be/q-FsmWcTJcE",
-    "title": "Claude Sanrio",
-    "category": "sanrio",
-    "slug": "claude-sanrio",
-    "date": "2025-06-12",
-    "shortStory": "Claude grew up living in Los Pecados. The circumstances in his life forced him into becoming an incredible thief. But he was used by Kane and went to prison and chains. In prison, he met Merlin, the god of thieves, and inherited his mantle, successfully escaping from prison. After completing an agreement with Merlin, Claude returned to Los Pecados with his new partner Dexter, ready to take revenge on Kane.",
-    "image": "https://res.cloudinary.com/dhwrdfmdt/image/upload/v1750813089/claudesanrio_lsvlxb.jpg",
-    "download": [
-      {
-        "label": "Default",
-        "url": "https://sfile.mobi/598jBbjasEM"
-      },
-      {
-        "label": "Basic",
-        "url": "https://sfile.mobi/598jB0optSb"
-      },
-      {
-        "label": "Starlight",
-        "url": "https://sfile.mobi/80qlbezmHmh"
-      },
-      {
-        "label": "Luckybox",
-        "url": "https://sfile.mobi/9UCmeF35bqP"
-      },
-      {
-        "label": "Summer",
-        "url": "https://sfile.mobi/6l0kgux2BU7"
-      },
-      {
-        "label": "Christmast",
-        "url": "https://sfile.mobi/4FAjlzzXvGd"
-      },
-      {
-        "label": "MSC",
-        "url": "https://sfile.mobi/1s8hzDBB52m"
-      },
-      {
-        "label": "Valentine",
-        "url": "https://sfile.mobi/2hQi2msh5Ss"
-      },
-      {
-        "label": "Blazing",
-        "url": "https://sfile.mobi/8tYlsBs9sAX"
-      },
-      {
-        "label": "M6",
-        "url": "https://sfile.mobi/3tIiHuLofeX"
-      },
-      {
-        "label": "Prime",
-        "url": "https://sfile.mobi/agMms804dUC"
-      }
-    ]
-  },
-
-  {
     "id": 67,
     "video": "",
     "title": "Alucard Luckybox",
@@ -6539,122 +6654,6 @@
       {
         "label": "Aspirants",
         "url": "https://sfile.mobi/3Xg5NXY9OE1"
-      }
-    ]
-  },
-  {
-    "id": 14,
-    "video": "https://youtu.be/-qruaKOQDNo",
-    "title": "Melissa Jujutsu Kaisen",
-    "category": "Jujutsu",
-    "slug": "melissa-jujutsu-kaisen",
-    "date": "2025-06-06",
-    "shortStory": "As an illegitimate child of a noble, Melissa grew up in the Lumina City, capital of the Moniyan Empire, where she runs a small tailor shop and down with black magic, she uses cursed needles to fight solving problems for her clients in unique ways.",
-    "image": "https://res.cloudinary.com/dhwrdfmdt/image/upload/v1750812892/melissajjk_ow0wce.jpg",
-    "download": [
-      {
-        "label": "Default",
-        "url": "https://sfile.mobi/4bZKdiIqUMv"
-      },
-      {
-        "label": "Basic",
-        "url": "https://sfile.mobi/bdPO65Eeju7"
-      },
-      {
-        "label": "Starlight",
-        "url": "https://sfile.mobi/73hLNwTo8oP"
-      },
-      {
-        "label": "Sparkle",
-        "url": "https://sfile.mobi/aKhNQ85vpYj"
-      },
-      {
-        "label": "Collector",
-        "url": "https://sfile.mobi/3tFJPIcRvqn"
-      }
-    ]
-  },
-  {
-    "id": 13,
-    "video": "https://youtu.be/YsYCdtzm2Z0",
-    "title": "Xavier Jujutsu Kaisen",
-    "category": "Jujutsu",
-    "slug": "xavier-jujutsu-kaisen",
-    "date": "2025-06-06",
-    "shortStory": "Xavier was a member of the Knights of Light who was awarded the title 'Arbiter of Light'. After suppressing Terizla's Free Smiths' Guild, Xavier underwent a decade of inner struggle and despondency. And when he was ordered to capture the two 'heretics', Yin and Melissa, he was once again forced to choose between duty and conscience…",
-    "image": "https://res.cloudinary.com/dhwrdfmdt/image/upload/v1750813003/xavierjjk_yhugbj.jpg",
-    "download": [
-      {
-        "label": "Default",
-        "url": "https://sfile.mobi/9r1N0VO4aku"
-      },
-      {
-        "label": "Basic",
-        "url": "https://sfile.mobi/3eTJCh30CQJ"
-      },
-      {
-        "label": "Starlight",
-        "url": "https://sfile.mobi/8f9MnJzhNSm"
-      },
-      {
-        "label": "BTC",
-        "url": "https://sfile.mobi/94RMQspXOMM"
-      }
-    ]
-  },
-  {
-    "id": 12,
-    "video": "https://youtu.be/SpyXaSOOh6c",
-    "title": "Yin Jujutsu Kaisen",
-    "category": "Jujutsu",
-    "slug": "yin-jujutsu-kaisen",
-    "date": "2025-06-06",
-    "shortStory": "Among the four renowned members of Forsaken Light, one young man from the East stands out. Known as Yin, this simple and righteous martial artist sometimes exudes a sinister aura, creating a stark contrast that leaves many wary of him. Few know that his wild and violent behavior stems from the Evil God, Lieh, dwelling within him. He is the reason Yin left his home in the Cadia Riverlands—to hone himself in the Land of Dawn and find a way to defeat Lieh. But Yin's struggles in this foreign land have had the opposite effect; as a being that thrives on chaos, the more Yin fights, the faster Lieh can recover his power. Thus, Lieh began to impart his power to Yin, watching him sink deeper into madness with each act of righteousness and chivalry, and leading him toward the self-destruction Lieh desires. However, even knowing the risks, Yin continues to wield this power—because for him, abandoning his code and ignoring the suffering of others would make him no better than Lieh. Yin never backs down from a challenge, god or no god.",
-    "image": "https://res.cloudinary.com/dhwrdfmdt/image/upload/v1750813039/yinjjk_nkir26.jpg",
-    "download": [
-      {
-        "label": "Default",
-        "url": "https://sfile.mobi/b6rO4PrNiE7"
-      },
-      {
-        "label": "Basic",
-        "url": "https://sfile.mobi/2DXJpsaNewf"
-      },
-      {
-        "label": "M World",
-        "url": "https://sfile.mobi/5vfKZvqZt6E"
-      },
-      {
-        "label": "Starlight",
-        "url": "https://sfile.mobi/4y9Kteu1G8k"
-      },
-      {
-        "label": "Attack on Titan",
-        "url": "https://sfile.mobi/7wPM7mAMDej"
-      }
-    ]
-  },
-  {
-    "id": 11,
-    "video": "https://youtu.be/f0luSdxuhLk",
-    "title": "Julian Jujutsu Kaisen",
-    "category": "Jujutsu",
-    "slug": "julian-jujutsu-kaisen",
-    "date": "2025-06-06",
-    "shortStory": "Julian was the son of Terizla, the leader of the Free Smiths' Guild. The guild was exterminated by the Church of Light on charges of heresy when Julian was at an early age. The poor child was then adopted by the archbishop, trained and molded to be an elite member of the Ravens, a secret force that listened only to the archbishop's orders. Later, on his mission to 'purify' Xavier, he caught a glimpse of the secret buried in time",
-    "image": "https://res.cloudinary.com/dhwrdfmdt/image/upload/v1750812791/julianjjk_p9vb4z.jpg",
-    "download": [
-      {
-        "label": "Default",
-        "url": "https://sfile.mobi/2LlJREranuL"
-      },
-      {
-        "label": "Basic",
-        "url": "https://sfile.mobi/4UjL3eC0iAq"
-      },
-      {
-        "label": "Kurapika",
-        "url": "https://sfile.mobi/9NbNk23iBUS"
       }
     ]
   },
