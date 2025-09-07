@@ -1,5 +1,326 @@
 [
   {
+    "id": 28,
+    "video": "",
+    "title": "Change Aspirants",
+    "category": "aspirants",
+    "slug": "change-aspirants",
+    "date": "2025-09-07",
+    "shortStory": "The Great Dragon's youngest disciple. Because she was mischievous, the Great Dragon handed her over to Zilong for discipline. After Zilong took on the huge responsibility of protecting the Cadia Riverlands and left the Dragon Altar, Chang'e regained her willful nature. the Great Dragon was unable to bear it and drove her out of the Dragon Altar and ask her to help Zilong to make up for her mistake.",
+    "image": "https://res.cloudinary.com/dhwrdfmdt/image/upload/v1750813082/changeasp_bnd89r.jpg",
+    "download": [
+      {
+        "label": "Default",
+        "url": "https://sfile.mobi/7wRlBlUKU8B"
+      },
+      {
+        "label": "Basic",
+        "url": "https://sfile.mobi/4qNjTuMXc4s"
+      },
+      {
+        "label": "Elite",
+        "url": "https://sfile.mobi/blfnJgmJLU7"
+      },
+      {
+        "label": "Special",
+        "url": "https://sfile.mobi/233iA6KvNi2"
+      },
+      {
+        "label": "Luckybox",
+        "url": "https://sfile.mobi/8IJmgF8D2o5"
+      },
+      {
+        "label": "Starlight",
+        "url": "https://sfile.mobi/6VVlhFkZeEz"
+      },
+      {
+        "label": "Epic",
+        "url": "https://sfile.mobi/3B5jrEw45i9"
+      },
+      {
+        "label": "Sanrio",
+        "url": "https://sfile.mobi/51JkeLBxGUe"
+      },
+      {
+        "label": "Lunar Fest",
+        "url": "https://sfile.mobi/73jlmgVOTuA"
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "video": "",
+    "title": "Lesley Aspirants",
+    "category": "aspirants",
+    "slug": "lesley-aspirants",
+    "date": "2025-09-07",
+    "shortStory": "Lesley grew up in the Vance household, where her father presided over the noble family's security. During an unexpected attack by a rival family, Lesley's father was killed. As the assailants approached the Vance household, Lesley took up her father's black long rifle and fulfilled her late father's mission. Tears rolled down Lesley's cheeks as she fired shot after shot, surprisingly, each one taking down an assassin. The final tear came as the final shot took down the last of the rival family's men.",
+    "image": "https://res.cloudinary.com/dhwrdfmdt/image/upload/v1750812862/lesleyasp_z3g3as.jpg",
+    "download": [
+      {
+        "label": "Default",
+        "url": "https://sfile.mobi/2DZhwAfwv2O"
+      },
+      {
+        "label": "Basic",
+        "url": "https://sfile.mobi/5RrjiS3oTmX"
+      },
+      {
+        "label": "Elite",
+        "url": "https://sfile.mobi/7LDkmEmDlY9"
+      },
+      {
+        "label": "Special",
+        "url": "https://sfile.mobi/80pkuseeOsR"
+      },
+      {
+        "label": "Luckybox",
+        "url": "https://sfile.mobi/7T1kr52I1iZ"
+      },
+      {
+        "label": "Valentine",
+        "url": "https://sfile.mobi/1kJgOfFDxai"
+      },
+      {
+        "label": "Legend",
+        "url": "https://sfile.mobi/87Nkz3P4tyA"
+      },
+      {
+        "label": "Starlight",
+        "url": "https://sfile.mobi/7i5k6RIFpeB"
+      },
+      {
+        "label": "Collector",
+        "url": "https://sfile.mobi/4qNixlcK7Yq"
+      },
+      {
+        "label": "Annual Starlight",
+        "url": "https://sfile.mobi/aCVlXen6w0F"
+      },
+      {
+        "label": "Covenant",
+        "url": "https://sfile.mobi/7LDlIs7ksgO"
+      },
+      {
+        "label": "Meowskin",
+        "url": "https://sfile.mobi/5CJIK5vWyA4"
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "video": "",
+    "title": "Ruby Aspirants",
+    "category": "aspirants",
+    "slug": "ruby-aspirants",
+    "date": "2025-09-07",
+    "shortStory": "he village where Ruby lived was attacked by werewolves. At the time of crisis, Roger appeared to help them repel the werewolves. Roger taught Ruby how to fight and gave her a sickle so that she could protect herself and the village.",
+    "image": "https://res.cloudinary.com/dhwrdfmdt/image/upload/v1750812999/rubyasp_lszvbt.jpg",
+    "download": [
+      {
+        "label": "Default",
+        "url": "https://sfile.mobi/7wRkbkbSfYF"
+      },
+      {
+        "label": "Basic",
+        "url": "https://sfile.mobi/597iRAjUSIH"
+      },
+      {
+        "label": "Elite (Butterfly)",
+        "url": "https://sfile.mobi/1Ohh1KpKIg4"
+      },
+      {
+        "label": "Elite (Edelweiss)",
+        "url": "https://sfile.mobi/1kJgLXLMMss"
+      },
+      {
+        "label": "Luckybox",
+        "url": "https://sfile.mobi/1GTgYnedUY2"
+      },
+      {
+        "label": "Starlight",
+        "url": "https://sfile.mobi/a1ZlA1ube0L"
+      },
+      {
+        "label": "Collector",
+        "url": "https://sfile.mobi/6OxjO5vONyy"
+      },
+      {
+        "label": "Special",
+        "url": "https://sfile.mobi/bA1mrokYxM7"
+      },
+      {
+        "label": "Golden Month (Crescent)",
+        "url": "https://sfile.mobi/8mzkFsmC6Ae"
+      },
+      {
+        "label": "Golden Month (Neon)",
+        "url": "https://sfile.mobi/3B5i2vmYkgj"
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "video": "",
+    "title": "Angela Aspirants",
+    "category": "aspirants",
+    "slug": "angela-aspirants",
+    "date": "2025-09-07",
+    "shortStory": "An android created by the founder of Laboratory 1718, Dr. Baker. It was the first life form created without using human body or soul. In order to gain the knowledge of her, other scientists in the lab went after Dr. Baker. Before taken away, Dr. Baker stuffed her into a flight capsule to escape.",
+    "image": "https://res.cloudinary.com/dhwrdfmdt/image/upload/v1750812978/angelaasp_hxbfjl.jpg",
+    "download": [
+      {
+        "label": "Default",
+        "url": "https://sfile.mobi/4UkLVssmXud"
+      },
+      {
+        "label": "Basic",
+        "url": "https://sfile.mobi/44CLt5rcUgy"
+      },
+      {
+        "label": "Starlight",
+        "url": "https://sfile.mobi/1dkJTo0wDoB"
+      },
+      {
+        "label": "VENOM",
+        "url": "https://sfile.mobi/1kIJXDLQkMW"
+      },
+      {
+        "label": "Halloween",
+        "url": "https://sfile.mobi/2aqKqxxhksF"
+      },
+      {
+        "label": "Summer",
+        "url": "https://sfile.mobi/7i4Ng4U7e0E"
+      },
+      {
+        "label": "Collector",
+        "url": "https://sfile.mobi/3PQLlZeDm0A"
+      },
+      {
+        "label": "Sanrio",
+        "url": "https://sfile.mobi/b6sPmVRyc87"
+      },
+      {
+        "label": "Annual Starlight",
+        "url": "https://sfile.mobi/4qMLGUdHTqE"
+      },
+      {
+        "label": "Kishin",
+        "url": "https://sfile.mobi/6smMOpxZ60K"
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "video": "",
+    "title": "Layla Aspirants",
+    "category": "aspirants",
+    "slug": "layla-aspirants",
+    "date": "2025-09-07",
+    "shortStory": "In Eruditio—the City of Scholars, there's hardly anyone who doesn't know of Layla. She's the 'daughter of Eruditio', just like a bright star that shines over the streets of Eruditio in the darkness of night. Brave and selfless, she always had a bright and happy smile on her face while toting the gun handed to her by her grandfather, protecting Eruditio in her own way. As a child, Layla would always ask her grandfather about her parents, but his reluctance to tell her and his sad face told her it was something tragic. Because of that, Layla decided to never pain her grandfather anymore, so she stopped pursuing the matter. However, as secrets cannot be hidden forever, the truth of her birth eventually surfaced, and it turns out that her parents have always been watching her from the skies—well, in the literal sense.",
+    "image": "https://res.cloudinary.com/dhwrdfmdt/image/upload/v1750812835/laylaasp_vlpeny.jpg",
+    "download": [
+      {
+        "label": "Default",
+        "url": "https://sfile.mobi/3B3SWwKTuoa"
+      },
+      {
+        "label": "Basic",
+        "url": "https://sfile.mobi/1djRD8Is5AF"
+      },
+      {
+        "label": "OLD Starlight",
+        "url": "https://sfile.mobi/a9lWzbdcZir"
+      },
+      {
+        "label": "Valentine",
+        "url": "https://sfile.mobi/1djRDuxY3eg"
+      },
+      {
+        "label": "Blue Spectre",
+        "url": "https://sfile.mobi/5gtTSkhLtCQ"
+      },
+      {
+        "label": "Classic",
+        "url": "https://sfile.mobi/2pbSiCR5cAR"
+      },
+      {
+        "label": "SABER",
+        "url": "https://sfile.mobi/2apSaE4IKkj"
+      },
+      {
+        "label": "Blazing",
+        "url": "https://sfile.mobi/8XtVVse9Gwd"
+      },
+      {
+        "label": "NEW Starlight",
+        "url": "https://sfile.mobi/7SZVkVvSc8r"
+      },
+      {
+        "label": "Collector",
+        "url": "https://sfile.mobi/4MVTDfiPt6X"
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "video": "",
+    "title": "Fanny Aspirants",
+    "category": "aspirants",
+    "slug": "fanny-aspirants",
+    "date": "2025-09-07",
+    "shortStory": "Fanny is the younger sister of Tigreal, who grew up under the protection of her family and her elder brother since she was a child. But Tigreal took the blame for a mistake in battle and left home. Disregarding obstructions from her family, Fanny joined the army, and through her own designed weapons, she successfully completed one task after another, becoming an outstanding fighter who can take care of herself.",
+    "image": "https://res.cloudinary.com/dhwrdfmdt/image/upload/v1750813141/fannyasp_ri24hk.jpg",
+    "download": [
+      {
+        "label": "Default",
+        "url": "https://sfile.mobi/2pdZ1wpqmoR"
+      },
+      {
+        "label": "Elite",
+        "url": "https://sfile.mobi/2arYTIxOSUs"
+      },
+      {
+        "label": "Season",
+        "url": "https://sfile.mobi/7aI1FlYR2Mt"
+      },
+      {
+        "label": "Luckybox",
+        "url": "https://sfile.mobi/bOO4eKSd2w7"
+      },
+      {
+        "label": "Starlight",
+        "url": "https://sfile.mobi/309Zn93wPY7"
+      },
+      {
+        "label": "Summer",
+        "url": "https://sfile.mobi/1kNGmVagIgM"
+      },
+      {
+        "label": "Lightborn",
+        "url": "https://sfile.mobi/4FA0iAKSQEc"
+      },
+      {
+        "label": "Christmast",
+        "url": "https://sfile.mobi/51K0vb84Y0t"
+      },
+      {
+        "label": "Imperial Warrior",
+        "url": "https://sfile.mobi/7LE219xIu4j"
+      },
+      {
+        "label": "Valentine",
+        "url": "https://sfile.mobi/9r42WqkjwQE"
+      },
+      {
+        "label": "Attack on Titan",
+        "url": "https://sfile.mobi/87O2dJUUBqB"
+      }
+    ]
+  },
+
+  {
     "id": 115,
     "video": "https://youtu.be/OhqEbnYerpc",
     "title": "Floryn Sanrio",
@@ -1842,323 +2163,6 @@
       }
     ]
   },
-  {
-    "id": 28,
-    "video": "",
-    "title": "Change Aspirants",
-    "category": "aspirants",
-    "slug": "change-aspirants",
-    "date": "2025-07-15",
-    "shortStory": "The Great Dragon's youngest disciple. Because she was mischievous, the Great Dragon handed her over to Zilong for discipline. After Zilong took on the huge responsibility of protecting the Cadia Riverlands and left the Dragon Altar, Chang'e regained her willful nature. the Great Dragon was unable to bear it and drove her out of the Dragon Altar and ask her to help Zilong to make up for her mistake.",
-    "image": "https://res.cloudinary.com/dhwrdfmdt/image/upload/v1750813082/changeasp_bnd89r.jpg",
-    "download": [
-      {
-        "label": "Default",
-        "url": "https://sfile.mobi/7wRlBlUKU8B"
-      },
-      {
-        "label": "Basic",
-        "url": "https://sfile.mobi/4qNjTuMXc4s"
-      },
-      {
-        "label": "Elite",
-        "url": "https://sfile.mobi/blfnJgmJLU7"
-      },
-      {
-        "label": "Special",
-        "url": "https://sfile.mobi/233iA6KvNi2"
-      },
-      {
-        "label": "Luckybox",
-        "url": "https://sfile.mobi/8IJmgF8D2o5"
-      },
-      {
-        "label": "Starlight",
-        "url": "https://sfile.mobi/6VVlhFkZeEz"
-      },
-      {
-        "label": "Epic",
-        "url": "https://sfile.mobi/3B5jrEw45i9"
-      },
-      {
-        "label": "Sanrio",
-        "url": "https://sfile.mobi/51JkeLBxGUe"
-      },
-      {
-        "label": "Lunar Fest",
-        "url": "https://sfile.mobi/73jlmgVOTuA"
-      }
-    ]
-  },
-  {
-    "id": 27,
-    "video": "",
-    "title": "Lesley Aspirants",
-    "category": "aspirants",
-    "slug": "lesley-aspirants",
-    "date": "2025-07-15",
-    "shortStory": "Lesley grew up in the Vance household, where her father presided over the noble family's security. During an unexpected attack by a rival family, Lesley's father was killed. As the assailants approached the Vance household, Lesley took up her father's black long rifle and fulfilled her late father's mission. Tears rolled down Lesley's cheeks as she fired shot after shot, surprisingly, each one taking down an assassin. The final tear came as the final shot took down the last of the rival family's men.",
-    "image": "https://res.cloudinary.com/dhwrdfmdt/image/upload/v1750812862/lesleyasp_z3g3as.jpg",
-    "download": [
-      {
-        "label": "Default",
-        "url": "https://sfile.mobi/2DZhwAfwv2O"
-      },
-      {
-        "label": "Basic",
-        "url": "https://sfile.mobi/5RrjiS3oTmX"
-      },
-      {
-        "label": "Elite",
-        "url": "https://sfile.mobi/7LDkmEmDlY9"
-      },
-      {
-        "label": "Special",
-        "url": "https://sfile.mobi/80pkuseeOsR"
-      },
-      {
-        "label": "Luckybox",
-        "url": "https://sfile.mobi/7T1kr52I1iZ"
-      },
-      {
-        "label": "Valentine",
-        "url": "https://sfile.mobi/1kJgOfFDxai"
-      },
-      {
-        "label": "Legend",
-        "url": "https://sfile.mobi/87Nkz3P4tyA"
-      },
-      {
-        "label": "Starlight",
-        "url": "https://sfile.mobi/7i5k6RIFpeB"
-      },
-      {
-        "label": "Collector",
-        "url": "https://sfile.mobi/4qNixlcK7Yq"
-      },
-      {
-        "label": "Annual Starlight",
-        "url": "https://sfile.mobi/aCVlXen6w0F"
-      },
-      {
-        "label": "Covenant",
-        "url": "https://sfile.mobi/7LDlIs7ksgO"
-      }
-    ]
-  },
-  {
-    "id": 26,
-    "video": "",
-    "title": "Ruby Aspirants",
-    "category": "aspirants",
-    "slug": "ruby-aspirants",
-    "date": "2025-07-15",
-    "shortStory": "he village where Ruby lived was attacked by werewolves. At the time of crisis, Roger appeared to help them repel the werewolves. Roger taught Ruby how to fight and gave her a sickle so that she could protect herself and the village.",
-    "image": "https://res.cloudinary.com/dhwrdfmdt/image/upload/v1750812999/rubyasp_lszvbt.jpg",
-    "download": [
-      {
-        "label": "Default",
-        "url": "https://sfile.mobi/7wRkbkbSfYF"
-      },
-      {
-        "label": "Basic",
-        "url": "https://sfile.mobi/597iRAjUSIH"
-      },
-      {
-        "label": "Elite (Butterfly)",
-        "url": "https://sfile.mobi/1Ohh1KpKIg4"
-      },
-      {
-        "label": "Elite (Edelweiss)",
-        "url": "https://sfile.mobi/1kJgLXLMMss"
-      },
-      {
-        "label": "Luckybox",
-        "url": "https://sfile.mobi/1GTgYnedUY2"
-      },
-      {
-        "label": "Starlight",
-        "url": "https://sfile.mobi/a1ZlA1ube0L"
-      },
-      {
-        "label": "Collector",
-        "url": "https://sfile.mobi/6OxjO5vONyy"
-      },
-      {
-        "label": "Special",
-        "url": "https://sfile.mobi/bA1mrokYxM7"
-      },
-      {
-        "label": "Golden Month (Crescent)",
-        "url": "https://sfile.mobi/8mzkFsmC6Ae"
-      },
-      {
-        "label": "Golden Month (Neon)",
-        "url": "https://sfile.mobi/3B5i2vmYkgj"
-      }
-    ]
-  },
-  {
-    "id": 25,
-    "video": "",
-    "title": "Angela Aspirants",
-    "category": "aspirants",
-    "slug": "angela-aspirants",
-    "date": "2025-07-15",
-    "shortStory": "An android created by the founder of Laboratory 1718, Dr. Baker. It was the first life form created without using human body or soul. In order to gain the knowledge of her, other scientists in the lab went after Dr. Baker. Before taken away, Dr. Baker stuffed her into a flight capsule to escape.",
-    "image": "https://res.cloudinary.com/dhwrdfmdt/image/upload/v1750812978/angelaasp_hxbfjl.jpg",
-    "download": [
-      {
-        "label": "Default",
-        "url": "https://sfile.mobi/4UkLVssmXud"
-      },
-      {
-        "label": "Basic",
-        "url": "https://sfile.mobi/44CLt5rcUgy"
-      },
-      {
-        "label": "Starlight",
-        "url": "https://sfile.mobi/1dkJTo0wDoB"
-      },
-      {
-        "label": "VENOM",
-        "url": "https://sfile.mobi/1kIJXDLQkMW"
-      },
-      {
-        "label": "Halloween",
-        "url": "https://sfile.mobi/2aqKqxxhksF"
-      },
-      {
-        "label": "Summer",
-        "url": "https://sfile.mobi/7i4Ng4U7e0E"
-      },
-      {
-        "label": "Collector",
-        "url": "https://sfile.mobi/3PQLlZeDm0A"
-      },
-      {
-        "label": "Sanrio",
-        "url": "https://sfile.mobi/b6sPmVRyc87"
-      },
-      {
-        "label": "Annual Starlight",
-        "url": "https://sfile.mobi/4qMLGUdHTqE"
-      },
-      {
-        "label": "Kishin",
-        "url": "https://sfile.mobi/6smMOpxZ60K"
-      }
-    ]
-  },
-  {
-    "id": 24,
-    "video": "",
-    "title": "Layla Aspirants",
-    "category": "aspirants",
-    "slug": "layla-aspirants",
-    "date": "2025-07-15",
-    "shortStory": "In Eruditio—the City of Scholars, there's hardly anyone who doesn't know of Layla. She's the 'daughter of Eruditio', just like a bright star that shines over the streets of Eruditio in the darkness of night. Brave and selfless, she always had a bright and happy smile on her face while toting the gun handed to her by her grandfather, protecting Eruditio in her own way. As a child, Layla would always ask her grandfather about her parents, but his reluctance to tell her and his sad face told her it was something tragic. Because of that, Layla decided to never pain her grandfather anymore, so she stopped pursuing the matter. However, as secrets cannot be hidden forever, the truth of her birth eventually surfaced, and it turns out that her parents have always been watching her from the skies—well, in the literal sense.",
-    "image": "https://res.cloudinary.com/dhwrdfmdt/image/upload/v1750812835/laylaasp_vlpeny.jpg",
-    "download": [
-      {
-        "label": "Default",
-        "url": "https://sfile.mobi/3B3SWwKTuoa"
-      },
-      {
-        "label": "Basic",
-        "url": "https://sfile.mobi/1djRD8Is5AF"
-      },
-      {
-        "label": "OLD Starlight",
-        "url": "https://sfile.mobi/a9lWzbdcZir"
-      },
-      {
-        "label": "Valentine",
-        "url": "https://sfile.mobi/1djRDuxY3eg"
-      },
-      {
-        "label": "Blue Spectre",
-        "url": "https://sfile.mobi/5gtTSkhLtCQ"
-      },
-      {
-        "label": "Classic",
-        "url": "https://sfile.mobi/2pbSiCR5cAR"
-      },
-      {
-        "label": "SABER",
-        "url": "https://sfile.mobi/2apSaE4IKkj"
-      },
-      {
-        "label": "Blazing",
-        "url": "https://sfile.mobi/8XtVVse9Gwd"
-      },
-      {
-        "label": "NEW Starlight",
-        "url": "https://sfile.mobi/7SZVkVvSc8r"
-      },
-      {
-        "label": "Collector",
-        "url": "https://sfile.mobi/4MVTDfiPt6X"
-      }
-    ]
-  },
-  {
-    "id": 23,
-    "video": "",
-    "title": "Fanny Aspirants",
-    "category": "aspirants",
-    "slug": "fanny-aspirants",
-    "date": "2025-07-15",
-    "shortStory": "Fanny is the younger sister of Tigreal, who grew up under the protection of her family and her elder brother since she was a child. But Tigreal took the blame for a mistake in battle and left home. Disregarding obstructions from her family, Fanny joined the army, and through her own designed weapons, she successfully completed one task after another, becoming an outstanding fighter who can take care of herself.",
-    "image": "https://res.cloudinary.com/dhwrdfmdt/image/upload/v1750813141/fannyasp_ri24hk.jpg",
-    "download": [
-      {
-        "label": "Default",
-        "url": "https://sfile.mobi/2pdZ1wpqmoR"
-      },
-      {
-        "label": "Elite",
-        "url": "https://sfile.mobi/2arYTIxOSUs"
-      },
-      {
-        "label": "Season",
-        "url": "https://sfile.mobi/7aI1FlYR2Mt"
-      },
-      {
-        "label": "Luckybox",
-        "url": "https://sfile.mobi/bOO4eKSd2w7"
-      },
-      {
-        "label": "Starlight",
-        "url": "https://sfile.mobi/309Zn93wPY7"
-      },
-      {
-        "label": "Summer",
-        "url": "https://sfile.mobi/3tHZDDmwG4p"
-      },
-      {
-        "label": "Lightborn",
-        "url": "https://sfile.mobi/4FA0iAKSQEc"
-      },
-      {
-        "label": "Christmast",
-        "url": "https://sfile.mobi/51K0vb84Y0t"
-      },
-      {
-        "label": "Imperial Warrior",
-        "url": "https://sfile.mobi/7LE219xIu4j"
-      },
-      {
-        "label": "Valentine",
-        "url": "https://sfile.mobi/9r42WqkjwQE"
-      },
-      {
-        "label": "Attack on Titan",
-        "url": "https://sfile.mobi/87O2dJUUBqB"
-      }
-    ]
-  },
-
   {
     "id": 189,
     "video": "",
