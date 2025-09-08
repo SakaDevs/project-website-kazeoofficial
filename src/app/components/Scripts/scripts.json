@@ -1,5 +1,494 @@
 [
   {
+    "id": 64,
+    "video": "",
+    "title": "Lancelot Kishin Densetsu",
+    "category": "kishin",
+    "slug": "lancelot-kishin-densetsu",
+    "date": "2025-09-08",
+    "shortStory": "As the eldest son of Duke Baroque, Lancelot was born rebellious. Dead set on resisting the political marriage arranged for him by his father, he traveled the country and led a licentious life instead. After being wounded at a drunken brawl in a tavern, Lancelot was rescued by Odette and finally came to realize what his heart truly yearned for. The prodigal son made a repentant return and thus began his adventure across the Land of Dawn.",
+    "image": "https://res.cloudinary.com/dhwrdfmdt/image/upload/v1750812825/lancelotkishin_ejmobe.jpg",
+    "download": [
+      {
+        "label": "Default",
+        "url": "https://sfile.mobi/avzQU1OOasI"
+      },
+      {
+        "label": "Basic",
+        "url": "https://sfile.mobi/6OzOSPWKKkM"
+      },
+      {
+        "label": "Christmast",
+        "url": "https://sfile.mobi/7i7Pa1UMwwM"
+      },
+      {
+        "label": "Luckybox",
+        "url": "https://sfile.mobi/5vjObd1THyn"
+      },
+      {
+        "label": "Starlight",
+        "url": "https://sfile.mobi/a9pQKBVfHOx"
+      },
+      {
+        "label": "Zodiac",
+        "url": "https://sfile.mobi/7LFProNzhKy"
+      },
+      {
+        "label": "Epic",
+        "url": "https://sfile.mobi/7wTPjq1cPuM"
+      },
+      {
+        "label": "Dawning",
+        "url": "https://sfile.mobi/9NfQz52BtCY"
+      },
+      {
+        "label": "Champion",
+        "url": "https://sfile.mobi/94VQaMS08Mz"
+      },
+      {
+        "label": "Dragon Tamer",
+        "url": "https://sfile.mobi/4qPNBUIV56J"
+      },
+      {
+        "label": "Elite (Top Up)",
+        "url": "https://sfile.mobi/51LNWPHZCwp"
+      }
+    ]
+  },
+  {
+    "id": 66,
+    "video": "",
+    "title": "Karrie Kishin Densetsu",
+    "category": "kishin",
+    "slug": "karrie-kishin-densetsu",
+    "date": "2025-09-08",
+    "shortStory": "Karrie was trained by the Empire to become a war machine from when she was a child because of her incredible talent. After one battle, the seriously wounded Karrie fused with the consciousness of an alien prophet, so she knew the fate of the demise of her hometown, and to find a way to break the prophecy, she left Alaghat.",
+    "image": "https://res.cloudinary.com/dhwrdfmdt/image/upload/v1750812805/karriekishin_fiqgrw.jpg",
+    "download": [
+      {
+        "label": "Default",
+        "url": "https://sfile.mobi/8Q7B1PqBJ6K"
+      },
+      {
+        "label": "Basic",
+        "url": "https://sfile.mobi/bdRClziz5u7"
+      },
+      {
+        "label": "Elite",
+        "url": "https://sfile.mobi/5nTz7UFSQoi"
+      },
+      {
+        "label": "Starlight",
+        "url": "https://sfile.mobi/9jFBiFz7y0j"
+      },
+      {
+        "label": "Special",
+        "url": "https://sfile.mobi/2hPxqesQ6UP"
+      },
+      {
+        "label": "Luckybox",
+        "url": "https://sfile.mobi/66dzwUvw64i"
+      },
+      {
+        "label": "Epic (Gill-Girl)",
+        "url": "https://sfile.mobi/7LDAsbi78QH"
+      },
+      {
+        "label": "Annual Starlight",
+        "url": "https://sfile.mobi/8mzAMKrFIsv"
+      },
+      {
+        "label": "Elite (Top Up)",
+        "url": "https://sfile.mobi/agLBQaVocw4"
+      },
+      {
+        "label": "Epic (Ice Talon)",
+        "url": "https://sfile.mobi/2arxn2c4io6"
+      }
+    ]
+  },
+  {
+    "id": 65,
+    "video": "",
+    "title": "Angela Kishin Densetsu",
+    "category": "kishin",
+    "slug": "angela-kishin-densetsu",
+    "date": "2025-09-08",
+    "shortStory": "An android created by the founder of Laboratory 1718, Dr. Baker. It was the first life form created without using human body or soul. In order to gain the knowledge of her, other scientists in the lab went after Dr. Baker. Before taken away, Dr. Baker stuffed her into a flight capsule to escape.",
+    "image": "https://res.cloudinary.com/dhwrdfmdt/image/upload/v1750812983/angelakishin_tiv1ol.jpg",
+    "download": [
+      {
+        "label": "Default",
+        "url": "https://sfile.mobi/66dztz77skX"
+      },
+      {
+        "label": "Basic",
+        "url": "https://sfile.mobi/aCVBYIf9L2Z"
+      },
+      {
+        "label": "Starlight",
+        "url": "https://sfile.mobi/1dlwMIbFWif"
+      },
+      {
+        "label": "VENOM",
+        "url": "https://sfile.mobi/1GTx3cuFNqp"
+      },
+      {
+        "label": "Halloween",
+        "url": "https://sfile.mobi/1GTx3npqMc9"
+      },
+      {
+        "label": "Summer",
+        "url": "https://sfile.mobi/3eVxUzlt6wL"
+      },
+      {
+        "label": "Collector",
+        "url": "https://sfile.mobi/9NdBx2T1D2b"
+      },
+      {
+        "label": "Sanrio",
+        "url": "https://sfile.mobi/5vhzaphCJaP"
+      },
+      {
+        "label": "Aspirants",
+        "url": "https://sfile.mobi/3eVxV65K3YS"
+      },
+      {
+        "label": "Annual Starlight",
+        "url": "https://sfile.mobi/80pAyoUTMQ5"
+      }
+    ]
+  },
+
+  {
+    "id": 22,
+    "video": "https://youtu.be/1Pn2vtyH1T4",
+    "title": "Yu Zhong Exorcist",
+    "category": "exorcist",
+    "slug": "yuzhong-exorcist",
+    "date": "2025-09-08",
+    "shortStory": "Yu Zhong, the conqueror born from the Black Dragon's power, sought to break the seal on the Reverse Scale hidden within the Dragon Altar and forge a new future for the Cadia Riverlands. However, he was defeated by his senior brother, Baxia, and left to die in the mountains. After ten years of arduous training and travel, Yu Zhong found himself back at the Dragon Altar. He faced off against the Oriental Fighters, broke the seal to the Reverse Scale, and clashed in a final battle with the Evil God, Lieh, who caused the demise of the previous Black Dragon. Ultimately, with the help of his dear friend Wanwan, Yu Zhong regained his true self and emerged victorious. Now with the Black Dragon's Reverse Scale restored, Yu Zhong sets off on his path of conquest.",
+    "image": "https://res.cloudinary.com/dhwrdfmdt/image/upload/v1750813036/yzexo_wyokeb.jpg",
+    "download": [
+      {
+        "label": "Default",
+        "url": "https://sfile.mobi/7EeQjftlzaC"
+      },
+      {
+        "label": "Basic",
+        "url": "https://sfile.mobi/44COl4XiYMR"
+      },
+      {
+        "label": "Starlight",
+        "url": "https://sfile.mobi/66cPsAhAbu3"
+      },
+      {
+        "label": "Collector",
+        "url": "https://sfile.mobi/1kIMPDhWpeb"
+      },
+      {
+        "label": "M5",
+        "url": "https://sfile.mobi/9FORrhxTIkd"
+      },
+      {
+        "label": "Prime",
+        "url": "https://sfile.mobi/3PQOdCVdtYR"
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "video": "https://youtu.be/ZbhKE8AnKrU",
+    "title": "Kagura Exorcist",
+    "category": "exorcist",
+    "slug": "kagura-exorcist",
+    "date": "2025-09-08",
+    "shortStory": "Though the Scarlet Shadow bestowed her a name and Hayabusa taught her of peace, the young Kagura remained uncertain of her true path. When she opened her umbrella in contemplation, she beheld not gentle rain but visions of calamity, eternities of regret, and a past seen through her umbrella. At last, Kagura understood: though born from lingering attachments, her path led toward freedom. She would carry both the regrets and hopes of those who had passed to experience the beauty of the mortal realm they were never able to, and embrace the future they were robbed of yet graciously bestowed upon her.",
+    "image": "https://res.cloudinary.com/dhwrdfmdt/image/upload/v1750812806/kaguraexo_h8qija.jpg",
+    "download": [
+      {
+        "label": "Default",
+        "url": "https://sfile.mobi/4c23UAWZwsY"
+      },
+      {
+        "label": "Basic",
+        "url": "https://sfile.mobi/2Lo39f15J6u"
+      },
+      {
+        "label": "Special",
+        "url": "https://sfile.mobi/4jq41QhbTWU"
+      },
+      {
+        "label": "Summer",
+        "url": "https://sfile.mobi/aZ67IoFj9eb"
+      },
+      {
+        "label": "Luckybox",
+        "url": "https://sfile.mobi/7i65GkdsPYZ"
+      },
+      {
+        "label": "Starlight",
+        "url": "https://sfile.mobi/4FA4eXoEXKd"
+      },
+      {
+        "label": "Annual Starlight",
+        "url": "https://sfile.mobi/agM7mooyzY0"
+      },
+      {
+        "label": "BTC",
+        "url": "https://sfile.mobi/8Q86zYY6SAx"
+      },
+      {
+        "label": "Epic",
+        "url": "https://sfile.mobi/7aI5FeVMM8u"
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "video": "https://youtu.be/NHQRffYrDlc",
+    "title": "Hayabusa Exorcist",
+    "category": "exorcist",
+    "slug": "hayabusa-exorcist",
+    "date": "2025-09-08",
+    "shortStory": "As the second heir to the Shadow Sect of the Scarlet Shadow, Hayabusa had always looked up to his brother, a figure who he saw as the moon itself. To preserve the delicate balance of power between the Shadow and Scarlet Sects, Hayabusa willingly took his brother's place to be a political pawn and hostage, to be raised within the rival Scarlet Sect. Every day spent in the Scarlet Sect, Hayabusa lived by his brother's principles. He mastered his unique Shadow Shuriken technique and forged an unbreakable bond with Hanabi, a kunoichi of the Scarlet Sect. But when Hanzo's betrayal and his brother's disappearance shattered their hopes for peace, Hayabusa realized that the moonlight that had always guided him was gone. Yet, he gripped his blade firmly, determined to forge ahead through the shadows, following his brother's nindo.",
+    "image": "https://res.cloudinary.com/dhwrdfmdt/image/upload/v1750812789/hayabusaexo_d7blrp.jpg",
+    "download": [
+      {
+        "label": "Default",
+        "url": "https://sfile.mobi/bONkTFV15u7"
+      },
+      {
+        "label": "Basic",
+        "url": "https://sfile.mobi/1dlf2TnW5m5"
+      },
+      {
+        "label": "Elite",
+        "url": "https://sfile.mobi/5RrhCihi5qm"
+      },
+      {
+        "label": "Summer",
+        "url": "https://sfile.mobi/7EfiBDUrRYi"
+      },
+      {
+        "label": "Annual Starlight",
+        "url": "https://sfile.mobi/2pdfInwzck3"
+      },
+      {
+        "label": "Luckybox",
+        "url": "https://sfile.mobi/5nThmvDk9Gb"
+      },
+      {
+        "label": "Starlight",
+        "url": "https://sfile.mobi/1Ohfol7hz6v"
+      },
+      {
+        "label": "11.11",
+        "url": "https://sfile.mobi/blfkELQQ487"
+      },
+      {
+        "label": "Elite (Top Up)",
+        "url": "https://sfile.mobi/8fbiWUJ2mWn"
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "video": "https://youtu.be/mGwiF-HSy-c",
+    "title": "Granger Exorcist",
+    "category": "exorcist",
+    "slug": "granger-exorcist",
+    "date": "2025-09-08",
+    "shortStory": "Granger, a demon hunter who walks the line between human and demon, always preferred to keep to himself. But if someone could enter his world, they would realize how terrifying it is—the incessant howls and shrill cries constantly deafening his ears and heart. When he draws his demon-devouring weapons and unleashes a hail of bullets, the agonizing howls of demons become a requiem playing in the depths of his soul. Only the intertwining of their death shrieks and the sound of gunfire can drown out the noise that torments him daily. Each shot fired by Granger is not only his performance against the Abyss, but also an expression of his lament.",
+    "image": "https://res.cloudinary.com/dhwrdfmdt/image/upload/v1750812724/grangerexo_y4qssl.jpg",
+    "download": [
+      {
+        "label": "Default",
+        "url": "https://sfile.mobi/9UBjOjmXOEP"
+      },
+      {
+        "label": "Basic",
+        "url": "https://sfile.mobi/9chjq1cmu4L"
+      },
+      {
+        "label": "Elite",
+        "url": "https://sfile.mobi/9UBjOFctMsa"
+      },
+      {
+        "label": "Starlight",
+        "url": "https://sfile.mobi/aZ5kpxKheon"
+      },
+      {
+        "label": "Lightborn",
+        "url": "https://sfile.mobi/3ItgoWWSlWQ"
+      },
+      {
+        "label": "Collector",
+        "url": "https://sfile.mobi/agLk1quqSAn"
+      },
+      {
+        "label": "Legend",
+        "url": "https://sfile.mobi/2DZfOB9lQsP"
+      },
+      {
+        "label": "Transformers",
+        "url": "https://sfile.mobi/4ybgS1D4kwm"
+      },
+      {
+        "label": "Create",
+        "url": "https://sfile.mobi/5vhhoPkj4Wb"
+      },
+      {
+        "label": "Valentine",
+        "url": "https://sfile.mobi/2DZfP7TCMU4"
+      }
+    ]
+  },
+  {
+    "id": 202,
+    "video": "",
+    "title": "Valir Leo Ikki",
+    "category": "saint-seiya",
+    "slug": "valir-leo-ikki",
+    "date": "2025-07-9",
+    "shortStory": "In his hometown of Agelta, he showed an amazing talent for arcane energy manipulation when he first arrived at the Magic Academy, so he was valued by his mentor Gord. But Gord got very angry when he discovered that he had incorporated the spells of his hometown into the arcane, thinking that he had defiled the arcane. After a battle between the master and the disciple, Valir left the Magic Academy.",
+    "image": "https://res.cloudinary.com/dhwrdfmdt/image/upload/v1757303143/Valir_29_v3pa8u.webp",
+    "download": [
+      {
+        "label": "Default",
+        "url": "https://sfile.mobi/5RvHLpgMlGB"
+      },
+      {
+        "label": "Basic",
+        "url": "https://sfile.mobi/9r7JJVCkTKD"
+      },
+      {
+        "label": "Special",
+        "url": "https://sfile.mobi/9FTJSgedjyU"
+      },
+      {
+        "label": "Starlight",
+        "url": "https://sfile.mobi/87RJ1q7GWQ3"
+      },
+      {
+        "label": "Dragon Tamer",
+        "url": "https://sfile.mobi/2hTFNLv0HCm"
+      },
+      {
+        "label": "Collector",
+        "url": "https://sfile.mobi/7T5ITNaQsoH"
+      },
+      {
+        "label": "Legend",
+        "url": "https://sfile.mobi/6srI71USOcg"
+      },
+      {
+        "label": "Phoenix Ikki",
+        "url": "https://sfile.mobi/4qRGZSq7ziH"
+      },
+      {
+        "label": "Elite (Top Up)",
+        "url": "https://sfile.mobi/a23K5Jbcl2P"
+      },
+      {
+        "label": "KOF",
+        "url": "https://sfile.mobi/4FDH8nWKY0n"
+      }
+    ]
+  },
+  {
+    "id": 201,
+    "video": "",
+    "title": "Badang Sagittarius Seiya",
+    "category": "saint-seiya",
+    "slug": "badang-sagittarius-seiya",
+    "date": "2025-07-09",
+    "shortStory": "Born in the Vonetis Islands off the southern part of the mainland. Originally just an ordinary villager, after defeating the water monster that was harassing the village, he gained huge power from the water monster. After that, Badang set out to the mountains of the southern Moniyan Empire where the Abyss was entrenched, hoping to completely solve the problem of the water source being contaminated by the Abyss.",
+    "image": "https://res.cloudinary.com/dhwrdfmdt/image/upload/v1757303143/Badang_29_pf0poi.webp",
+    "download": [
+      {
+        "label": "Default",
+        "url": "https://sfile.mobi/5vlHB6NqZUg"
+      },
+      {
+        "label": "Basic",
+        "url": "https://sfile.mobi/51NHkYjX5mW"
+      },
+      {
+        "label": "Special",
+        "url": "https://sfile.mobi/59bHpe5gMMX"
+      },
+      {
+        "label": "Zodiac",
+        "url": "https://sfile.mobi/a23K6BKZfal"
+      },
+      {
+        "label": "Collector",
+        "url": "https://sfile.mobi/bljKPDZU887"
+      },
+      {
+        "label": "Pegassus Saiya",
+        "url": "https://sfile.mobi/4UpHhB8qicB"
+      }
+    ]
+  },
+  {
+    "id": 200,
+    "video": "https://youtu.be/6MeGpmaNwYI",
+    "title": "Chou Libra Shiryu",
+    "category": "saint-seiya",
+    "slug": "chou-libra-shiryu",
+    "date": "2025-09-08",
+    "shortStory": "Chou was born in a secluded slum deep in the hearts of poverty, living the lowest quality of life. Despite the dreadful conditions, Chou kept his heart of kindness, as day in and day out he continued to look after the old and the young there with passion. During this time, there was great turmoil and unrest in the Land of the Dawn; mayhem spread throughout the land and eventually started to affect this small remote area.",
+    "image": "https://res.cloudinary.com/dhwrdfmdt/image/upload/v1757303143/Chou_29_knsaww.webp",
+    "download": [
+      {
+        "label": "Default",
+        "url": "https://sfile.mobi/6srIKOO8zSX"
+      },
+      {
+        "label": "Basic",
+        "url": "https://sfile.mobi/aCZL74MTnMo"
+      },
+      {
+        "label": "Luckybox",
+        "url": "https://sfile.mobi/8mDJYsnNYWe"
+      },
+      {
+        "label": "Elite",
+        "url": "https://sfile.mobi/5vlIoVRSFOU"
+      },
+      {
+        "label": "Special",
+        "url": "https://sfile.mobi/237Gv179MQY"
+      },
+      {
+        "label": "KOF",
+        "url": "https://sfile.mobi/1zzGeSDFTmQ"
+      },
+      {
+        "label": "Starlight",
+        "url": "https://sfile.mobi/bA5LLCLtgA7"
+      },
+      {
+        "label": "STUN",
+        "url": "https://sfile.mobi/9NhKMYNlq84"
+      },
+      {
+        "label": "Dawning",
+        "url": "https://sfile.mobi/2E3GPW6ekcE"
+      },
+      {
+        "label": "Dragon Shiryu",
+        "url": "https://sfile.mobi/a9rKZofMyI7"
+      },
+      {
+        "label": "Champion",
+        "url": "https://sfile.mobi/7aLJlBYxziY"
+      }
+    ]
+  },
+  {
     "id": 28,
     "video": "",
     "title": "Change Aspirants",
@@ -2068,62 +2557,6 @@
     ]
   },
   {
-    "id": 64,
-    "video": "",
-    "title": "Lancelot Kishin Densetsu",
-    "category": "kishin",
-    "slug": "lancelot-kishin-densetsu",
-    "date": "2025-07-17",
-    "shortStory": "As the eldest son of Duke Baroque, Lancelot was born rebellious. Dead set on resisting the political marriage arranged for him by his father, he traveled the country and led a licentious life instead. After being wounded at a drunken brawl in a tavern, Lancelot was rescued by Odette and finally came to realize what his heart truly yearned for. The prodigal son made a repentant return and thus began his adventure across the Land of Dawn.",
-    "image": "https://res.cloudinary.com/dhwrdfmdt/image/upload/v1750812825/lancelotkishin_ejmobe.jpg",
-    "download": [
-      {
-        "label": "Default",
-        "url": "https://sfile.mobi/avzQU1OOasI"
-      },
-      {
-        "label": "Basic",
-        "url": "https://sfile.mobi/6OzOSPWKKkM"
-      },
-      {
-        "label": "Christmast",
-        "url": "https://sfile.mobi/7i7Pa1UMwwM"
-      },
-      {
-        "label": "Luckybox",
-        "url": "https://sfile.mobi/5vjObd1THyn"
-      },
-      {
-        "label": "Starlight",
-        "url": "https://sfile.mobi/a9pQKBVfHOx"
-      },
-      {
-        "label": "Zodiac",
-        "url": "https://sfile.mobi/7LFProNzhKy"
-      },
-      {
-        "label": "Epic",
-        "url": "https://sfile.mobi/7wTPjq1cPuM"
-      },
-      {
-        "label": "Dawning",
-        "url": "https://sfile.mobi/9NfQz52BtCY"
-      },
-      {
-        "label": "Champion",
-        "url": "https://sfile.mobi/94VQaMS08Mz"
-      },
-      {
-        "label": "Dragon Tamer",
-        "url": "https://sfile.mobi/4qPNBUIV56J"
-      },
-      {
-        "label": "Elite (Top Up)",
-        "url": "https://sfile.mobi/51LNWPHZCwp"
-      }
-    ]
-  },
-  {
     "id": 127,
     "video": "https://youtu.be/pvOcTEvStBc",
     "title": "Luo Yi Create",
@@ -2168,7 +2601,7 @@
     "video": "",
     "title": "Valir Phoenix Ikki",
     "category": "saint-seiya",
-    "slug": "valir-saint-seiya",
+    "slug": "valir-phoenix-ikki",
     "date": "2025-07-9",
     "shortStory": "In his hometown of Agelta, he showed an amazing talent for arcane energy manipulation when he first arrived at the Magic Academy, so he was valued by his mentor Gord. But Gord got very angry when he discovered that he had incorporated the spells of his hometown into the arcane, thinking that he had defiled the arcane. After a battle between the master and the disciple, Valir left the Magic Academy.",
     "image": "https://res.cloudinary.com/dhwrdfmdt/image/upload/v1752057693/latest_ogyis1.jpg",
@@ -2220,7 +2653,7 @@
     "video": "",
     "title": "Badang Sagittarius Seiya",
     "category": "saint-seiya",
-    "slug": "badang-saint-seiya",
+    "slug": "badang-sagittarius-seiya",
     "date": "2025-07-09",
     "shortStory": "Born in the Vonetis Islands off the southern part of the mainland. Originally just an ordinary villager, after defeating the water monster that was harassing the village, he gained huge power from the water monster. After that, Badang set out to the mountains of the southern Moniyan Empire where the Abyss was entrenched, hoping to completely solve the problem of the water source being contaminated by the Abyss.",
     "image": "https://res.cloudinary.com/dhwrdfmdt/image/upload/v1752057585/latest_uyplfs.jpg",
@@ -6666,190 +7099,6 @@
     ]
   },
   {
-    "id": 22,
-    "video": "https://youtu.be/1Pn2vtyH1T4",
-    "title": "Yu Zhong Exorcist",
-    "category": "exorcist",
-    "slug": "yuzhong-exorcist",
-    "date": "2025-06-06",
-    "shortStory": "Yu Zhong, the conqueror born from the Black Dragon's power, sought to break the seal on the Reverse Scale hidden within the Dragon Altar and forge a new future for the Cadia Riverlands. However, he was defeated by his senior brother, Baxia, and left to die in the mountains. After ten years of arduous training and travel, Yu Zhong found himself back at the Dragon Altar. He faced off against the Oriental Fighters, broke the seal to the Reverse Scale, and clashed in a final battle with the Evil God, Lieh, who caused the demise of the previous Black Dragon. Ultimately, with the help of his dear friend Wanwan, Yu Zhong regained his true self and emerged victorious. Now with the Black Dragon's Reverse Scale restored, Yu Zhong sets off on his path of conquest.",
-    "image": "https://res.cloudinary.com/dhwrdfmdt/image/upload/v1750813036/yzexo_wyokeb.jpg",
-    "download": [
-      {
-        "label": "Default",
-        "url": "https://sfile.mobi/7EeQjftlzaC"
-      },
-      {
-        "label": "Basic",
-        "url": "https://sfile.mobi/44COl4XiYMR"
-      },
-      {
-        "label": "Starlight",
-        "url": "https://sfile.mobi/66cPsAhAbu3"
-      },
-      {
-        "label": "Collector",
-        "url": "https://sfile.mobi/1kIMPDhWpeb"
-      },
-      {
-        "label": "M5",
-        "url": "https://sfile.mobi/9FORrhxTIkd"
-      },
-      {
-        "label": "Prime",
-        "url": "https://sfile.mobi/3PQOdCVdtYR"
-      }
-    ]
-  },
-  {
-    "id": 21,
-    "video": "https://youtu.be/ZbhKE8AnKrU",
-    "title": "Kagura Exorcist",
-    "category": "exorcist",
-    "slug": "kagura-exorcist",
-    "date": "2025-06-06",
-    "shortStory": "Though the Scarlet Shadow bestowed her a name and Hayabusa taught her of peace, the young Kagura remained uncertain of her true path. When she opened her umbrella in contemplation, she beheld not gentle rain but visions of calamity, eternities of regret, and a past seen through her umbrella. At last, Kagura understood: though born from lingering attachments, her path led toward freedom. She would carry both the regrets and hopes of those who had passed to experience the beauty of the mortal realm they were never able to, and embrace the future they were robbed of yet graciously bestowed upon her.",
-    "image": "https://res.cloudinary.com/dhwrdfmdt/image/upload/v1750812806/kaguraexo_h8qija.jpg",
-    "download": [
-      {
-        "label": "Default",
-        "url": "https://sfile.mobi/4c23UAWZwsY"
-      },
-      {
-        "label": "Basic",
-        "url": "https://sfile.mobi/2Lo39f15J6u"
-      },
-      {
-        "label": "Special",
-        "url": "https://sfile.mobi/4jq41QhbTWU"
-      },
-      {
-        "label": "Summer",
-        "url": "https://sfile.mobi/aZ67IoFj9eb"
-      },
-      {
-        "label": "Luckybox",
-        "url": "https://sfile.mobi/7i65GkdsPYZ"
-      },
-      {
-        "label": "Starlight",
-        "url": "https://sfile.mobi/4FA4eXoEXKd"
-      },
-      {
-        "label": "Annual Starlight",
-        "url": "https://sfile.mobi/agM7mooyzY0"
-      },
-      {
-        "label": "BTC",
-        "url": "https://sfile.mobi/8Q86zYY6SAx"
-      },
-      {
-        "label": "Epic",
-        "url": "https://sfile.mobi/7aI5FeVMM8u"
-      }
-    ]
-  },
-  {
-    "id": 20,
-    "video": "https://youtu.be/NHQRffYrDlc",
-    "title": "Hayabusa Exorcist",
-    "category": "exorcist",
-    "slug": "hayabusa-exorcist",
-    "date": "2025-06-06",
-    "shortStory": "As the second heir to the Shadow Sect of the Scarlet Shadow, Hayabusa had always looked up to his brother, a figure who he saw as the moon itself. To preserve the delicate balance of power between the Shadow and Scarlet Sects, Hayabusa willingly took his brother's place to be a political pawn and hostage, to be raised within the rival Scarlet Sect. Every day spent in the Scarlet Sect, Hayabusa lived by his brother's principles. He mastered his unique Shadow Shuriken technique and forged an unbreakable bond with Hanabi, a kunoichi of the Scarlet Sect. But when Hanzo's betrayal and his brother's disappearance shattered their hopes for peace, Hayabusa realized that the moonlight that had always guided him was gone. Yet, he gripped his blade firmly, determined to forge ahead through the shadows, following his brother's nindo.",
-    "image": "https://res.cloudinary.com/dhwrdfmdt/image/upload/v1750812789/hayabusaexo_d7blrp.jpg",
-    "download": [
-      {
-        "label": "Default",
-        "url": "https://sfile.mobi/bONkTFV15u7"
-      },
-      {
-        "label": "Basic",
-        "url": "https://sfile.mobi/1dlf2TnW5m5"
-      },
-      {
-        "label": "Elite",
-        "url": "https://sfile.mobi/5RrhCihi5qm"
-      },
-      {
-        "label": "Summer",
-        "url": "https://sfile.mobi/7EfiBDUrRYi"
-      },
-      {
-        "label": "Annual Starlight",
-        "url": "https://sfile.mobi/2pdfInwzck3"
-      },
-      {
-        "label": "Luckybox",
-        "url": "https://sfile.mobi/5nThmvDk9Gb"
-      },
-      {
-        "label": "Starlight",
-        "url": "https://sfile.mobi/1Ohfol7hz6v"
-      },
-      {
-        "label": "11.11",
-        "url": "https://sfile.mobi/blfkELQQ487"
-      },
-      {
-        "label": "Elite (Top Up)",
-        "url": "https://sfile.mobi/8fbiWUJ2mWn"
-      }
-    ]
-  },
-  {
-    "id": 19,
-    "video": "https://youtu.be/mGwiF-HSy-c",
-    "title": "Granger Exorcist",
-    "category": "exorcist",
-    "slug": "granger-exorcist",
-    "date": "2025-06-06",
-    "shortStory": "Granger, a demon hunter who walks the line between human and demon, always preferred to keep to himself. But if someone could enter his world, they would realize how terrifying it is—the incessant howls and shrill cries constantly deafening his ears and heart. When he draws his demon-devouring weapons and unleashes a hail of bullets, the agonizing howls of demons become a requiem playing in the depths of his soul. Only the intertwining of their death shrieks and the sound of gunfire can drown out the noise that torments him daily. Each shot fired by Granger is not only his performance against the Abyss, but also an expression of his lament.",
-    "image": "https://res.cloudinary.com/dhwrdfmdt/image/upload/v1750812724/grangerexo_y4qssl.jpg",
-    "download": [
-      {
-        "label": "Default",
-        "url": "https://sfile.mobi/9UBjOjmXOEP"
-      },
-      {
-        "label": "Basic",
-        "url": "https://sfile.mobi/9chjq1cmu4L"
-      },
-      {
-        "label": "Elite",
-        "url": "https://sfile.mobi/9UBjOFctMsa"
-      },
-      {
-        "label": "Starlight",
-        "url": "https://sfile.mobi/aZ5kpxKheon"
-      },
-      {
-        "label": "Lightborn",
-        "url": "https://sfile.mobi/3ItgoWWSlWQ"
-      },
-      {
-        "label": "Collector",
-        "url": "https://sfile.mobi/agLk1quqSAn"
-      },
-      {
-        "label": "Legend",
-        "url": "https://sfile.mobi/2DZfOB9lQsP"
-      },
-      {
-        "label": "Transformers",
-        "url": "https://sfile.mobi/4ybgS1D4kwm"
-      },
-      {
-        "label": "Create",
-        "url": "https://sfile.mobi/5vhhoPkj4Wb"
-      },
-      {
-        "label": "Valentine",
-        "url": "https://sfile.mobi/2DZfP7TCMU4"
-      }
-    ]
-  },
-  {
     "id": 108,
     "video": "https://youtu.be/2OyWaNwMXAc",
     "title": "Esmeralda Dawning",
@@ -8263,110 +8512,6 @@
       {
         "label": "Champion",
         "url": "https://sfile.mobi/7LDDi3P7s4s"
-      }
-    ]
-  },
-  {
-    "id": 66,
-    "video": "",
-    "title": "Karrie Kishin Densetsu",
-    "category": "kishin",
-    "slug": "karrie-kishin-densetsu",
-    "date": "2025-05-25",
-    "shortStory": "Karrie was trained by the Empire to become a war machine from when she was a child because of her incredible talent. After one battle, the seriously wounded Karrie fused with the consciousness of an alien prophet, so she knew the fate of the demise of her hometown, and to find a way to break the prophecy, she left Alaghat.",
-    "image": "https://res.cloudinary.com/dhwrdfmdt/image/upload/v1750812805/karriekishin_fiqgrw.jpg",
-    "download": [
-      {
-        "label": "Default",
-        "url": "https://sfile.mobi/8Q7B1PqBJ6K"
-      },
-      {
-        "label": "Basic",
-        "url": "https://sfile.mobi/bdRClziz5u7"
-      },
-      {
-        "label": "Elite",
-        "url": "https://sfile.mobi/5nTz7UFSQoi"
-      },
-      {
-        "label": "Starlight",
-        "url": "https://sfile.mobi/9jFBiFz7y0j"
-      },
-      {
-        "label": "Special",
-        "url": "https://sfile.mobi/2hPxqesQ6UP"
-      },
-      {
-        "label": "Luckybox",
-        "url": "https://sfile.mobi/66dzwUvw64i"
-      },
-      {
-        "label": "Epic (Gill-Girl)",
-        "url": "https://sfile.mobi/7LDAsbi78QH"
-      },
-      {
-        "label": "Annual Starlight",
-        "url": "https://sfile.mobi/8mzAMKrFIsv"
-      },
-      {
-        "label": "Elite (Top Up)",
-        "url": "https://sfile.mobi/agLBQaVocw4"
-      },
-      {
-        "label": "Epic (Ice Talon)",
-        "url": "https://sfile.mobi/2arxn2c4io6"
-      }
-    ]
-  },
-  {
-    "id": 65,
-    "video": "",
-    "title": "Angela Kishin Densetsu",
-    "category": "kishin",
-    "slug": "angela-kishin-densetsu",
-    "date": "2025-05-25",
-    "shortStory": "An android created by the founder of Laboratory 1718, Dr. Baker. It was the first life form created without using human body or soul. In order to gain the knowledge of her, other scientists in the lab went after Dr. Baker. Before taken away, Dr. Baker stuffed her into a flight capsule to escape.",
-    "image": "https://res.cloudinary.com/dhwrdfmdt/image/upload/v1750812983/angelakishin_tiv1ol.jpg",
-    "download": [
-      {
-        "label": "Default",
-        "url": "https://sfile.mobi/66dztz77skX"
-      },
-      {
-        "label": "Basic",
-        "url": "https://sfile.mobi/aCVBYIf9L2Z"
-      },
-      {
-        "label": "Starlight",
-        "url": "https://sfile.mobi/1dlwMIbFWif"
-      },
-      {
-        "label": "VENOM",
-        "url": "https://sfile.mobi/1GTx3cuFNqp"
-      },
-      {
-        "label": "Halloween",
-        "url": "https://sfile.mobi/1GTx3npqMc9"
-      },
-      {
-        "label": "Summer",
-        "url": "https://sfile.mobi/3eVxUzlt6wL"
-      },
-      {
-        "label": "Collector",
-        "url": "https://sfile.mobi/9NdBx2T1D2b"
-      },
-      {
-        "label": "Sanrio",
-        "url": "https://sfile.mobi/5vhzaphCJaP"
-      },
-      {
-        "label": "Aspirants",
-        "url": "https://sfile.mobi/3eVxV65K3YS"
-      },
-      {
-        "label": "Annual Starlight",
-        "url": "https://sfile.mobi/80pAyoUTMQ5"
       }
     ]
   },
